@@ -552,6 +552,14 @@ narendra|નરેન્દ્ર|50|name
 mahatma|મહાત્મા|50|name
 sardar|સરદાર|44|name
 vallabhbhai|વલ્લભભાઈ|40|name
+rajubhai|રજુભાઈ|64|name
+dilip|દિલીપ|64|name
+dilipsinh|દિલીપસિંહ|64|name
+harubha|હરુભા|64|name
+virsangbhai|વીરસંગભાઈ|64|name
+veersangbhai|વીરસંગભાઈ|60|name
+ghanshyam|ઘનશ્યામ|70|name
+shyam|શ્યામ|68|name
 jai|જય|40|name
 
 # Culture and conjunct-heavy words

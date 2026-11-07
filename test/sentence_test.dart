@@ -80,6 +80,13 @@ void main() {
     expect(engine.transliterate('bahen').text, 'બહેન');
     expect(engine.transliterate('bhai ben').text, 'ભાઈ બહેન');
     expect(engine.transliterate('bhai').text, 'ભાઈ');
+    expect(engine.transliterate('Rajubhai').text, 'રજુભાઈ');
+    expect(engine.transliterate('Virsangbhai').text, 'વીરસંગભાઈ');
+    expect(engine.transliterate('Ghanshyam').text, 'ઘનશ્યામ');
+    expect(engine.transliterate('Dilipsinh').text, 'દિલીપસિંહ');
+    expect(engine.transliterate('Harubha').text, 'હરુભા');
+    expect(engine.transliterate('narvirsinh').text, 'નરવીરસિંહ');
+    expect(engine.transliterate('shyam').text, 'શ્યામ');
     expect(engine.transliterate('bhabhi').text, 'ભાભી');
     expect(engine.transliterate('kaka').text, 'કાકા');
     expect(engine.transliterate('kaki').text, 'કાકી');
