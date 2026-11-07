@@ -556,6 +556,14 @@ rajubhai|રજુભાઈ|64|name
 dilip|દિલીપ|64|name
 dilipsinh|દિલીપસિંહ|64|name
 harubha|હરુભા|64|name
+vishwarajsinh|વિશ્વરાજસિંહ|64|name
+danbha|દાનભા|64|name
+vanrajsinh|વનરાજસિંહ|64|name
+bhavanisinh|ભવાનીસિંહ|64|name
+minakshiba|મીનાક્ષીબા|64|name
+pruthvirajsinh|પૃથ્વીરાજસિંહ|64|name
+divyaraj|દિવ્યરાજ|64|name
+krishnaraj|કૃષ્ણરાજ|64|name
 virsangbhai|વીરસંગભાઈ|64|name
 veersangbhai|વીરસંગભાઈ|60|name
 ghanshyam|ઘનશ્યામ|70|name

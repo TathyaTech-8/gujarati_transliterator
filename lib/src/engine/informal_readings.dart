@@ -2,6 +2,7 @@ import '../dictionary/word_dictionary.dart';
 import '../models/suggestion.dart';
 import '../utils/input_normalizer.dart';
 import '../utils/unicode_utils.dart';
+import 'name_reading.dart';
 import 'phonetic_parser.dart';
 
 /// One extra reading of an informal roman word.
@@ -62,7 +63,7 @@ abstract final class InformalReadings {
     add(_dative(parser, prepared));
     add(_aapPossessive(parser, prepared));
     add(_firstPerson(dictionary, original, prepared, literal, nextRoman));
-    add(_nameCompound(parser, prepared, literal));
+    add(_nameCompound(parser, dictionary, prepared, literal));
 
     if (dictionary.lookupWord(prepared).isEmpty) {
       final bridge = _lexiconBridge(dictionary, prepared, literal);
@@ -141,20 +142,18 @@ bool _titleCase(String word) {
       rest == rest.toLowerCase();
 }
 
-/// Name parts written as one roman word.
-///
-/// `bhai` at the end of a name is ભાઈ, not the diphthong ભૈ. `bha` keeps આ,
-/// and `sinh` is સિંહ instead of a conjunct on the letter before it. `sang`
-/// in these names is સંગ, and `shyam` is શ્યામ. The pieces are a closed list,
-/// so an unrelated word is left on the phonetic reading.
+/// A typed name made of known parts, or an unfamiliar stem plus one.
 InformalReading? _nameCompound(
   PhoneticParser parser,
+  WordDictionary dictionary,
   String prepared,
   String literal,
 ) {
-  final text = _coveredName(prepared) ??
-      _givenName(prepared) ??
-      _nameSuffix(parser, prepared);
+  final text = readName(
+    parser: parser,
+    dictionary: dictionary,
+    prepared: prepared,
+  );
   if (text == null || text.isEmpty || text == literal) return null;
   return InformalReading(
     text: text,
@@ -162,72 +161,6 @@ InformalReading? _nameCompound(
     strong: true,
     source: SuggestionSource.orthographic,
   );
-}
-
-const List<({String roman, String gujarati})> _nameParts = [
-  (roman: 'shyaam', gujarati: 'શ્યામ'),
-  (roman: 'bhaai', gujarati: 'ભાઈ'),
-  (roman: 'shyam', gujarati: 'શ્યામ'),
-  (roman: 'singh', gujarati: 'સિંહ'),
-  (roman: 'dilip', gujarati: 'દિલીપ'),
-  (roman: 'sang', gujarati: 'સંગ'),
-  (roman: 'veer', gujarati: 'વીર'),
-  (roman: 'sinh', gujarati: 'સિંહ'),
-  (roman: 'bhai', gujarati: 'ભાઈ'),
-  (roman: 'ghan', gujarati: 'ઘન'),
-  (roman: 'vir', gujarati: 'વીર'),
-];
-
-const List<({String roman, String gujarati})> _nameSuffixes = [
-  (roman: 'bhaai', gujarati: 'ભાઈ'),
-  (roman: 'singh', gujarati: 'સિંહ'),
-  (roman: 'bhai', gujarati: 'ભાઈ'),
-  (roman: 'sinh', gujarati: 'સિંહ'),
-  (roman: 'bha', gujarati: 'ભા'),
-];
-
-String? _coveredName(String text) {
-  if (text.isEmpty) return null;
-  final pieces = <String>[];
-  var index = 0;
-  while (index < text.length) {
-    String? roman;
-    String? gujarati;
-    for (final part in _nameParts) {
-      if (!text.startsWith(part.roman, index)) continue;
-      if (roman != null && part.roman.length <= roman.length) continue;
-      roman = part.roman;
-      gujarati = part.gujarati;
-    }
-    if (roman == null || gujarati == null) return null;
-    pieces.add(gujarati);
-    index += roman.length;
-  }
-  if (pieces.length < 2) return null;
-  return pieces.join();
-}
-
-String? _givenName(String prepared) {
-  if (prepared == 'shyam' || prepared == 'shyaam') return 'શ્યામ';
-  if (prepared == 'dilip') return 'દિલીપ';
-  return null;
-}
-
-String? _nameSuffix(PhoneticParser parser, String prepared) {
-  String? roman;
-  String? gujarati;
-  for (final suffix in _nameSuffixes) {
-    if (!prepared.endsWith(suffix.roman)) continue;
-    if (roman != null && suffix.roman.length <= roman.length) continue;
-    roman = suffix.roman;
-    gujarati = suffix.gujarati;
-  }
-  if (roman == null || gujarati == null) return null;
-  final stem = prepared.substring(0, prepared.length - roman.length);
-  if (stem.length < 2) return null;
-  final head = _coveredName(stem) ?? _givenName(stem) ?? parser.parse(stem);
-  if (head.isEmpty) return null;
-  return '$head$gujarati';
 }
 
 bool _stemIsNameOrPlace(WordDictionary dictionary, String prepared) {

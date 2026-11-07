@@ -9,6 +9,10 @@ import '../utils/input_normalizer.dart';
 /// word is present. One Gujarati lexicon word keeps the sentence in
 /// transliteration.
 abstract final class EnglishGuard {
+  /// A single English function word or plain word, such as `the` or `send`.
+  static bool isPlainOrFunction(String key) =>
+      _function.contains(key) || _plain.contains(key);
+
   /// Whether [words] should stay in the Latin script.
   static bool isEnglishSentence(
     WordDictionary dictionary,

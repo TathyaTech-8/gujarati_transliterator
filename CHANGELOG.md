@@ -1,3 +1,8 @@
+## 1.5.2
+
+- Spell further joined names as whole words: `Vishwarajsinh` is વિશ્વરાજસિંહ, `Danbha` is દાનભા, `Vanrajsinh` is વનરાજસિંહ, `Bhavanisinh` is ભવાનીસિંહ, `Minakshiba` is મીનાક્ષીબા, `Pruthvirajsinh` is પૃથ્વીરાજસિંહ, `divyaraj` is દિવ્યરાજ, and `Krishnaraj` is કૃષ્ણરાજ. `singh` and `sinh` share સિંહ, and `Prithvi` shares પૃથ્વી with `Pruthvi`. An unfamiliar first name still keeps its letters and can take ભાઈ, ભા, બા, or સિંહ.
+- Read a joined given name and surname as one word, including the usual alternate spellings. `rameshpatel` and `RameshPattel` are રમેશપટેલ, `Choudhury` is ચૌધરી, and `Desayi` is દેસાઈ. The stock covers common Gujarati surnames, Muslim and Parsi surnames, and widely used surnames from the rest of India. A surname that is not in that stock still follows the typed letters.
+
 ## 1.5.1
 
 - Spell joined names as whole words. `Rajubhai` is રજુભાઈ, `Virsangbhai` is વીરસંગભાઈ, `Ghanshyam` is ઘનશ્યામ, `Dilipsinh` is દિલીપસિંહ, and `Harubha` is હરુભા. No change to `transliterate`, `suggest`, the stores, or the three modes.

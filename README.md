@@ -10,7 +10,7 @@ The core is pure Dart. It does not depend on Flutter, a font, or a network conne
 
 ```yaml
 dependencies:
-  gujarati_transliterator: ^1.5.1
+  gujarati_transliterator: ^1.5.2
 ```
 
 ```dart
@@ -181,7 +181,7 @@ A sentence made only of English function words, plain English words, and known l
 
 The built-in lexicon is an original editorial word list: everyday and formal Gujarati, verbs, family words, religious vocabulary, personal names, surnames, Gujarat towns and districts, and administrative words. It is not copied from a published dictionary, and the package license covers the compilation. Frequencies are editorial ranks from 1 to 100, not counts from an outside corpus. The list is not a complete dictionary of the language. Unknown words fall back to the phonetic parse.
 
-The current list has 1,412 entries: 699 everyday words, 106 cultural entries, 175 names, 136 places, 272 loans, and 24 phrases. Six keys keep a second, lower-ranked spelling, such as `ma` → માં and મા. Version 1.2.0 had 1,153 entries. The 1.4.0 growth is the curated loan list, not filler toward 5,000. The list is still well short of a 5,000-word lexicon.
+The current list has 1,420 entries: 699 everyday words, 106 cultural entries, 183 names, 136 places, 272 loans, and 24 phrases. Six keys keep a second, lower-ranked spelling, such as `ma` → માં and મા. Version 1.2.0 had 1,153 entries. The 1.4.0 growth is the curated loan list, not filler toward 5,000. The list is still well short of a 5,000-word lexicon.
 
 Add entries for one engine:
 
@@ -299,7 +299,7 @@ The combined figure is not overall Gujarati accuracy. The 1.2 held-out explicit 
 
 On the 3,587 aligned words, 844 have no lexicon entry. Those unseen words score top-1 0.700 and top-3 0.714. Stored words score top-1 0.993. Sentence top-3 is almost the same as exact match because a wrong word is not repaired by listing unrelated full-sentence alternatives. The everyday exact rate of 0.736 and the sentence character error rate of 0.030 meet the 1.4.0 goals on this file. They are not a claim about all Gujarati. Family exact is 0.446, largely where the file writes બહેન and the lexicon's stored spelling is બેન, and where a `review` row uses an unmodeled form. Formal exact is 0.400.
 
-`ben` is બેન and also offers બહેન. `bahen` is બહેન. After ભાઈ, `ben` is બહેન. A name ending in `bhai` uses ભાઈ, so `Rajubhai` is રજુભાઈ and `Virsangbhai` is વીરસંગભાઈ. `Ghanshyam` is ઘનશ્યામ. `Dilipsinh` is દિલીપસિંહ, and `Harubha` is હરુભા. `bhabhi` is ભાભી. `kaka`, `kaki`, `masi`, and `mama` are કાકા, કાકી, માસી, and મામા. `ahval`, `palvanu`, `vyavastha`, `javabdari`, `karyakram`, and `mahiti` are અહેવાલ, પાળવાનું, વ્યવસ્થા, જવાબદારી, કાર્યક્રમ, and માહિતી. `suchna` and `arji` were already સૂચના and અરજી. A stored name or place is not rewritten by a verb ending. `Male` does not become મળે. `Patel`, `Trilok`, and `Rajkot` stay on their name or place spelling.
+`ben` is બેન and also offers બહેન. `bahen` is બહેન. After ભાઈ, `ben` is બહેન. A name is read from known parts, so several English spellings share one Gujarati form. `singh` and `sinh` are સિંહ, `raaj` and `raj` are રાજ, and `Prithvi` and `Pruthvi` are પૃથ્વી. `Vishwarajsinh` and `Vishvarajsingh` are વિશ્વરાજસિંહ. `rameshpatel` and `RameshPattel` are રમેશપટેલ. `Choudhury` and `Chaudhary` are ચૌધરી. The same pass covers common Gujarati surnames (પટેલ, શાહ, મહેતા, દેસાઈ, and the other usual community names), Muslim and Parsi surnames, and widely used surnames from the rest of India. An unfamiliar first name keeps its letters and can still end in ભાઈ, ભા, બા, સિંહ, or one of those surnames, so `Rajubhai` is રજુભાઈ and `Harubha` is હરુભા. `Rajkot` stays on its place spelling. A surname that is not in this stock still follows the typed letters. `bhabhi` is ભાભી. `kaka`, `kaki`, `masi`, and `mama` are કાકા, કાકી, માસી, and મામા. `ahval`, `palvanu`, `vyavastha`, `javabdari`, `karyakram`, and `mahiti` are અહેવાલ, પાળવાનું, વ્યવસ્થા, જવાબદારી, કાર્યક્રમ, and માહિતી. `suchna` and `arji` were already સૂચના and અરજી. A stored name or place is not rewritten by a verb ending. `Male` does not become મળે. `Patel`, `Trilok`, and `Rajkot` stay on their name or place spelling.
 
 ## Stable API
 
