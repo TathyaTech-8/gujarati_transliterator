@@ -1,0 +1,90 @@
+# Batch 01 of office. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+811	office	hu english pan bolu chu	હું અંગ્રેજી પણ બોલું છું	editor	unreviewed							
+812	office	please madad karo	પ્લીઝ મદદ કરો	editor	unreviewed							
+813	office	ok hu aavu chu	ઓકે હું આવું છું	editor	unreviewed							
+814	office	sorry hu late chu	સોરી હું લેટ છું	editor	unreviewed							
+815	office	good night	ગુડ નાઇટ	editor	unreviewed							
+816	office	thank you	થેન્ક યુ	editor	unreviewed							
+817	office	hello kem cho	હેલો કેમ છો	editor	unreviewed							
+818	office	bye aavjo	બાય આવજો	editor	unreviewed							
+819	office	hu message moklu chu	હું મેસેજ મોકલું છું	editor	unreviewed							
+820	office	call karjo	કોલ કરજો	editor	unreviewed							
+821	office	photo moklo	ફોટો મોકલો	editor	unreviewed							
+822	office	wifi nathi chaltu	વાઇફાઇ નથી ચાલતું	editor	unreviewed							
+823	office	battery gayi	બેટરી ગઈ	editor	unreviewed							
+824	office	charger aapo	ચાર્જર આપો	editor	unreviewed							
+825	office	password bhuli gayo	પાસવર્ડ ભૂલી ગયો	editor	unreviewed							
+826	office	login nathi thatu	લોગિન નથી થતું	editor	unreviewed							
+827	office	file mokli	ફાઇલ મોકલી	editor	unreviewed							
+828	office	meeting link moklo	મીટિંગ લિંક મોકલો	editor	unreviewed							
+829	office	hu online chu	હું ઓનલાઇન છું	editor	unreviewed							
+830	office	tame offline cho	તમે ઓફલાઇન છો	editor	unreviewed							
+831	office	screen share karo	સ્ક્રીન શેર કરો	editor	unreviewed							
+832	office	camera bandh karo	કેમેરા બંધ કરો	editor	unreviewed							
+833	office	mic on karo	માઇક ઓન કરો	editor	unreviewed							
+834	office	record karvu che	રેકોર્ડ કરવું છે	editor	unreviewed							
+835	office	download thai gayu	ડાઉનલોડ થઈ ગયું	editor	unreviewed							
+836	office	update aavi gayu	અપડેટ આવી ગયું	editor	unreviewed							
+837	office	server down che	સર્વર ડાઉન છે	editor	unreviewed							
+838	office	bug male che	બગ મળે છે	editor	unreviewed							
+839	office	code commit karyo	કોડ કમિટ કર્યો	editor	unreviewed							
+840	office	test pass thai	ટેસ્ટ પાસ થયા	editor	unreviewed							
+841	office	build fail thai	બિલ્ડ ફેલ થયું	editor	unreviewed							
+842	office	deploy kari didhu	ડિપ્લોય કરી દીધું	editor	unreviewed							
+843	office	branch merge karo	બ્રાન્ચ મર્જ કરો	editor	unreviewed							
+844	office	review aapo	રિવ્યૂ આપો	editor	unreviewed							
+845	office	issue kholo	ઇશ્યૂ ખોલો	editor	unreviewed							
+846	office	deadline kale che	ડેડલાઇન કાલે છે	editor	unreviewed							
+847	office	standup 10 vage	સ્ટેન્ડઅપ 10 વાગે	editor	unreviewed							
+848	office	lunch pachi aavish	લંચ પછી આવીશ	editor	unreviewed							
+849	office	hu leave par chu	હું લીવ પર છું	editor	unreviewed							
+850	office	holiday che	હોલિડે છે	editor	unreviewed							
+851	office	salary aavi	સેલરી આવી	editor	unreviewed							
+852	office	tax bharvo che	ટેક્સ ભરવો છે	editor	unreviewed							
+853	office	bill print karo	બિલ પ્રિન્ટ કરો	editor	unreviewed							
+854	office	invoice moklo	ઇન્વોઇસ મોકલો	editor	unreviewed							
+855	office	payment pending che	પેમેન્ટ પેન્ડિંગ છે	editor	unreviewed							
+856	office	refund aapo	રિફંડ આપો	editor	unreviewed							
+857	office	order cancel karyo	ઓર્ડર કેન્સલ કર્યો	editor	unreviewed							
+858	office	delivery late che	ડિલિવરી લેટ છે	editor	unreviewed							
+859	office	address moklo	એડ્રેસ મોકલો	editor	unreviewed							
+860	office	pin code shu che	પિન કોડ શું છે	editor	unreviewed							
+861	office	mobile number aapo	મોબાઇલ નંબર આપો	editor	unreviewed							
+862	office	email id shu che	ઇમેઇલ આઇડી શું છે	editor	unreviewed							
+863	office	otp aavyo	ઓટીપી આવ્યો	editor	unreviewed							
+864	office	password badlo	પાસવર્ડ બદલો	editor	unreviewed							
+865	office	account bandh thai gayu	એકાઉન્ટ બંધ થઈ ગયું	editor	unreviewed							
+866	office	hu verify kari didhu	હું વેરિફાય કરી દીધું	editor	unreviewed							
+867	office	notification bandh karo	નોટિફિકેશન બંધ કરો	editor	unreviewed							
+868	office	volume ochhu karo	વોલ્યુમ ઓછું કરો	editor	unreviewed							
+869	office	brightness vadharo	બ્રાઇટનેસ વધારો	editor	unreviewed							
+870	office	screenshot lo	સ્ક્રીનશોટ લો	editor	unreviewed							
+871	office	copy paste karo	કોપી પેસ્ટ કરો	editor	unreviewed							
+872	office	undo karo	અનડુ કરો	editor	unreviewed							
+873	office	save kari lo	સેવ કરી લો	editor	unreviewed							
+874	office	print nathi thatu	પ્રિન્ટ નથી થતું	editor	unreviewed							
+875	office	paper khatam	પેપર ખતમ	editor	unreviewed							
+876	office	pen aapo	પેન આપો	editor	unreviewed							
+877	office	notebook kholo	નોટબુક ખોલો	editor	unreviewed							
+878	office	class start thai	ક્લાસ સ્ટાર્ટ થઈ	editor	unreviewed							
+903	office	hu busy chu	હું બિઝી છું	editor	unreviewed							
+979	office	independence day	ઇન્ડિપેન્ડન્સ ડે	editor	unreviewed							
+980	office	republic day	રિપબ્લિક ડે	editor	unreviewed							
+1018	office	statue of unity	સ્ટેચ્યુ ઓફ યુનિટી	editor	unreviewed							
+1024	office	diamond bourse	ડાયમંડ બોર્સ	editor	unreviewed							
+1025	office	gift city	ગિફ્ટ સિટી	editor	unreviewed							
+1026	office	iim ahmedabad	આઇઆઇએમ અમદાવાદ	editor	unreviewed							
+1027	office	nid ahmedabad	એનઆઇડી અમદાવાદ	editor	unreviewed							
+1029	office	ms university	એમએસ યુનિવર્સિટી	editor	unreviewed							
+1030	office	ddit nadiad	ડીડીઆઇટી નડિયાદ	editor	unreviewed							
+1031	office	gmers hospital	જીએમઇઆરએસ હોસ્પિટલ	editor	unreviewed							
+1032	office	civil hospital	સિવિલ હોસ્પિટલ	editor	unreviewed							

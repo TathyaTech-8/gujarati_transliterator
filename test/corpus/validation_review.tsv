@@ -1,0 +1,2376 @@
+# id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note
+# Review packet for fluent Gujarati speakers.
+# editor_gujarati was written by the editor. It is not a native-speaker decision.
+# native_status is unreviewed until a speaker writes reviewer_spelling.
+# Do not score this file as native-speaker-validated accuracy while native_status is unreviewed.
+1	common	mitra	મિત્ર	editor	unreviewed			
+2	common	namaste	નમસ્તે	editor	unreviewed			
+3	common	stri	સ્ત્રી	editor	unreviewed			
+4	common	vidyaa	વિદ્યા	editor	unreviewed			
+5	common	kshamaa	ક્ષમા	editor	unreviewed			
+6	common	gyan	જ્ઞાન	editor	unreviewed			
+7	common	pustak	પુસ્તક	editor	unreviewed			
+8	common	paani	પાણી	editor	unreviewed			
+9	common	roti	રોટી	editor	unreviewed			
+10	common	dudh	દૂધ	editor	unreviewed			
+11	common	chaa	ચા	editor	unreviewed			
+12	common	bhaat	ભાત	editor	unreviewed			
+13	common	shaak	શાક	editor	unreviewed			
+14	common	kheer	ખીર	editor	unreviewed			
+15	common	laddu	લાડુ	editor	unreviewed			
+16	common	sukh	સુખ	editor	unreviewed			
+17	common	dukh	દુખ	editor	unreviewed			
+18	common	prem	પ્રેમ	editor	unreviewed			
+19	common	maitri	મૈત્રી	editor	unreviewed			
+20	common	shanti	શાંતિ	editor	unreviewed			
+21	common	aasha	આશા	editor	unreviewed			
+22	common	umang	ઉમંગ	editor	unreviewed			
+23	common	hausalo	હૌસલો	editor	unreviewed			
+24	common	saahas	સાહસ	editor	unreviewed			
+25	common	veer	વીર	editor	unreviewed			
+26	common	raaja	રાજા	editor	unreviewed			
+27	common	raani	રાણી	editor	unreviewed			
+28	family	beta	બેટા	editor	unreviewed			
+29	family	beti	બેટી	editor	unreviewed			
+30	family	bhaai	ભાઈ	editor	unreviewed			
+31	family	bahen	બહેન	editor	unreviewed			
+32	family	pitaa	પિતા	editor	unreviewed			
+33	family	maata	માતા	editor	unreviewed			
+34	family	daada	દાદા	editor	unreviewed			
+35	family	daadi	દાદી	editor	unreviewed			
+36	family	naana	નાના	editor	unreviewed			
+37	family	naani	નાની	editor	unreviewed			
+38	family	kaaka	કાકા	editor	unreviewed			
+39	family	kaaki	કાકી	editor	unreviewed			
+40	family	maama	મામા	editor	unreviewed			
+41	family	maami	મામી	editor	unreviewed			
+42	family	fua	ફુઆ	editor	unreviewed			
+43	family	foi	ફોઈ	editor	unreviewed			
+44	family	bhaabhi	ભાભી	editor	unreviewed			
+45	family	jeth	જેઠ	editor	unreviewed			
+46	family	der	દેર	editor	unreviewed			
+47	family	sasra	સસરા	editor	unreviewed			
+48	family	saas	સાસ	editor	unreviewed			
+49	family	putra	પુત્ર	editor	unreviewed			
+50	family	putri	પુત્રી	editor	unreviewed			
+51	common	mitr	મિત્ર	editor	unreviewed			
+52	common	dost	દોસ્ત	editor	unreviewed			
+53	common	kaam	કામ	editor	unreviewed			
+54	common	samay	સમય	editor	unreviewed			
+55	common	aaj	આજ	editor	unreviewed			
+56	common	kal	કાલ	editor	unreviewed			
+57	common	have	હવે	editor	unreviewed			
+58	common	pachhi	પછી	editor	unreviewed			
+59	common	pahela	પહેલાં	editor	unreviewed			
+60	common	andar	અંદર	editor	unreviewed			
+61	common	bahar	બહાર	editor	unreviewed			
+62	common	uppar	ઉપર	editor	unreviewed			
+63	common	niche	નીચે	editor	unreviewed			
+64	common	saame	સામે	editor	unreviewed			
+65	common	pachhal	પાછળ	editor	unreviewed			
+66	common	aagal	આગળ	editor	unreviewed			
+67	common	door	દૂર	editor	unreviewed			
+68	common	najik	નજીક	editor	unreviewed			
+69	common	mota	મોટા	editor	unreviewed			
+70	common	nana	નાના	editor	unreviewed			
+71	common	saaru	સારું	editor	unreviewed			
+72	common	kharab	ખરાબ	editor	unreviewed			
+73	common	sundar	સુંદર	editor	unreviewed			
+74	common	saaf	સાફ	editor	unreviewed			
+75	common	ganda	ગંદા	editor	unreviewed			
+76	common	garam	ગરમ	editor	unreviewed			
+77	common	thandu	ઠંડું	editor	unreviewed			
+78	common	mithu	મીઠું	editor	unreviewed			
+79	common	kadvo	કડવો	editor	unreviewed			
+80	common	teekhu	તીખું	editor	unreviewed			
+81	common	naram	નરમ	editor	unreviewed			
+82	common	sakht	સખત	editor	unreviewed			
+83	common	jaldi	જલ્દી	editor	unreviewed			
+84	common	dhime	ધીમે	editor	unreviewed			
+85	common	khub	ખૂબ	editor	unreviewed			
+86	common	bahu	બહુ	editor	unreviewed			
+87	common	thodu	થોડું	editor	unreviewed			
+88	common	badhu	બધું	editor	unreviewed			
+89	common	ketlu	કેટલું	editor	unreviewed			
+90	common	kevu	કેવું	editor	unreviewed			
+91	common	shu	શું	editor	unreviewed			
+92	common	kyan	ક્યાં	editor	unreviewed			
+93	common	kyare	ક્યારે	editor	unreviewed			
+94	common	kem	કેમ	editor	unreviewed			
+95	common	kon	કોણ	editor	unreviewed			
+96	common	nathi	નથી	editor	unreviewed			
+97	common	chhe	છે	editor	unreviewed			
+98	common	chho	છો	editor	unreviewed			
+99	common	chhu	છું	editor	unreviewed			
+100	proper	raaju	રાજુ	editor	unreviewed			
+101	proper	meena	મીના	editor	unreviewed			
+102	proper	geeta	ગીતા	editor	unreviewed			
+103	proper	suresh	સુરેશ	editor	unreviewed			
+104	proper	mahesh	મહેશ	editor	unreviewed			
+105	proper	ramesh	રમેશ	editor	unreviewed			
+106	proper	dinesh	દિનેશ	editor	unreviewed			
+107	proper	nilesh	નિલેશ	editor	unreviewed			
+108	proper	paresh	પરેશ	editor	unreviewed			
+109	proper	haresh	હરેશ	editor	unreviewed			
+110	proper	kiran	કિરણ	editor	unreviewed			
+111	proper	nayan	નયન	editor	unreviewed			
+112	proper	komal	કોમલ	editor	unreviewed			
+113	proper	sheetal	શીતલ	editor	unreviewed			
+114	proper	amitaa	અમિતા	editor	unreviewed			
+115	proper	kavitaa	કવિતા	editor	unreviewed			
+116	proper	savitaa	સવિતા	editor	unreviewed			
+117	proper	anil	અનિલ	editor	unreviewed			
+118	proper	sunil	સુનિલ	editor	unreviewed			
+119	proper	kapil	કપિલ	editor	unreviewed			
+120	common	jaadu	જાદુ	editor	unreviewed			
+121	common	kahaani	કહાની	editor	unreviewed			
+122	common	ghaar	ઘર	editor	unreviewed			
+123	common	tme	તમે	editor	unreviewed			
+124	common	mne	મને	editor	unreviewed			
+125	proper	suurat	સુરત	editor	unreviewed			
+126	family	bhai	ભાઈ	editor	unreviewed			
+127	family	maa	મા	editor	unreviewed			
+128	family	baap	બાપ	editor	unreviewed			
+129	common	sarun	સારું	editor	unreviewed			
+130	common	ghar	ઘર	editor	unreviewed			
+131	common	cha	ચા	editor	unreviewed			
+132	common	pani	પાણી	editor	unreviewed			
+133	common	doodh	દૂધ	editor	unreviewed			
+134	common	rotee	રોટી	editor	unreviewed			
+135	common	bhat	ભાત	editor	unreviewed			
+136	common	dal	દાળ	editor	unreviewed			
+137	common	daal	દાળ	editor	unreviewed			
+138	common	shak	શાક	editor	unreviewed			
+139	common	kam	કામ	editor	unreviewed			
+140	proper	naam	નામ	editor	unreviewed			
+141	proper	nam	નામ	editor	unreviewed			
+142	common	gaam	ગામ	editor	unreviewed			
+143	common	gam	ગામ	editor	unreviewed			
+144	common	saath	સાથ	editor	unreviewed			
+145	common	saat	સાથ	editor	unreviewed			
+146	common	sathe	સાથે	editor	unreviewed			
+147	common	mate	માટે	editor	unreviewed			
+148	common	maate	માટે	editor	unreviewed			
+149	common	vagar	વગર	editor	unreviewed			
+150	common	sudhi	સુધી	editor	unreviewed			
+151	common	pachi	પછી	editor	unreviewed			
+152	common	upar	ઉપર	editor	unreviewed			
+153	common	same	સામે	editor	unreviewed			
+154	common	dur	દૂર	editor	unreviewed			
+155	common	nazik	નજીક	editor	unreviewed			
+156	common	moto	મોટો	editor	unreviewed			
+157	common	nano	નાનો	editor	unreviewed			
+158	common	sunder	સુંદર	editor	unreviewed			
+159	common	saf	સાફ	editor	unreviewed			
+160	common	thanda	ઠંડા	editor	unreviewed			
+161	common	mitha	મીઠા	editor	unreviewed			
+162	common	tikhu	તીખું	editor	unreviewed			
+163	common	jaldee	જલ્દી	editor	unreviewed			
+164	common	thoda	થોડા	editor	unreviewed			
+165	common	badha	બધા	editor	unreviewed			
+166	common	khoob	ખૂબ	editor	unreviewed			
+167	common	havee	હવે	editor	unreviewed			
+168	common	aaje	આજે	editor	unreviewed			
+169	common	kale	કાલે	editor	unreviewed			
+170	common	savare	સવારે	editor	unreviewed			
+171	common	sanjhe	સાંજે	editor	unreviewed			
+172	common	ratre	રાત્રે	editor	unreviewed			
+173	common	ratri	રાત્રી	editor	unreviewed			
+174	common	shun	શું	editor	unreviewed			
+175	common	kya	ક્યાં	editor	unreviewed			
+176	common	kaim	કેમ	editor	unreviewed			
+177	common	kaun	કોણ	editor	unreviewed			
+178	common	nahi	નહીં	editor	unreviewed			
+179	common	nahin	નહીં	editor	unreviewed			
+180	common	pan	પણ	editor	unreviewed			
+181	common	pun	પણ	editor	unreviewed			
+182	common	ke	કે	editor	unreviewed			
+183	common	ane	અને	editor	unreviewed			
+184	common	thi	થી	editor	unreviewed			
+185	common	ne	ને	editor	unreviewed			
+186	common	nu	નું	editor	unreviewed			
+187	common	no	નો	editor	unreviewed			
+188	common	ni	ની	editor	unreviewed			
+189	common	ma	માં	editor	unreviewed			
+190	common	maan	માં	editor	unreviewed			
+191	common	par	પર	editor	unreviewed			
+192	common	hu	હું	editor	unreviewed			
+193	common	hun	હું	editor	unreviewed			
+194	common	hum	હું	editor	unreviewed			
+195	common	tu	તું	editor	unreviewed			
+196	common	tun	તું	editor	unreviewed			
+197	common	tame	તમે	editor	unreviewed			
+198	common	ame	અમે	editor	unreviewed			
+199	common	aapne	આપણે	editor	unreviewed			
+200	common	aapnu	આપણું	editor	unreviewed			
+201	common	chu	છું	editor	unreviewed			
+202	common	che	છે	editor	unreviewed			
+203	common	cho	છો	editor	unreviewed			
+204	common	javu	જવું	editor	unreviewed			
+205	common	avu	આવું	editor	unreviewed			
+206	common	aavu	આવું	editor	unreviewed			
+207	common	khavu	ખાવું	editor	unreviewed			
+208	common	pivu	પીવું	editor	unreviewed			
+209	common	levu	લેવું	editor	unreviewed			
+210	common	devu	દેવું	editor	unreviewed			
+211	common	karvu	કરવું	editor	unreviewed			
+212	common	joyu	જોયું	editor	unreviewed			
+213	common	kahu	કહું	editor	unreviewed			
+214	common	bolu	બોલું	editor	unreviewed			
+215	common	rahu	રહું	editor	unreviewed			
+216	common	besu	બેસું	editor	unreviewed			
+217	common	uthu	ઊઠું	editor	unreviewed			
+218	common	sovu	સૂવું	editor	unreviewed			
+219	common	hasu	હસું	editor	unreviewed			
+220	common	rodu	રડું	editor	unreviewed			
+221	common	gaau	ગાઉં	editor	unreviewed			
+222	common	vaanchu	વાંચું	editor	unreviewed			
+223	common	lakhu	લખું	editor	unreviewed			
+224	common	sambhlu	સાંભળું	editor	unreviewed			
+225	common	samju	સમજું	editor	unreviewed			
+226	common	yaad	યાદ	editor	unreviewed			
+227	common	bhul	ભૂલ	editor	unreviewed			
+228	common	bhool	ભૂલ	editor	unreviewed			
+229	common	madad	મદદ	editor	unreviewed			
+230	common	shukriya	શુક્રિયા	editor	unreviewed			
+231	common	aabhar	આભાર	editor	unreviewed			
+232	common	abhar	આભાર	editor	unreviewed			
+233	common	maaf	માફ	editor	unreviewed			
+234	common	maafi	માફી	editor	unreviewed			
+235	common	kripya	કૃપા	editor	unreviewed			
+236	common	meherbani	મહેરબાની	editor	unreviewed			
+237	common	swagat	સ્વાગત	editor	unreviewed			
+238	sentence	namaste	નમસ્તે	editor	unreviewed			
+239	sentence	ramram	રામરામ	editor	unreviewed			
+240	sentence	jay	જય	editor	unreviewed			
+241	proper	gujarat	ગુજરાત	editor	unreviewed			
+242	common	gujarati	ગુજરાતી	editor	unreviewed			
+243	common	gujrati	ગુજરાતી	editor	unreviewed			
+244	common	gjrat	ગુજરાત	editor	unreviewed			
+245	proper	ahmedabad	અમદાવાદ	editor	unreviewed			
+246	proper	amdavad	અમદાવાદ	editor	unreviewed			
+247	proper	rajkot	રાજકોટ	editor	unreviewed			
+248	proper	raajkot	રાજકોટ	editor	unreviewed			
+249	proper	vadodra	વડોદરા	editor	unreviewed			
+250	proper	baroda	વડોદરા	editor	unreviewed			
+251	proper	bhavnagar	ભાવનગર	editor	unreviewed			
+252	proper	bhuj	ભુજ	editor	unreviewed			
+253	proper	surat	સુરત	editor	unreviewed			
+254	proper	anand	આણંદ	editor	unreviewed			
+255	proper	nadiad	નડિયાદ	editor	unreviewed			
+256	proper	morbi	મોરબી	editor	unreviewed			
+257	proper	dwarka	દ્વારકા	editor	unreviewed			
+258	proper	somnath	સોમનાથ	editor	unreviewed			
+259	common	patel	પટેલ	editor	unreviewed			
+260	common	sha	શાહ	editor	unreviewed			
+261	common	shah	શાહ	editor	unreviewed			
+262	common	mehta	મહેતા	editor	unreviewed			
+263	common	desai	દેસાઈ	editor	unreviewed			
+264	common	desay	દેસાઈ	editor	unreviewed			
+265	common	joshi	જોશી	editor	unreviewed			
+266	common	gandhi	ગાંધી	editor	unreviewed			
+267	common	modi	મોદી	editor	unreviewed			
+268	common	trivedi	ત્રિવેદી	editor	unreviewed			
+269	common	sharma	શર્મા	editor	unreviewed			
+270	common	pandya	પંડ્યા	editor	unreviewed			
+271	common	dave	દવે	editor	unreviewed			
+272	common	bhatt	ભટ્ટ	editor	unreviewed			
+273	common	vyas	વ્યાસ	editor	unreviewed			
+274	common	pathak	પાઠક	editor	unreviewed			
+275	common	parikh	પરીખ	editor	unreviewed			
+276	common	parekh	પરેખ	editor	unreviewed			
+277	common	soni	સોની	editor	unreviewed			
+278	common	rana	રાણા	editor	unreviewed			
+279	common	solanki	સોલંકી	editor	unreviewed			
+280	common	chavda	ચાવડા	editor	unreviewed			
+281	common	jadeja	જાડેજા	editor	unreviewed			
+282	common	gohil	ગોહિલ	editor	unreviewed			
+283	common	parmar	પરમાર	editor	unreviewed			
+284	common	rathod	રાઠોડ	editor	unreviewed			
+285	common	thakor	ઠાકોર	editor	unreviewed			
+286	common	chaudhary	ચૌધરી	editor	unreviewed			
+287	common	patil	પાટીલ	editor	unreviewed			
+288	common	naik	નાયક	editor	unreviewed			
+289	common	bhai	ભાઈ	editor	unreviewed			
+290	common	ben	બેન	editor	unreviewed			
+291	common	saheb	સાહેબ	editor	unreviewed			
+292	common	dikra	દીકરા	editor	unreviewed			
+293	common	dikri	દીકરી	editor	unreviewed			
+294	common	chhokra	છોકરા	editor	unreviewed			
+295	common	chhokri	છોકરી	editor	unreviewed			
+296	common	chokra	છોકરા	editor	unreviewed			
+297	common	chokri	છોકરી	editor	unreviewed			
+298	common	manas	માણસ	editor	unreviewed			
+299	common	maanav	માનવ	editor	unreviewed			
+300	common	lok	લોક	editor	unreviewed			
+301	common	loko	લોકો	editor	unreviewed			
+302	family	parivar	પરિવાર	editor	unreviewed			
+303	family	kutumb	કુટુંબ	editor	unreviewed			
+304	common	lagan	લગ્ન	editor	unreviewed			
+305	common	lagna	લગ્ન	editor	unreviewed			
+306	common	vivah	વિવાહ	editor	unreviewed			
+307	religious	utsav	ઉત્સવ	editor	unreviewed			
+308	religious	diwali	દિવાળી	editor	unreviewed			
+309	religious	divali	દિવાળી	editor	unreviewed			
+310	religious	holi	હોળી	editor	unreviewed			
+311	religious	navratri	નવરાત્રી	editor	unreviewed			
+312	common	garba	ગરબા	editor	unreviewed			
+313	common	garbo	ગરબો	editor	unreviewed			
+314	common	dandiya	દાંડિયા	editor	unreviewed			
+315	common	raas	રાસ	editor	unreviewed			
+316	religious	bhajan	ભજન	editor	unreviewed			
+317	religious	aarti	આરતી	editor	unreviewed			
+318	religious	puja	પૂજા	editor	unreviewed			
+319	religious	pooja	પૂજા	editor	unreviewed			
+320	religious	mandir	મંદિર	editor	unreviewed			
+321	religious	masjid	મસ્જિદ	editor	unreviewed			
+322	religious	derasar	દેરાસર	editor	unreviewed			
+323	religious	prarthna	પ્રાર્થના	editor	unreviewed			
+324	religious	prarthana	પ્રાર્થના	editor	unreviewed			
+325	religious	ishwar	ઈશ્વર	editor	unreviewed			
+326	religious	bhagwan	ભગવાન	editor	unreviewed			
+327	religious	ram	રામ	editor	unreviewed			
+328	religious	krishna	કૃષ્ણ	editor	unreviewed			
+329	religious	krushna	કૃષ્ણ	editor	unreviewed			
+330	religious	shiv	શિવ	editor	unreviewed			
+331	religious	shankar	શંકર	editor	unreviewed			
+332	religious	hanuman	હનુમાન	editor	unreviewed			
+333	religious	ganesh	ગણેશ	editor	unreviewed			
+334	religious	ganpati	ગણપતિ	editor	unreviewed			
+335	religious	ambaa	અંબા	editor	unreviewed			
+336	religious	amba	અંબા	editor	unreviewed			
+337	religious	durga	દુર્ગા	editor	unreviewed			
+338	religious	lakshmi	લક્ષ્મી	editor	unreviewed			
+339	religious	saraswati	સરસ્વતી	editor	unreviewed			
+340	religious	guru	ગુરુ	editor	unreviewed			
+341	religious	sant	સંત	editor	unreviewed			
+342	religious	veda	વેદ	editor	unreviewed			
+343	religious	gita	ગીતા	editor	unreviewed			
+344	religious	geeta	ગીતા	editor	unreviewed			
+345	religious	quran	કુરાન	editor	unreviewed			
+346	religious	allah	અલ્લાહ	editor	unreviewed			
+347	religious	isa	ઈસા	editor	unreviewed			
+348	religious	prabhu	પ્રભુ	editor	unreviewed			
+349	religious	dharm	ધર્મ	editor	unreviewed			
+350	religious	dharma	ધર્મ	editor	unreviewed			
+351	religious	karma	કર્મ	editor	unreviewed			
+352	religious	moksh	મોક્ષ	editor	unreviewed			
+353	religious	paap	પાપ	editor	unreviewed			
+354	religious	punya	પુણ્ય	editor	unreviewed			
+355	religious	seva	સેવા	editor	unreviewed			
+356	religious	daan	દાન	editor	unreviewed			
+357	religious	vrat	વ્રત	editor	unreviewed			
+358	religious	upvas	ઉપવાસ	editor	unreviewed			
+359	religious	prasadam	પ્રસાદ	editor	unreviewed			
+360	religious	prasad	પ્રસાદ	editor	unreviewed			
+361	religious	tilak	તિલક	editor	unreviewed			
+362	religious	mala	માળા	editor	unreviewed			
+363	religious	deep	દીપ	editor	unreviewed			
+364	religious	divo	દીવો	editor	unreviewed			
+365	religious	agarbatti	અગરબત્તી	editor	unreviewed			
+366	religious	phool	ફૂલ	editor	unreviewed			
+367	religious	ful	ફૂલ	editor	unreviewed			
+368	religious	chandan	ચંદન	editor	unreviewed			
+369	religious	ganga	ગંગા	editor	unreviewed			
+370	religious	narmada	નર્મદા	editor	unreviewed			
+371	common	sabarmati	સાબરમતી	editor	unreviewed			
+372	common	tapi	તાપી	editor	unreviewed			
+373	common	kutch	કચ્છ	editor	unreviewed			
+374	common	kachchh	કચ્છ	editor	unreviewed			
+375	common	saurashtra	સૌરાષ્ટ્ર	editor	unreviewed			
+376	common	sorath	સોરઠ	editor	unreviewed			
+377	common	gir	ગીર	editor	unreviewed			
+378	common	rann	રણ	editor	unreviewed			
+379	common	bandar	બંદર	editor	unreviewed			
+380	common	sheher	શહેર	editor	unreviewed			
+381	common	shaher	શહેર	editor	unreviewed			
+382	common	nagar	નગર	editor	unreviewed			
+383	common	gaon	ગઓન	editor	unreviewed			
+384	common	taluka	તાલુકો	editor	unreviewed			
+385	common	jilla	જિલ્લો	editor	unreviewed			
+386	common	rajya	રાજ્ય	editor	unreviewed			
+387	common	sarkar	સરકાર	editor	unreviewed			
+388	common	mantri	મંત્રી	editor	unreviewed			
+389	common	pradhan	પ્રધાન	editor	unreviewed			
+390	common	adalat	અદાલત	editor	unreviewed			
+391	common	kanoon	કાનૂન	editor	unreviewed			
+392	common	kaydo	કાયદો	editor	unreviewed			
+393	common	police	પોલીસ	editor	unreviewed			
+394	common	hospital	હોસ્પિટલ	editor	unreviewed			
+395	common	skool	સ્કૂલ	editor	unreviewed			
+396	common	shaala	શાળા	editor	unreviewed			
+397	common	college	કોલેજ	editor	unreviewed			
+398	common	vidyalay	વિદ્યાલય	editor	unreviewed			
+399	common	kitab	કિતાબ	editor	unreviewed			
+400	common	akhbar	અખબાર	editor	unreviewed			
+401	common	samachar	સમાચાર	editor	unreviewed			
+402	common	khabar	ખબર	editor	unreviewed			
+403	common	patra	પત્ર	editor	unreviewed			
+404	common	chithi	ચિઠ્ઠી	editor	unreviewed			
+405	loan	phone	ફોન	editor	unreviewed			
+406	loan	mobile	મોબાઇલ	editor	unreviewed			
+407	loan	computer	કમ્પ્યુટર	editor	unreviewed			
+408	loan	internet	ઇન્ટરનેટ	editor	unreviewed			
+409	common	paise	પૈસા	editor	unreviewed			
+410	common	rupiya	રૂપિયા	editor	unreviewed			
+411	common	paisa	પૈસા	editor	unreviewed			
+412	common	dukan	દુકાન	editor	unreviewed			
+413	common	bazaar	બજાર	editor	unreviewed			
+414	common	bajar	બજાર	editor	unreviewed			
+415	common	kirana	કરિયાણું	editor	unreviewed			
+416	common	sabzi	શાકભાજી	editor	unreviewed			
+417	common	bhaji	ભાજી	editor	unreviewed			
+418	common	rotli	રોટલી	editor	unreviewed			
+419	common	rotlo	રોટલો	editor	unreviewed			
+420	common	khichdi	ખીચડી	editor	unreviewed			
+421	common	khichadi	ખીચડી	editor	unreviewed			
+422	common	kadhi	કઢી	editor	unreviewed			
+423	common	shaakbhaji	શાકભાજી	editor	unreviewed			
+424	common	fafda	ફાફડા	editor	unreviewed			
+425	common	jalebi	જલેબી	editor	unreviewed			
+426	common	dhokla	ઢોકળા	editor	unreviewed			
+427	common	khandvi	ખાંડવી	editor	unreviewed			
+428	common	thepla	થેપલા	editor	unreviewed			
+429	common	undhiyu	ઊંધિયું	editor	unreviewed			
+430	common	handvo	હાંડવો	editor	unreviewed			
+431	common	muthiya	મુઠિયા	editor	unreviewed			
+432	common	ganthia	ગાંઠિયા	editor	unreviewed			
+433	common	sev	સેવ	editor	unreviewed			
+434	common	chevdo	ચેવડો	editor	unreviewed			
+435	common	lassi	લસ્સી	editor	unreviewed			
+436	common	chaas	છાશ	editor	unreviewed			
+437	common	chhash	છાશ	editor	unreviewed			
+438	common	dahi	દહીં	editor	unreviewed			
+439	common	ghee	ઘી	editor	unreviewed			
+440	common	tel	તેલ	editor	unreviewed			
+441	common	mirch	મરચું	editor	unreviewed			
+442	common	marchu	મરચું	editor	unreviewed			
+443	common	haldar	હળદર	editor	unreviewed			
+444	common	haldi	હળદર	editor	unreviewed			
+445	common	jeeru	જીરું	editor	unreviewed			
+446	common	jeera	જીરું	editor	unreviewed			
+447	common	methi	મેથી	editor	unreviewed			
+448	common	dhana	ધાણા	editor	unreviewed			
+449	common	lebu	લીંબુ	editor	unreviewed			
+450	common	limbu	લીંબુ	editor	unreviewed			
+451	common	keri	કેરી	editor	unreviewed			
+452	common	aam	આમ	editor	unreviewed			
+453	common	kela	કેળા	editor	unreviewed			
+454	common	draksh	દ્રાક્ષ	editor	unreviewed			
+455	common	chikoo	ચીકુ	editor	unreviewed			
+456	common	santra	સંતરા	editor	unreviewed			
+457	common	jamfal	જામફળ	editor	unreviewed			
+458	common	papaya	પપૈયું	editor	unreviewed			
+459	common	tarbuch	તરબૂચ	editor	unreviewed			
+460	common	makai	મકાઈ	editor	unreviewed			
+461	common	gehu	ઘઉં	editor	unreviewed			
+462	common	bajra	બાજરી	editor	unreviewed			
+463	common	jowar	જુવાર	editor	unreviewed			
+464	common	chokha	ચોખા	editor	unreviewed			
+465	common	chokhaa	ચોખા	editor	unreviewed			
+466	common	kapas	કપાસ	editor	unreviewed			
+467	common	khetar	ખેતર	editor	unreviewed			
+468	common	khedut	ખેડૂત	editor	unreviewed			
+469	common	bail	બળદ	editor	unreviewed			
+470	common	gay	ગાય	editor	unreviewed			
+471	common	bhens	ભેંસ	editor	unreviewed			
+472	common	bakri	બકરી	editor	unreviewed			
+473	common	kutta	કૂતરો	editor	unreviewed			
+474	common	billi	બિલાડી	editor	unreviewed			
+475	common	ghoda	ઘોડો	editor	unreviewed			
+476	common	hathi	હાથી	editor	unreviewed			
+477	common	sher	સિંહ	editor	unreviewed			
+478	common	vagh	વાઘ	editor	unreviewed			
+479	common	mor	મોર	editor	unreviewed			
+480	common	popat	પોપટ	editor	unreviewed			
+481	common	kabutar	કબૂતર	editor	unreviewed			
+482	common	machhli	માછલી	editor	unreviewed			
+483	common	saap	સાપ	editor	unreviewed			
+484	common	undr	ઉંદર	editor	unreviewed			
+485	common	makdi	માકડી	editor	unreviewed			
+486	common	madh	મધ	editor	unreviewed			
+487	common	makhi	માખી	editor	unreviewed			
+488	common	pankhi	પંખી	editor	unreviewed			
+489	common	ped	પેડ	editor	unreviewed			
+490	common	jhad	ઝાડ	editor	unreviewed			
+491	common	phool	ફૂલ	editor	unreviewed			
+492	common	patti	પત્તિ	editor	unreviewed			
+493	common	paan	પાન	editor	unreviewed			
+494	common	beej	બીજ	editor	unreviewed			
+495	common	varsad	વરસાદ	editor	unreviewed			
+496	common	varsaad	વરસાદ	editor	unreviewed			
+497	common	hava	હવા	editor	unreviewed			
+498	common	vajr	વાદળ	editor	unreviewed			
+499	common	vadla	વાદળા	editor	unreviewed			
+500	common	bijli	વીજળી	editor	unreviewed			
+501	common	taap	તાપ	editor	unreviewed			
+502	common	thand	ઠંડી	editor	unreviewed			
+503	common	thandi	ઠંડી	editor	unreviewed			
+504	common	dhoop	ધૂપ	editor	unreviewed			
+505	common	dhup	ધૂપ	editor	unreviewed			
+506	common	chand	ચાંદ	editor	unreviewed			
+507	common	chandra	ચંદ્ર	editor	unreviewed			
+508	common	suraj	સૂરજ	editor	unreviewed			
+509	common	surya	સૂર્ય	editor	unreviewed			
+510	common	tara	તારા	editor	unreviewed			
+511	common	aakash	આકાશ	editor	unreviewed			
+512	common	jameen	જમીન	editor	unreviewed			
+513	common	jamin	જમીન	editor	unreviewed			
+514	common	pruthvi	પૃથ્વી	editor	unreviewed			
+515	common	prithvi	પૃથ્વી	editor	unreviewed			
+516	common	desh	દેશ	editor	unreviewed			
+517	common	des	દેશ	editor	unreviewed			
+518	common	bharat	ભારત	editor	unreviewed			
+519	common	hindustan	હિન્દુસ્તાન	editor	unreviewed			
+520	common	duniya	દુનિયા	editor	unreviewed			
+521	common	jagat	જગત	editor	unreviewed			
+522	common	waqt	વખત	editor	unreviewed			
+523	common	vakt	વખત	editor	unreviewed			
+524	common	ghadi	ઘડી	editor	unreviewed			
+525	common	kalak	કલાક	editor	unreviewed			
+526	common	minute	મિનિટ	editor	unreviewed			
+527	common	divas	દિવસ	editor	unreviewed			
+528	common	vaar	વાર	editor	unreviewed			
+529	common	ravivar	રવિવાર	editor	unreviewed			
+530	common	somvar	સોમવાર	editor	unreviewed			
+531	common	mangalvar	મંગળવાર	editor	unreviewed			
+532	common	budhvar	બુધવાર	editor	unreviewed			
+533	common	guruvar	ગુરુવાર	editor	unreviewed			
+534	common	shukravar	શુક્રવાર	editor	unreviewed			
+535	common	shanivar	શનિવાર	editor	unreviewed			
+536	common	mahino	મહિનો	editor	unreviewed			
+537	common	varsh	વર્ષ	editor	unreviewed			
+538	common	saal	સાલ	editor	unreviewed			
+539	common	umr	ઉંમર	editor	unreviewed			
+540	common	umar	ઉંમર	editor	unreviewed			
+541	common	janm	જન્મ	editor	unreviewed			
+542	common	janam	જન્મ	editor	unreviewed			
+543	common	mrutyu	મૃત્યુ	editor	unreviewed			
+544	common	mrityu	મૃત્યુ	editor	unreviewed			
+545	common	jindagi	જિંદગી	editor	unreviewed			
+546	common	jivan	જીવન	editor	unreviewed			
+547	common	zindagi	જિંદગી	editor	unreviewed			
+548	common	khushi	ખુશી	editor	unreviewed			
+549	common	dard	દર્દ	editor	unreviewed			
+550	common	pyaar	પ્રેમ	editor	unreviewed			
+551	common	gussa	ગુસ્સો	editor	unreviewed			
+552	common	gusso	ગુસ્સો	editor	unreviewed			
+553	common	dar	ડર	editor	unreviewed			
+554	common	bhay	ભય	editor	unreviewed			
+555	common	nirasha	નિરાશા	editor	unreviewed			
+556	common	hausla	હૌસલો	editor	unreviewed			
+557	common	himmat	હિંમત	editor	unreviewed			
+558	common	sharam	શરમ	editor	unreviewed			
+559	common	izzat	ઇઝ્ઝત	editor	unreviewed			
+560	common	adab	આદબ	editor	unreviewed			
+561	sentence	salaam	સલામ	editor	unreviewed			
+562	sentence	namaskar	નમસ્કાર	editor	unreviewed			
+563	sentence	suprabhat	સુપ્રભાત	editor	unreviewed			
+564	sentence	shubh	શુભ	editor	unreviewed			
+565	common	raatri	રાત્રી	editor	unreviewed			
+566	sentence	shubh ratri	શુભ રાત્રી	editor	unreviewed			
+567	proper	ram	રામ	editor	unreviewed			
+568	common	bal	બાળ	editor	unreviewed			
+569	common	mar	માર	editor	unreviewed			
+570	common	kar	કર	editor	unreviewed			
+571	common	din	દિન	editor	unreviewed			
+572	common	man	મન	editor	unreviewed			
+573	common	tan	તન	editor	unreviewed			
+574	common	jan	જન	editor	unreviewed			
+575	common	ran	રણ	editor	unreviewed			
+576	common	van	વન	editor	unreviewed			
+577	common	dan	દાન	editor	unreviewed			
+578	common	ban	બન	editor	unreviewed			
+579	common	chal	ચાલ	editor	unreviewed			
+580	common	bol	બોલ	editor	unreviewed			
+581	common	de	દે	editor	unreviewed			
+582	common	le	લે	editor	unreviewed			
+583	common	ja	જા	editor	unreviewed			
+584	common	aa	આ	editor	unreviewed			
+585	common	ae	એ	editor	unreviewed			
+586	common	te	તે	editor	unreviewed			
+587	common	me	મેં	editor	unreviewed			
+588	common	se	સે	editor	unreviewed			
+589	common	re	રે	editor	unreviewed			
+590	common	to	તો	editor	unreviewed			
+591	common	ho	હો	editor	unreviewed			
+592	common	ha	હા	editor	unreviewed			
+593	common	na	ના	editor	unreviewed			
+594	common	su	સુ	editor	unreviewed			
+595	common	mu	મુ	editor	unreviewed			
+596	common	gu	ગુ	editor	unreviewed			
+597	common	ku	કુ	editor	unreviewed			
+598	common	kai	કઈ	editor	unreviewed			
+599	common	bai	બાઈ	editor	unreviewed			
+600	proper	rai	રાય	editor	unreviewed			
+601	proper	sai	સાઈ	editor	unreviewed			
+602	common	mai	માઈ	editor	unreviewed			
+603	common	pai	પાઈ	editor	unreviewed			
+604	common	dai	દાઈ	editor	unreviewed			
+605	common	gai	ગાય	editor	unreviewed			
+606	common	nai	નહીં	editor	unreviewed			
+607	common	lai	લાઈ	editor	unreviewed			
+608	common	saiyam	સંયમ	editor	unreviewed			
+609	common	phal	ફળ	editor	unreviewed			
+610	common	mal	માળ	editor	unreviewed			
+611	common	tal	તાલ	editor	unreviewed			
+612	common	hal	હાલ	editor	unreviewed			
+613	common	sal	સાલ	editor	unreviewed			
+614	common	pal	પળ	editor	unreviewed			
+615	common	val	વળ	editor	unreviewed			
+616	common	gal	ગાળ	editor	unreviewed			
+617	common	nal	નળ	editor	unreviewed			
+618	common	lal	લાલ	editor	unreviewed			
+619	common	nil	નીલ	editor	unreviewed			
+620	common	pil	પીળો	editor	unreviewed			
+621	common	safed	સફેદ	editor	unreviewed			
+622	common	kala	કાળો	editor	unreviewed			
+623	common	kesar	કેસર	editor	unreviewed			
+624	common	rang	રંગ	editor	unreviewed			
+625	common	roop	રૂપ	editor	unreviewed			
+626	common	dhaam	ધામ	editor	unreviewed			
+627	proper	thaam	ઠામ	editor	unreviewed			
+628	common	paap	પાપ	editor	unreviewed			
+629	common	shaap	શાપ	editor	unreviewed			
+630	common	raag	રાગ	editor	unreviewed			
+631	common	bhaag	ભાગ	editor	unreviewed			
+632	common	tyaag	ત્યાગ	editor	unreviewed			
+633	common	raaj	રાજ	editor	unreviewed			
+634	common	saaj	સાજ	editor	unreviewed			
+635	common	kaaj	કાજ	editor	unreviewed			
+636	common	laabh	લાભ	editor	unreviewed			
+637	common	haani	હાનિ	editor	unreviewed			
+638	proper	raju	રાજુ	editor	unreviewed			
+639	proper	naresh	નરેશ	editor	unreviewed			
+640	proper	mukesh	મુકેશ	editor	unreviewed			
+641	proper	jignesh	જિજ્ઞેશ	editor	unreviewed			
+642	proper	hitesh	હિતેશ	editor	unreviewed			
+643	proper	bharat	ભરત	editor	unreviewed			
+644	proper	ashok	અશોક	editor	unreviewed			
+645	proper	vijay	વિજય	editor	unreviewed			
+646	proper	sanjay	સંજય	editor	unreviewed			
+647	proper	ajay	અજય	editor	unreviewed			
+648	proper	amit	અમિત	editor	unreviewed			
+649	proper	sumit	સુમિત	editor	unreviewed			
+650	proper	lalit	લલિત	editor	unreviewed			
+651	proper	hetal	હેતલ	editor	unreviewed			
+652	proper	kinjal	કિંજલ	editor	unreviewed			
+653	proper	urvi	ઊર્વી	editor	unreviewed			
+654	proper	aisha	આયશા	editor	unreviewed			
+655	proper	fatima	ફાતિમા	editor	unreviewed			
+656	proper	mariam	મરિયમ	editor	unreviewed			
+657	proper	joseph	જોસેફ	editor	unreviewed			
+658	proper	david	ડેવિડ	editor	unreviewed			
+659	common	chaudhari	ચૌધરી	editor	unreviewed			
+660	common	ahmedabad	અમદાવાદ	editor	unreviewed			
+661	common	amdavad	અમદાવાદ	editor	unreviewed			
+662	common	surat	સુરત	editor	unreviewed			
+663	common	suurat	સુરત	editor	unreviewed			
+664	common	vadodara	વડોદરા	editor	unreviewed			
+665	common	baroda	વડોદરા	editor	unreviewed			
+666	common	rajkot	રાજકોટ	editor	unreviewed			
+667	common	raajkot	રાજકોટ	editor	unreviewed			
+668	common	bhavnagar	ભાવનગર	editor	unreviewed			
+669	common	jamnagar	જામનગર	editor	unreviewed			
+670	common	junagadh	જૂનાગઢ	editor	unreviewed			
+671	common	gandhinagar	ગાંધીનગર	editor	unreviewed			
+672	common	bhuj	ભુજ	editor	unreviewed			
+673	common	anand	આણંદ	editor	unreviewed			
+674	common	nadiad	નડિયાદ	editor	unreviewed			
+675	common	bharuch	ભરૂચ	editor	unreviewed			
+676	common	mehsana	મહેસાણા	editor	unreviewed			
+677	common	morbi	મોરબી	editor	unreviewed			
+678	common	dwarka	દ્વારકા	editor	unreviewed			
+679	common	somnath	સોમનાથ	editor	unreviewed			
+680	common	porbandar	પોરબંદર	editor	unreviewed			
+681	common	palanpur	પાલનપુર	editor	unreviewed			
+682	common	godhra	ગોધરા	editor	unreviewed			
+683	common	dahod	દાહોદ	editor	unreviewed			
+684	common	valsad	વલસાડ	editor	unreviewed			
+685	common	navsari	નવસારી	editor	unreviewed			
+686	common	surendranagar	સુરેન્દ્રનગર	editor	unreviewed			
+687	common	amreli	અમરેલી	editor	unreviewed			
+688	common	botad	બોટાદ	editor	unreviewed			
+689	proper	lothal	લોથલ	editor	unreviewed			
+690	proper	saputara	સાપુતારા	editor	unreviewed			
+691	proper	diu	દીવ	editor	unreviewed			
+692	proper	daman	દમણ	editor	unreviewed			
+693	proper	silvassa	સેલ્વાસ	editor	unreviewed			
+694	sentence	hu gujarati bolu chu	હું ગુજરાતી બોલું છું	editor	unreviewed			
+695	sentence	aaje bahu saru che	આજે બહુ સારું છે	editor	unreviewed			
+696	sentence	mare ghar javu che	મારે ઘર જવું છે	editor	unreviewed			
+697	sentence	tame kem cho	તમે કેમ છો	editor	unreviewed			
+698	sentence	aapnu gujarat	આપણું ગુજરાત	editor	unreviewed			
+699	sentence	hu ghar javu chu	હું ઘર જવું છું	editor	unreviewed			
+700	sentence	aaje kem cho	આજે કેમ છો	editor	unreviewed			
+701	sentence	shu karo cho	શું કરો છો	editor	unreviewed			
+702	sentence	hu aavyo	હું આવ્યો	editor	unreviewed			
+703	sentence	mane pani aap	મને પાણી આપ	editor	unreviewed			
+704	sentence	tame kya cho	તમે ક્યાં છો	editor	unreviewed			
+705	sentence	hu barabar chu	હું બરાબર છું	editor	unreviewed			
+706	sentence	aaje varsad che	આજે વરસાદ છે	editor	unreviewed			
+707	sentence	bahu garam che	બહુ ગરમ છે	editor	unreviewed			
+708	sentence	thandi hava che	ઠંડી હવા છે	editor	unreviewed			
+709	sentence	hu cha pi chu	હું ચા પી છું	editor	unreviewed			
+710	sentence	rotli saru che	રોટલી સારું છે	editor	unreviewed			
+711	sentence	mane bhukh lagi	મને ભૂખ લાગી	editor	unreviewed			
+712	sentence	tame jamo	તમે જમો	editor	unreviewed			
+713	sentence	paani aapo	પાણી આપો	editor	unreviewed			
+714	sentence	hu school jau chu	હું સ્કૂલ જાઉં છું	editor	unreviewed			
+715	sentence	aaje ravivar che	આજે રવિવાર છે	editor	unreviewed			
+716	sentence	kale aavjo	કાલે આવજો	editor	unreviewed			
+717	sentence	have javu che	હવે જવું છે	editor	unreviewed			
+718	sentence	hu tamne gamtu nathi	હું તમને ગમતો નથી	editor	unreviewed			
+719	family	mari ma gher che	મારી મા ઘેર છે	editor	unreviewed			
+720	family	mara bhai aavya	મારા ભાઈ આવ્યા	editor	unreviewed			
+721	proper	aapnu gaam sundar che	આપણું ગામ સુંદર છે	editor	unreviewed			
+722	religious	gujarat ma garba thaya	ગુજરાત માં ગરબા થયા	editor	unreviewed			
+723	religious	aaje navratri che	આજે નવરાત્રી છે	editor	unreviewed			
+724	religious	mandir ma puja che	મંદિર માં પૂજા છે	editor	unreviewed			
+725	sentence	ram ram saheb	રામ રામ સાહેબ	editor	unreviewed			
+726	sentence	namaste kem cho	નમસ્તે કેમ છો	editor	unreviewed			
+727	sentence	shubh prabhat	શુભ પ્રભાત	editor	unreviewed			
+728	sentence	aabhar tamne	આભાર તમને	editor	unreviewed			
+729	sentence	maaf karjo	માફ કરજો	editor	unreviewed			
+730	sentence	hu bhuli gayo	હું ભૂલી ગયો	editor	unreviewed			
+731	sentence	tame sachu bolo	તમે સાચું બોલો	editor	unreviewed			
+732	sentence	aa ketlu che	આ કેટલું છે	editor	unreviewed			
+733	sentence	mane bill aapo	મને બિલ આપો	editor	unreviewed			
+734	sentence	dukan bandh che	દુકાન બંધ છે	editor	unreviewed			
+735	sentence	bajar ma bhid che	બજાર માં ભીડ છે	editor	unreviewed			
+736	sentence	hu office jau chu	હું ઓફિસ જાઉં છું	editor	unreviewed			
+737	sentence	kaam bandh karyu	કામ બંધ કર્યું	editor	unreviewed			
+738	sentence	report tayar che	રિપોર્ટ તૈયાર છે	editor	unreviewed			
+739	sentence	meeting kale che	મીટિંગ કાલે છે	editor	unreviewed			
+740	sentence	hu doctor ne malva jau chu	હું ડૉક્ટર ને મળવા જાઉં છું	editor	unreviewed			
+741	sentence	mane tav che	મને તાવ છે	editor	unreviewed			
+742	sentence	dawai lidhi	દવા લીધી	editor	unreviewed			
+743	sentence	hospital door che	હોસ્પિટલ દૂર છે	editor	unreviewed			
+744	sentence	balak school ma che	બાળક સ્કૂલ માં છે	editor	unreviewed			
+745	sentence	shikshak aavya	શિક્ષક આવ્યા	editor	unreviewed			
+746	sentence	pustak khullo	પુસ્તક ખોલો	editor	unreviewed			
+747	sentence	homework kari lidhu	હોમવર્ક કરી લીધું	editor	unreviewed			
+748	sentence	pariksha kale che	પરીક્ષા કાલે છે	editor	unreviewed			
+749	sentence	hu cricket ramu chu	હું ક્રિકેટ રમું છું	editor	unreviewed			
+750	sentence	aamne jeet mali	અમને જીત મળી	editor	unreviewed			
+751	sentence	film saru hati	ફિલ્મ સારી હતી	editor	unreviewed			
+752	sentence	git gao	ગીત ગાઓ	editor	unreviewed			
+753	religious	radio par bhajan che	રેડિયો પર ભજન છે	editor	unreviewed			
+754	sentence	aaje somvar che	આજે સોમવાર છે	editor	unreviewed			
+755	religious	mangalvar ne upvas	મંગળવાર ને ઉપવાસ	editor	unreviewed			
+756	religious	diwali ni shubh kamna	દિવાળી ની શુભકામના	editor	unreviewed			
+757	religious	navu varsh mubarak	નવું વર્ષ મુબારક	editor	unreviewed			
+758	religious	janmadin mubarak	જન્મદિન મુબારક	editor	unreviewed			
+759	family	lagna ni badhai	લગ્ન ની બધાઈ	editor	unreviewed			
+760	family	dikri ne vidai	દીકરી ને વિદાય	editor	unreviewed			
+761	sentence	hu train ma chu	હું ટ્રેન માં છું	editor	unreviewed			
+762	sentence	station ketlu door che	સ્ટેશન કેટલું દૂર છે	editor	unreviewed			
+763	sentence	ticket katyo	ટિકિટ કાપ્યો	editor	unreviewed			
+764	sentence	rickshaw aapo	રિક્ષા આપો	editor	unreviewed			
+765	sentence	rasto bandh che	રસ્તો બંધ છે	editor	unreviewed			
+766	sentence	varsaad thi rasto bhiyu	વરસાદ થી રસ્તો ભીનો	editor	unreviewed			
+767	sentence	bijli gayi	વીજળી ગઈ	editor	unreviewed			
+768	sentence	pankho chalavo	પંખો ચલાવો	editor	unreviewed			
+769	sentence	bari bandh karo	બારી બંધ કરો	editor	unreviewed			
+770	sentence	divo petavyo	દીવો પેટાવ્યો	editor	unreviewed			
+771	sentence	hu thakyo chu	હું થાક્યો છું	editor	unreviewed			
+772	sentence	bas besi jau	બસ બેસી જાઉ	editor	unreviewed			
+773	sentence	ek cup cha aapo	એક કપ ચા આપો	editor	unreviewed			
+774	sentence	mithu ochhu nakho	મીઠું ઓછું નાખો	editor	unreviewed			
+775	sentence	aa shaak saaru che	આ શાક સારું છે	editor	unreviewed			
+776	sentence	mane jeeru nathi gamtu	મને જીરું નથી ગમતું	editor	unreviewed			
+777	sentence	bhaji kapi aapo	ભાજી કાપી આપો	editor	unreviewed			
+778	sentence	dudh ubalya	દૂધ ઊકાળ્યા	editor	unreviewed			
+779	sentence	chokha ghar ma nathi	ચોખા ઘર માં નથી	editor	unreviewed			
+780	sentence	hu bajar thi aavyo	હું બજાર થી આવ્યો	editor	unreviewed			
+781	sentence	bhaav vadhi gaya	ભાવ વધી ગયા	editor	unreviewed			
+782	sentence	sasto maal aapo	સસ્તો માલ આપો	editor	unreviewed			
+783	sentence	hisaab chukavyo	હિસાબ ચૂકવ્યો	editor	unreviewed			
+784	sentence	bank ma paisa mukya	બેંક માં પૈસા મૂક્યા	editor	unreviewed			
+785	sentence	khata number aapo	ખાતા નંબર આપો	editor	unreviewed			
+786	sentence	aadhar card lai aavo	આધાર કાર્ડ લઈ આવો	editor	unreviewed			
+787	sentence	form bharvo padshe	ફોર્મ ભરવો પડશે	editor	unreviewed			
+788	sentence	office bandh che	ઓફિસ બંધ છે	editor	unreviewed			
+789	sentence	rajkot ni bus kyare che	રાજકોટ ની બસ ક્યારે છે	editor	unreviewed			
+790	proper	surat door che	સુરત દૂર છે	editor	unreviewed			
+791	proper	ahmedabad ma hu rahu chu	અમદાવાદ માં હું રહું છું	editor	unreviewed			
+792	proper	aapnu gaam kutch ma che	આપણું ગામ કચ્છ માં છે	editor	unreviewed			
+793	proper	gir ma sinh rahe che	ગીર માં સિંહ રહે છે	editor	unreviewed			
+794	religious	narmada maiya	નર્મદા મૈયા	editor	unreviewed			
+795	religious	jai shree krishna	જય શ્રી કૃષ્ણ	editor	unreviewed			
+796	religious	jay ambe	જય અંબે	editor	unreviewed			
+797	religious	ganpati bappa	ગણપતિ બાપ્પા	editor	unreviewed			
+798	religious	om namah shivay	ઓમ નમઃ શિવાય	editor	unreviewed			
+799	religious	aarti utaro	આરતી ઉતારો	editor	unreviewed			
+800	religious	prasad lejo	પ્રસાદ લેજો	editor	unreviewed			
+801	religious	mandir ni ghanta	મંદિર ની ઘંટા	editor	unreviewed			
+802	religious	raat ne bhajan che	રાત ને ભજન છે	editor	unreviewed			
+803	sentence	kem cho?	કેમ છો?	editor	unreviewed			
+804	sentence	aaje, bahu saru che.	આજે, બહુ સારું છે.	editor	unreviewed			
+805	sentence	hu  gujarati bolu chu	હું  ગુજરાતી બોલું છું	editor	unreviewed			
+806	sentence	tame kem cho!	તમે કેમ છો!	editor	unreviewed			
+807	sentence	ghar, javu che	ઘર, જવું છે	editor	unreviewed			
+808	sentence	aapnu gujarat.	આપણું ગુજરાત.	editor	unreviewed			
+809	sentence	12 vage aavjo	12 વાગે આવજો	editor	unreviewed			
+810	sentence	2 cup cha	2 કપ ચા	editor	unreviewed			
+811	office	hu english pan bolu chu	હું અંગ્રેજી પણ બોલું છું	editor	unreviewed			
+812	office	please madad karo	પ્લીઝ મદદ કરો	editor	unreviewed			
+813	office	ok hu aavu chu	ઓકે હું આવું છું	editor	unreviewed			
+814	office	sorry hu late chu	સોરી હું લેટ છું	editor	unreviewed			
+815	office	good night	ગુડ નાઇટ	editor	unreviewed			
+816	office	thank you	થેન્ક યુ	editor	unreviewed			
+817	office	hello kem cho	હેલો કેમ છો	editor	unreviewed			
+818	office	bye aavjo	બાય આવજો	editor	unreviewed			
+819	office	hu message moklu chu	હું મેસેજ મોકલું છું	editor	unreviewed			
+820	office	call karjo	કોલ કરજો	editor	unreviewed			
+821	office	photo moklo	ફોટો મોકલો	editor	unreviewed			
+822	office	wifi nathi chaltu	વાઇફાઇ નથી ચાલતું	editor	unreviewed			
+823	office	battery gayi	બેટરી ગઈ	editor	unreviewed			
+824	office	charger aapo	ચાર્જર આપો	editor	unreviewed			
+825	office	password bhuli gayo	પાસવર્ડ ભૂલી ગયો	editor	unreviewed			
+826	office	login nathi thatu	લોગિન નથી થતું	editor	unreviewed			
+827	office	file mokli	ફાઇલ મોકલી	editor	unreviewed			
+828	office	meeting link moklo	મીટિંગ લિંક મોકલો	editor	unreviewed			
+829	office	hu online chu	હું ઓનલાઇન છું	editor	unreviewed			
+830	office	tame offline cho	તમે ઓફલાઇન છો	editor	unreviewed			
+831	office	screen share karo	સ્ક્રીન શેર કરો	editor	unreviewed			
+832	office	camera bandh karo	કેમેરા બંધ કરો	editor	unreviewed			
+833	office	mic on karo	માઇક ઓન કરો	editor	unreviewed			
+834	office	record karvu che	રેકોર્ડ કરવું છે	editor	unreviewed			
+835	office	download thai gayu	ડાઉનલોડ થઈ ગયું	editor	unreviewed			
+836	office	update aavi gayu	અપડેટ આવી ગયું	editor	unreviewed			
+837	office	server down che	સર્વર ડાઉન છે	editor	unreviewed			
+838	office	bug male che	બગ મળે છે	editor	unreviewed			
+839	office	code commit karyo	કોડ કમિટ કર્યો	editor	unreviewed			
+840	office	test pass thai	ટેસ્ટ પાસ થયા	editor	unreviewed			
+841	office	build fail thai	બિલ્ડ ફેલ થયું	editor	unreviewed			
+842	office	deploy kari didhu	ડિપ્લોય કરી દીધું	editor	unreviewed			
+843	office	branch merge karo	બ્રાન્ચ મર્જ કરો	editor	unreviewed			
+844	office	review aapo	રિવ્યૂ આપો	editor	unreviewed			
+845	office	issue kholo	ઇશ્યૂ ખોલો	editor	unreviewed			
+846	office	deadline kale che	ડેડલાઇન કાલે છે	editor	unreviewed			
+847	office	standup 10 vage	સ્ટેન્ડઅપ 10 વાગે	editor	unreviewed			
+848	office	lunch pachi aavish	લંચ પછી આવીશ	editor	unreviewed			
+849	office	hu leave par chu	હું લીવ પર છું	editor	unreviewed			
+850	office	holiday che	હોલિડે છે	editor	unreviewed			
+851	office	salary aavi	સેલરી આવી	editor	unreviewed			
+852	office	tax bharvo che	ટેક્સ ભરવો છે	editor	unreviewed			
+853	office	bill print karo	બિલ પ્રિન્ટ કરો	editor	unreviewed			
+854	office	invoice moklo	ઇન્વોઇસ મોકલો	editor	unreviewed			
+855	office	payment pending che	પેમેન્ટ પેન્ડિંગ છે	editor	unreviewed			
+856	office	refund aapo	રિફંડ આપો	editor	unreviewed			
+857	office	order cancel karyo	ઓર્ડર કેન્સલ કર્યો	editor	unreviewed			
+858	office	delivery late che	ડિલિવરી લેટ છે	editor	unreviewed			
+859	office	address moklo	એડ્રેસ મોકલો	editor	unreviewed			
+860	office	pin code shu che	પિન કોડ શું છે	editor	unreviewed			
+861	office	mobile number aapo	મોબાઇલ નંબર આપો	editor	unreviewed			
+862	office	email id shu che	ઇમેઇલ આઇડી શું છે	editor	unreviewed			
+863	office	otp aavyo	ઓટીપી આવ્યો	editor	unreviewed			
+864	office	password badlo	પાસવર્ડ બદલો	editor	unreviewed			
+865	office	account bandh thai gayu	એકાઉન્ટ બંધ થઈ ગયું	editor	unreviewed			
+866	office	hu verify kari didhu	હું વેરિફાય કરી દીધું	editor	unreviewed			
+867	office	notification bandh karo	નોટિફિકેશન બંધ કરો	editor	unreviewed			
+868	office	volume ochhu karo	વોલ્યુમ ઓછું કરો	editor	unreviewed			
+869	office	brightness vadharo	બ્રાઇટનેસ વધારો	editor	unreviewed			
+870	office	screenshot lo	સ્ક્રીનશોટ લો	editor	unreviewed			
+871	office	copy paste karo	કોપી પેસ્ટ કરો	editor	unreviewed			
+872	office	undo karo	અનડુ કરો	editor	unreviewed			
+873	office	save kari lo	સેવ કરી લો	editor	unreviewed			
+874	office	print nathi thatu	પ્રિન્ટ નથી થતું	editor	unreviewed			
+875	office	paper khatam	પેપર ખતમ	editor	unreviewed			
+876	office	pen aapo	પેન આપો	editor	unreviewed			
+877	office	notebook kholo	નોટબુક ખોલો	editor	unreviewed			
+878	office	class start thai	ક્લાસ સ્ટાર્ટ થઈ	editor	unreviewed			
+879	sentence	homework aaje aap	હોમવર્ક આજે આપ	editor	unreviewed			
+880	sentence	exam ma pass thai	એક્ઝામ માં પાસ થયા	editor	unreviewed			
+881	sentence	result aavi gayu	રિઝલ્ટ આવી ગયું	editor	unreviewed			
+882	sentence	admission form bharo	એડમિશન ફોર્મ ભરો	editor	unreviewed			
+883	sentence	fees bharvi che	ફીઝ ભરવી છે	editor	unreviewed			
+884	sentence	library ma javu che	લાઇબ્રેરી માં જવું છે	editor	unreviewed			
+885	sentence	bus late che	બસ લેટ છે	editor	unreviewed			
+886	sentence	auto bhavjo	ઑટો બોલાવો	editor	unreviewed			
+887	sentence	petrol bharpavu che	પેટ્રોલ ભરાવવું છે	editor	unreviewed			
+888	sentence	puncture thai gayu	પંકચર થઈ ગયું	editor	unreviewed			
+889	sentence	helmet pehro	હેલ્મેટ પહેરો	editor	unreviewed			
+890	sentence	signal red che	સિગ્નલ રેડ છે	editor	unreviewed			
+891	sentence	left lo	લેફ્ટ લો	editor	unreviewed			
+892	sentence	right modho	રાઇટ મોડો	editor	unreviewed			
+893	sentence	seedha jao	સીધા જાઓ	editor	unreviewed			
+894	sentence	ruko	રુકો	editor	unreviewed			
+895	sentence	aavjo phari	આવજો ફરી	editor	unreviewed			
+896	sentence	saru, aavjo	સારું, આવજો	editor	unreviewed			
+897	sentence	theek che	ઠીક છે	editor	unreviewed			
+898	sentence	barobar che	બરોબર છે	editor	unreviewed			
+899	sentence	kharekh?	ખરેખર?	editor	unreviewed			
+900	sentence	ha, barobar	હા, બરોબર	editor	unreviewed			
+901	sentence	na, nathi	ના, નથી	editor	unreviewed			
+902	sentence	pachi vat karish	પછી વાત કરીશ	editor	unreviewed			
+903	office	hu busy chu	હું બિઝી છું	editor	unreviewed			
+904	sentence	thoda samay pachi	થોડા સમય પછી	editor	unreviewed			
+905	sentence	ek minute	એક મિનિટ	editor	unreviewed			
+906	sentence	have j nathi	હવે જ નથી	editor	unreviewed			
+907	sentence	pachi kalje	પછી કાલજે	editor	unreviewed			
+908	sentence	sambhaline	સંભાળીને	editor	unreviewed			
+909	sentence	dhime chalo	ધીમે ચાલો	editor	unreviewed			
+910	sentence	jaldi aavjo	જલ્દી આવજો	editor	unreviewed			
+911	sentence	biju shu	બીજું શું	editor	unreviewed			
+912	sentence	bas etlu	બસ એટલું	editor	unreviewed			
+913	sentence	bija lok aavya	બીજા લોક આવ્યા	editor	unreviewed			
+914	sentence	badha saaru che	બધા સારું છે	editor	unreviewed			
+915	sentence	tamne shu joiye	તમને શું જોઈએ	editor	unreviewed			
+916	sentence	mane aa joiye	મને આ જોઈએ	editor	unreviewed			
+917	sentence	biji variety batavo	બીજી વેરાયટી બતાવો	editor	unreviewed			
+918	sentence	size moto aapo	સાઇઝ મોટો આપો	editor	unreviewed			
+919	sentence	rang blue che	રંગ બ્લૂ છે	editor	unreviewed			
+920	sentence	bill cash ma	બિલ કેશ માં	editor	unreviewed			
+921	sentence	change aapo	ચેન્જ આપો	editor	unreviewed			
+922	sentence	bag aapo	બેગ આપો	editor	unreviewed			
+923	sentence	plastic nathi joitu	પ્લાસ્ટિક નથી જોઈતું	editor	unreviewed			
+924	sentence	ghar sudhi pohchado	ઘર સુધી પહોંચાડો	editor	unreviewed			
+925	sentence	kiraya ketla	ભાડું કેટલા	editor	unreviewed			
+926	sentence	meter chalu karo	મીટર ચાલુ કરો	editor	unreviewed			
+927	sentence	ac chalu karo	એસી ચાલુ કરો	editor	unreviewed			
+928	sentence	pankho bandh karo	પંખો બંધ કરો	editor	unreviewed			
+929	sentence	light chalu karo	લાઇટ ચાલુ કરો	editor	unreviewed			
+930	sentence	paani bandh che	પાણી બંધ છે	editor	unreviewed			
+931	sentence	nal kholo	નળ ખોલો	editor	unreviewed			
+932	sentence	kapda dho	કપડાં ધો	editor	unreviewed			
+933	sentence	rasoi ma jao	રસોડું માં જાઓ	editor	unreviewed			
+934	sentence	bartan saaf karo	વાસણ સાફ કરો	editor	unreviewed			
+935	sentence	jhadu nakh	ઝાડું નાખ	editor	unreviewed			
+936	sentence	kachro bahar muk	કચરો બહાર મૂક	editor	unreviewed			
+937	sentence	darvajo bandh kar	દરવાજો બંધ કર	editor	unreviewed			
+938	sentence	chaavi aap	ચાવી આપ	editor	unreviewed			
+939	sentence	talla lagavo	તાળું લગાવો	editor	unreviewed			
+940	family	mehman aavya	મહેમાન આવ્યા	editor	unreviewed			
+941	sentence	baithak ma beso	બેઠક માં બેસો	editor	unreviewed			
+942	sentence	paani pivo	પાણી પીઓ	editor	unreviewed			
+943	sentence	nasto lejo	નાસ્તો લેજો	editor	unreviewed			
+944	sentence	mithai khao	મીઠાઈ ખાઓ	editor	unreviewed			
+945	sentence	ful aapya	ફૂલ આપ્યા	editor	unreviewed			
+946	sentence	tohfo moklyo	તોહફો મોકલ્યો	editor	unreviewed			
+947	sentence	badhai ho	બધાઈ હો	editor	unreviewed			
+948	sentence	khush raho	ખુશ રહો	editor	unreviewed			
+949	sentence	lambu aayu ho	લાંબુ આયુ હો	editor	unreviewed			
+950	sentence	sukh shanti rahe	સુખ શાંતિ રહે	editor	unreviewed			
+951	religious	bhagwan tamari madad kare	ભગવાન તમારી મદદ કરે	editor	unreviewed			
+952	religious	dua ma yaad rakhjo	દુઆ માં યાદ રાખજો	editor	unreviewed			
+953	religious	om shanti	ઓમ શાંતિ	editor	unreviewed			
+954	religious	hari om	હરિ ઓમ	editor	unreviewed			
+955	religious	jai jinendra	જય જિનેન્દ્ર	editor	unreviewed			
+956	religious	salam alaikum	સલામ અલાઇકુમ	editor	unreviewed			
+957	religious	walaikum salam	વાલાઇકુમ સલામ	editor	unreviewed			
+958	religious	khuda hafiz	ખુદા હાફિઝ	editor	unreviewed			
+959	religious	merry christmas	મેરી ક્રિસમસ	editor	unreviewed			
+960	religious	eid mubarak	ઈદ મુબારક	editor	unreviewed			
+961	religious	pateti mubarak	પાતેતી મુબારક	editor	unreviewed			
+962	religious	bestu varas	બેસતું વરસ	editor	unreviewed			
+963	religious	uttarayan ni shubh	ઉત્તરાયણ ની શુભ	editor	unreviewed			
+964	religious	kai po che	કાઈપો છે	editor	unreviewed			
+965	religious	holi hai	હોળી હૈ	editor	unreviewed			
+966	religious	rang barse	રંગ બરસે	editor	unreviewed			
+967	religious	dhuleti mubarak	ધૂળેટી મુબારક	editor	unreviewed			
+968	religious	janmashtami ni hardik	જન્માષ્ટમી ની હાર્દિક	editor	unreviewed			
+969	religious	shivratri ni shubh	શિવરાત્રી ની શુભ	editor	unreviewed			
+970	religious	ramzan mubarak	રમઝાન મુબારક	editor	unreviewed			
+971	religious	paryushan parva	પર્યુષણ પર્વ	editor	unreviewed			
+972	religious	guru purnima	ગુરુ પૂર્ણિમા	editor	unreviewed			
+973	religious	raksha bandhan	રક્ષા બંધન	editor	unreviewed			
+974	religious	bhai beej	ભાઈ બીજ	editor	unreviewed			
+975	religious	labh pancham	લાભ પાંચમ	editor	unreviewed			
+976	religious	gudi padwa	ગુડી પાડવા	editor	unreviewed			
+977	religious	cheti chand	ચૈતી ચાંદ	editor	unreviewed			
+978	religious	navroz mubarak	નવરોઝ મુબારક	editor	unreviewed			
+979	office	independence day	ઇન્ડિપેન્ડન્સ ડે	editor	unreviewed			
+980	office	republic day	રિપબ્લિક ડે	editor	unreviewed			
+981	proper	gandhi jayanti	ગાંધી જયંતી	editor	unreviewed			
+982	proper	sardar patel	સરદાર પટેલ	editor	unreviewed			
+983	proper	mahadev desai	મહાદેવ દેસાઈ	editor	unreviewed			
+984	proper	narsinh mehta	નરસિંહ મહેતા	editor	unreviewed			
+985	proper	nandlal bose	નંદલાલ બોઝ	editor	unreviewed			
+986	religious	kalapi no kavy	કલાપી નો કાવ્ય	editor	unreviewed			
+987	proper	zaverchand meghani	ઝવેરચંદ મેઘાણી	editor	unreviewed			
+988	proper	umashankar joshi	ઉમાશંકર જોશી	editor	unreviewed			
+989	proper	sundaram	સુંદરમ્	editor	unreviewed			
+990	proper	kavi nhanalal	કવિ ન્હાનાલાલ	editor	unreviewed			
+991	proper	dalpatram	દલપતરામ	editor	unreviewed			
+992	proper	narmad	નર્મદ	editor	unreviewed			
+993	proper	govardhanram	ગોવર્ધનરામ	editor	unreviewed			
+994	religious	saraswatichandra	સરસ્વતીચંદ્ર	editor	unreviewed			
+995	proper	kanaiyalal munshi	કનૈયાલાલ મુનશી	editor	unreviewed			
+996	religious	patan ni prabhuta	પાટણ ની પ્રભુતા	editor	unreviewed			
+997	proper	lothal nu bandar	લોથલ નું બંદર	editor	unreviewed			
+998	proper	dwarka no raja	દ્વારકા નો રાજા	editor	unreviewed			
+999	religious	somnath nu mandir	સોમનાથ નું મંદિર	editor	unreviewed			
+1000	proper	girnar ni padi	ગિરનાર ની પાદી	editor	unreviewed			
+1001	proper	saputara ni thandi	સાપુતારા ની ઠંડી	editor	unreviewed			
+1002	proper	kutch no rann	કચ્છ નો રણ	editor	unreviewed			
+1003	proper	sabarmati aashram	સાબરમતી આશ્રમ	editor	unreviewed			
+1004	proper	sabarmati riverfront	સાબરમતી રિવરફ્રન્ટ	editor	unreviewed			
+1005	proper	lal darwaja	લાલ દરવાજા	editor	unreviewed			
+1006	proper	manek chowk	માણેક ચોક	editor	unreviewed			
+1007	proper	law garden	લો ગાર્ડન	editor	unreviewed			
+1008	proper	kankaria talav	કાંકરિયા તળાવ	editor	unreviewed			
+1009	proper	science city	સાયન્સ સિટી	editor	unreviewed			
+1010	religious	akshardham mandir	અક્ષરધામ મંદિર	editor	unreviewed			
+1011	religious	hatkeshwar mandir	હાટકેશ્વર મંદિર	editor	unreviewed			
+1012	religious	jama masjid	જામા મસ્જિદ	editor	unreviewed			
+1013	proper	siddi saiyad	સિદ્દી સૈયદ	editor	unreviewed			
+1014	proper	rani ni vav	રાણી ની વાવ	editor	unreviewed			
+1015	proper	adalaj ni vav	અડાલજ ની વાવ	editor	unreviewed			
+1016	religious	modhera nu mandir	મોઢેરા નું મંદિર	editor	unreviewed			
+1017	proper	polo forest	પોલો ફોરેસ્ટ	editor	unreviewed			
+1018	office	statue of unity	સ્ટેચ્યુ ઓફ યુનિટી	editor	unreviewed			
+1019	proper	sardar sarovar	સરદાર સરોવર	editor	unreviewed			
+1020	proper	narmada dam	નર્મદા ડેમ	editor	unreviewed			
+1021	proper	kandla port	કંડલા પોર્ટ	editor	unreviewed			
+1022	proper	mundra port	મુંદ્રા પોર્ટ	editor	unreviewed			
+1023	proper	alango ship	અલંગ શિપ	editor	unreviewed			
+1024	office	diamond bourse	ડાયમંડ બોર્સ	editor	unreviewed			
+1025	office	gift city	ગિફ્ટ સિટી	editor	unreviewed			
+1026	office	iim ahmedabad	આઇઆઇએમ અમદાવાદ	editor	unreviewed			
+1027	office	nid ahmedabad	એનઆઇડી અમદાવાદ	editor	unreviewed			
+1028	proper	gujarat university	ગુજરાત યુનિવર્સિટી	editor	unreviewed			
+1029	office	ms university	એમએસ યુનિવર્સિટી	editor	unreviewed			
+1030	office	ddit nadiad	ડીડીઆઇટી નડિયાદ	editor	unreviewed			
+1031	office	gmers hospital	જીએમઇઆરએસ હોસ્પિટલ	editor	unreviewed			
+1032	office	civil hospital	સિવિલ હોસ્પિટલ	editor	unreviewed			
+1033	office	vs hospital	વીએસ હોસ્પિટલ	editor	unreviewed			
+1034	office	rbi office	આરબીઆઇ ઓફિસ	editor	unreviewed			
+1035	office	sbi branch	એસબીઆઇ બ્રાન્ચ	editor	unreviewed			
+1036	office	post office	પોસ્ટ ઓફિસ	editor	unreviewed			
+1037	office	railway station	રેલ્વે સ્ટેશન	editor	unreviewed			
+1038	office	bus stand	બસ સ્ટેન્ડ	editor	unreviewed			
+1039	office	airport terminal	એરપોર્ટ ટર્મિનલ	editor	unreviewed			
+1040	office	metro station	મેટ્રો સ્ટેશન	editor	unreviewed			
+1041	office	brts stop	બીઆરટીએસ સ્ટોપ	editor	unreviewed			
+1042	office	amts bus	એએમટીએસ બસ	editor	unreviewed			
+1043	office	gsrtc bus	જીએસઆરટીસી બસ	editor	unreviewed			
+1044	office	irctc ticket	આઇઆરસીટીસી ટિકિટ	editor	unreviewed			
+1045	sentence	aadhar kendra	આધાર કેન્દ્ર	editor	unreviewed			
+1046	sentence	pan card	પાન કાર્ડ	editor	unreviewed			
+1047	sentence	ration card	રેશન કાર્ડ	editor	unreviewed			
+1048	sentence	voter id	વોટર આઇડી	editor	unreviewed			
+1049	sentence	driving licence	ડ્રાઇવિંગ લાઇસન્સ	editor	unreviewed			
+1050	sentence	birth certificate	બર્થ સર્ટિફિકેટ	editor	unreviewed			
+1051	sentence	income certificate	ઇન્કમ સર્ટિફિકેટ	editor	unreviewed			
+1052	sentence	caste certificate	કાસ્ટ સર્ટિફિકેટ	editor	unreviewed			
+1053	sentence	gram panchayat	ગ્રામ પંચાયત	editor	unreviewed			
+1054	sentence	taluka panchayat	તાલુકા પંચાયત	editor	unreviewed			
+1055	sentence	jilla panchayat	જિલ્લા પંચાયત	editor	unreviewed			
+1056	sentence	mamlatdar office	મામલતદાર ઓફિસ	editor	unreviewed			
+1057	sentence	collector office	કલેક્ટર ઓફિસ	editor	unreviewed			
+1058	sentence	police station	પોલીસ સ્ટેશન	editor	unreviewed			
+1059	sentence	fire station	ફાયર સ્ટેશન	editor	unreviewed			
+1060	sentence	court building	કોર્ટ બિલ્ડિંગ	editor	unreviewed			
+1061	sentence	high court	હાઇ કોર્ટ	editor	unreviewed			
+1062	sentence	vidhan sabha	વિધાન સભા	editor	unreviewed			
+1063	sentence	lok sabha	લોક સભા	editor	unreviewed			
+1064	sentence	rajya sabha	રાજ્ય સભા	editor	unreviewed			
+1065	sentence	mukhyamantri	મુખ્યમંત્રી	editor	unreviewed			
+1066	sentence	pradhan mantri	પ્રધાનમંત્રી	editor	unreviewed			
+1067	sentence	rashtrapati	રાષ્ટ્રપતિ	editor	unreviewed			
+1068	sentence	governor	ગવર્નર	editor	unreviewed			
+1069	sentence	mayor	મેયર	editor	unreviewed			
+1070	sentence	corporator	કોર્પોરેટર	editor	unreviewed			
+1071	sentence	sarpanch	સરપંચ	editor	unreviewed			
+1072	sentence	talati	તલાટી	editor	unreviewed			
+1073	sentence	gram sevak	ગ્રામ સેવક	editor	unreviewed			
+1074	sentence	anganwadi	આંગણવાડી	editor	unreviewed			
+1075	sentence	asha worker	આશા વર્કર	editor	unreviewed			
+1076	sentence	ration dukaan	રેશન દુકાન	editor	unreviewed			
+1077	office	fair price shop	ફેર પ્રાઇસ શોપ	editor	unreviewed			
+1078	office	mid day meal	મિડ ડે મીલ	editor	unreviewed			
+1079	office	school uniform	સ્કૂલ યુનિફોર્મ	editor	unreviewed			
+1080	office	exam hall	એક્ઝામ હોલ	editor	unreviewed			
+1081	office	answer sheet	આન્સર શીટ	editor	unreviewed			
+1082	office	question paper	ક્વેશ્ચન પેપર	editor	unreviewed			
+1083	office	practical exam	પ્રેક્ટિકલ એક્ઝામ	editor	unreviewed			
+1084	office	oral exam	ઓરલ એક્ઝામ	editor	unreviewed			
+1085	office	result date	રિઝલ્ટ ડેટ	editor	unreviewed			
+1086	office	admission round	એડમિશન રાઉન્ડ	editor	unreviewed			
+1087	office	merit list	મેરિટ લિસ્ટ	editor	unreviewed			
+1088	office	waiting list	વેઇટિંગ લિસ્ટ	editor	unreviewed			
+1089	office	hostel room	હોસ્ટેલ રૂમ	editor	unreviewed			
+1090	office	mess bill	મેસ બિલ	editor	unreviewed			
+1091	office	library card	લાઇબ્રેરી કાર્ડ	editor	unreviewed			
+1092	office	lab report	લેબ રિપોર્ટ	editor	unreviewed			
+1093	office	blood test	બ્લડ ટેસ્ટ	editor	unreviewed			
+1094	office	xray report	એક્સરે રિપોર્ટ	editor	unreviewed			
+1095	sentence	doctor saheb	ડૉક્ટર સાહેબ	editor	unreviewed			
+1096	sentence	nurse ben	નર્સ બેન	editor	unreviewed			
+1097	sentence	dawai ki bill	દવા કી બિલ	editor	unreviewed			
+1098	sentence	injection lagavyu	ઇન્જેક્શન લગાવ્યું	editor	unreviewed			
+1099	sentence	operation pachi	ઓપરેશન પછી	editor	unreviewed			
+1100	sentence	rest karo	રેસ્ટ કરો	editor	unreviewed			
+1101	sentence	pani vadhare piyo	પાણી વધારે પીઓ	editor	unreviewed			
+1102	sentence	khato bandh	ખાટો બંધ	editor	unreviewed			
+1103	sentence	mithu kam karo	મીઠું કમ કરો	editor	unreviewed			
+1104	sentence	walking karo	વૉકિંગ કરો	editor	unreviewed			
+1105	sentence	yoga karo	યોગા કરો	editor	unreviewed			
+1106	sentence	exercise jaruri che	એક્સરસાઇઝ જરૂરી છે	editor	unreviewed			
+1107	sentence	neend puri nathi	નીંદ પૂરી નથી	editor	unreviewed			
+1108	sentence	mathu dukhe che	માથું દુખે છે	editor	unreviewed			
+1109	sentence	pet dukhe che	પેટ દુખે છે	editor	unreviewed			
+1110	sentence	tavu aavyo	તાવ આવ્યો	editor	unreviewed			
+1111	sentence	khansi che	ઉધરસ છે	editor	unreviewed			
+1112	sentence	sardi lagi	શરદી લાગી	editor	unreviewed			
+1113	sentence	dast thai che	ઝાડા થાય છે	editor	unreviewed			
+1114	sentence	ulti thai che	ઊલટી થાય છે	editor	unreviewed			
+1115	sentence	chakkar aave che	ચક્કર આવે છે	editor	unreviewed			
+1116	sentence	aankh dukhe che	આંખ દુખે છે	editor	unreviewed			
+1117	sentence	kan dukhe che	કાન દુખે છે	editor	unreviewed			
+1118	sentence	dant dukhe che	દાંત દુખે છે	editor	unreviewed			
+1119	sentence	pathariyu che	પથરી છે	editor	unreviewed			
+1120	sentence	sugar vadhi gayu	સુગર વધી ગયું	editor	unreviewed			
+1121	sentence	bp vadhu che	બીપી વધુ છે	editor	unreviewed			
+1122	sentence	diabetes che	ડાયાબિટીસ છે	editor	unreviewed			
+1123	sentence	thyroid che	થાઇરોઇડ છે	editor	unreviewed			
+1124	sentence	allergy che	એલર્જી છે	editor	unreviewed			
+1125	sentence	dawai ki time	દવા કી ટાઇમ	editor	unreviewed			
+1126	sentence	subah ek goli	સવારે એક ગોળી	editor	unreviewed			
+1127	sentence	ratre sova pehla	રાત્રે સૂવા પહેલાં	editor	unreviewed			
+1128	sentence	khali pet	ખાલી પેટ	editor	unreviewed			
+1129	sentence	jeman pachi	જમ્યા પછી	editor	unreviewed			
+1130	sentence	doctor ne batav	ડૉક્ટર ને બતાવ	editor	unreviewed			
+1131	sentence	report lai ja	રિપોર્ટ લઈ જા	editor	unreviewed			
+1132	sentence	appointment le	એપોઇન્ટમેન્ટ લે	editor	unreviewed			
+1133	sentence	emergency che	ઇમરજન્સી છે	editor	unreviewed			
+1134	sentence	ambulance bolav	એમ્બ્યુલન્સ બોલાવ	editor	unreviewed			
+1135	sentence	blood group shu	બ્લડ ગ્રુપ શું	editor	unreviewed			
+1136	sentence	operation theatre	ઓપરેશન થિયેટર	editor	unreviewed			
+1137	sentence	icu ma che	આઇસીયુ માં છે	editor	unreviewed			
+1138	sentence	ventilator par	વેન્ટિલેટર પર	editor	unreviewed			
+1139	sentence	oxygen aapo	ઓક્સિજન આપો	editor	unreviewed			
+1140	sentence	saline chalu	સેલાઇન ચાલુ	editor	unreviewed			
+1141	sentence	discharge aapyo	ડિસ્ચાર્જ આપ્યો	editor	unreviewed			
+1142	sentence	follow up kale	ફોલો અપ કાલે	editor	unreviewed			
+1143	sentence	dressing karavi	ડ્રેસિંગ કરાવી	editor	unreviewed			
+1144	sentence	stitches kadhya	ટાંકા કાઢ્યા	editor	unreviewed			
+1145	sentence	plaster mukyu	પ્લાસ્ટર મૂક્યું	editor	unreviewed			
+1146	sentence	fracture che	ફ્રેક્ચર છે	editor	unreviewed			
+1147	sentence	xray karav	એક્સરે કરાવ	editor	unreviewed			
+1148	sentence	sonography karavi	સોનોગ્રાફી કરાવી	editor	unreviewed			
+1149	sentence	mri report	એમઆરઆઇ રિપોર્ટ	editor	unreviewed			
+1150	sentence	ct scan	સીટી સ્કેન	editor	unreviewed			
+1151	sentence	ecg normal che	ઇસીજી નોર્મલ છે	editor	unreviewed			
+1152	sentence	bp machine	બીપી મશીન	editor	unreviewed			
+1153	sentence	thermometer aapo	થર્મોમીટર આપો	editor	unreviewed			
+1154	sentence	mask pehro	માસ્ક પહેરો	editor	unreviewed			
+1155	sentence	sanitizer lagav	સેનિટાઇઝર લગાવ	editor	unreviewed			
+1156	sentence	haath dho	હાથ ધો	editor	unreviewed			
+1157	office	social distance	સોશિયલ ડિસ્ટન્સ	editor	unreviewed			
+1158	sentence	vaccine lidhi	વેક્સિન લીધી	editor	unreviewed			
+1159	sentence	booster dose	બૂસ્ટર ડોઝ	editor	unreviewed			
+1160	sentence	certificate aapo	સર્ટિફિકેટ આપો	editor	unreviewed			
+1161	sentence	stamp lagavo	સ્ટેમ્પ લગાવો	editor	unreviewed			
+1162	sentence	sign karo	સાઇન કરો	editor	unreviewed			
+1163	sentence	photo chipkavo	ફોટો ચોંટાડો	editor	unreviewed			
+1164	sentence	form submit karyu	ફોર્મ સબમિટ કર્યું	editor	unreviewed			
+1165	sentence	receipt aapo	રસીદ આપો	editor	unreviewed			
+1166	sentence	token number	ટોકન નંબર	editor	unreviewed			
+1167	sentence	counter teen	કાઉન્ટર ત્રણ	editor	unreviewed			
+1168	sentence	line ma ubha	લાઇન માં ઊભા	editor	unreviewed			
+1169	office	time over	ટાઇમ ઓવર	editor	unreviewed			
+1170	sentence	aaje bandh	આજે બંધ	editor	unreviewed			
+1171	sentence	kale khula	કાલે ખુલ્લું	editor	unreviewed			
+1172	sentence	subah 10 thi	સવારે 10 થી	editor	unreviewed			
+1173	sentence	sandhya 6 sudhi	સાંજે 6 સુધી	editor	unreviewed			
+1174	office	lunch break	લંચ બ્રેક	editor	unreviewed			
+1175	office	half day	હાફ ડે	editor	unreviewed			
+1176	office	full day	ફુલ ડે	editor	unreviewed			
+1177	office	night shift	નાઇટ શિફ્ટ	editor	unreviewed			
+1178	office	overtime che	ઓવરટાઇમ છે	editor	unreviewed			
+1179	office	salary slip	સેલરી સ્લિપ	editor	unreviewed			
+1180	office	pf katay	પીએફ કપાય	editor	unreviewed			
+1181	office	tds katay	ટીડીએસ કપાય	editor	unreviewed			
+1182	office	bonus aavyo	બોનસ આવ્યો	editor	unreviewed			
+1183	office	increment malyu	ઇન્ક્રિમેન્ટ મળ્યો	editor	unreviewed			
+1184	office	promotion thai	પ્રમોશન થયું	editor	unreviewed			
+1185	office	transfer order	ટ્રાન્સફર ઓર્ડર	editor	unreviewed			
+1186	office	resignation aapi	રાજીનામું આપ્યું	editor	unreviewed			
+1187	office	notice period	નોટિસ પિરિયડ	editor	unreviewed			
+1188	office	experience letter	એક્સપિરિયન્સ લેટર	editor	unreviewed			
+1189	office	joining date	જોઇનિંગ ડેટ	editor	unreviewed			
+1190	office	offer letter	ઓફર લેટર	editor	unreviewed			
+1191	office	interview kale	ઇન્ટરવ્યૂ કાલે	editor	unreviewed			
+1192	office	resume moklo	રિઝ્યુમે મોકલો	editor	unreviewed			
+1193	office	skill set shu	સ્કિલ સેટ શું	editor	unreviewed			
+1194	office	english aavde che	અંગ્રેજી આવડે છે	editor	unreviewed			
+1195	sentence	gujarati aavde che	ગુજરાતી આવડે છે	editor	unreviewed			
+1196	sentence	hindi pan aavde	હિન્દી પણ આવડે	editor	unreviewed			
+1197	office	typing aavde che	ટાઇપિંગ આવડે છે	editor	unreviewed			
+1198	office	computer aavde che	કમ્પ્યુટર આવડે છે	editor	unreviewed			
+1199	office	driving aavde che	ડ્રાઇવિંગ આવડે છે	editor	unreviewed			
+1200	sentence	cooking aavde che	કુકિંગ આવડે છે	editor	unreviewed			
+1201	religious	singing aavde che	સિંગિંગ આવડે છે	editor	unreviewed			
+1202	religious	garba aavde che	ગરબા આવડે છે	editor	unreviewed			
+1203	sentence	cricket aavde che	ક્રિકેટ આવડે છે	editor	unreviewed			
+1204	sentence	chess ramie	ચેસ રમીએ	editor	unreviewed			
+1205	sentence	carrom ramie	કેરમ રમીએ	editor	unreviewed			
+1206	sentence	antakshari ramie	અંતાક્ષરી રમીએ	editor	unreviewed			
+1207	sentence	joke sunavo	જોક સંભળાવો	editor	unreviewed			
+1208	religious	kavita vacho	કવિતા વાંચો	editor	unreviewed			
+1209	religious	kahani kaho	કહાની કહો	editor	unreviewed			
+1210	sentence	film joie	ફિલ્મ જોઈએ	editor	unreviewed			
+1211	religious	natak joie	નાટક જોઈએ	editor	unreviewed			
+1212	religious	sangeet sunie	સંગીત સાંભળીએ	editor	unreviewed			
+1213	sentence	radio lagavo	રેડિયો લગાવો	editor	unreviewed			
+1214	sentence	tv bandh karo	ટીવી બંધ કરો	editor	unreviewed			
+1215	sentence	news jo	સમાચાર જુઓ	editor	unreviewed			
+1216	sentence	cricket score shu	ક્રિકેટ સ્કોર શું	editor	unreviewed			
+1217	sentence	match jeetya	મેચ જીત્યા	editor	unreviewed			
+1218	sentence	team haar gayi	ટીમ હાર ગઈ	editor	unreviewed			
+1219	sentence	goal thayo	ગોલ થયો	editor	unreviewed			
+1220	sentence	wicket padi	વિકેટ પડી	editor	unreviewed			
+1221	sentence	sixer maryo	સિક્સર માર્યો	editor	unreviewed			
+1222	sentence	umpire no nirnay	અમ્પાયર નો નિર્ણય	editor	unreviewed			
+1223	sentence	stadium bharayo	સ્ટેડિયમ ભરાયો	editor	unreviewed			
+1224	sentence	ticket nathi malyu	ટિકિટ નથી મળ્યું	editor	unreviewed			
+1225	sentence	live match jo	લાઇવ મેચ જુઓ	editor	unreviewed			
+1226	sentence	highlights moklo	હાઇલાઇટ્સ મોકલો	editor	unreviewed			
+1227	office	photo share kar	ફોટો શેર કર	editor	unreviewed			
+1228	office	video call kar	વિડિયો કોલ કર	editor	unreviewed			
+1229	office	voice note moklo	વોઇસ નોટ મોકલો	editor	unreviewed			
+1230	office	status muk	સ્ટેટસ મૂક	editor	unreviewed			
+1231	office	story joi	સ્ટોરી જોઈ	editor	unreviewed			
+1232	office	like karyu	લાઇક કર્યું	editor	unreviewed			
+1233	office	comment lakho	કોમેન્ટ લખો	editor	unreviewed			
+1234	office	share karo	શેર કરો	editor	unreviewed			
+1235	office	follow karo	ફોલો કરો	editor	unreviewed			
+1236	office	unfollow karyu	અનફોલો કર્યું	editor	unreviewed			
+1237	office	block karyo	બ્લોક કર્યો	editor	unreviewed			
+1238	office	report karyu	રિપોર્ટ કર્યું	editor	unreviewed			
+1239	office	spam che	સ્પામ છે	editor	unreviewed			
+1240	office	fake id che	ફેક આઇડી છે	editor	unreviewed			
+1241	office	profile update kar	પ્રોફાઇલ અપડેટ કર	editor	unreviewed			
+1242	office	bio lakhi	બાયો લખી	editor	unreviewed			
+1243	office	dp badli	ડીપી બદલી	editor	unreviewed			
+1244	office	cover photo	કવર ફોટો	editor	unreviewed			
+1245	office	group banavyo	ગ્રુપ બનાવ્યો	editor	unreviewed			
+1246	office	admin banavyo	એડમિન બનાવ્યો	editor	unreviewed			
+1247	office	member kadhyo	મેમ્બર કાઢ્યો	editor	unreviewed			
+1248	office	mute karyu	મ્યુટ કર્યું	editor	unreviewed			
+1249	office	pin message	પિન મેસેજ	editor	unreviewed			
+1250	office	forward karo	ફોરવર્ડ કરો	editor	unreviewed			
+1251	office	reply aapo	રિપ્લાય આપો	editor	unreviewed			
+1252	office	seen thai gayu	સીન થઈ ગયું	editor	unreviewed			
+1253	office	typing che	ટાઇપિંગ છે	editor	unreviewed			
+1254	office	online aavyo	ઓનલાઇન આવ્યો	editor	unreviewed			
+1255	office	last seen kal	લાસ્ટ સીન કાલ	editor	unreviewed			
+1256	office	hu busy hatо	હું બિઝી હતો	editor	unreviewed			
+1257	office	pachi call karu	પછી કોલ કરું	editor	unreviewed			
+1258	office	network nathi	નેટવર્ક નથી	editor	unreviewed			
+1259	office	signal weak che	સિગ્નલ વીક છે	editor	unreviewed			
+1260	office	recharge karav	રિચાર્જ કરાવ	editor	unreviewed			
+1261	office	balance khatam	બેલેન્સ ખતમ	editor	unreviewed			
+1262	office	data pack	ડેટા પેક	editor	unreviewed			
+1263	office	wifi password	વાઇફાઇ પાસવર્ડ	editor	unreviewed			
+1264	office	hotspot on kar	હોટસ્પોટ ઓન કર	editor	unreviewed			
+1265	office	bluetooth on	બ્લૂટૂથ ઓન	editor	unreviewed			
+1266	office	location on kar	લોકેશન ઓન કર	editor	unreviewed			
+1267	office	map kholo	મેપ ખોલો	editor	unreviewed			
+1268	sentence	rasta batavo	રસ્તો બતાવો	editor	unreviewed			
+1269	sentence	traffic che	ટ્રાફિક છે	editor	unreviewed			
+1270	sentence	shortcut le	શોર્ટકટ લે	editor	unreviewed			
+1271	sentence	ghar pohchi gayo	ઘર પહોંચી ગયો	editor	unreviewed			
+1272	office	safe journey	સેફ જર્ની	editor	unreviewed			
+1273	sentence	khush rahiye	ખુશ રહીએ	editor	unreviewed			
+1274	sentence	milie pachi	મળીએ પછી	editor	unreviewed			
+1275	sentence	ram ram	રામ રામ	editor	unreviewed			
+1276	religious	jai shri ram	જય શ્રી રામ	editor	unreviewed			
+1277	religious	har har mahadev	હર હર મહાદેવ	editor	unreviewed			
+1278	religious	jay mataji	જય માતાજી	editor	unreviewed			
+1279	sentence	aavjo bhai	આવજો ભાઈ	editor	unreviewed			
+1280	sentence	aavjo ben	આવજો બેન	editor	unreviewed			
+1281	sentence	saru chhe	સારું છે	editor	unreviewed			
+1282	sentence	biju kai nathi	બીજું કાંઈ નથી	editor	unreviewed			
+1283	sentence	etle shu	એટલે શું	editor	unreviewed			
+1284	sentence	samjyu?	સમજ્યું?	editor	unreviewed			
+1285	sentence	ha samjyu	હા સમજ્યું	editor	unreviewed			
+1286	sentence	fari kaho	ફરી કહો	editor	unreviewed			
+1287	sentence	dhime bolo	ધીમે બોલો	editor	unreviewed			
+1288	sentence	motu bolo	મોટેથી બોલો	editor	unreviewed			
+1289	sentence	lakhine aapo	લખીને આપો	editor	unreviewed			
+1290	sentence	vachi ne kaho	વાંચીને કહો	editor	unreviewed			
+1291	sentence	yaad che?	યાદ છે?	editor	unreviewed			
+1292	sentence	bhuli gayo	ભૂલી ગયો	editor	unreviewed			
+1293	sentence	yaad aavi gayu	યાદ આવી ગયું	editor	unreviewed			
+1294	sentence	sambhali lo	સાંભળી લો	editor	unreviewed			
+1295	sentence	joi lo	જોઈ લો	editor	unreviewed			
+1296	sentence	karine aapo	કરીને આપો	editor	unreviewed			
+1297	sentence	lai lo	લઈ લો	editor	unreviewed			
+1298	sentence	mukine jao	મૂકીને જાઓ	editor	unreviewed			
+1299	sentence	beso ne	બેસો ને	editor	unreviewed			
+1300	sentence	jao ne	જાઓ ને	editor	unreviewed			
+1301	sentence	aavo ne	આવો ને	editor	unreviewed			
+1302	sentence	khao ne	ખાઓ ને	editor	unreviewed			
+1303	sentence	piyo ne	પીઓ ને	editor	unreviewed			
+1304	sentence	haso ne	હસો ને	editor	unreviewed			
+1305	sentence	rudo nathi	રડો નથી	editor	unreviewed			
+1306	sentence	ghabrao nathi	ગભરાઓ નથી	editor	unreviewed			
+1307	sentence	sambhalo	સાંભળો	editor	unreviewed			
+1308	sentence	vicharo	વિચારો	editor	unreviewed			
+1309	sentence	nirnay karo	નિર્ણય કરો	editor	unreviewed			
+1310	sentence	raji cho?	રાજી છો?	editor	unreviewed			
+1311	sentence	ha raji chu	હા રાજી છું	editor	unreviewed			
+1312	sentence	na raji nathi	ના રાજી નથી	editor	unreviewed			
+1313	sentence	pachi joiye	પછી જોઈએ	editor	unreviewed			
+1314	sentence	have joiye	હવે જોઈએ	editor	unreviewed			
+1315	sentence	aaje j nathi	આજે જ નથી	editor	unreviewed			
+1316	sentence	kale j	કાલે જ	editor	unreviewed			
+1317	sentence	have j	હવે જ	editor	unreviewed			
+1318	sentence	pachhu aav	પાછા આવ	editor	unreviewed			
+1319	sentence	andar aav	અંદર આવ	editor	unreviewed			
+1320	sentence	bahar ja	બહાર જા	editor	unreviewed			
+1321	sentence	upar ja	ઉપર જા	editor	unreviewed			
+1322	sentence	niche aav	નીચે આવ	editor	unreviewed			
+1323	sentence	saame juo	સામે જુઓ	editor	unreviewed			
+1324	sentence	pachhal juo	પાછળ જુઓ	editor	unreviewed			
+1325	sentence	dabe juo	ડાબે જુઓ	editor	unreviewed			
+1326	sentence	jamne juo	જમણે જુઓ	editor	unreviewed			
+1327	sentence	seedha juo	સીધું જુઓ	editor	unreviewed			
+1328	sentence	dhime dhime	ધીમે ધીમે	editor	unreviewed			
+1329	sentence	ekdam	એકદમ	editor	unreviewed			
+1330	sentence	bilkul	બિલકુલ	editor	unreviewed			
+1331	sentence	jarur	જરૂર	editor	unreviewed			
+1332	sentence	shayad	કદાચ	editor	unreviewed			
+1333	sentence	pakku	પાક્કું	editor	unreviewed			
+1334	sentence	kharekhar	ખરેખર	editor	unreviewed			
+1335	sentence	sachu	સાચું	editor	unreviewed			
+1336	sentence	khotu	ખોટું	editor	unreviewed			
+1337	sentence	saras	સરસ	editor	unreviewed			
+1338	sentence	mast	મસ્ત	editor	unreviewed			
+1339	sentence	bapre	બાપરે	editor	unreviewed			
+1340	sentence	are wah	અરે વાહ	editor	unreviewed			
+1341	sentence	shabash	શાબાશ	editor	unreviewed			
+1342	family	vah bete	વાહ બેટા	editor	unreviewed			
+1343	family	saru dikra	સારું દીકરા	editor	unreviewed			
+1344	family	aavjo dikri	આવજો દીકરી	editor	unreviewed			
+1345	family	mari jaan	મારી જાન	editor	unreviewed			
+1346	family	mara raja	મારા રાજા	editor	unreviewed			
+1347	family	mara bhai	મારા ભાઈ	editor	unreviewed			
+1348	family	mari ben	મારી બહેન	editor	unreviewed			
+1349	family	amara ba	અમારા બા	editor	unreviewed			
+1350	family	amara bapu	અમારા બાપુ	editor	unreviewed			
+1351	family	dada dadi	દાદા દાદી	editor	unreviewed			
+1352	family	nana nani	નાના નાની	editor	unreviewed			
+1353	family	kaka kaki	કાકા કાકી	editor	unreviewed			
+1354	family	mama mami	મામા મામી	editor	unreviewed			
+1355	family	masa masi	માસા માસી	editor	unreviewed			
+1356	family	fua foi	ફુઆ ફોઈ	editor	unreviewed			
+1357	family	jeth jethani	જેઠ જેઠાણી	editor	unreviewed			
+1358	family	devar derani	દેવર દેરાણી	editor	unreviewed			
+1359	family	nanand bhabhi	નણંદ ભાભી	editor	unreviewed			
+1360	family	sasu sasra	સાસુ સસરા	editor	unreviewed			
+1361	family	vahuki	વહુ	editor	unreviewed			
+1362	family	jamai	જમાઈ	editor	unreviewed			
+1363	family	putra vadhu	પુત્રવધૂ	editor	unreviewed			
+1364	family	parivar sathe	પરિવાર સાથે	editor	unreviewed			
+1365	family	kutumb sathe	કુટુંબ સાથે	editor	unreviewed			
+1366	family	mehman navaz	મહેમાન નવાજ	editor	unreviewed			
+1367	sentence	roti pani	રોટી પાણી	editor	unreviewed			
+1368	sentence	dal bhat	દાળ ભાત	editor	unreviewed			
+1369	sentence	shaak roti	શાક રોટી	editor	unreviewed			
+1370	sentence	khichdi kadhi	ખીચડી કઢી	editor	unreviewed			
+1371	sentence	dudh roti	દૂધ રોટી	editor	unreviewed			
+1372	sentence	cha nasto	ચા નાસ્તો	editor	unreviewed			
+1373	sentence	mitho bhaat	મીઠો ભાત	editor	unreviewed			
+1374	sentence	tikhu shaak	તીખું શાક	editor	unreviewed			
+1375	sentence	ghar nu khavanu	ઘરનું ખાવાનું	editor	unreviewed			
+1376	sentence	maa na hath nu	મા ના હાથ નું	editor	unreviewed			
+1377	sentence	bhukh lagi che	ભૂખ લાગી છે	editor	unreviewed			
+1378	sentence	taras lagi che	તરસ લાગી છે	editor	unreviewed			
+1379	sentence	pet bhari gayu	પેટ ભરાઈ ગયું	editor	unreviewed			
+1380	sentence	biju nathi joitu	બીજું નથી જોઈતું	editor	unreviewed			
+1381	sentence	bas etlu purtu	બસ એટલું પૂરતું	editor	unreviewed			
+1382	sentence	swad saras che	સ્વાદ સરસ છે	editor	unreviewed			
+1383	sentence	lodhu che	લોઢું છે	editor	unreviewed			
+1384	sentence	mithas ochhi che	મીઠાશ ઓછી છે	editor	unreviewed			
+1385	sentence	namak vadhare che	નમક વધારે છે	editor	unreviewed			
+1386	sentence	tel ochhu nakho	તેલ ઓછું નાખો	editor	unreviewed			
+1387	sentence	masalo ochhu	મસાલો ઓછો	editor	unreviewed			
+1388	common	hu ghar ma chu	હું ઘર માં છું	sure	unreviewed			
+1389	common	tame ghar ma cho	તમે ઘર માં છો	sure	unreviewed			
+1390	common	te ghar ma che	તે ઘર માં છે	sure	unreviewed			
+1391	common	mare ghar ma javanu che	મારે ઘર માં જવાનું છે	sure	unreviewed			
+1392	common	hu office ma chu	હું ઓફિસ માં છું	sure	unreviewed			
+1393	common	tame office ma cho	તમે ઓફિસ માં છો	sure	unreviewed			
+1394	common	te office ma che	તે ઓફિસ માં છે	sure	unreviewed			
+1395	common	mare office ma javanu che	મારે ઓફિસ માં જવાનું છે	sure	unreviewed			
+1396	common	hu school ma chu	હું સ્કૂલ માં છું	sure	unreviewed			
+1397	common	tame school ma cho	તમે સ્કૂલ માં છો	sure	unreviewed			
+1398	common	te school ma che	તે સ્કૂલ માં છે	sure	unreviewed			
+1399	common	mare school ma javanu che	મારે સ્કૂલ માં જવાનું છે	sure	unreviewed			
+1400	common	hu college ma chu	હું કોલેજ માં છું	sure	unreviewed			
+1401	common	tame college ma cho	તમે કોલેજ માં છો	sure	unreviewed			
+1402	common	te college ma che	તે કોલેજ માં છે	sure	unreviewed			
+1403	common	mare college ma javanu che	મારે કોલેજ માં જવાનું છે	sure	unreviewed			
+1404	common	hu hospital ma chu	હું હોસ્પિટલ માં છું	sure	unreviewed			
+1405	common	tame hospital ma cho	તમે હોસ્પિટલ માં છો	sure	unreviewed			
+1406	common	te hospital ma che	તે હોસ્પિટલ માં છે	sure	unreviewed			
+1407	common	mare hospital ma javanu che	મારે હોસ્પિટલ માં જવાનું છે	sure	unreviewed			
+1408	common	hu market ma chu	હું માર્કેટ માં છું	sure	unreviewed			
+1409	common	tame market ma cho	તમે માર્કેટ માં છો	sure	unreviewed			
+1410	common	te market ma che	તે માર્કેટ માં છે	sure	unreviewed			
+1411	common	mare market ma javanu che	મારે માર્કેટ માં જવાનું છે	sure	unreviewed			
+1412	common	hu bank ma chu	હું બેંક માં છું	sure	unreviewed			
+1413	common	tame bank ma cho	તમે બેંક માં છો	sure	unreviewed			
+1414	common	te bank ma che	તે બેંક માં છે	sure	unreviewed			
+1415	common	mare bank ma javanu che	મારે બેંક માં જવાનું છે	sure	unreviewed			
+1416	common	hu hotel ma chu	હું હોટલ માં છું	sure	unreviewed			
+1417	common	tame hotel ma cho	તમે હોટલ માં છો	sure	unreviewed			
+1418	common	te hotel ma che	તે હોટલ માં છે	sure	unreviewed			
+1419	common	mare hotel ma javanu che	મારે હોટલ માં જવાનું છે	sure	unreviewed			
+1420	common	hu shop ma chu	હું શોપ માં છું	sure	unreviewed			
+1421	common	tame shop ma cho	તમે શોપ માં છો	sure	unreviewed			
+1422	common	te shop ma che	તે શોપ માં છે	sure	unreviewed			
+1423	common	mare shop ma javanu che	મારે શોપ માં જવાનું છે	sure	unreviewed			
+1424	common	hu station ma chu	હું સ્ટેશન માં છું	sure	unreviewed			
+1425	common	tame station ma cho	તમે સ્ટેશન માં છો	sure	unreviewed			
+1426	common	te station ma che	તે સ્ટેશન માં છે	sure	unreviewed			
+1427	common	mare station ma javanu che	મારે સ્ટેશન માં જવાનું છે	sure	unreviewed			
+1428	common	hu room ma chu	હું રૂમ માં છું	sure	unreviewed			
+1429	common	tame room ma cho	તમે રૂમ માં છો	sure	unreviewed			
+1430	common	te room ma che	તે રૂમ માં છે	sure	unreviewed			
+1431	common	mare room ma javanu che	મારે રૂમ માં જવાનું છે	sure	unreviewed			
+1432	common	hu class ma chu	હું ક્લાસ માં છું	sure	unreviewed			
+1433	common	tame class ma cho	તમે ક્લાસ માં છો	sure	unreviewed			
+1434	common	te class ma che	તે ક્લાસ માં છે	sure	unreviewed			
+1435	common	mare class ma javanu che	મારે ક્લાસ માં જવાનું છે	sure	unreviewed			
+1436	office	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	sure	unreviewed			
+1437	sentence	tame mane payment karjo	તમે મને પેમેન્ટ કરજો	sure	unreviewed			
+1438	office	hu payment kari didhu	હું પેમેન્ટ કરી દીધું	sure	unreviewed			
+1439	sentence	shu payment karvanu che	શું પેમેન્ટ કરવાનું છે	sure	unreviewed			
+1440	office	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	sure	unreviewed			
+1441	sentence	tame mane meeting karjo	તમે મને મીટિંગ કરજો	sure	unreviewed			
+1442	office	hu meeting kari didhu	હું મીટિંગ કરી દીધું	sure	unreviewed			
+1443	sentence	shu meeting karvanu che	શું મીટિંગ કરવાનું છે	sure	unreviewed			
+1444	office	aaje call karvanu che	આજે કોલ કરવાનું છે	sure	unreviewed			
+1445	sentence	tame mane call karjo	તમે મને કોલ કરજો	sure	unreviewed			
+1446	office	hu call kari didhu	હું કોલ કરી દીધું	sure	unreviewed			
+1447	sentence	shu call karvanu che	શું કોલ કરવાનું છે	sure	unreviewed			
+1448	office	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	sure	unreviewed			
+1449	sentence	tame mane project karjo	તમે મને પ્રોજેક્ટ કરજો	sure	unreviewed			
+1450	office	hu project kari didhu	હું પ્રોજેક્ટ કરી દીધું	sure	unreviewed			
+1451	sentence	shu project karvanu che	શું પ્રોજેક્ટ કરવાનું છે	sure	unreviewed			
+1452	office	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	sure	unreviewed			
+1453	sentence	tame mane report karjo	તમે મને રિપોર્ટ કરજો	sure	unreviewed			
+1454	office	hu report kari didhu	હું રિપોર્ટ કરી દીધું	sure	unreviewed			
+1455	sentence	shu report karvanu che	શું રિપોર્ટ કરવાનું છે	sure	unreviewed			
+1456	office	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	sure	unreviewed			
+1457	sentence	tame mane order karjo	તમે મને ઓર્ડર કરજો	sure	unreviewed			
+1458	office	hu order kari didhu	હું ઓર્ડર કરી દીધું	sure	unreviewed			
+1459	sentence	shu order karvanu che	શું ઓર્ડર કરવાનું છે	sure	unreviewed			
+1460	office	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	sure	unreviewed			
+1461	sentence	tame mane plan karjo	તમે મને પ્લાન કરજો	sure	unreviewed			
+1462	office	hu plan kari didhu	હું પ્લાન કરી દીધું	sure	unreviewed			
+1463	sentence	shu plan karvanu che	શું પ્લાન કરવાનું છે	sure	unreviewed			
+1464	office	aaje update karvanu che	આજે અપડેટ કરવાનું છે	sure	unreviewed			
+1465	sentence	tame mane update karjo	તમે મને અપડેટ કરજો	sure	unreviewed			
+1466	office	hu update kari didhu	હું અપડેટ કરી દીધું	sure	unreviewed			
+1467	sentence	shu update karvanu che	શું અપડેટ કરવાનું છે	sure	unreviewed			
+1468	office	aaje check karvanu che	આજે ચેક કરવાનું છે	sure	unreviewed			
+1469	sentence	tame mane check karjo	તમે મને ચેક કરજો	sure	unreviewed			
+1470	office	hu check kari didhu	હું ચેક કરી દીધું	sure	unreviewed			
+1471	sentence	shu check karvanu che	શું ચેક કરવાનું છે	sure	unreviewed			
+1472	office	aaje kaam karvanu che	આજે કામ કરવાનું છે	sure	unreviewed			
+1473	sentence	tame mane kaam karjo	તમે મને કામ કરજો	sure	unreviewed			
+1474	office	hu kaam kari didhu	હું કામ કરી દીધું	sure	unreviewed			
+1475	sentence	shu kaam karvanu che	શું કામ કરવાનું છે	sure	unreviewed			
+1476	sentence	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	sure	unreviewed			
+1477	office	hu document moklu chu	હું ડોક્યુમેન્ટ મોકલું છું	sure	unreviewed			
+1478	office	tamaro document mali gayo	તમારો ડોક્યુમેન્ટ મળી ગયો	sure	unreviewed			
+1479	office	please document moklo	પ્લીઝ ડોક્યુમેન્ટ મોકલો	sure	unreviewed			
+1480	sentence	aa file mokli aapjo	આ ફાઇલ મોકલી આપજો	sure	unreviewed			
+1481	office	hu file moklu chu	હું ફાઇલ મોકલું છું	sure	unreviewed			
+1482	office	tamaro file mali gayo	તમારો ફાઇલ મળી ગયો	sure	unreviewed			
+1483	office	please file moklo	પ્લીઝ ફાઇલ મોકલો	sure	unreviewed			
+1484	sentence	aa photo mokli aapjo	આ ફોટો મોકલી આપજો	sure	unreviewed			
+1485	office	hu photo moklu chu	હું ફોટો મોકલું છું	sure	unreviewed			
+1486	office	tamaro photo mali gayo	તમારો ફોટો મળી ગયો	sure	unreviewed			
+1487	office	please photo moklo	પ્લીઝ ફોટો મોકલો	sure	unreviewed			
+1488	sentence	aa report mokli aapjo	આ રિપોર્ટ મોકલી આપજો	sure	unreviewed			
+1489	office	hu report moklu chu	હું રિપોર્ટ મોકલું છું	sure	unreviewed			
+1490	office	tamaro report mali gayo	તમારો રિપોર્ટ મળી ગયો	sure	unreviewed			
+1491	office	please report moklo	પ્લીઝ રિપોર્ટ મોકલો	sure	unreviewed			
+1492	sentence	aa message mokli aapjo	આ મેસેજ મોકલી આપજો	sure	unreviewed			
+1493	office	tamaro message mali gayo	તમારો મેસેજ મળી ગયો	sure	unreviewed			
+1494	office	please message moklo	પ્લીઝ મેસેજ મોકલો	sure	unreviewed			
+1495	sentence	aa email mokli aapjo	આ ઈમેલ મોકલી આપજો	sure	unreviewed			
+1496	office	hu email moklu chu	હું ઈમેલ મોકલું છું	sure	unreviewed			
+1497	office	tamaro email mali gayo	તમારો ઈમેલ મળી ગયો	sure	unreviewed			
+1498	office	please email moklo	પ્લીઝ ઈમેલ મોકલો	sure	unreviewed			
+1499	sentence	aa list mokli aapjo	આ લિસ્ટ મોકલી આપજો	sure	unreviewed			
+1500	office	hu list moklu chu	હું લિસ્ટ મોકલું છું	sure	unreviewed			
+1501	office	tamaro list mali gayo	તમારો લિસ્ટ મળી ગયો	sure	unreviewed			
+1502	office	please list moklo	પ્લીઝ લિસ્ટ મોકલો	sure	unreviewed			
+1503	sentence	aa form mokli aapjo	આ ફોર્મ મોકલી આપજો	sure	unreviewed			
+1504	office	hu form moklu chu	હું ફોર્મ મોકલું છું	sure	unreviewed			
+1505	office	tamaro form mali gayo	તમારો ફોર્મ મળી ગયો	sure	unreviewed			
+1506	office	please form moklo	પ્લીઝ ફોર્મ મોકલો	sure	unreviewed			
+1507	sentence	aa copy mokli aapjo	આ કોપી મોકલી આપજો	sure	unreviewed			
+1508	office	hu copy moklu chu	હું કોપી મોકલું છું	sure	unreviewed			
+1509	office	tamaro copy mali gayo	તમારો કોપી મળી ગયો	sure	unreviewed			
+1510	office	please copy moklo	પ્લીઝ કોપી મોકલો	sure	unreviewed			
+1511	sentence	aa invoice mokli aapjo	આ ઇન્વોઇસ મોકલી આપજો	sure	unreviewed			
+1512	office	hu invoice moklu chu	હું ઇન્વોઇસ મોકલું છું	sure	unreviewed			
+1513	office	tamaro invoice mali gayo	તમારો ઇન્વોઇસ મળી ગયો	sure	unreviewed			
+1514	office	please invoice moklo	પ્લીઝ ઇન્વોઇસ મોકલો	sure	unreviewed			
+1515	family	mane chai joiye	મને ચા જોઈએ	sure	unreviewed			
+1516	common	tame chai leso	તમે ચા લેશો	sure	unreviewed			
+1517	sentence	chai aapo	ચા આપો	sure	unreviewed			
+1518	family	mane pani joiye	મને પાણી જોઈએ	sure	unreviewed			
+1519	common	tame pani leso	તમે પાણી લેશો	sure	unreviewed			
+1520	sentence	pani aapo	પાણી આપો	sure	unreviewed			
+1521	family	mane roti joiye	મને રોટી જોઈએ	sure	unreviewed			
+1522	common	tame roti leso	તમે રોટી લેશો	sure	unreviewed			
+1523	sentence	roti aapo	રોટી આપો	sure	unreviewed			
+1524	family	mane dal joiye	મને દાળ જોઈએ	sure	unreviewed			
+1525	common	tame dal leso	તમે દાળ લેશો	sure	unreviewed			
+1526	sentence	dal aapo	દાળ આપો	sure	unreviewed			
+1527	family	mane bhat joiye	મને ભાત જોઈએ	sure	unreviewed			
+1528	common	tame bhat leso	તમે ભાત લેશો	sure	unreviewed			
+1529	sentence	bhat aapo	ભાત આપો	sure	unreviewed			
+1530	family	mane shaak joiye	મને શાક જોઈએ	sure	unreviewed			
+1531	common	tame shaak leso	તમે શાક લેશો	sure	unreviewed			
+1532	sentence	shaak aapo	શાક આપો	sure	unreviewed			
+1533	family	mane doodh joiye	મને દૂધ જોઈએ	sure	unreviewed			
+1534	common	tame doodh leso	તમે દૂધ લેશો	sure	unreviewed			
+1535	sentence	doodh aapo	દૂધ આપો	sure	unreviewed			
+1536	family	mane coffee joiye	મને કોફી જોઈએ	review	unreviewed			
+1537	common	tame coffee leso	તમે કોફી લેશો	review	unreviewed			
+1538	sentence	coffee aapo	કોફી આપો	review	unreviewed			
+1539	family	mari maa ghar ma che	મારી મા ઘર માં છે	sure	unreviewed			
+1540	family	tamaro maa kyare aavshe	તમારો મા ક્યારે આવશે	sure	unreviewed			
+1541	sentence	maa kem nathi aavya	મા કેમ નથી આવ્યા	sure	unreviewed			
+1542	family	mari bhai ghar ma che	મારી ભાઈ ઘર માં છે	sure	unreviewed			
+1543	family	tamaro bhai kyare aavshe	તમારો ભાઈ ક્યારે આવશે	sure	unreviewed			
+1544	sentence	bhai kem nathi aavya	ભાઈ કેમ નથી આવ્યા	sure	unreviewed			
+1545	family	mari ben ghar ma che	મારી બહેન ઘર માં છે	sure	unreviewed			
+1546	family	tamaro ben kyare aavshe	તમારો બહેન ક્યારે આવશે	sure	unreviewed			
+1547	sentence	ben kem nathi aavya	બહેન કેમ નથી આવ્યા	sure	unreviewed			
+1548	family	mari papa ghar ma che	મારી પપ્પા ઘર માં છે	sure	unreviewed			
+1549	family	tamaro papa kyare aavshe	તમારો પપ્પા ક્યારે આવશે	sure	unreviewed			
+1550	sentence	papa kem nathi aavya	પપ્પા કેમ નથી આવ્યા	sure	unreviewed			
+1551	family	mari dada ghar ma che	મારી દાદા ઘર માં છે	sure	unreviewed			
+1552	family	tamaro dada kyare aavshe	તમારો દાદા ક્યારે આવશે	sure	unreviewed			
+1553	sentence	dada kem nathi aavya	દાદા કેમ નથી આવ્યા	sure	unreviewed			
+1554	family	mari dadi ghar ma che	મારી દાદી ઘર માં છે	sure	unreviewed			
+1555	family	tamaro dadi kyare aavshe	તમારો દાદી ક્યારે આવશે	sure	unreviewed			
+1556	sentence	dadi kem nathi aavya	દાદી કેમ નથી આવ્યા	sure	unreviewed			
+1557	family	mari kaka ghar ma che	મારી કાકા ઘર માં છે	sure	unreviewed			
+1558	family	tamaro kaka kyare aavshe	તમારો કાકા ક્યારે આવશે	sure	unreviewed			
+1559	sentence	kaka kem nathi aavya	કાકા કેમ નથી આવ્યા	sure	unreviewed			
+1560	family	mari mami ghar ma che	મારી મામી ઘર માં છે	sure	unreviewed			
+1561	family	tamaro mami kyare aavshe	તમારો મામી ક્યારે આવશે	sure	unreviewed			
+1562	sentence	mami kem nathi aavya	મામી કેમ નથી આવ્યા	sure	unreviewed			
+1563	proper	hu amdavad ma chu	હું અમદાવાદ માં છું	sure	unreviewed			
+1564	proper	tame amdavad kyare javana cho	તમે અમદાવાદ ક્યારે જવાના છો	review	unreviewed			
+1565	common	gaadi amdavad jaay che	ગાડી અમદાવાદ જાય છે	review	unreviewed			
+1566	proper	hu surat ma chu	હું સુરત માં છું	sure	unreviewed			
+1567	proper	tame surat kyare javana cho	તમે સુરત ક્યારે જવાના છો	review	unreviewed			
+1568	common	gaadi surat jaay che	ગાડી સુરત જાય છે	review	unreviewed			
+1569	proper	hu rajkot ma chu	હું રાજકોટ માં છું	sure	unreviewed			
+1570	proper	tame rajkot kyare javana cho	તમે રાજકોટ ક્યારે જવાના છો	review	unreviewed			
+1571	common	gaadi rajkot jaay che	ગાડી રાજકોટ જાય છે	review	unreviewed			
+1572	proper	hu vadodara ma chu	હું વડોદરા માં છું	sure	unreviewed			
+1573	proper	tame vadodara kyare javana cho	તમે વડોદરા ક્યારે જવાના છો	review	unreviewed			
+1574	common	gaadi vadodara jaay che	ગાડી વડોદરા જાય છે	review	unreviewed			
+1575	proper	hu bhavnagar ma chu	હું ભાવનગર માં છું	sure	unreviewed			
+1576	proper	tame bhavnagar kyare javana cho	તમે ભાવનગર ક્યારે જવાના છો	review	unreviewed			
+1577	common	gaadi bhavnagar jaay che	ગાડી ભાવનગર જાય છે	review	unreviewed			
+1578	proper	hu junagadh ma chu	હું જૂનાગઢ માં છું	sure	unreviewed			
+1579	proper	tame junagadh kyare javana cho	તમે જૂનાગઢ ક્યારે જવાના છો	review	unreviewed			
+1580	common	gaadi junagadh jaay che	ગાડી જૂનાગઢ જાય છે	review	unreviewed			
+1581	proper	hu gandhinagar ma chu	હું ગાંધીનગર માં છું	sure	unreviewed			
+1582	proper	tame gandhinagar kyare javana cho	તમે ગાંધીનગર ક્યારે જવાના છો	review	unreviewed			
+1583	common	gaadi gandhinagar jaay che	ગાડી ગાંધીનગર જાય છે	review	unreviewed			
+1584	proper	hu bhuj ma chu	હું ભુજ માં છું	sure	unreviewed			
+1585	proper	tame bhuj kyare javana cho	તમે ભુજ ક્યારે જવાના છો	review	unreviewed			
+1586	common	gaadi bhuj jaay che	ગાડી ભુજ જાય છે	review	unreviewed			
+1587	sentence	tame kyare aavsho	તમે ક્યારે આવશો	sure	unreviewed			
+1588	sentence	hu shu karu	હું શું કરું	sure	unreviewed			
+1589	sentence	aa shu che	આ શું છે	sure	unreviewed			
+1590	sentence	e kya che	એ ક્યાં છે	sure	unreviewed			
+1591	sentence	paani kevu che	પાણી કેવું છે	sure	unreviewed			
+1592	sentence	chai kevi che	ચા કેવી છે	sure	unreviewed			
+1593	sentence	tame rite samjya	તમે રીતે સમજ્યા	review	unreviewed			
+1594	sentence	hu have aavu	હું હવે આવું	sure	unreviewed			
+1595	sentence	tame aavya ke nahi	તમે આવ્યા કે નહીં	sure	unreviewed			
+1596	sentence	phone kyare karsho	ફોન ક્યારે કરશો	sure	unreviewed			
+1597	sentence	message malyo ke nahi	મેસેજ મળ્યો કે નહીં	sure	unreviewed			
+1598	sentence	office khuli che	ઓફિસ ખુલી છે	review	unreviewed			
+1599	sentence	meeting ketli vage che	મીટિંગ કેટલી વાગે છે	sure	unreviewed			
+1600	sentence	please beso	પ્લીઝ બેસો	sure	unreviewed			
+1601	sentence	darvajo kholo	દરવાજો ખોલો	sure	unreviewed			
+1602	sentence	light bandh karo	લાઇટ બંધ કરો	sure	unreviewed			
+1603	sentence	fan chaloo karo	ફેન ચાલુ કરો	review	unreviewed			
+1604	sentence	file save karo	ફાઇલ સેવ કરો	sure	unreviewed			
+1605	sentence	photo moklo	ફોટો મોકલો	sure	unreviewed			
+1606	sentence	call karjo	કોલ કરજો	sure	unreviewed			
+1607	sentence	message vachjo	મેસેજ વાંચજો	sure	unreviewed			
+1608	sentence	report lakho	રિપોર્ટ લખો	sure	unreviewed			
+1609	sentence	please madad karo	પ્લીઝ મદદ કરો	sure	unreviewed			
+1610	sentence	aa form bharjo	આ ફોર્મ ભરજો	sure	unreviewed			
+1611	sentence	copy kari aapo	કોપી કરી આપો	sure	unreviewed			
+1612	sentence	print kari aapo	પ્રિન્ટ કરી આપો	sure	unreviewed			
+1613	common	aaje bahu saru che	આજે બહુ સારું છે	sure	unreviewed			
+1614	common	have ghar javu che	હવે ઘર જવું છે	sure	unreviewed			
+1615	common	hu thaki gayo chu	હું થાકી ગયો છું	review	unreviewed			
+1616	common	mari tabiyat saru nathi	મારી તબિયત સારી નથી	sure	unreviewed			
+1617	common	tame jem karjo	તમે જમ કરજો	review	unreviewed			
+1618	common	baju ma beso	બાજુ માં બેસો	review	unreviewed			
+1619	common	bahar varsad che	બહાર વરસાદ છે	sure	unreviewed			
+1620	common	andar thandak che	અંદર ઠંડક છે	review	unreviewed			
+1621	common	hu sau ne kahi didhu	હું સૌ ને કહી દીધું	sure	unreviewed			
+1622	common	ame saathe jaishu	અમે સાથે જઈશું	sure	unreviewed			
+1623	common	tame pan aavjo	તમે પણ આવજો	sure	unreviewed			
+1624	common	have nathi thatu	હવે નથી થતું	sure	unreviewed			
+1625	common	pachi vaat karishu	પછી વાત કરીશું	sure	unreviewed			
+1626	common	hu ghar thi kaam karu chu	હું ઘર થી કામ કરું છું	sure	unreviewed			
+1627	common	aapde kale vaat karishu	આપણે કાલે વાત કરીશું	sure	unreviewed			
+1628	common	raat e jova javanu che	રાત એ જોવા જવાનું છે	review	unreviewed			
+1629	common	savare jaldi utishu	સવારે જલ્દી ઊઠીશું	review	unreviewed			
+1630	common	bachcha ramva gayela	બચ્ચા રમવા ગયેલા	review	unreviewed			
+1631	common	maa rasoi ma che	મા રસોઈ માં છે	sure	unreviewed			
+1632	common	papa office thi aavshe	પપ્પા ઓફિસ થી આવશે	sure	unreviewed			
+1633	family	bhai school gayo	ભાઈ સ્કૂલ ગયો	sure	unreviewed			
+1634	family	ben college ma che	બહેન કોલેજ માં છે	sure	unreviewed			
+1635	family	dada katha kahe che	દાદા કથા કહે છે	sure	unreviewed			
+1636	family	dadi roti banave che	દાદી રોટી બનાવે છે	sure	unreviewed			
+1637	family	kaka phone karjo	કાકા ફોન કરજો	sure	unreviewed			
+1638	family	mami message moklo	મામી મેસેજ મોકલો	sure	unreviewed			
+1639	family	amne ghar jaanu che	અમને ઘર જવાનું છે	review	unreviewed			
+1640	family	tamne chai piye che	તમને ચા પીએ છે	review	unreviewed			
+1641	family	mari maa dakav jo	મારી મા ડાકવ જો	review	unreviewed			
+1642	family	papa ne kahi do	પપ્પા ને કહી દો	sure	unreviewed			
+1643	family	bhai ne call karjo	ભાઈ ને કોલ કરજો	sure	unreviewed			
+1644	family	ben photo moklse	બહેન ફોટો મોકલશે	sure	unreviewed			
+1645	family	ame raat e jamvana chhiye	અમે રાત એ જમવાના છીએ	review	unreviewed			
+1646	family	tame savare aavjo	તમે સવારે આવજો	sure	unreviewed			
+1647	family	hu have nikhdyo chu	હું હવે નીકળ્યો છું	review	unreviewed			
+1648	office	hu office ma chu	હું ઓફિસ માં છું	sure	unreviewed			
+1649	office	mare meeting ma javanu che	મારે મીટિંગ માં જવાનું છે	sure	unreviewed			
+1650	office	tame mane call karjo	તમે મને કોલ કરજો	sure	unreviewed			
+1651	office	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	sure	unreviewed			
+1652	office	please report check karo	પ્લીઝ રિપોર્ટ ચેક કરો	sure	unreviewed			
+1653	office	client ne mail karjo	ક્લાયન્ટ ને મેલ કરજો	review	unreviewed			
+1654	office	manager office ma che	મેનેજર ઓફિસ માં છે	sure	unreviewed			
+1655	office	salary account ma aavi	સેલરી એકાઉન્ટ માં આવી	sure	unreviewed			
+1656	office	project deadline kale che	પ્રોજેક્ટ ડેડલાઇન કાલે છે	sure	unreviewed			
+1657	office	aaje holiday che	આજે હોલિડે છે	sure	unreviewed			
+1658	office	team meeting pachi che	ટીમ મીટિંગ પછી છે	sure	unreviewed			
+1659	office	hu late chu	હું લેટ છું	sure	unreviewed			
+1660	office	laptop bandh che	લેપટોપ બંધ છે	sure	unreviewed			
+1661	office	status pending che	સ્ટેટસ પેન્ડિંગ છે	sure	unreviewed			
+1662	office	invoice print karo	ઇન્વોઇસ પ્રિન્ટ કરો	sure	unreviewed			
+1663	office	customer ne call karjo	કસ્ટમર ને કોલ કરજો	sure	unreviewed			
+1664	office	order confirm karo	ઓર્ડર કન્ફર્મ કરો	sure	unreviewed			
+1665	office	discount aapo	ડિસ્કાઉન્ટ આપો	sure	unreviewed			
+1666	office	price shu che	પ્રાઇસ શું છે	sure	unreviewed			
+1667	office	cash ke card	કેશ કે કાર્ડ	sure	unreviewed			
+1668	office	parcel aavyo	પાર્સલ આવ્યો	sure	unreviewed			
+1669	office	return karvanu che	રિટર્ન કરવાનું છે	sure	unreviewed			
+1670	office	warranty check karo	વોરંટી ચેક કરો	review	unreviewed			
+1671	office	gst bill joiye	જીએસટી બિલ જોઈએ	sure	unreviewed			
+1672	office	account balance shu che	એકાઉન્ટ બેલેન્સ શું છે	sure	unreviewed			
+1673	office	transfer kari didhu	ટ્રાન્સફર કરી દીધું	sure	unreviewed			
+1674	office	refund aavse	રિફંડ આવશે	review	unreviewed			
+1675	office	customer wait kare che	કસ્ટમર વેઇટ કરે છે	review	unreviewed			
+1676	office	shop bandh che	શોપ બંધ છે	sure	unreviewed			
+1677	office	market ma bhiad che	માર્કેટ માં ભીડ છે	review	unreviewed			
+1678	office	navo order aavyo	નવો ઓર્ડર આવ્યો	sure	unreviewed			
+1679	office	stock khatam che	સ્ટોક ખતમ છે	review	unreviewed			
+1680	office	invoice email karjo	ઇન્વોઇસ ઈમેલ કરજો	sure	unreviewed			
+1681	formal	aapne vinanti che	આપને વિનંતી છે	review	unreviewed			
+1682	formal	krupa kari jojo	કૃપા કરી જોજો	review	unreviewed			
+1683	formal	aavedan manjur karjo	આવેદન મંજૂર કરજો	review	unreviewed			
+1684	formal	suchna vachjo	સૂચના વાંચજો	sure	unreviewed			
+1685	formal	aadesh palvu	આદેશ પાળવું	review	unreviewed			
+1686	formal	sabha kale che	સભા કાલે છે	sure	unreviewed			
+1687	formal	pratibhav aapo	પ્રતિભાવ આપો	review	unreviewed			
+1688	formal	ahval mokli aapo	અહેવાલ મોકલી આપો	review	unreviewed			
+1689	formal	manyata aapjo	માન્યતા આપજો	sure	unreviewed			
+1690	formal	lekhan sampurn karyu	લેખન સંપૂર્ણ કર્યું	review	unreviewed			
+1691	formal	niyam palvanu che	નિયમ પાળવાનું છે	review	unreviewed			
+1692	formal	karyalay khullu che	કાર્યાલય ખુલ્લું છે	review	unreviewed			
+1693	formal	prashna puchjo	પ્રશ્ન પૂછજો	sure	unreviewed			
+1694	formal	uttar aapo	ઉત્તર આપો	sure	unreviewed			
+1695	formal	vivechan karjo	વિવેચન કરજો	review	unreviewed			
+1696	informal	hu gujarati bolu chu	હું ગુજરાતી બોલું છું	sure	unreviewed			
+1697	informal	aaje bahu saru che	આજે બહુ સારું છે	sure	unreviewed			
+1698	informal	mare ghar javu che	મારે ઘર જવું છે	sure	unreviewed			
+1699	informal	tame kem cho	તમે કેમ છો	sure	unreviewed			
+1700	informal	aapnu gujarat	આપણું ગુજરાત	sure	unreviewed			
+1701	informal	chal have nikalie	ચાલ હવે નીકળીએ	review	unreviewed			
+1702	informal	bas kar have	બસ કર હવે	sure	unreviewed			
+1703	informal	shu thai gayu	શું થઈ ગયું	sure	unreviewed			
+1704	informal	mane nathi khabar	મને નથી ખબર	sure	unreviewed			
+1705	informal	tame maja ma cho	તમે મજા માં છો	sure	unreviewed			
+1706	informal	hu free chu	હું ફ્રી છું	sure	unreviewed			
+1707	informal	tame busy cho	તમે બિઝી છો	sure	unreviewed			
+1708	informal	have aavish	હવે આવીશ	sure	unreviewed			
+1709	informal	pachi milishu	પછી મળીશું	review	unreviewed			
+1710	informal	saru lage che	સારું લાગે છે	sure	unreviewed			
+1711	informal	ochhu bol	ઓછું બોલ	sure	unreviewed			
+1712	informal	vadharo mat	વધારો મત	review	unreviewed			
+1713	informal	male che	મળે છે	sure	unreviewed			
+1714	informal	nathi maltu	નથી મળતું	sure	unreviewed			
+1715	informal	chaltu nathi	ચાલતું નથી	sure	unreviewed			
+1716	office	good morning	ગુડ મોર્નિંગ	sure	unreviewed			
+1717	office	ok done	ઓકે ડન	sure	unreviewed			
+1718	office	please confirm karo	પ્લીઝ કન્ફર્મ કરો	sure	unreviewed			
+1719	office	meeting cancel karo	મીટિંગ કેન્સલ કરો	sure	unreviewed			
+1720	office	call cut thai gayo	કોલ કટ થઈ ગયો	review	unreviewed			
+1721	office	network nathi aavtu	નેટવર્ક નથી આવતું	sure	unreviewed			
+1722	office	whatsapp par moklo	વોટ્સએપ પર મોકલો	sure	unreviewed			
+1723	office	google par shodho	ગૂગલ પર શોધો	sure	unreviewed			
+1724	office	photo upload karo	ફોટો અપલોડ કરો	sure	unreviewed			
+1725	office	file download karo	ફાઇલ ડાઉનલોડ કરો	sure	unreviewed			
+1726	office	password reset karo	પાસવર્ડ રિસેટ કરો	review	unreviewed			
+1727	office	login fail thai	લોગિન ફેલ થઈ	sure	unreviewed			
+1728	office	code review karjo	કોડ રિવ્યૂ કરજો	sure	unreviewed			
+1729	office	Please send the document tomorrow	Please send the document tomorrow	sure	unreviewed			
+1730	office	I will call you tomorrow	I will call you tomorrow	sure	unreviewed			
+1731	office	She is going to the office	She is going to the office	sure	unreviewed			
+1732	office	We have a meeting today	We have a meeting today	sure	unreviewed			
+1733	office	Can you send the file	Can you send the file	sure	unreviewed			
+1734	proper	patel sahib aavya	પટેલ સાહેબ આવ્યા	review	unreviewed			
+1735	proper	hu patel bolu chu	હું પટેલ બોલું છું	sure	unreviewed			
+1736	proper	shah sahib aavya	શાહ સાહેબ આવ્યા	review	unreviewed			
+1737	proper	hu shah bolu chu	હું શાહ બોલું છું	sure	unreviewed			
+1738	proper	mehta sahib aavya	મહેતા સાહેબ આવ્યા	review	unreviewed			
+1739	proper	hu mehta bolu chu	હું મહેતા બોલું છું	sure	unreviewed			
+1740	proper	desai sahib aavya	દેસાઈ સાહેબ આવ્યા	review	unreviewed			
+1741	proper	hu desai bolu chu	હું દેસાઈ બોલું છું	sure	unreviewed			
+1742	proper	joshi sahib aavya	જોષી સાહેબ આવ્યા	review	unreviewed			
+1743	proper	hu joshi bolu chu	હું જોષી બોલું છું	sure	unreviewed			
+1744	proper	trivedi sahib aavya	ત્રિવેદી સાહેબ આવ્યા	review	unreviewed			
+1745	proper	hu trivedi bolu chu	હું ત્રિવેદી બોલું છું	sure	unreviewed			
+1746	proper	gandhi sahib aavya	ગાંધી સાહેબ આવ્યા	review	unreviewed			
+1747	proper	hu gandhi bolu chu	હું ગાંધી બોલું છું	sure	unreviewed			
+1748	proper	modi sahib aavya	મોદી સાહેબ આવ્યા	review	unreviewed			
+1749	proper	hu modi bolu chu	હું મોદી બોલું છું	sure	unreviewed			
+1750	common	hu savare aavish	હું સવારે આવીશ	sure	unreviewed			
+1751	sentence	tame savare aavish ke	તમે સવારે આવીશ કે	review	unreviewed			
+1752	common	hu savare jaish	હું સવારે જઈશ	sure	unreviewed			
+1753	sentence	tame savare jaish ke	તમે સવારે જઈશ કે	review	unreviewed			
+1754	common	hu savare nikadish	હું સવારે નીકળીશ	review	unreviewed			
+1755	sentence	tame savare nikadish ke	તમે સવારે નીકળીશ કે	review	unreviewed			
+1756	common	hu savare pohchish	હું સવારે પહોંચીશ	review	unreviewed			
+1757	sentence	tame savare pohchish ke	તમે સવારે પહોંચીશ કે	review	unreviewed			
+1758	common	hu bapore aavish	હું બપોરે આવીશ	sure	unreviewed			
+1759	sentence	tame bapore aavish ke	તમે બપોરે આવીશ કે	review	unreviewed			
+1760	common	hu bapore jaish	હું બપોરે જઈશ	sure	unreviewed			
+1761	sentence	tame bapore jaish ke	તમે બપોરે જઈશ કે	review	unreviewed			
+1762	common	hu bapore nikadish	હું બપોરે નીકળીશ	review	unreviewed			
+1763	sentence	tame bapore nikadish ke	તમે બપોરે નીકળીશ કે	review	unreviewed			
+1764	common	hu bapore pohchish	હું બપોરે પહોંચીશ	review	unreviewed			
+1765	sentence	tame bapore pohchish ke	તમે બપોરે પહોંચીશ કે	review	unreviewed			
+1766	common	hu sanj e aavish	હું સાંજ એ આવીશ	sure	unreviewed			
+1767	sentence	tame sanj e aavish ke	તમે સાંજ એ આવીશ કે	review	unreviewed			
+1768	common	hu sanj e jaish	હું સાંજ એ જઈશ	sure	unreviewed			
+1769	sentence	tame sanj e jaish ke	તમે સાંજ એ જઈશ કે	review	unreviewed			
+1770	common	hu sanj e nikadish	હું સાંજ એ નીકળીશ	review	unreviewed			
+1771	sentence	tame sanj e nikadish ke	તમે સાંજ એ નીકળીશ કે	review	unreviewed			
+1772	common	hu sanj e pohchish	હું સાંજ એ પહોંચીશ	review	unreviewed			
+1773	sentence	tame sanj e pohchish ke	તમે સાંજ એ પહોંચીશ કે	review	unreviewed			
+1774	common	hu raat e aavish	હું રાત એ આવીશ	sure	unreviewed			
+1775	sentence	tame raat e aavish ke	તમે રાત એ આવીશ કે	review	unreviewed			
+1776	common	hu raat e jaish	હું રાત એ જઈશ	sure	unreviewed			
+1777	sentence	tame raat e jaish ke	તમે રાત એ જઈશ કે	review	unreviewed			
+1778	common	hu raat e nikadish	હું રાત એ નીકળીશ	review	unreviewed			
+1779	sentence	tame raat e nikadish ke	તમે રાત એ નીકળીશ કે	review	unreviewed			
+1780	common	hu raat e pohchish	હું રાત એ પહોંચીશ	review	unreviewed			
+1781	sentence	tame raat e pohchish ke	તમે રાત એ પહોંચીશ કે	review	unreviewed			
+1782	family	hu kapda dhoish	હું કપડાં ધોઈશ	sure	unreviewed			
+1783	sentence	tame kapda dhoish	તમે કપડાં ધોઈશ	review	unreviewed			
+1784	family	hu rasoi karish	હું રસોઈ કરીશ	sure	unreviewed			
+1785	sentence	tame rasoi karish	તમે રસોઈ કરીશ	review	unreviewed			
+1786	family	hu bartan dhosh	હું બાજુ ધોશ	review	unreviewed			
+1787	sentence	tame bartan dhosh	તમે બાજુ ધોશ	review	unreviewed			
+1788	family	hu jhadu karish	હું ઝાડુ કરીશ	review	unreviewed			
+1789	sentence	tame jhadu karish	તમે ઝાડુ કરીશ	review	unreviewed			
+1790	family	hu bajar jaish	હું બજાર જઈશ	sure	unreviewed			
+1791	sentence	tame bajar jaish	તમે બજાર જઈશ	review	unreviewed			
+1792	common	hu ready chu	હું રેડી છું	sure	unreviewed			
+1793	informal	ghar ma chu	ઘર માં છું	sure	unreviewed			
+1794	sentence	shu hu ready chu	શું હું રેડી છું	review	unreviewed			
+1795	common	hu free chu	હું ફ્રી છું	sure	unreviewed			
+1796	sentence	shu hu free chu	શું હું ફ્રી છું	review	unreviewed			
+1797	common	hu busy chu	હું બિઝી છું	sure	unreviewed			
+1798	sentence	shu hu busy chu	શું હું બિઝી છું	review	unreviewed			
+1799	common	hu late chu	હું લેટ છું	sure	unreviewed			
+1800	sentence	shu hu late chu	શું હું લેટ છું	review	unreviewed			
+1801	common	hu online chu	હું ઓનલાઇન છું	sure	unreviewed			
+1802	sentence	shu hu online chu	શું હું ઓનલાઇન છું	review	unreviewed			
+1803	common	hu thako chu	હું થાકું છું	review	unreviewed			
+1804	sentence	shu hu thako chu	શું હું થાકું છું	review	unreviewed			
+1805	common	tame ready cho	તમે રેડી છો	sure	unreviewed			
+1806	sentence	kem tame ready cho	કેમ તમે રેડી છો	sure	unreviewed			
+1807	common	tame free cho	તમે ફ્રી છો	sure	unreviewed			
+1808	sentence	kem tame free cho	કેમ તમે ફ્રી છો	sure	unreviewed			
+1809	common	tame busy cho	તમે બિઝી છો	sure	unreviewed			
+1810	sentence	kem tame busy cho	કેમ તમે બિઝી છો	sure	unreviewed			
+1811	common	tame late cho	તમે લેટ છો	sure	unreviewed			
+1812	sentence	kem tame late cho	કેમ તમે લેટ છો	sure	unreviewed			
+1813	common	tame offline cho	તમે ઓફલાઇન છો	sure	unreviewed			
+1814	sentence	kem tame offline cho	કેમ તમે ઓફલાઇન છો	sure	unreviewed			
+1815	common	hu bus ma chu	હું બસ માં છું	sure	unreviewed			
+1816	common	tame bus pakdo	તમે બસ પકડો	review	unreviewed			
+1817	sentence	bus aapo	બસ આપો	review	unreviewed			
+1818	sentence	bus kyare che	બસ ક્યારે છે	sure	unreviewed			
+1819	family	papa bus ma che	પપ્પા બસ માં છે	sure	unreviewed			
+1820	common	hu train ma chu	હું ટ્રેન માં છું	sure	unreviewed			
+1821	common	tame train pakdo	તમે ટ્રેન પકડો	review	unreviewed			
+1822	sentence	train aapo	ટ્રેન આપો	review	unreviewed			
+1823	sentence	train kyare che	ટ્રેન ક્યારે છે	sure	unreviewed			
+1824	family	papa train ma che	પપ્પા ટ્રેન માં છે	sure	unreviewed			
+1825	common	hu car ma chu	હું કાર માં છું	sure	unreviewed			
+1826	common	tame car pakdo	તમે કાર પકડો	review	unreviewed			
+1827	sentence	car aapo	કાર આપો	review	unreviewed			
+1828	sentence	car kyare che	કાર ક્યારે છે	sure	unreviewed			
+1829	family	papa car ma che	પપ્પા કાર માં છે	sure	unreviewed			
+1830	common	hu taxi ma chu	હું ટેક્સી માં છું	sure	unreviewed			
+1831	common	tame taxi pakdo	તમે ટેક્સી પકડો	review	unreviewed			
+1832	sentence	taxi aapo	ટેક્સી આપો	review	unreviewed			
+1833	sentence	taxi kyare che	ટેક્સી ક્યારે છે	sure	unreviewed			
+1834	family	papa taxi ma che	પપ્પા ટેક્સી માં છે	sure	unreviewed			
+1835	common	hu auto ma chu	હું ઓટો માં છું	sure	unreviewed			
+1836	common	tame auto pakdo	તમે ઓટો પકડો	review	unreviewed			
+1837	sentence	auto aapo	ઓટો આપો	review	unreviewed			
+1838	sentence	auto kyare che	ઓટો ક્યારે છે	sure	unreviewed			
+1839	family	papa auto ma che	પપ્પા ઓટો માં છે	sure	unreviewed			
+1840	common	hu flight ma chu	હું ફ્લાઇટ માં છું	sure	unreviewed			
+1841	common	tame flight pakdo	તમે ફ્લાઇટ પકડો	review	unreviewed			
+1842	sentence	flight aapo	ફ્લાઇટ આપો	review	unreviewed			
+1843	sentence	flight kyare che	ફ્લાઇટ ક્યારે છે	sure	unreviewed			
+1844	family	papa flight ma che	પપ્પા ફ્લાઇટ માં છે	sure	unreviewed			
+1845	common	mane pani joiye	મને પાણી જોઈએ	sure	unreviewed			
+1846	sentence	pani kyare male	પાણી ક્યારે મળે	sure	unreviewed			
+1847	office	please pani moklo	પ્લીઝ પાણી મોકલો	sure	unreviewed			
+1848	common	mane chai joiye	મને ચા જોઈએ	sure	unreviewed			
+1849	sentence	chai kyare male	ચા ક્યારે મળે	sure	unreviewed			
+1850	office	please chai moklo	પ્લીઝ ચા મોકલો	sure	unreviewed			
+1851	common	mane time joiye	મને ટાઇમ જોઈએ	sure	unreviewed			
+1852	sentence	time aapo	ટાઇમ આપો	sure	unreviewed			
+1853	sentence	time kyare male	ટાઇમ ક્યારે મળે	sure	unreviewed			
+1854	office	please time moklo	પ્લીઝ ટાઇમ મોકલો	sure	unreviewed			
+1855	common	mane madad joiye	મને મદદ જોઈએ	sure	unreviewed			
+1856	sentence	madad aapo	મદદ આપો	sure	unreviewed			
+1857	sentence	madad kyare male	મદદ ક્યારે મળે	sure	unreviewed			
+1858	office	please madad moklo	પ્લીઝ મદદ મોકલો	sure	unreviewed			
+1859	common	mane number joiye	મને નંબર જોઈએ	sure	unreviewed			
+1860	sentence	number aapo	નંબર આપો	sure	unreviewed			
+1861	sentence	number kyare male	નંબર ક્યારે મળે	sure	unreviewed			
+1862	office	please number moklo	પ્લીઝ નંબર મોકલો	sure	unreviewed			
+1863	common	mane address joiye	મને એડ્રેસ જોઈએ	sure	unreviewed			
+1864	sentence	address aapo	એડ્રેસ આપો	sure	unreviewed			
+1865	sentence	address kyare male	એડ્રેસ ક્યારે મળે	sure	unreviewed			
+1866	office	please address moklo	પ્લીઝ એડ્રેસ મોકલો	sure	unreviewed			
+1867	common	mane ticket joiye	મને ટિકિટ જોઈએ	sure	unreviewed			
+1868	sentence	ticket aapo	ટિકિટ આપો	sure	unreviewed			
+1869	sentence	ticket kyare male	ટિકિટ ક્યારે મળે	sure	unreviewed			
+1870	office	please ticket moklo	પ્લીઝ ટિકિટ મોકલો	sure	unreviewed			
+1871	common	mane room joiye	મને રૂમ જોઈએ	sure	unreviewed			
+1872	sentence	room aapo	રૂમ આપો	sure	unreviewed			
+1873	sentence	room kyare male	રૂમ ક્યારે મળે	sure	unreviewed			
+1874	office	please room moklo	પ્લીઝ રૂમ મોકલો	sure	unreviewed			
+1875	common	mane key joiye	મને ચાવી જોઈએ	review	unreviewed			
+1876	sentence	key aapo	ચાવી આપો	review	unreviewed			
+1877	sentence	key kyare male	ચાવી ક્યારે મળે	review	unreviewed			
+1878	office	please key moklo	પ્લીઝ ચાવી મોકલો	review	unreviewed			
+1879	common	mane bill joiye	મને બિલ જોઈએ	sure	unreviewed			
+1880	sentence	bill aapo	બિલ આપો	sure	unreviewed			
+1881	sentence	bill kyare male	બિલ ક્યારે મળે	sure	unreviewed			
+1882	office	please bill moklo	પ્લીઝ બિલ મોકલો	sure	unreviewed			
+1883	office	meeting monday che	મીટિંગ મંડે છે	review	unreviewed			
+1884	common	hu monday aavish	હું મંડે આવીશ	sure	unreviewed			
+1885	sentence	tame monday free cho	તમે મંડે ફ્રી છો	sure	unreviewed			
+1886	office	order monday aavse	ઓર્ડર મંડે આવશે	review	unreviewed			
+1887	family	ame monday jaishu	અમે મંડે જઈશું	sure	unreviewed			
+1888	office	meeting tuesday che	મીટિંગ ટ્યુસડે છે	review	unreviewed			
+1889	common	hu tuesday aavish	હું ટ્યુસડે આવીશ	sure	unreviewed			
+1890	sentence	tame tuesday free cho	તમે ટ્યુસડે ફ્રી છો	sure	unreviewed			
+1891	office	order tuesday aavse	ઓર્ડર ટ્યુસડે આવશે	review	unreviewed			
+1892	family	ame tuesday jaishu	અમે ટ્યુસડે જઈશું	sure	unreviewed			
+1893	office	meeting wednesday che	મીટિંગ વેડનેસડે છે	review	unreviewed			
+1894	common	hu wednesday aavish	હું વેડનેસડે આવીશ	sure	unreviewed			
+1895	sentence	tame wednesday free cho	તમે વેડનેસડે ફ્રી છો	sure	unreviewed			
+1896	office	order wednesday aavse	ઓર્ડર વેડનેસડે આવશે	review	unreviewed			
+1897	family	ame wednesday jaishu	અમે વેડનેસડે જઈશું	sure	unreviewed			
+1898	office	meeting thursday che	મીટિંગ થર્સડે છે	review	unreviewed			
+1899	common	hu thursday aavish	હું થર્સડે આવીશ	sure	unreviewed			
+1900	sentence	tame thursday free cho	તમે થર્સડે ફ્રી છો	sure	unreviewed			
+1901	office	order thursday aavse	ઓર્ડર થર્સડે આવશે	review	unreviewed			
+1902	family	ame thursday jaishu	અમે થર્સડે જઈશું	sure	unreviewed			
+1903	office	meeting friday che	મીટિંગ ફ્રાઇડે છે	review	unreviewed			
+1904	common	hu friday aavish	હું ફ્રાઇડે આવીશ	sure	unreviewed			
+1905	sentence	tame friday free cho	તમે ફ્રાઇડે ફ્રી છો	sure	unreviewed			
+1906	office	order friday aavse	ઓર્ડર ફ્રાઇડે આવશે	review	unreviewed			
+1907	family	ame friday jaishu	અમે ફ્રાઇડે જઈશું	sure	unreviewed			
+1908	office	meeting saturday che	મીટિંગ સેટર્ડે છે	review	unreviewed			
+1909	common	hu saturday aavish	હું સેટર્ડે આવીશ	sure	unreviewed			
+1910	sentence	tame saturday free cho	તમે સેટર્ડે ફ્રી છો	sure	unreviewed			
+1911	office	order saturday aavse	ઓર્ડર સેટર્ડે આવશે	review	unreviewed			
+1912	family	ame saturday jaishu	અમે સેટર્ડે જઈશું	sure	unreviewed			
+1913	office	meeting sunday che	મીટિંગ સન્ડે છે	review	unreviewed			
+1914	common	hu sunday aavish	હું સન્ડે આવીશ	sure	unreviewed			
+1915	sentence	tame sunday free cho	તમે સન્ડે ફ્રી છો	sure	unreviewed			
+1916	office	order sunday aavse	ઓર્ડર સન્ડે આવશે	review	unreviewed			
+1917	family	ame sunday jaishu	અમે સન્ડે જઈશું	sure	unreviewed			
+1918	sentence	tame mane aavjo	તમે મને આવજો	sure	unreviewed			
+1919	sentence	tame mane beso	તમે મને બેસો	sure	unreviewed			
+1920	sentence	tame mane jao	તમે મને જાઓ	sure	unreviewed			
+1921	sentence	tame mane raho	તમે મને રહો	sure	unreviewed			
+1922	sentence	tame mane lakho	તમે મને લખો	sure	unreviewed			
+1923	sentence	tame mane vachjo	તમે મને વાંચજો	sure	unreviewed			
+1924	sentence	tame mane sambhaljo	તમે મને સાંભળજો	review	unreviewed			
+1925	sentence	tame mane puchjo	તમે મને પૂછજો	sure	unreviewed			
+1926	sentence	tame tamne aavjo	તમે તમને આવજો	sure	unreviewed			
+1927	sentence	tame tamne beso	તમે તમને બેસો	sure	unreviewed			
+1928	sentence	tame tamne jao	તમે તમને જાઓ	sure	unreviewed			
+1929	sentence	tame tamne raho	તમે તમને રહો	sure	unreviewed			
+1930	sentence	tame tamne lakho	તમે તમને લખો	sure	unreviewed			
+1931	sentence	tame tamne vachjo	તમે તમને વાંચજો	sure	unreviewed			
+1932	sentence	tame tamne sambhaljo	તમે તમને સાંભળજો	review	unreviewed			
+1933	sentence	tame tamne puchjo	તમે તમને પૂછજો	sure	unreviewed			
+1934	sentence	tame bhai ne aavjo	તમે ભાઈ ને આવજો	sure	unreviewed			
+1935	sentence	tame bhai ne beso	તમે ભાઈ ને બેસો	sure	unreviewed			
+1936	sentence	tame bhai ne jao	તમે ભાઈ ને જાઓ	sure	unreviewed			
+1937	sentence	tame bhai ne raho	તમે ભાઈ ને રહો	sure	unreviewed			
+1938	sentence	tame bhai ne lakho	તમે ભાઈ ને લખો	sure	unreviewed			
+1939	sentence	tame bhai ne vachjo	તમે ભાઈ ને વાંચજો	sure	unreviewed			
+1940	sentence	tame bhai ne sambhaljo	તમે ભાઈ ને સાંભળજો	review	unreviewed			
+1941	sentence	tame bhai ne puchjo	તમે ભાઈ ને પૂછજો	sure	unreviewed			
+1942	sentence	tame ben ne aavjo	તમે બહેન ને આવજો	sure	unreviewed			
+1943	sentence	tame ben ne beso	તમે બહેન ને બેસો	sure	unreviewed			
+1944	sentence	tame ben ne jao	તમે બહેન ને જાઓ	sure	unreviewed			
+1945	sentence	tame ben ne raho	તમે બહેન ને રહો	sure	unreviewed			
+1946	sentence	tame ben ne lakho	તમે બહેન ને લખો	sure	unreviewed			
+1947	sentence	tame ben ne vachjo	તમે બહેન ને વાંચજો	sure	unreviewed			
+1948	sentence	tame ben ne sambhaljo	તમે બહેન ને સાંભળજો	review	unreviewed			
+1949	sentence	tame ben ne puchjo	તમે બહેન ને પૂછજો	sure	unreviewed			
+1950	sentence	tame sir ne aavjo	તમે સર ને આવજો	sure	unreviewed			
+1951	sentence	tame sir ne beso	તમે સર ને બેસો	sure	unreviewed			
+1952	sentence	tame sir ne jao	તમે સર ને જાઓ	sure	unreviewed			
+1953	sentence	tame sir ne raho	તમે સર ને રહો	sure	unreviewed			
+1954	sentence	tame sir ne lakho	તમે સર ને લખો	sure	unreviewed			
+1955	sentence	tame sir ne vachjo	તમે સર ને વાંચજો	sure	unreviewed			
+1956	sentence	tame sir ne sambhaljo	તમે સર ને સાંભળજો	review	unreviewed			
+1957	sentence	tame sir ne puchjo	તમે સર ને પૂછજો	sure	unreviewed			
+1958	office	wifi bandh che	વાઇફાઇ બંધ છે	sure	unreviewed			
+1959	office	wifi error aave che	વાઇફાઇ એરર આવે છે	sure	unreviewed			
+1960	sentence	wifi kem bandh che	વાઇફાઇ કેમ બંધ છે	sure	unreviewed			
+1961	sentence	wifi check karo	વાઇફાઇ ચેક કરો	sure	unreviewed			
+1962	office	network nathi chaltu	નેટવર્ક નથી ચાલતું	sure	unreviewed			
+1963	office	network bandh che	નેટવર્ક બંધ છે	sure	unreviewed			
+1964	office	network error aave che	નેટવર્ક એરર આવે છે	sure	unreviewed			
+1965	sentence	network kem bandh che	નેટવર્ક કેમ બંધ છે	sure	unreviewed			
+1966	sentence	network check karo	નેટવર્ક ચેક કરો	sure	unreviewed			
+1967	office	server nathi chaltu	સર્વર નથી ચાલતું	sure	unreviewed			
+1968	office	server bandh che	સર્વર બંધ છે	sure	unreviewed			
+1969	office	server error aave che	સર્વર એરર આવે છે	sure	unreviewed			
+1970	sentence	server kem bandh che	સર્વર કેમ બંધ છે	sure	unreviewed			
+1971	sentence	server check karo	સર્વર ચેક કરો	sure	unreviewed			
+1972	office	printer nathi chaltu	પ્રિન્ટર નથી ચાલતું	sure	unreviewed			
+1973	office	printer bandh che	પ્રિન્ટર બંધ છે	sure	unreviewed			
+1974	office	printer error aave che	પ્રિન્ટર એરર આવે છે	sure	unreviewed			
+1975	sentence	printer kem bandh che	પ્રિન્ટર કેમ બંધ છે	sure	unreviewed			
+1976	sentence	printer check karo	પ્રિન્ટર ચેક કરો	sure	unreviewed			
+1977	office	laptop nathi chaltu	લેપટોપ નથી ચાલતું	sure	unreviewed			
+1978	office	laptop error aave che	લેપટોપ એરર આવે છે	sure	unreviewed			
+1979	sentence	laptop kem bandh che	લેપટોપ કેમ બંધ છે	sure	unreviewed			
+1980	sentence	laptop check karo	લેપટોપ ચેક કરો	sure	unreviewed			
+1981	office	phone nathi chaltu	ફોન નથી ચાલતું	sure	unreviewed			
+1982	office	phone bandh che	ફોન બંધ છે	sure	unreviewed			
+1983	office	phone error aave che	ફોન એરર આવે છે	sure	unreviewed			
+1984	sentence	phone kem bandh che	ફોન કેમ બંધ છે	sure	unreviewed			
+1985	sentence	phone check karo	ફોન ચેક કરો	sure	unreviewed			
+1986	office	system nathi chaltu	સિસ્ટમ નથી ચાલતું	sure	unreviewed			
+1987	office	system bandh che	સિસ્ટમ બંધ છે	sure	unreviewed			
+1988	office	system error aave che	સિસ્ટમ એરર આવે છે	sure	unreviewed			
+1989	sentence	system kem bandh che	સિસ્ટમ કેમ બંધ છે	sure	unreviewed			
+1990	sentence	system check karo	સિસ્ટમ ચેક કરો	sure	unreviewed			
+1991	office	login nathi chaltu	લોગિન નથી ચાલતું	sure	unreviewed			
+1992	office	login bandh che	લોગિન બંધ છે	sure	unreviewed			
+1993	office	login error aave che	લોગિન એરર આવે છે	sure	unreviewed			
+1994	sentence	login kem bandh che	લોગિન કેમ બંધ છે	sure	unreviewed			
+1995	sentence	login check karo	લોગિન ચેક કરો	sure	unreviewed			
+1996	office	dukan kyare khule	દુકાન ક્યારે ખુલે	review	unreviewed			
+1997	common	hu dukan javu chu	હું દુકાન જવું છું	sure	unreviewed			
+1998	sentence	dukan khullu che	દુકાન ખુલ્લું છે	review	unreviewed			
+1999	office	shop kyare khule	શોપ ક્યારે ખુલે	review	unreviewed			
+2000	common	hu shop javu chu	હું શોપ જવું છું	sure	unreviewed			
+2001	sentence	shop khullu che	શોપ ખુલ્લું છે	review	unreviewed			
+2002	office	market kyare khule	માર્કેટ ક્યારે ખુલે	review	unreviewed			
+2003	common	hu market javu chu	હું માર્કેટ જવું છું	sure	unreviewed			
+2004	sentence	market khullu che	માર્કેટ ખુલ્લું છે	review	unreviewed			
+2005	office	mall kyare khule	મોલ ક્યારે ખુલે	review	unreviewed			
+2006	common	hu mall javu chu	હું મોલ જવું છું	sure	unreviewed			
+2007	sentence	mall khullu che	મોલ ખુલ્લું છે	review	unreviewed			
+2008	office	bank kyare khule	બેંક ક્યારે ખુલે	review	unreviewed			
+2009	common	hu bank javu chu	હું બેંક જવું છું	sure	unreviewed			
+2010	sentence	bank khullu che	બેંક ખુલ્લું છે	review	unreviewed			
+2011	office	post office kyare khule	પોસ્ટ ઓફિસ ક્યારે ખુલે	review	unreviewed			
+2012	common	hu post office javu chu	હું પોસ્ટ ઓફિસ જવું છું	sure	unreviewed			
+2013	sentence	post office khullu che	પોસ્ટ ઓફિસ ખુલ્લું છે	review	unreviewed			
+2014	office	hu document karu chu	હું ડોક્યુમેન્ટ કરું છું	sure	unreviewed			
+2015	office	hu document kari didhu	હું ડોક્યુમેન્ટ કરી દીધું	sure	unreviewed			
+2016	informal	hu document karish	હું ડોક્યુમેન્ટ કરીશ	sure	unreviewed			
+2017	sentence	tame document karjo	તમે ડોક્યુમેન્ટ કરજો	sure	unreviewed			
+2018	common	aaje document karvanu che	આજે ડોક્યુમેન્ટ કરવાનું છે	sure	unreviewed			
+2019	sentence	document kyare karshu	ડોક્યુમેન્ટ ક્યારે કરશું	review	unreviewed			
+2020	office	customer ne document moklo	કસ્ટમર ને ડોક્યુમેન્ટ મોકલો	sure	unreviewed			
+2021	office	please document check karo	પ્લીઝ ડોક્યુમેન્ટ ચેક કરો	sure	unreviewed			
+2022	office	ame document karishu	અમે ડોક્યુમેન્ટ કરીશું	sure	unreviewed			
+2023	common	aapde document karishu	આપણે ડોક્યુમેન્ટ કરીશું	sure	unreviewed			
+2024	sentence	tame document vachjo	તમે ડોક્યુમેન્ટ વાંચજો	sure	unreviewed			
+2025	sentence	tame document karyu	તમે ડોક્યુમેન્ટ કર્યું	review	unreviewed			
+2026	office	manager document mange che	મેનેજર ડોક્યુમેન્ટ માંગે છે	sure	unreviewed			
+2027	informal	have document karie	હવે ડોક્યુમેન્ટ કરીએ	review	unreviewed			
+2028	family	bhai document lai gayo	ભાઈ ડોક્યુમેન્ટ લઈ ગયો	review	unreviewed			
+2029	office	hu file karu chu	હું ફાઇલ કરું છું	sure	unreviewed			
+2030	office	hu file kari didhu	હું ફાઇલ કરી દીધું	sure	unreviewed			
+2031	informal	hu file karish	હું ફાઇલ કરીશ	sure	unreviewed			
+2032	sentence	tame file karjo	તમે ફાઇલ કરજો	sure	unreviewed			
+2033	common	aaje file karvanu che	આજે ફાઇલ કરવાનું છે	sure	unreviewed			
+2034	sentence	file kyare karshu	ફાઇલ ક્યારે કરશું	review	unreviewed			
+2035	office	customer ne file moklo	કસ્ટમર ને ફાઇલ મોકલો	sure	unreviewed			
+2036	office	please file check karo	પ્લીઝ ફાઇલ ચેક કરો	sure	unreviewed			
+2037	office	ame file karishu	અમે ફાઇલ કરીશું	sure	unreviewed			
+2038	common	aapde file karishu	આપણે ફાઇલ કરીશું	sure	unreviewed			
+2039	sentence	tame file vachjo	તમે ફાઇલ વાંચજો	sure	unreviewed			
+2040	sentence	tame file karyu	તમે ફાઇલ કર્યું	review	unreviewed			
+2041	office	manager file mange che	મેનેજર ફાઇલ માંગે છે	sure	unreviewed			
+2042	informal	have file karie	હવે ફાઇલ કરીએ	review	unreviewed			
+2043	family	bhai file lai gayo	ભાઈ ફાઇલ લઈ ગયો	review	unreviewed			
+2044	office	hu photo karu chu	હું ફોટો કરું છું	sure	unreviewed			
+2045	office	hu photo kari didhu	હું ફોટો કરી દીધું	sure	unreviewed			
+2046	informal	hu photo karish	હું ફોટો કરીશ	sure	unreviewed			
+2047	sentence	tame photo karjo	તમે ફોટો કરજો	sure	unreviewed			
+2048	common	aaje photo karvanu che	આજે ફોટો કરવાનું છે	sure	unreviewed			
+2049	sentence	photo kyare karshu	ફોટો ક્યારે કરશું	review	unreviewed			
+2050	office	customer ne photo moklo	કસ્ટમર ને ફોટો મોકલો	sure	unreviewed			
+2051	office	please photo check karo	પ્લીઝ ફોટો ચેક કરો	sure	unreviewed			
+2052	office	ame photo karishu	અમે ફોટો કરીશું	sure	unreviewed			
+2053	common	aapde photo karishu	આપણે ફોટો કરીશું	sure	unreviewed			
+2054	sentence	tame photo vachjo	તમે ફોટો વાંચજો	sure	unreviewed			
+2055	sentence	tame photo karyu	તમે ફોટો કર્યું	review	unreviewed			
+2056	office	manager photo mange che	મેનેજર ફોટો માંગે છે	sure	unreviewed			
+2057	informal	have photo karie	હવે ફોટો કરીએ	review	unreviewed			
+2058	family	bhai photo lai gayo	ભાઈ ફોટો લઈ ગયો	review	unreviewed			
+2059	office	hu message karu chu	હું મેસેજ કરું છું	sure	unreviewed			
+2060	office	hu message kari didhu	હું મેસેજ કરી દીધું	sure	unreviewed			
+2061	informal	hu message karish	હું મેસેજ કરીશ	sure	unreviewed			
+2062	sentence	tame message karjo	તમે મેસેજ કરજો	sure	unreviewed			
+2063	common	aaje message karvanu che	આજે મેસેજ કરવાનું છે	sure	unreviewed			
+2064	sentence	message kyare karshu	મેસેજ ક્યારે કરશું	review	unreviewed			
+2065	office	customer ne message moklo	કસ્ટમર ને મેસેજ મોકલો	sure	unreviewed			
+2066	office	please message check karo	પ્લીઝ મેસેજ ચેક કરો	sure	unreviewed			
+2067	office	ame message karishu	અમે મેસેજ કરીશું	sure	unreviewed			
+2068	common	aapde message karishu	આપણે મેસેજ કરીશું	sure	unreviewed			
+2069	sentence	tame message vachjo	તમે મેસેજ વાંચજો	sure	unreviewed			
+2070	sentence	tame message karyu	તમે મેસેજ કર્યું	review	unreviewed			
+2071	office	manager message mange che	મેનેજર મેસેજ માંગે છે	sure	unreviewed			
+2072	informal	have message karie	હવે મેસેજ કરીએ	review	unreviewed			
+2073	family	bhai message lai gayo	ભાઈ મેસેજ લઈ ગયો	review	unreviewed			
+2074	office	hu report karu chu	હું રિપોર્ટ કરું છું	sure	unreviewed			
+2075	informal	hu report karish	હું રિપોર્ટ કરીશ	sure	unreviewed			
+2076	sentence	tame report karjo	તમે રિપોર્ટ કરજો	sure	unreviewed			
+2077	common	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	sure	unreviewed			
+2078	sentence	report kyare karshu	રિપોર્ટ ક્યારે કરશું	review	unreviewed			
+2079	office	customer ne report moklo	કસ્ટમર ને રિપોર્ટ મોકલો	sure	unreviewed			
+2080	office	ame report karishu	અમે રિપોર્ટ કરીશું	sure	unreviewed			
+2081	common	aapde report karishu	આપણે રિપોર્ટ કરીશું	sure	unreviewed			
+2082	sentence	tame report vachjo	તમે રિપોર્ટ વાંચજો	sure	unreviewed			
+2083	sentence	tame report karyu	તમે રિપોર્ટ કર્યું	review	unreviewed			
+2084	office	manager report mange che	મેનેજર રિપોર્ટ માંગે છે	sure	unreviewed			
+2085	informal	have report karie	હવે રિપોર્ટ કરીએ	review	unreviewed			
+2086	family	bhai report lai gayo	ભાઈ રિપોર્ટ લઈ ગયો	review	unreviewed			
+2087	office	hu plan karu chu	હું પ્લાન કરું છું	sure	unreviewed			
+2088	informal	hu plan karish	હું પ્લાન કરીશ	sure	unreviewed			
+2089	sentence	tame plan karjo	તમે પ્લાન કરજો	sure	unreviewed			
+2090	common	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	sure	unreviewed			
+2091	sentence	plan kyare karshu	પ્લાન ક્યારે કરશું	review	unreviewed			
+2092	office	customer ne plan moklo	કસ્ટમર ને પ્લાન મોકલો	sure	unreviewed			
+2093	office	please plan check karo	પ્લીઝ પ્લાન ચેક કરો	sure	unreviewed			
+2094	office	ame plan karishu	અમે પ્લાન કરીશું	sure	unreviewed			
+2095	common	aapde plan karishu	આપણે પ્લાન કરીશું	sure	unreviewed			
+2096	office	hu plan moklu chu	હું પ્લાન મોકલું છું	sure	unreviewed			
+2097	sentence	tame plan vachjo	તમે પ્લાન વાંચજો	sure	unreviewed			
+2098	sentence	tame plan karyu	તમે પ્લાન કર્યું	review	unreviewed			
+2099	office	manager plan mange che	મેનેજર પ્લાન માંગે છે	sure	unreviewed			
+2100	informal	have plan karie	હવે પ્લાન કરીએ	review	unreviewed			
+2101	family	bhai plan lai gayo	ભાઈ પ્લાન લઈ ગયો	review	unreviewed			
+2102	office	hu list karu chu	હું લિસ્ટ કરું છું	sure	unreviewed			
+2103	office	hu list kari didhu	હું લિસ્ટ કરી દીધું	sure	unreviewed			
+2104	informal	hu list karish	હું લિસ્ટ કરીશ	sure	unreviewed			
+2105	sentence	tame list karjo	તમે લિસ્ટ કરજો	sure	unreviewed			
+2106	common	aaje list karvanu che	આજે લિસ્ટ કરવાનું છે	sure	unreviewed			
+2107	sentence	list kyare karshu	લિસ્ટ ક્યારે કરશું	review	unreviewed			
+2108	office	customer ne list moklo	કસ્ટમર ને લિસ્ટ મોકલો	sure	unreviewed			
+2109	office	please list check karo	પ્લીઝ લિસ્ટ ચેક કરો	sure	unreviewed			
+2110	office	ame list karishu	અમે લિસ્ટ કરીશું	sure	unreviewed			
+2111	common	aapde list karishu	આપણે લિસ્ટ કરીશું	sure	unreviewed			
+2112	sentence	tame list vachjo	તમે લિસ્ટ વાંચજો	sure	unreviewed			
+2113	sentence	tame list karyu	તમે લિસ્ટ કર્યું	review	unreviewed			
+2114	office	manager list mange che	મેનેજર લિસ્ટ માંગે છે	sure	unreviewed			
+2115	informal	have list karie	હવે લિસ્ટ કરીએ	review	unreviewed			
+2116	family	bhai list lai gayo	ભાઈ લિસ્ટ લઈ ગયો	review	unreviewed			
+2117	office	hu form karu chu	હું ફોર્મ કરું છું	sure	unreviewed			
+2118	office	hu form kari didhu	હું ફોર્મ કરી દીધું	sure	unreviewed			
+2119	informal	hu form karish	હું ફોર્મ કરીશ	sure	unreviewed			
+2120	sentence	tame form karjo	તમે ફોર્મ કરજો	sure	unreviewed			
+2121	common	aaje form karvanu che	આજે ફોર્મ કરવાનું છે	sure	unreviewed			
+2122	sentence	form kyare karshu	ફોર્મ ક્યારે કરશું	review	unreviewed			
+2123	office	customer ne form moklo	કસ્ટમર ને ફોર્મ મોકલો	sure	unreviewed			
+2124	office	please form check karo	પ્લીઝ ફોર્મ ચેક કરો	sure	unreviewed			
+2125	office	ame form karishu	અમે ફોર્મ કરીશું	sure	unreviewed			
+2126	common	aapde form karishu	આપણે ફોર્મ કરીશું	sure	unreviewed			
+2127	sentence	tame form vachjo	તમે ફોર્મ વાંચજો	sure	unreviewed			
+2128	sentence	tame form karyu	તમે ફોર્મ કર્યું	review	unreviewed			
+2129	office	manager form mange che	મેનેજર ફોર્મ માંગે છે	sure	unreviewed			
+2130	informal	have form karie	હવે ફોર્મ કરીએ	review	unreviewed			
+2131	family	bhai form lai gayo	ભાઈ ફોર્મ લઈ ગયો	review	unreviewed			
+2132	office	hu copy karu chu	હું કોપી કરું છું	sure	unreviewed			
+2133	office	hu copy kari didhu	હું કોપી કરી દીધું	sure	unreviewed			
+2134	informal	hu copy karish	હું કોપી કરીશ	sure	unreviewed			
+2135	sentence	tame copy karjo	તમે કોપી કરજો	sure	unreviewed			
+2136	common	aaje copy karvanu che	આજે કોપી કરવાનું છે	sure	unreviewed			
+2137	sentence	copy kyare karshu	કોપી ક્યારે કરશું	review	unreviewed			
+2138	office	customer ne copy moklo	કસ્ટમર ને કોપી મોકલો	sure	unreviewed			
+2139	office	please copy check karo	પ્લીઝ કોપી ચેક કરો	sure	unreviewed			
+2140	office	ame copy karishu	અમે કોપી કરીશું	sure	unreviewed			
+2141	common	aapde copy karishu	આપણે કોપી કરીશું	sure	unreviewed			
+2142	sentence	tame copy vachjo	તમે કોપી વાંચજો	sure	unreviewed			
+2143	sentence	tame copy karyu	તમે કોપી કર્યું	review	unreviewed			
+2144	office	manager copy mange che	મેનેજર કોપી માંગે છે	sure	unreviewed			
+2145	informal	have copy karie	હવે કોપી કરીએ	review	unreviewed			
+2146	family	bhai copy lai gayo	ભાઈ કોપી લઈ ગયો	review	unreviewed			
+2147	office	hu invoice karu chu	હું ઇન્વોઇસ કરું છું	sure	unreviewed			
+2148	office	hu invoice kari didhu	હું ઇન્વોઇસ કરી દીધું	sure	unreviewed			
+2149	informal	hu invoice karish	હું ઇન્વોઇસ કરીશ	sure	unreviewed			
+2150	sentence	tame invoice karjo	તમે ઇન્વોઇસ કરજો	sure	unreviewed			
+2151	common	aaje invoice karvanu che	આજે ઇન્વોઇસ કરવાનું છે	sure	unreviewed			
+2152	sentence	invoice kyare karshu	ઇન્વોઇસ ક્યારે કરશું	review	unreviewed			
+2153	office	customer ne invoice moklo	કસ્ટમર ને ઇન્વોઇસ મોકલો	sure	unreviewed			
+2154	office	please invoice check karo	પ્લીઝ ઇન્વોઇસ ચેક કરો	sure	unreviewed			
+2155	office	ame invoice karishu	અમે ઇન્વોઇસ કરીશું	sure	unreviewed			
+2156	common	aapde invoice karishu	આપણે ઇન્વોઇસ કરીશું	sure	unreviewed			
+2157	sentence	tame invoice vachjo	તમે ઇન્વોઇસ વાંચજો	sure	unreviewed			
+2158	sentence	tame invoice karyu	તમે ઇન્વોઇસ કર્યું	review	unreviewed			
+2159	office	manager invoice mange che	મેનેજર ઇન્વોઇસ માંગે છે	sure	unreviewed			
+2160	informal	have invoice karie	હવે ઇન્વોઇસ કરીએ	review	unreviewed			
+2161	family	bhai invoice lai gayo	ભાઈ ઇન્વોઇસ લઈ ગયો	review	unreviewed			
+2162	office	hu email karu chu	હું ઈમેલ કરું છું	sure	unreviewed			
+2163	office	hu email kari didhu	હું ઈમેલ કરી દીધું	sure	unreviewed			
+2164	informal	hu email karish	હું ઈમેલ કરીશ	sure	unreviewed			
+2165	sentence	tame email karjo	તમે ઈમેલ કરજો	sure	unreviewed			
+2166	common	aaje email karvanu che	આજે ઈમેલ કરવાનું છે	sure	unreviewed			
+2167	sentence	email kyare karshu	ઈમેલ ક્યારે કરશું	review	unreviewed			
+2168	office	customer ne email moklo	કસ્ટમર ને ઈમેલ મોકલો	sure	unreviewed			
+2169	office	please email check karo	પ્લીઝ ઈમેલ ચેક કરો	sure	unreviewed			
+2170	office	ame email karishu	અમે ઈમેલ કરીશું	sure	unreviewed			
+2171	common	aapde email karishu	આપણે ઈમેલ કરીશું	sure	unreviewed			
+2172	sentence	tame email vachjo	તમે ઈમેલ વાંચજો	sure	unreviewed			
+2173	sentence	tame email karyu	તમે ઈમેલ કર્યું	review	unreviewed			
+2174	office	manager email mange che	મેનેજર ઈમેલ માંગે છે	sure	unreviewed			
+2175	informal	have email karie	હવે ઈમેલ કરીએ	review	unreviewed			
+2176	family	bhai email lai gayo	ભાઈ ઈમેલ લઈ ગયો	review	unreviewed			
+2177	office	hu project karu chu	હું પ્રોજેક્ટ કરું છું	sure	unreviewed			
+2178	informal	hu project karish	હું પ્રોજેક્ટ કરીશ	sure	unreviewed			
+2179	sentence	tame project karjo	તમે પ્રોજેક્ટ કરજો	sure	unreviewed			
+2180	common	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	sure	unreviewed			
+2181	sentence	project kyare karshu	પ્રોજેક્ટ ક્યારે કરશું	review	unreviewed			
+2182	office	customer ne project moklo	કસ્ટમર ને પ્રોજેક્ટ મોકલો	sure	unreviewed			
+2183	office	please project check karo	પ્લીઝ પ્રોજેક્ટ ચેક કરો	sure	unreviewed			
+2184	office	ame project karishu	અમે પ્રોજેક્ટ કરીશું	sure	unreviewed			
+2185	common	aapde project karishu	આપણે પ્રોજેક્ટ કરીશું	sure	unreviewed			
+2186	office	hu project moklu chu	હું પ્રોજેક્ટ મોકલું છું	sure	unreviewed			
+2187	sentence	tame project vachjo	તમે પ્રોજેક્ટ વાંચજો	sure	unreviewed			
+2188	sentence	tame project karyu	તમે પ્રોજેક્ટ કર્યું	review	unreviewed			
+2189	office	manager project mange che	મેનેજર પ્રોજેક્ટ માંગે છે	sure	unreviewed			
+2190	informal	have project karie	હવે પ્રોજેક્ટ કરીએ	review	unreviewed			
+2191	family	bhai project lai gayo	ભાઈ પ્રોજેક્ટ લઈ ગયો	review	unreviewed			
+2192	office	hu meeting karu chu	હું મીટિંગ કરું છું	sure	unreviewed			
+2193	informal	hu meeting karish	હું મીટિંગ કરીશ	sure	unreviewed			
+2194	sentence	tame meeting karjo	તમે મીટિંગ કરજો	sure	unreviewed			
+2195	common	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	sure	unreviewed			
+2196	sentence	meeting kyare karshu	મીટિંગ ક્યારે કરશું	review	unreviewed			
+2197	office	customer ne meeting moklo	કસ્ટમર ને મીટિંગ મોકલો	sure	unreviewed			
+2198	office	please meeting check karo	પ્લીઝ મીટિંગ ચેક કરો	sure	unreviewed			
+2199	office	ame meeting karishu	અમે મીટિંગ કરીશું	sure	unreviewed			
+2200	common	aapde meeting karishu	આપણે મીટિંગ કરીશું	sure	unreviewed			
+2201	office	hu meeting moklu chu	હું મીટિંગ મોકલું છું	sure	unreviewed			
+2202	sentence	tame meeting vachjo	તમે મીટિંગ વાંચજો	sure	unreviewed			
+2203	sentence	tame meeting karyu	તમે મીટિંગ કર્યું	review	unreviewed			
+2204	office	manager meeting mange che	મેનેજર મીટિંગ માંગે છે	sure	unreviewed			
+2205	informal	have meeting karie	હવે મીટિંગ કરીએ	review	unreviewed			
+2206	family	bhai meeting lai gayo	ભાઈ મીટિંગ લઈ ગયો	review	unreviewed			
+2207	office	hu order karu chu	હું ઓર્ડર કરું છું	sure	unreviewed			
+2208	informal	hu order karish	હું ઓર્ડર કરીશ	sure	unreviewed			
+2209	sentence	tame order karjo	તમે ઓર્ડર કરજો	sure	unreviewed			
+2210	common	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	sure	unreviewed			
+2211	sentence	order kyare karshu	ઓર્ડર ક્યારે કરશું	review	unreviewed			
+2212	office	customer ne order moklo	કસ્ટમર ને ઓર્ડર મોકલો	sure	unreviewed			
+2213	office	please order check karo	પ્લીઝ ઓર્ડર ચેક કરો	sure	unreviewed			
+2214	office	ame order karishu	અમે ઓર્ડર કરીશું	sure	unreviewed			
+2215	common	aapde order karishu	આપણે ઓર્ડર કરીશું	sure	unreviewed			
+2216	office	hu order moklu chu	હું ઓર્ડર મોકલું છું	sure	unreviewed			
+2217	sentence	tame order vachjo	તમે ઓર્ડર વાંચજો	sure	unreviewed			
+2218	sentence	tame order karyu	તમે ઓર્ડર કર્યું	review	unreviewed			
+2219	office	manager order mange che	મેનેજર ઓર્ડર માંગે છે	sure	unreviewed			
+2220	informal	have order karie	હવે ઓર્ડર કરીએ	review	unreviewed			
+2221	family	bhai order lai gayo	ભાઈ ઓર્ડર લઈ ગયો	review	unreviewed			
+2222	office	hu payment karu chu	હું પેમેન્ટ કરું છું	sure	unreviewed			
+2223	informal	hu payment karish	હું પેમેન્ટ કરીશ	sure	unreviewed			
+2224	sentence	tame payment karjo	તમે પેમેન્ટ કરજો	sure	unreviewed			
+2225	common	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	sure	unreviewed			
+2226	sentence	payment kyare karshu	પેમેન્ટ ક્યારે કરશું	review	unreviewed			
+2227	office	customer ne payment moklo	કસ્ટમર ને પેમેન્ટ મોકલો	sure	unreviewed			
+2228	office	please payment check karo	પ્લીઝ પેમેન્ટ ચેક કરો	sure	unreviewed			
+2229	office	ame payment karishu	અમે પેમેન્ટ કરીશું	sure	unreviewed			
+2230	common	aapde payment karishu	આપણે પેમેન્ટ કરીશું	sure	unreviewed			
+2231	office	hu payment moklu chu	હું પેમેન્ટ મોકલું છું	sure	unreviewed			
+2232	sentence	tame payment vachjo	તમે પેમેન્ટ વાંચજો	sure	unreviewed			
+2233	sentence	tame payment karyu	તમે પેમેન્ટ કર્યું	review	unreviewed			
+2234	office	manager payment mange che	મેનેજર પેમેન્ટ માંગે છે	sure	unreviewed			
+2235	informal	have payment karie	હવે પેમેન્ટ કરીએ	review	unreviewed			
+2236	family	bhai payment lai gayo	ભાઈ પેમેન્ટ લઈ ગયો	review	unreviewed			
+2237	office	hu call karu chu	હું કોલ કરું છું	sure	unreviewed			
+2238	informal	hu call karish	હું કોલ કરીશ	sure	unreviewed			
+2239	sentence	tame call karjo	તમે કોલ કરજો	sure	unreviewed			
+2240	common	aaje call karvanu che	આજે કોલ કરવાનું છે	sure	unreviewed			
+2241	sentence	call kyare karshu	કોલ ક્યારે કરશું	review	unreviewed			
+2242	office	customer ne call moklo	કસ્ટમર ને કોલ મોકલો	sure	unreviewed			
+2243	office	please call check karo	પ્લીઝ કોલ ચેક કરો	sure	unreviewed			
+2244	office	ame call karishu	અમે કોલ કરીશું	sure	unreviewed			
+2245	common	aapde call karishu	આપણે કોલ કરીશું	sure	unreviewed			
+2246	office	hu call moklu chu	હું કોલ મોકલું છું	sure	unreviewed			
+2247	sentence	tame call vachjo	તમે કોલ વાંચજો	sure	unreviewed			
+2248	sentence	tame call karyu	તમે કોલ કર્યું	review	unreviewed			
+2249	office	manager call mange che	મેનેજર કોલ માંગે છે	sure	unreviewed			
+2250	informal	have call karie	હવે કોલ કરીએ	review	unreviewed			
+2251	family	bhai call lai gayo	ભાઈ કોલ લઈ ગયો	review	unreviewed			
+2252	office	hu update karu chu	હું અપડેટ કરું છું	sure	unreviewed			
+2253	informal	hu update karish	હું અપડેટ કરીશ	sure	unreviewed			
+2254	sentence	tame update karjo	તમે અપડેટ કરજો	sure	unreviewed			
+2255	common	aaje update karvanu che	આજે અપડેટ કરવાનું છે	sure	unreviewed			
+2256	sentence	update kyare karshu	અપડેટ ક્યારે કરશું	review	unreviewed			
+2257	office	customer ne update moklo	કસ્ટમર ને અપડેટ મોકલો	sure	unreviewed			
+2258	office	please update check karo	પ્લીઝ અપડેટ ચેક કરો	sure	unreviewed			
+2259	office	ame update karishu	અમે અપડેટ કરીશું	sure	unreviewed			
+2260	common	aapde update karishu	આપણે અપડેટ કરીશું	sure	unreviewed			
+2261	office	hu update moklu chu	હું અપડેટ મોકલું છું	sure	unreviewed			
+2262	sentence	tame update vachjo	તમે અપડેટ વાંચજો	sure	unreviewed			
+2263	sentence	tame update karyu	તમે અપડેટ કર્યું	review	unreviewed			
+2264	office	manager update mange che	મેનેજર અપડેટ માંગે છે	sure	unreviewed			
+2265	informal	have update karie	હવે અપડેટ કરીએ	review	unreviewed			
+2266	family	bhai update lai gayo	ભાઈ અપડેટ લઈ ગયો	review	unreviewed			
+2267	office	hu password karu chu	હું પાસવર્ડ કરું છું	sure	unreviewed			
+2268	office	hu password kari didhu	હું પાસવર્ડ કરી દીધું	sure	unreviewed			
+2269	informal	hu password karish	હું પાસવર્ડ કરીશ	sure	unreviewed			
+2270	sentence	tame password karjo	તમે પાસવર્ડ કરજો	sure	unreviewed			
+2271	common	aaje password karvanu che	આજે પાસવર્ડ કરવાનું છે	sure	unreviewed			
+2272	sentence	password kyare karshu	પાસવર્ડ ક્યારે કરશું	review	unreviewed			
+2273	office	customer ne password moklo	કસ્ટમર ને પાસવર્ડ મોકલો	sure	unreviewed			
+2274	office	please password check karo	પ્લીઝ પાસવર્ડ ચેક કરો	sure	unreviewed			
+2275	office	ame password karishu	અમે પાસવર્ડ કરીશું	sure	unreviewed			
+2276	common	aapde password karishu	આપણે પાસવર્ડ કરીશું	sure	unreviewed			
+2277	office	hu password moklu chu	હું પાસવર્ડ મોકલું છું	sure	unreviewed			
+2278	sentence	tame password vachjo	તમે પાસવર્ડ વાંચજો	sure	unreviewed			
+2279	sentence	tame password karyu	તમે પાસવર્ડ કર્યું	review	unreviewed			
+2280	office	manager password mange che	મેનેજર પાસવર્ડ માંગે છે	sure	unreviewed			
+2281	informal	have password karie	હવે પાસવર્ડ કરીએ	review	unreviewed			
+2282	family	bhai password lai gayo	ભાઈ પાસવર્ડ લઈ ગયો	review	unreviewed			
+2283	office	hu ticket karu chu	હું ટિકિટ કરું છું	sure	unreviewed			
+2284	office	hu ticket kari didhu	હું ટિકિટ કરી દીધું	sure	unreviewed			
+2285	informal	hu ticket karish	હું ટિકિટ કરીશ	sure	unreviewed			
+2286	sentence	tame ticket karjo	તમે ટિકિટ કરજો	sure	unreviewed			
+2287	common	aaje ticket karvanu che	આજે ટિકિટ કરવાનું છે	sure	unreviewed			
+2288	sentence	ticket kyare karshu	ટિકિટ ક્યારે કરશું	review	unreviewed			
+2289	office	customer ne ticket moklo	કસ્ટમર ને ટિકિટ મોકલો	sure	unreviewed			
+2290	office	please ticket check karo	પ્લીઝ ટિકિટ ચેક કરો	sure	unreviewed			
+2291	office	ame ticket karishu	અમે ટિકિટ કરીશું	sure	unreviewed			
+2292	common	aapde ticket karishu	આપણે ટિકિટ કરીશું	sure	unreviewed			
+2293	office	hu ticket moklu chu	હું ટિકિટ મોકલું છું	sure	unreviewed			
+2294	sentence	tame ticket vachjo	તમે ટિકિટ વાંચજો	sure	unreviewed			
+2295	sentence	tame ticket karyu	તમે ટિકિટ કર્યું	review	unreviewed			
+2296	office	manager ticket mange che	મેનેજર ટિકિટ માંગે છે	sure	unreviewed			
+2297	informal	have ticket karie	હવે ટિકિટ કરીએ	review	unreviewed			
+2298	family	bhai ticket lai gayo	ભાઈ ટિકિટ લઈ ગયો	review	unreviewed			
+2299	office	hu bill karu chu	હું બિલ કરું છું	sure	unreviewed			
+2300	office	hu bill kari didhu	હું બિલ કરી દીધું	sure	unreviewed			
+2301	informal	hu bill karish	હું બિલ કરીશ	sure	unreviewed			
+2302	sentence	tame bill karjo	તમે બિલ કરજો	sure	unreviewed			
+2303	common	aaje bill karvanu che	આજે બિલ કરવાનું છે	sure	unreviewed			
+2304	sentence	bill kyare karshu	બિલ ક્યારે કરશું	review	unreviewed			
+2305	office	customer ne bill moklo	કસ્ટમર ને બિલ મોકલો	sure	unreviewed			
+2306	office	please bill check karo	પ્લીઝ બિલ ચેક કરો	sure	unreviewed			
+2307	office	ame bill karishu	અમે બિલ કરીશું	sure	unreviewed			
+2308	common	aapde bill karishu	આપણે બિલ કરીશું	sure	unreviewed			
+2309	office	hu bill moklu chu	હું બિલ મોકલું છું	sure	unreviewed			
+2310	sentence	tame bill vachjo	તમે બિલ વાંચજો	sure	unreviewed			
+2311	sentence	tame bill karyu	તમે બિલ કર્યું	review	unreviewed			
+2312	office	manager bill mange che	મેનેજર બિલ માંગે છે	sure	unreviewed			
+2313	informal	have bill karie	હવે બિલ કરીએ	review	unreviewed			
+2314	family	bhai bill lai gayo	ભાઈ બિલ લઈ ગયો	review	unreviewed			
+2315	family	hu rasoi ma chu	હું રસોઈ માં છું	sure	unreviewed			
+2316	family	maa rasoi ma che	મા રસોઈ માં છે	sure	unreviewed			
+2317	sentence	rasoi saaf karo	રસોઈ સાફ કરો	review	unreviewed			
+2318	sentence	rasoi kya che	રસોઈ ક્યાં છે	sure	unreviewed			
+2319	family	hu orhu ma chu	હું ઓરડો માં છું	review	unreviewed			
+2320	family	maa orhu ma che	મા ઓરડો માં છે	review	unreviewed			
+2321	sentence	orhu saaf karo	ઓરડો સાફ કરો	review	unreviewed			
+2322	sentence	orhu kya che	ઓરડો ક્યાં છે	review	unreviewed			
+2323	family	hu bagad ma chu	હું બગીચો માં છું	review	unreviewed			
+2324	family	maa bagad ma che	મા બગીચો માં છે	review	unreviewed			
+2325	sentence	bagad saaf karo	બગીચો સાફ કરો	review	unreviewed			
+2326	sentence	bagad kya che	બગીચો ક્યાં છે	review	unreviewed			
+2327	family	hu aangan ma chu	હું આંગણું માં છું	review	unreviewed			
+2328	family	maa aangan ma che	મા આંગણું માં છે	review	unreviewed			
+2329	sentence	aangan saaf karo	આંગણું સાફ કરો	review	unreviewed			
+2330	sentence	aangan kya che	આંગણું ક્યાં છે	review	unreviewed			
+2331	family	hu chok ma chu	હું ચોક માં છું	review	unreviewed			
+2332	family	maa chok ma che	મા ચોક માં છે	review	unreviewed			
+2333	sentence	chok saaf karo	ચોક સાફ કરો	review	unreviewed			
+2334	sentence	chok kya che	ચોક ક્યાં છે	review	unreviewed			
+2335	common	aaje varsad che	આજે વરસાદ છે	sure	unreviewed			
+2336	sentence	varsad kem che	વરસાદ કેમ છે	sure	unreviewed			
+2337	family	bhai varsad ma gayo	ભાઈ વરસાદ માં ગયો	review	unreviewed			
+2338	common	aaje thandi che	આજે ઠંડી છે	sure	unreviewed			
+2339	common	bahar thandi che	બહાર ઠંડી છે	sure	unreviewed			
+2340	sentence	thandi kem che	ઠંડી કેમ છે	sure	unreviewed			
+2341	family	bhai thandi ma gayo	ભાઈ ઠંડી માં ગયો	review	unreviewed			
+2342	common	aaje garami che	આજે ગરમી છે	sure	unreviewed			
+2343	common	bahar garami che	બહાર ગરમી છે	sure	unreviewed			
+2344	sentence	garami kem che	ગરમી કેમ છે	sure	unreviewed			
+2345	family	bhai garami ma gayo	ભાઈ ગરમી માં ગયો	review	unreviewed			
+2346	common	aaje pavan che	આજે પવન છે	sure	unreviewed			
+2347	common	bahar pavan che	બહાર પવન છે	sure	unreviewed			
+2348	sentence	pavan kem che	પવન કેમ છે	sure	unreviewed			
+2349	family	bhai pavan ma gayo	ભાઈ પવન માં ગયો	review	unreviewed			
+2350	common	aaje vajr che	આજે વીજળી છે	review	unreviewed			
+2351	common	bahar vajr che	બહાર વીજળી છે	review	unreviewed			
+2352	sentence	vajr kem che	વીજળી કેમ છે	review	unreviewed			
+2353	family	bhai vajr ma gayo	ભાઈ વીજળી માં ગયો	review	unreviewed			
+2354	family	ben	બેન	editor	unreviewed		editor-recorded alternate spelling બહેન	
+2355	family	bhabhi	ભાભી	editor	unreviewed			
+2356	family	kaka	કાકા	editor	unreviewed			
+2357	family	kaki	કાકી	editor	unreviewed			
+2358	family	masi	માસી	editor	unreviewed			
+2359	family	mama	મામા	editor	unreviewed			
+2360	family	bhai ben	ભાઈ બહેન	editor	unreviewed		typed ben, phrase spelling બહેન	
+2361	formal	ahval	અહેવાલ	editor	unreviewed			
+2362	formal	palvanu	પાળવાનું	editor	unreviewed			
+2363	formal	vyavastha	વ્યવસ્થા	editor	unreviewed			
+2364	formal	javabdari	જવાબદારી	editor	unreviewed			
+2365	formal	karyakram	કાર્યક્રમ	editor	unreviewed			
+2366	formal	suchna	સૂચના	editor	unreviewed			
+2367	formal	arji	અરજી	editor	unreviewed			
+2368	formal	mahiti	માહિતી	editor	unreviewed			
+2369	loan	sbi	એસબીઆઇ	editor	unreviewed		acronym; local mapping can replace it	
+2370	loan	meeting	મીટિંગ	editor	unreviewed			
+2371	religious	namaste	નમસ્તે	editor	unreviewed			

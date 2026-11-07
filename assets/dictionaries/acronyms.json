@@ -1,0 +1,7 @@
+[
+  {"roman": "sbi", "gujarati": "એસબીઆઇ", "frequency": 64, "kind": "loan"},
+  {"roman": "rbi", "gujarati": "આરબીઆઇ", "frequency": 60, "kind": "loan"},
+  {"roman": "lic", "gujarati": "એલઆઇસી", "frequency": 56, "kind": "loan"},
+  {"roman": "hdfc", "gujarati": "એચડીએફસી", "frequency": 52, "kind": "loan"},
+  {"roman": "icici", "gujarati": "આઇસીઆઇસીઆઇ", "frequency": 52, "kind": "loan"}
+]

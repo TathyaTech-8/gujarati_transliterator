@@ -1,0 +1,90 @@
+# Batch 08 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1945	sentence	tame ben ne raho	તમે બહેન ને રહો	sure	unreviewed							
+1946	sentence	tame ben ne lakho	તમે બહેન ને લખો	sure	unreviewed							
+1947	sentence	tame ben ne vachjo	તમે બહેન ને વાંચજો	sure	unreviewed							
+1948	sentence	tame ben ne sambhaljo	તમે બહેન ને સાંભળજો	review	unreviewed							
+1949	sentence	tame ben ne puchjo	તમે બહેન ને પૂછજો	sure	unreviewed							
+1950	sentence	tame sir ne aavjo	તમે સર ને આવજો	sure	unreviewed							
+1951	sentence	tame sir ne beso	તમે સર ને બેસો	sure	unreviewed							
+1952	sentence	tame sir ne jao	તમે સર ને જાઓ	sure	unreviewed							
+1953	sentence	tame sir ne raho	તમે સર ને રહો	sure	unreviewed							
+1954	sentence	tame sir ne lakho	તમે સર ને લખો	sure	unreviewed							
+1955	sentence	tame sir ne vachjo	તમે સર ને વાંચજો	sure	unreviewed							
+1956	sentence	tame sir ne sambhaljo	તમે સર ને સાંભળજો	review	unreviewed							
+1957	sentence	tame sir ne puchjo	તમે સર ને પૂછજો	sure	unreviewed							
+1960	sentence	wifi kem bandh che	વાઇફાઇ કેમ બંધ છે	sure	unreviewed							
+1961	sentence	wifi check karo	વાઇફાઇ ચેક કરો	sure	unreviewed							
+1965	sentence	network kem bandh che	નેટવર્ક કેમ બંધ છે	sure	unreviewed							
+1966	sentence	network check karo	નેટવર્ક ચેક કરો	sure	unreviewed							
+1970	sentence	server kem bandh che	સર્વર કેમ બંધ છે	sure	unreviewed							
+1971	sentence	server check karo	સર્વર ચેક કરો	sure	unreviewed							
+1975	sentence	printer kem bandh che	પ્રિન્ટર કેમ બંધ છે	sure	unreviewed							
+1976	sentence	printer check karo	પ્રિન્ટર ચેક કરો	sure	unreviewed							
+1979	sentence	laptop kem bandh che	લેપટોપ કેમ બંધ છે	sure	unreviewed							
+1980	sentence	laptop check karo	લેપટોપ ચેક કરો	sure	unreviewed							
+1984	sentence	phone kem bandh che	ફોન કેમ બંધ છે	sure	unreviewed							
+1985	sentence	phone check karo	ફોન ચેક કરો	sure	unreviewed							
+1989	sentence	system kem bandh che	સિસ્ટમ કેમ બંધ છે	sure	unreviewed							
+1990	sentence	system check karo	સિસ્ટમ ચેક કરો	sure	unreviewed							
+1994	sentence	login kem bandh che	લોગિન કેમ બંધ છે	sure	unreviewed							
+1995	sentence	login check karo	લોગિન ચેક કરો	sure	unreviewed							
+1998	sentence	dukan khullu che	દુકાન ખુલ્લું છે	review	unreviewed							
+2001	sentence	shop khullu che	શોપ ખુલ્લું છે	review	unreviewed							
+2004	sentence	market khullu che	માર્કેટ ખુલ્લું છે	review	unreviewed							
+2007	sentence	mall khullu che	મોલ ખુલ્લું છે	review	unreviewed							
+2010	sentence	bank khullu che	બેંક ખુલ્લું છે	review	unreviewed							
+2013	sentence	post office khullu che	પોસ્ટ ઓફિસ ખુલ્લું છે	review	unreviewed							
+2017	sentence	tame document karjo	તમે ડોક્યુમેન્ટ કરજો	sure	unreviewed							
+2019	sentence	document kyare karshu	ડોક્યુમેન્ટ ક્યારે કરશું	review	unreviewed							
+2024	sentence	tame document vachjo	તમે ડોક્યુમેન્ટ વાંચજો	sure	unreviewed							
+2025	sentence	tame document karyu	તમે ડોક્યુમેન્ટ કર્યું	review	unreviewed							
+2032	sentence	tame file karjo	તમે ફાઇલ કરજો	sure	unreviewed							
+2034	sentence	file kyare karshu	ફાઇલ ક્યારે કરશું	review	unreviewed							
+2039	sentence	tame file vachjo	તમે ફાઇલ વાંચજો	sure	unreviewed							
+2040	sentence	tame file karyu	તમે ફાઇલ કર્યું	review	unreviewed							
+2047	sentence	tame photo karjo	તમે ફોટો કરજો	sure	unreviewed							
+2049	sentence	photo kyare karshu	ફોટો ક્યારે કરશું	review	unreviewed							
+2054	sentence	tame photo vachjo	તમે ફોટો વાંચજો	sure	unreviewed							
+2055	sentence	tame photo karyu	તમે ફોટો કર્યું	review	unreviewed							
+2062	sentence	tame message karjo	તમે મેસેજ કરજો	sure	unreviewed							
+2064	sentence	message kyare karshu	મેસેજ ક્યારે કરશું	review	unreviewed							
+2069	sentence	tame message vachjo	તમે મેસેજ વાંચજો	sure	unreviewed							
+2070	sentence	tame message karyu	તમે મેસેજ કર્યું	review	unreviewed							
+2076	sentence	tame report karjo	તમે રિપોર્ટ કરજો	sure	unreviewed							
+2078	sentence	report kyare karshu	રિપોર્ટ ક્યારે કરશું	review	unreviewed							
+2082	sentence	tame report vachjo	તમે રિપોર્ટ વાંચજો	sure	unreviewed							
+2083	sentence	tame report karyu	તમે રિપોર્ટ કર્યું	review	unreviewed							
+2089	sentence	tame plan karjo	તમે પ્લાન કરજો	sure	unreviewed							
+2091	sentence	plan kyare karshu	પ્લાન ક્યારે કરશું	review	unreviewed							
+2097	sentence	tame plan vachjo	તમે પ્લાન વાંચજો	sure	unreviewed							
+2098	sentence	tame plan karyu	તમે પ્લાન કર્યું	review	unreviewed							
+2105	sentence	tame list karjo	તમે લિસ્ટ કરજો	sure	unreviewed							
+2107	sentence	list kyare karshu	લિસ્ટ ક્યારે કરશું	review	unreviewed							
+2112	sentence	tame list vachjo	તમે લિસ્ટ વાંચજો	sure	unreviewed							
+2113	sentence	tame list karyu	તમે લિસ્ટ કર્યું	review	unreviewed							
+2120	sentence	tame form karjo	તમે ફોર્મ કરજો	sure	unreviewed							
+2122	sentence	form kyare karshu	ફોર્મ ક્યારે કરશું	review	unreviewed							
+2127	sentence	tame form vachjo	તમે ફોર્મ વાંચજો	sure	unreviewed							
+2128	sentence	tame form karyu	તમે ફોર્મ કર્યું	review	unreviewed							
+2135	sentence	tame copy karjo	તમે કોપી કરજો	sure	unreviewed							
+2137	sentence	copy kyare karshu	કોપી ક્યારે કરશું	review	unreviewed							
+2142	sentence	tame copy vachjo	તમે કોપી વાંચજો	sure	unreviewed							
+2143	sentence	tame copy karyu	તમે કોપી કર્યું	review	unreviewed							
+2150	sentence	tame invoice karjo	તમે ઇન્વોઇસ કરજો	sure	unreviewed							
+2152	sentence	invoice kyare karshu	ઇન્વોઇસ ક્યારે કરશું	review	unreviewed							
+2157	sentence	tame invoice vachjo	તમે ઇન્વોઇસ વાંચજો	sure	unreviewed							
+2158	sentence	tame invoice karyu	તમે ઇન્વોઇસ કર્યું	review	unreviewed							
+2165	sentence	tame email karjo	તમે ઈમેલ કરજો	sure	unreviewed							
+2167	sentence	email kyare karshu	ઈમેલ ક્યારે કરશું	review	unreviewed							
+2172	sentence	tame email vachjo	તમે ઈમેલ વાંચજો	sure	unreviewed							
+2173	sentence	tame email karyu	તમે ઈમેલ કર્યું	review	unreviewed							
+2179	sentence	tame project karjo	તમે પ્રોજેક્ટ કરજો	sure	unreviewed							

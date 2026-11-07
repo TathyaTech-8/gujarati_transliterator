@@ -1,0 +1,90 @@
+# Batch 09 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1825	common	hu car ma chu	હું કાર માં છું	sure	unreviewed							
+1826	common	tame car pakdo	તમે કાર પકડો	review	unreviewed							
+1830	common	hu taxi ma chu	હું ટેક્સી માં છું	sure	unreviewed							
+1831	common	tame taxi pakdo	તમે ટેક્સી પકડો	review	unreviewed							
+1835	common	hu auto ma chu	હું ઓટો માં છું	sure	unreviewed							
+1836	common	tame auto pakdo	તમે ઓટો પકડો	review	unreviewed							
+1840	common	hu flight ma chu	હું ફ્લાઇટ માં છું	sure	unreviewed							
+1841	common	tame flight pakdo	તમે ફ્લાઇટ પકડો	review	unreviewed							
+1845	common	mane pani joiye	મને પાણી જોઈએ	sure	unreviewed							
+1848	common	mane chai joiye	મને ચા જોઈએ	sure	unreviewed							
+1851	common	mane time joiye	મને ટાઇમ જોઈએ	sure	unreviewed							
+1855	common	mane madad joiye	મને મદદ જોઈએ	sure	unreviewed							
+1859	common	mane number joiye	મને નંબર જોઈએ	sure	unreviewed							
+1863	common	mane address joiye	મને એડ્રેસ જોઈએ	sure	unreviewed							
+1867	common	mane ticket joiye	મને ટિકિટ જોઈએ	sure	unreviewed							
+1871	common	mane room joiye	મને રૂમ જોઈએ	sure	unreviewed							
+1875	common	mane key joiye	મને ચાવી જોઈએ	review	unreviewed							
+1879	common	mane bill joiye	મને બિલ જોઈએ	sure	unreviewed							
+1884	common	hu monday aavish	હું મંડે આવીશ	sure	unreviewed							
+1889	common	hu tuesday aavish	હું ટ્યુસડે આવીશ	sure	unreviewed							
+1894	common	hu wednesday aavish	હું વેડનેસડે આવીશ	sure	unreviewed							
+1899	common	hu thursday aavish	હું થર્સડે આવીશ	sure	unreviewed							
+1904	common	hu friday aavish	હું ફ્રાઇડે આવીશ	sure	unreviewed							
+1909	common	hu saturday aavish	હું સેટર્ડે આવીશ	sure	unreviewed							
+1914	common	hu sunday aavish	હું સન્ડે આવીશ	sure	unreviewed							
+1997	common	hu dukan javu chu	હું દુકાન જવું છું	sure	unreviewed							
+2000	common	hu shop javu chu	હું શોપ જવું છું	sure	unreviewed							
+2003	common	hu market javu chu	હું માર્કેટ જવું છું	sure	unreviewed							
+2006	common	hu mall javu chu	હું મોલ જવું છું	sure	unreviewed							
+2009	common	hu bank javu chu	હું બેંક જવું છું	sure	unreviewed							
+2012	common	hu post office javu chu	હું પોસ્ટ ઓફિસ જવું છું	sure	unreviewed							
+2018	common	aaje document karvanu che	આજે ડોક્યુમેન્ટ કરવાનું છે	sure	unreviewed							
+2023	common	aapde document karishu	આપણે ડોક્યુમેન્ટ કરીશું	sure	unreviewed							
+2033	common	aaje file karvanu che	આજે ફાઇલ કરવાનું છે	sure	unreviewed							
+2038	common	aapde file karishu	આપણે ફાઇલ કરીશું	sure	unreviewed							
+2048	common	aaje photo karvanu che	આજે ફોટો કરવાનું છે	sure	unreviewed							
+2053	common	aapde photo karishu	આપણે ફોટો કરીશું	sure	unreviewed							
+2063	common	aaje message karvanu che	આજે મેસેજ કરવાનું છે	sure	unreviewed							
+2068	common	aapde message karishu	આપણે મેસેજ કરીશું	sure	unreviewed							
+2077	common	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	sure	unreviewed							
+2081	common	aapde report karishu	આપણે રિપોર્ટ કરીશું	sure	unreviewed							
+2090	common	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	sure	unreviewed							
+2095	common	aapde plan karishu	આપણે પ્લાન કરીશું	sure	unreviewed							
+2106	common	aaje list karvanu che	આજે લિસ્ટ કરવાનું છે	sure	unreviewed							
+2111	common	aapde list karishu	આપણે લિસ્ટ કરીશું	sure	unreviewed							
+2121	common	aaje form karvanu che	આજે ફોર્મ કરવાનું છે	sure	unreviewed							
+2126	common	aapde form karishu	આપણે ફોર્મ કરીશું	sure	unreviewed							
+2136	common	aaje copy karvanu che	આજે કોપી કરવાનું છે	sure	unreviewed							
+2141	common	aapde copy karishu	આપણે કોપી કરીશું	sure	unreviewed							
+2151	common	aaje invoice karvanu che	આજે ઇન્વોઇસ કરવાનું છે	sure	unreviewed							
+2156	common	aapde invoice karishu	આપણે ઇન્વોઇસ કરીશું	sure	unreviewed							
+2166	common	aaje email karvanu che	આજે ઈમેલ કરવાનું છે	sure	unreviewed							
+2171	common	aapde email karishu	આપણે ઈમેલ કરીશું	sure	unreviewed							
+2180	common	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	sure	unreviewed							
+2185	common	aapde project karishu	આપણે પ્રોજેક્ટ કરીશું	sure	unreviewed							
+2195	common	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	sure	unreviewed							
+2200	common	aapde meeting karishu	આપણે મીટિંગ કરીશું	sure	unreviewed							
+2210	common	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	sure	unreviewed							
+2215	common	aapde order karishu	આપણે ઓર્ડર કરીશું	sure	unreviewed							
+2225	common	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	sure	unreviewed							
+2230	common	aapde payment karishu	આપણે પેમેન્ટ કરીશું	sure	unreviewed							
+2240	common	aaje call karvanu che	આજે કોલ કરવાનું છે	sure	unreviewed							
+2245	common	aapde call karishu	આપણે કોલ કરીશું	sure	unreviewed							
+2255	common	aaje update karvanu che	આજે અપડેટ કરવાનું છે	sure	unreviewed							
+2260	common	aapde update karishu	આપણે અપડેટ કરીશું	sure	unreviewed							
+2271	common	aaje password karvanu che	આજે પાસવર્ડ કરવાનું છે	sure	unreviewed							
+2276	common	aapde password karishu	આપણે પાસવર્ડ કરીશું	sure	unreviewed							
+2287	common	aaje ticket karvanu che	આજે ટિકિટ કરવાનું છે	sure	unreviewed							
+2292	common	aapde ticket karishu	આપણે ટિકિટ કરીશું	sure	unreviewed							
+2303	common	aaje bill karvanu che	આજે બિલ કરવાનું છે	sure	unreviewed							
+2308	common	aapde bill karishu	આપણે બિલ કરીશું	sure	unreviewed							
+2335	common	aaje varsad che	આજે વરસાદ છે	sure	unreviewed							
+2338	common	aaje thandi che	આજે ઠંડી છે	sure	unreviewed							
+2339	common	bahar thandi che	બહાર ઠંડી છે	sure	unreviewed							
+2342	common	aaje garami che	આજે ગરમી છે	sure	unreviewed							
+2343	common	bahar garami che	બહાર ગરમી છે	sure	unreviewed							
+2346	common	aaje pavan che	આજે પવન છે	sure	unreviewed							
+2347	common	bahar pavan che	બહાર પવન છે	sure	unreviewed							
+2350	common	aaje vajr che	આજે વીજળી છે	review	unreviewed							
+2351	common	bahar vajr che	બહાર વીજળી છે	review	unreviewed							

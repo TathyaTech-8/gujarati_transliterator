@@ -8,6 +8,7 @@ import '../models/transliteration_mode.dart';
 import '../models/transliteration_result.dart';
 import '../utils/input_normalizer.dart';
 import 'candidate_resolver.dart';
+import 'english_guard.dart';
 import 'phonetic_parser.dart';
 
 part 'incremental_session.dart';
@@ -240,6 +241,10 @@ class GujaratiTransliterator {
     final words = _InputWords(tokens, wordAt);
     final liveTail = tokens.isNotEmpty && tokens.last.type == SpanType.word;
     bool committedAt(int index) => index < words.length - 1 || !liveTail;
+    final english = mode != TransliterationMode.phonetic &&
+        EnglishGuard.isEnglishSentence(dictionary, [
+          for (final index in wordAt) tokens[index].text,
+        ]);
 
     final spans = <TransliteratedSpan>[];
     var wordIndex = 0;
@@ -270,7 +275,7 @@ class GujaratiTransliterator {
         }
       }
 
-      final forward = _findPhrase(words, wordIndex, mode);
+      final forward = english ? null : _findPhrase(words, wordIndex, mode);
       if (forward != null &&
           !_blocked(memory, words, wordIndex, forward.wordCount, committedAt)) {
         tokenIndex = _emitPhrase(
@@ -286,14 +291,17 @@ class GujaratiTransliterator {
         continue;
       }
 
-      final backward = _phraseEndingAt(words, wordIndex, mode);
+      final preferred = _custom.lookup(token.text).any((entry) => entry.prefer);
+      final keepLatin = english && !preferred;
+      final backward =
+          keepLatin ? null : _phraseEndingAt(words, wordIndex, mode);
       final suggestions = _resolver.resolve(
         word: token.text,
         mode: mode,
         previous: _previousOutput(spans),
         next: wordIndex + 1 < words.length ? words[wordIndex + 1] : null,
       );
-      final chosen = backward == null || backward.parts == null
+      final ranked = backward == null || backward.parts == null
           ? suggestions
           : _choose(
               suggestions,
@@ -301,6 +309,7 @@ class GujaratiTransliterator {
               backward.score,
               backward.source,
             );
+      final chosen = keepLatin ? _latinFirst(token.text, ranked) : ranked;
       final span = TransliteratedSpan(
         input: token.text,
         output: chosen.first.text,
@@ -325,6 +334,32 @@ class GujaratiTransliterator {
       spans: List.unmodifiable(spans),
       suggestions: List.unmodifiable(_packageSuggestions(spans, text)),
     );
+  }
+
+  List<Suggestion> _latinFirst(String original, List<Suggestion> gujarati) {
+    final rest = <Suggestion>[
+      for (final item in gujarati)
+        if (item.text != original) item,
+    ];
+    final ranked = <Suggestion>[
+      Suggestion(
+        text: original,
+        confidence: 0.97,
+        source: SuggestionSource.phonetic,
+        rank: 1,
+      ),
+      ...rest,
+    ];
+    return [
+      for (var i = 0; i < ranked.length; i++)
+        Suggestion(
+          text: ranked[i].text,
+          confidence: i == 0 ? 0.97 : ranked[i].confidence,
+          source: ranked[i].source,
+          rank: i + 1,
+          weight: ranked[i].weight,
+        ),
+    ];
   }
 
   _Reuse? _takeMulti(

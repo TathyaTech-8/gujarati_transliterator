@@ -1,0 +1,90 @@
+# Batch 03 of office. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1251	office	reply aapo	રિપ્લાય આપો	editor	unreviewed							
+1252	office	seen thai gayu	સીન થઈ ગયું	editor	unreviewed							
+1253	office	typing che	ટાઇપિંગ છે	editor	unreviewed							
+1254	office	online aavyo	ઓનલાઇન આવ્યો	editor	unreviewed							
+1255	office	last seen kal	લાસ્ટ સીન કાલ	editor	unreviewed							
+1256	office	hu busy hatо	હું બિઝી હતો	editor	unreviewed							
+1257	office	pachi call karu	પછી કોલ કરું	editor	unreviewed							
+1258	office	network nathi	નેટવર્ક નથી	editor	unreviewed							
+1259	office	signal weak che	સિગ્નલ વીક છે	editor	unreviewed							
+1260	office	recharge karav	રિચાર્જ કરાવ	editor	unreviewed							
+1261	office	balance khatam	બેલેન્સ ખતમ	editor	unreviewed							
+1262	office	data pack	ડેટા પેક	editor	unreviewed							
+1263	office	wifi password	વાઇફાઇ પાસવર્ડ	editor	unreviewed							
+1264	office	hotspot on kar	હોટસ્પોટ ઓન કર	editor	unreviewed							
+1265	office	bluetooth on	બ્લૂટૂથ ઓન	editor	unreviewed							
+1266	office	location on kar	લોકેશન ઓન કર	editor	unreviewed							
+1267	office	map kholo	મેપ ખોલો	editor	unreviewed							
+1272	office	safe journey	સેફ જર્ની	editor	unreviewed							
+1436	office	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	sure	unreviewed							
+1438	office	hu payment kari didhu	હું પેમેન્ટ કરી દીધું	sure	unreviewed							
+1440	office	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	sure	unreviewed							
+1442	office	hu meeting kari didhu	હું મીટિંગ કરી દીધું	sure	unreviewed							
+1444	office	aaje call karvanu che	આજે કોલ કરવાનું છે	sure	unreviewed							
+1446	office	hu call kari didhu	હું કોલ કરી દીધું	sure	unreviewed							
+1448	office	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	sure	unreviewed							
+1450	office	hu project kari didhu	હું પ્રોજેક્ટ કરી દીધું	sure	unreviewed							
+1452	office	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	sure	unreviewed							
+1454	office	hu report kari didhu	હું રિપોર્ટ કરી દીધું	sure	unreviewed							
+1456	office	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	sure	unreviewed							
+1458	office	hu order kari didhu	હું ઓર્ડર કરી દીધું	sure	unreviewed							
+1460	office	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	sure	unreviewed							
+1462	office	hu plan kari didhu	હું પ્લાન કરી દીધું	sure	unreviewed							
+1464	office	aaje update karvanu che	આજે અપડેટ કરવાનું છે	sure	unreviewed							
+1466	office	hu update kari didhu	હું અપડેટ કરી દીધું	sure	unreviewed							
+1468	office	aaje check karvanu che	આજે ચેક કરવાનું છે	sure	unreviewed							
+1470	office	hu check kari didhu	હું ચેક કરી દીધું	sure	unreviewed							
+1472	office	aaje kaam karvanu che	આજે કામ કરવાનું છે	sure	unreviewed							
+1474	office	hu kaam kari didhu	હું કામ કરી દીધું	sure	unreviewed							
+1477	office	hu document moklu chu	હું ડોક્યુમેન્ટ મોકલું છું	sure	unreviewed							
+1478	office	tamaro document mali gayo	તમારો ડોક્યુમેન્ટ મળી ગયો	sure	unreviewed							
+1479	office	please document moklo	પ્લીઝ ડોક્યુમેન્ટ મોકલો	sure	unreviewed							
+1481	office	hu file moklu chu	હું ફાઇલ મોકલું છું	sure	unreviewed							
+1482	office	tamaro file mali gayo	તમારો ફાઇલ મળી ગયો	sure	unreviewed							
+1483	office	please file moklo	પ્લીઝ ફાઇલ મોકલો	sure	unreviewed							
+1485	office	hu photo moklu chu	હું ફોટો મોકલું છું	sure	unreviewed							
+1486	office	tamaro photo mali gayo	તમારો ફોટો મળી ગયો	sure	unreviewed							
+1487	office	please photo moklo	પ્લીઝ ફોટો મોકલો	sure	unreviewed							
+1489	office	hu report moklu chu	હું રિપોર્ટ મોકલું છું	sure	unreviewed							
+1490	office	tamaro report mali gayo	તમારો રિપોર્ટ મળી ગયો	sure	unreviewed							
+1491	office	please report moklo	પ્લીઝ રિપોર્ટ મોકલો	sure	unreviewed							
+1493	office	tamaro message mali gayo	તમારો મેસેજ મળી ગયો	sure	unreviewed							
+1494	office	please message moklo	પ્લીઝ મેસેજ મોકલો	sure	unreviewed							
+1496	office	hu email moklu chu	હું ઈમેલ મોકલું છું	sure	unreviewed							
+1497	office	tamaro email mali gayo	તમારો ઈમેલ મળી ગયો	sure	unreviewed							
+1498	office	please email moklo	પ્લીઝ ઈમેલ મોકલો	sure	unreviewed							
+1500	office	hu list moklu chu	હું લિસ્ટ મોકલું છું	sure	unreviewed							
+1501	office	tamaro list mali gayo	તમારો લિસ્ટ મળી ગયો	sure	unreviewed							
+1502	office	please list moklo	પ્લીઝ લિસ્ટ મોકલો	sure	unreviewed							
+1504	office	hu form moklu chu	હું ફોર્મ મોકલું છું	sure	unreviewed							
+1505	office	tamaro form mali gayo	તમારો ફોર્મ મળી ગયો	sure	unreviewed							
+1506	office	please form moklo	પ્લીઝ ફોર્મ મોકલો	sure	unreviewed							
+1508	office	hu copy moklu chu	હું કોપી મોકલું છું	sure	unreviewed							
+1509	office	tamaro copy mali gayo	તમારો કોપી મળી ગયો	sure	unreviewed							
+1510	office	please copy moklo	પ્લીઝ કોપી મોકલો	sure	unreviewed							
+1512	office	hu invoice moklu chu	હું ઇન્વોઇસ મોકલું છું	sure	unreviewed							
+1513	office	tamaro invoice mali gayo	તમારો ઇન્વોઇસ મળી ગયો	sure	unreviewed							
+1514	office	please invoice moklo	પ્લીઝ ઇન્વોઇસ મોકલો	sure	unreviewed							
+1648	office	hu office ma chu	હું ઓફિસ માં છું	sure	unreviewed							
+1649	office	mare meeting ma javanu che	મારે મીટિંગ માં જવાનું છે	sure	unreviewed							
+1650	office	tame mane call karjo	તમે મને કોલ કરજો	sure	unreviewed							
+1651	office	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	sure	unreviewed							
+1652	office	please report check karo	પ્લીઝ રિપોર્ટ ચેક કરો	sure	unreviewed							
+1653	office	client ne mail karjo	ક્લાયન્ટ ને મેલ કરજો	review	unreviewed							
+1654	office	manager office ma che	મેનેજર ઓફિસ માં છે	sure	unreviewed							
+1655	office	salary account ma aavi	સેલરી એકાઉન્ટ માં આવી	sure	unreviewed							
+1656	office	project deadline kale che	પ્રોજેક્ટ ડેડલાઇન કાલે છે	sure	unreviewed							
+1657	office	aaje holiday che	આજે હોલિડે છે	sure	unreviewed							
+1658	office	team meeting pachi che	ટીમ મીટિંગ પછી છે	sure	unreviewed							
+1659	office	hu late chu	હું લેટ છું	sure	unreviewed							
+1660	office	laptop bandh che	લેપટોપ બંધ છે	sure	unreviewed							

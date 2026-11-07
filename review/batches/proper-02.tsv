@@ -1,0 +1,70 @@
+# Batch 02 of proper. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+989	proper	sundaram	સુંદરમ્	editor	unreviewed							
+990	proper	kavi nhanalal	કવિ ન્હાનાલાલ	editor	unreviewed							
+991	proper	dalpatram	દલપતરામ	editor	unreviewed							
+992	proper	narmad	નર્મદ	editor	unreviewed							
+993	proper	govardhanram	ગોવર્ધનરામ	editor	unreviewed							
+995	proper	kanaiyalal munshi	કનૈયાલાલ મુનશી	editor	unreviewed							
+997	proper	lothal nu bandar	લોથલ નું બંદર	editor	unreviewed							
+998	proper	dwarka no raja	દ્વારકા નો રાજા	editor	unreviewed							
+1000	proper	girnar ni padi	ગિરનાર ની પાદી	editor	unreviewed							
+1001	proper	saputara ni thandi	સાપુતારા ની ઠંડી	editor	unreviewed							
+1002	proper	kutch no rann	કચ્છ નો રણ	editor	unreviewed							
+1003	proper	sabarmati aashram	સાબરમતી આશ્રમ	editor	unreviewed							
+1004	proper	sabarmati riverfront	સાબરમતી રિવરફ્રન્ટ	editor	unreviewed							
+1005	proper	lal darwaja	લાલ દરવાજા	editor	unreviewed							
+1006	proper	manek chowk	માણેક ચોક	editor	unreviewed							
+1007	proper	law garden	લો ગાર્ડન	editor	unreviewed							
+1008	proper	kankaria talav	કાંકરિયા તળાવ	editor	unreviewed							
+1009	proper	science city	સાયન્સ સિટી	editor	unreviewed							
+1013	proper	siddi saiyad	સિદ્દી સૈયદ	editor	unreviewed							
+1014	proper	rani ni vav	રાણી ની વાવ	editor	unreviewed							
+1015	proper	adalaj ni vav	અડાલજ ની વાવ	editor	unreviewed							
+1017	proper	polo forest	પોલો ફોરેસ્ટ	editor	unreviewed							
+1019	proper	sardar sarovar	સરદાર સરોવર	editor	unreviewed							
+1020	proper	narmada dam	નર્મદા ડેમ	editor	unreviewed							
+1021	proper	kandla port	કંડલા પોર્ટ	editor	unreviewed							
+1022	proper	mundra port	મુંદ્રા પોર્ટ	editor	unreviewed							
+1023	proper	alango ship	અલંગ શિપ	editor	unreviewed							
+1028	proper	gujarat university	ગુજરાત યુનિવર્સિટી	editor	unreviewed							
+1563	proper	hu amdavad ma chu	હું અમદાવાદ માં છું	sure	unreviewed							
+1564	proper	tame amdavad kyare javana cho	તમે અમદાવાદ ક્યારે જવાના છો	review	unreviewed							
+1566	proper	hu surat ma chu	હું સુરત માં છું	sure	unreviewed							
+1567	proper	tame surat kyare javana cho	તમે સુરત ક્યારે જવાના છો	review	unreviewed							
+1569	proper	hu rajkot ma chu	હું રાજકોટ માં છું	sure	unreviewed							
+1570	proper	tame rajkot kyare javana cho	તમે રાજકોટ ક્યારે જવાના છો	review	unreviewed							
+1572	proper	hu vadodara ma chu	હું વડોદરા માં છું	sure	unreviewed							
+1573	proper	tame vadodara kyare javana cho	તમે વડોદરા ક્યારે જવાના છો	review	unreviewed							
+1575	proper	hu bhavnagar ma chu	હું ભાવનગર માં છું	sure	unreviewed							
+1576	proper	tame bhavnagar kyare javana cho	તમે ભાવનગર ક્યારે જવાના છો	review	unreviewed							
+1578	proper	hu junagadh ma chu	હું જૂનાગઢ માં છું	sure	unreviewed							
+1579	proper	tame junagadh kyare javana cho	તમે જૂનાગઢ ક્યારે જવાના છો	review	unreviewed							
+1581	proper	hu gandhinagar ma chu	હું ગાંધીનગર માં છું	sure	unreviewed							
+1582	proper	tame gandhinagar kyare javana cho	તમે ગાંધીનગર ક્યારે જવાના છો	review	unreviewed							
+1584	proper	hu bhuj ma chu	હું ભુજ માં છું	sure	unreviewed							
+1585	proper	tame bhuj kyare javana cho	તમે ભુજ ક્યારે જવાના છો	review	unreviewed							
+1734	proper	patel sahib aavya	પટેલ સાહેબ આવ્યા	review	unreviewed							
+1735	proper	hu patel bolu chu	હું પટેલ બોલું છું	sure	unreviewed							
+1736	proper	shah sahib aavya	શાહ સાહેબ આવ્યા	review	unreviewed							
+1737	proper	hu shah bolu chu	હું શાહ બોલું છું	sure	unreviewed							
+1738	proper	mehta sahib aavya	મહેતા સાહેબ આવ્યા	review	unreviewed							
+1739	proper	hu mehta bolu chu	હું મહેતા બોલું છું	sure	unreviewed							
+1740	proper	desai sahib aavya	દેસાઈ સાહેબ આવ્યા	review	unreviewed							
+1741	proper	hu desai bolu chu	હું દેસાઈ બોલું છું	sure	unreviewed							
+1742	proper	joshi sahib aavya	જોષી સાહેબ આવ્યા	review	unreviewed							
+1743	proper	hu joshi bolu chu	હું જોષી બોલું છું	sure	unreviewed							
+1744	proper	trivedi sahib aavya	ત્રિવેદી સાહેબ આવ્યા	review	unreviewed							
+1745	proper	hu trivedi bolu chu	હું ત્રિવેદી બોલું છું	sure	unreviewed							
+1746	proper	gandhi sahib aavya	ગાંધી સાહેબ આવ્યા	review	unreviewed							
+1747	proper	hu gandhi bolu chu	હું ગાંધી બોલું છું	sure	unreviewed							
+1748	proper	modi sahib aavya	મોદી સાહેબ આવ્યા	review	unreviewed							
+1749	proper	hu modi bolu chu	હું મોદી બોલું છું	sure	unreviewed							

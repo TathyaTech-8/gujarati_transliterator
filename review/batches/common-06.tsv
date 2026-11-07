@@ -1,0 +1,90 @@
+# Batch 06 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+534	common	shukravar	શુક્રવાર	editor	unreviewed							
+535	common	shanivar	શનિવાર	editor	unreviewed							
+536	common	mahino	મહિનો	editor	unreviewed							
+537	common	varsh	વર્ષ	editor	unreviewed							
+538	common	saal	સાલ	editor	unreviewed							
+539	common	umr	ઉંમર	editor	unreviewed							
+540	common	umar	ઉંમર	editor	unreviewed							
+541	common	janm	જન્મ	editor	unreviewed							
+542	common	janam	જન્મ	editor	unreviewed							
+543	common	mrutyu	મૃત્યુ	editor	unreviewed							
+544	common	mrityu	મૃત્યુ	editor	unreviewed							
+545	common	jindagi	જિંદગી	editor	unreviewed							
+546	common	jivan	જીવન	editor	unreviewed							
+547	common	zindagi	જિંદગી	editor	unreviewed							
+548	common	khushi	ખુશી	editor	unreviewed							
+549	common	dard	દર્દ	editor	unreviewed							
+550	common	pyaar	પ્રેમ	editor	unreviewed							
+551	common	gussa	ગુસ્સો	editor	unreviewed							
+552	common	gusso	ગુસ્સો	editor	unreviewed							
+553	common	dar	ડર	editor	unreviewed							
+554	common	bhay	ભય	editor	unreviewed							
+555	common	nirasha	નિરાશા	editor	unreviewed							
+556	common	hausla	હૌસલો	editor	unreviewed							
+557	common	himmat	હિંમત	editor	unreviewed							
+558	common	sharam	શરમ	editor	unreviewed							
+559	common	izzat	ઇઝ્ઝત	editor	unreviewed							
+560	common	adab	આદબ	editor	unreviewed							
+565	common	raatri	રાત્રી	editor	unreviewed							
+568	common	bal	બાળ	editor	unreviewed							
+569	common	mar	માર	editor	unreviewed							
+570	common	kar	કર	editor	unreviewed							
+571	common	din	દિન	editor	unreviewed							
+572	common	man	મન	editor	unreviewed							
+573	common	tan	તન	editor	unreviewed							
+574	common	jan	જન	editor	unreviewed							
+575	common	ran	રણ	editor	unreviewed							
+576	common	van	વન	editor	unreviewed							
+577	common	dan	દાન	editor	unreviewed							
+578	common	ban	બન	editor	unreviewed							
+579	common	chal	ચાલ	editor	unreviewed							
+580	common	bol	બોલ	editor	unreviewed							
+581	common	de	દે	editor	unreviewed							
+582	common	le	લે	editor	unreviewed							
+583	common	ja	જા	editor	unreviewed							
+584	common	aa	આ	editor	unreviewed							
+585	common	ae	એ	editor	unreviewed							
+586	common	te	તે	editor	unreviewed							
+587	common	me	મેં	editor	unreviewed							
+588	common	se	સે	editor	unreviewed							
+589	common	re	રે	editor	unreviewed							
+590	common	to	તો	editor	unreviewed							
+591	common	ho	હો	editor	unreviewed							
+592	common	ha	હા	editor	unreviewed							
+593	common	na	ના	editor	unreviewed							
+594	common	su	સુ	editor	unreviewed							
+595	common	mu	મુ	editor	unreviewed							
+596	common	gu	ગુ	editor	unreviewed							
+597	common	ku	કુ	editor	unreviewed							
+598	common	kai	કઈ	editor	unreviewed							
+599	common	bai	બાઈ	editor	unreviewed							
+602	common	mai	માઈ	editor	unreviewed							
+603	common	pai	પાઈ	editor	unreviewed							
+604	common	dai	દાઈ	editor	unreviewed							
+605	common	gai	ગાય	editor	unreviewed							
+606	common	nai	નહીં	editor	unreviewed							
+607	common	lai	લાઈ	editor	unreviewed							
+608	common	saiyam	સંયમ	editor	unreviewed							
+609	common	phal	ફળ	editor	unreviewed							
+610	common	mal	માળ	editor	unreviewed							
+611	common	tal	તાલ	editor	unreviewed							
+612	common	hal	હાલ	editor	unreviewed							
+613	common	sal	સાલ	editor	unreviewed							
+614	common	pal	પળ	editor	unreviewed							
+615	common	val	વળ	editor	unreviewed							
+616	common	gal	ગાળ	editor	unreviewed							
+617	common	nal	નળ	editor	unreviewed							
+618	common	lal	લાલ	editor	unreviewed							
+619	common	nil	નીલ	editor	unreviewed							
+620	common	pil	પીળો	editor	unreviewed							
+621	common	safed	સફેદ	editor	unreviewed							

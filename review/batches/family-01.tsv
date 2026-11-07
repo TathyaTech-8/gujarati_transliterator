@@ -1,0 +1,90 @@
+# Batch 01 of family. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+28	family	beta	બેટા	editor	unreviewed							
+29	family	beti	બેટી	editor	unreviewed							
+30	family	bhaai	ભાઈ	editor	unreviewed							
+31	family	bahen	બહેન	editor	unreviewed							
+32	family	pitaa	પિતા	editor	unreviewed							
+33	family	maata	માતા	editor	unreviewed							
+34	family	daada	દાદા	editor	unreviewed							
+35	family	daadi	દાદી	editor	unreviewed							
+36	family	naana	નાના	editor	unreviewed							
+37	family	naani	નાની	editor	unreviewed							
+38	family	kaaka	કાકા	editor	unreviewed							
+39	family	kaaki	કાકી	editor	unreviewed							
+40	family	maama	મામા	editor	unreviewed							
+41	family	maami	મામી	editor	unreviewed							
+42	family	fua	ફુઆ	editor	unreviewed							
+43	family	foi	ફોઈ	editor	unreviewed							
+44	family	bhaabhi	ભાભી	editor	unreviewed							
+45	family	jeth	જેઠ	editor	unreviewed							
+46	family	der	દેર	editor	unreviewed							
+47	family	sasra	સસરા	editor	unreviewed							
+48	family	saas	સાસ	editor	unreviewed							
+49	family	putra	પુત્ર	editor	unreviewed							
+50	family	putri	પુત્રી	editor	unreviewed							
+126	family	bhai	ભાઈ	editor	unreviewed							
+127	family	maa	મા	editor	unreviewed							
+128	family	baap	બાપ	editor	unreviewed							
+302	family	parivar	પરિવાર	editor	unreviewed							
+303	family	kutumb	કુટુંબ	editor	unreviewed							
+719	family	mari ma gher che	મારી મા ઘેર છે	editor	unreviewed							
+720	family	mara bhai aavya	મારા ભાઈ આવ્યા	editor	unreviewed							
+759	family	lagna ni badhai	લગ્ન ની બધાઈ	editor	unreviewed							
+760	family	dikri ne vidai	દીકરી ને વિદાય	editor	unreviewed							
+940	family	mehman aavya	મહેમાન આવ્યા	editor	unreviewed							
+1342	family	vah bete	વાહ બેટા	editor	unreviewed							
+1343	family	saru dikra	સારું દીકરા	editor	unreviewed							
+1344	family	aavjo dikri	આવજો દીકરી	editor	unreviewed							
+1345	family	mari jaan	મારી જાન	editor	unreviewed							
+1346	family	mara raja	મારા રાજા	editor	unreviewed							
+1347	family	mara bhai	મારા ભાઈ	editor	unreviewed							
+1348	family	mari ben	મારી બહેન	editor	unreviewed							
+1349	family	amara ba	અમારા બા	editor	unreviewed							
+1350	family	amara bapu	અમારા બાપુ	editor	unreviewed							
+1351	family	dada dadi	દાદા દાદી	editor	unreviewed							
+1352	family	nana nani	નાના નાની	editor	unreviewed							
+1353	family	kaka kaki	કાકા કાકી	editor	unreviewed							
+1354	family	mama mami	મામા મામી	editor	unreviewed							
+1355	family	masa masi	માસા માસી	editor	unreviewed							
+1356	family	fua foi	ફુઆ ફોઈ	editor	unreviewed							
+1357	family	jeth jethani	જેઠ જેઠાણી	editor	unreviewed							
+1358	family	devar derani	દેવર દેરાણી	editor	unreviewed							
+1359	family	nanand bhabhi	નણંદ ભાભી	editor	unreviewed							
+1360	family	sasu sasra	સાસુ સસરા	editor	unreviewed							
+1361	family	vahuki	વહુ	editor	unreviewed							
+1362	family	jamai	જમાઈ	editor	unreviewed							
+1363	family	putra vadhu	પુત્રવધૂ	editor	unreviewed							
+1364	family	parivar sathe	પરિવાર સાથે	editor	unreviewed							
+1365	family	kutumb sathe	કુટુંબ સાથે	editor	unreviewed							
+1366	family	mehman navaz	મહેમાન નવાજ	editor	unreviewed							
+1515	family	mane chai joiye	મને ચા જોઈએ	sure	unreviewed							
+1518	family	mane pani joiye	મને પાણી જોઈએ	sure	unreviewed							
+1521	family	mane roti joiye	મને રોટી જોઈએ	sure	unreviewed							
+1524	family	mane dal joiye	મને દાળ જોઈએ	sure	unreviewed							
+1527	family	mane bhat joiye	મને ભાત જોઈએ	sure	unreviewed							
+1530	family	mane shaak joiye	મને શાક જોઈએ	sure	unreviewed							
+1533	family	mane doodh joiye	મને દૂધ જોઈએ	sure	unreviewed							
+1536	family	mane coffee joiye	મને કોફી જોઈએ	review	unreviewed							
+1539	family	mari maa ghar ma che	મારી મા ઘર માં છે	sure	unreviewed							
+1540	family	tamaro maa kyare aavshe	તમારો મા ક્યારે આવશે	sure	unreviewed							
+1542	family	mari bhai ghar ma che	મારી ભાઈ ઘર માં છે	sure	unreviewed							
+1543	family	tamaro bhai kyare aavshe	તમારો ભાઈ ક્યારે આવશે	sure	unreviewed							
+1545	family	mari ben ghar ma che	મારી બહેન ઘર માં છે	sure	unreviewed							
+1546	family	tamaro ben kyare aavshe	તમારો બહેન ક્યારે આવશે	sure	unreviewed							
+1548	family	mari papa ghar ma che	મારી પપ્પા ઘર માં છે	sure	unreviewed							
+1549	family	tamaro papa kyare aavshe	તમારો પપ્પા ક્યારે આવશે	sure	unreviewed							
+1551	family	mari dada ghar ma che	મારી દાદા ઘર માં છે	sure	unreviewed							
+1552	family	tamaro dada kyare aavshe	તમારો દાદા ક્યારે આવશે	sure	unreviewed							
+1554	family	mari dadi ghar ma che	મારી દાદી ઘર માં છે	sure	unreviewed							
+1555	family	tamaro dadi kyare aavshe	તમારો દાદી ક્યારે આવશે	sure	unreviewed							
+1557	family	mari kaka ghar ma che	મારી કાકા ઘર માં છે	sure	unreviewed							
+1558	family	tamaro kaka kyare aavshe	તમારો કાકા ક્યારે આવશે	sure	unreviewed							

@@ -1,0 +1,90 @@
+# Batch 01 of proper. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+100	proper	raaju	રાજુ	editor	unreviewed							
+101	proper	meena	મીના	editor	unreviewed							
+102	proper	geeta	ગીતા	editor	unreviewed							
+103	proper	suresh	સુરેશ	editor	unreviewed							
+104	proper	mahesh	મહેશ	editor	unreviewed							
+105	proper	ramesh	રમેશ	editor	unreviewed							
+106	proper	dinesh	દિનેશ	editor	unreviewed							
+107	proper	nilesh	નિલેશ	editor	unreviewed							
+108	proper	paresh	પરેશ	editor	unreviewed							
+109	proper	haresh	હરેશ	editor	unreviewed							
+110	proper	kiran	કિરણ	editor	unreviewed							
+111	proper	nayan	નયન	editor	unreviewed							
+112	proper	komal	કોમલ	editor	unreviewed							
+113	proper	sheetal	શીતલ	editor	unreviewed							
+114	proper	amitaa	અમિતા	editor	unreviewed							
+115	proper	kavitaa	કવિતા	editor	unreviewed							
+116	proper	savitaa	સવિતા	editor	unreviewed							
+117	proper	anil	અનિલ	editor	unreviewed							
+118	proper	sunil	સુનિલ	editor	unreviewed							
+119	proper	kapil	કપિલ	editor	unreviewed							
+125	proper	suurat	સુરત	editor	unreviewed							
+140	proper	naam	નામ	editor	unreviewed							
+141	proper	nam	નામ	editor	unreviewed							
+241	proper	gujarat	ગુજરાત	editor	unreviewed							
+245	proper	ahmedabad	અમદાવાદ	editor	unreviewed							
+246	proper	amdavad	અમદાવાદ	editor	unreviewed							
+247	proper	rajkot	રાજકોટ	editor	unreviewed							
+248	proper	raajkot	રાજકોટ	editor	unreviewed							
+249	proper	vadodra	વડોદરા	editor	unreviewed							
+250	proper	baroda	વડોદરા	editor	unreviewed							
+251	proper	bhavnagar	ભાવનગર	editor	unreviewed							
+252	proper	bhuj	ભુજ	editor	unreviewed							
+253	proper	surat	સુરત	editor	unreviewed							
+254	proper	anand	આણંદ	editor	unreviewed							
+255	proper	nadiad	નડિયાદ	editor	unreviewed							
+256	proper	morbi	મોરબી	editor	unreviewed							
+257	proper	dwarka	દ્વારકા	editor	unreviewed							
+258	proper	somnath	સોમનાથ	editor	unreviewed							
+567	proper	ram	રામ	editor	unreviewed							
+600	proper	rai	રાય	editor	unreviewed							
+601	proper	sai	સાઈ	editor	unreviewed							
+627	proper	thaam	ઠામ	editor	unreviewed							
+638	proper	raju	રાજુ	editor	unreviewed							
+639	proper	naresh	નરેશ	editor	unreviewed							
+640	proper	mukesh	મુકેશ	editor	unreviewed							
+641	proper	jignesh	જિજ્ઞેશ	editor	unreviewed							
+642	proper	hitesh	હિતેશ	editor	unreviewed							
+643	proper	bharat	ભરત	editor	unreviewed							
+644	proper	ashok	અશોક	editor	unreviewed							
+645	proper	vijay	વિજય	editor	unreviewed							
+646	proper	sanjay	સંજય	editor	unreviewed							
+647	proper	ajay	અજય	editor	unreviewed							
+648	proper	amit	અમિત	editor	unreviewed							
+649	proper	sumit	સુમિત	editor	unreviewed							
+650	proper	lalit	લલિત	editor	unreviewed							
+651	proper	hetal	હેતલ	editor	unreviewed							
+652	proper	kinjal	કિંજલ	editor	unreviewed							
+653	proper	urvi	ઊર્વી	editor	unreviewed							
+654	proper	aisha	આયશા	editor	unreviewed							
+655	proper	fatima	ફાતિમા	editor	unreviewed							
+656	proper	mariam	મરિયમ	editor	unreviewed							
+657	proper	joseph	જોસેફ	editor	unreviewed							
+658	proper	david	ડેવિડ	editor	unreviewed							
+689	proper	lothal	લોથલ	editor	unreviewed							
+690	proper	saputara	સાપુતારા	editor	unreviewed							
+691	proper	diu	દીવ	editor	unreviewed							
+692	proper	daman	દમણ	editor	unreviewed							
+693	proper	silvassa	સેલ્વાસ	editor	unreviewed							
+721	proper	aapnu gaam sundar che	આપણું ગામ સુંદર છે	editor	unreviewed							
+790	proper	surat door che	સુરત દૂર છે	editor	unreviewed							
+791	proper	ahmedabad ma hu rahu chu	અમદાવાદ માં હું રહું છું	editor	unreviewed							
+792	proper	aapnu gaam kutch ma che	આપણું ગામ કચ્છ માં છે	editor	unreviewed							
+793	proper	gir ma sinh rahe che	ગીર માં સિંહ રહે છે	editor	unreviewed							
+981	proper	gandhi jayanti	ગાંધી જયંતી	editor	unreviewed							
+982	proper	sardar patel	સરદાર પટેલ	editor	unreviewed							
+983	proper	mahadev desai	મહાદેવ દેસાઈ	editor	unreviewed							
+984	proper	narsinh mehta	નરસિંહ મહેતા	editor	unreviewed							
+985	proper	nandlal bose	નંદલાલ બોઝ	editor	unreviewed							
+987	proper	zaverchand meghani	ઝવેરચંદ મેઘાણી	editor	unreviewed							
+988	proper	umashankar joshi	ઉમાશંકર જોશી	editor	unreviewed							

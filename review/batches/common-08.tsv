@@ -1,0 +1,90 @@
+# Batch 08 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1423	common	mare shop ma javanu che	મારે શોપ માં જવાનું છે	sure	unreviewed							
+1424	common	hu station ma chu	હું સ્ટેશન માં છું	sure	unreviewed							
+1425	common	tame station ma cho	તમે સ્ટેશન માં છો	sure	unreviewed							
+1426	common	te station ma che	તે સ્ટેશન માં છે	sure	unreviewed							
+1427	common	mare station ma javanu che	મારે સ્ટેશન માં જવાનું છે	sure	unreviewed							
+1428	common	hu room ma chu	હું રૂમ માં છું	sure	unreviewed							
+1429	common	tame room ma cho	તમે રૂમ માં છો	sure	unreviewed							
+1430	common	te room ma che	તે રૂમ માં છે	sure	unreviewed							
+1431	common	mare room ma javanu che	મારે રૂમ માં જવાનું છે	sure	unreviewed							
+1432	common	hu class ma chu	હું ક્લાસ માં છું	sure	unreviewed							
+1433	common	tame class ma cho	તમે ક્લાસ માં છો	sure	unreviewed							
+1434	common	te class ma che	તે ક્લાસ માં છે	sure	unreviewed							
+1435	common	mare class ma javanu che	મારે ક્લાસ માં જવાનું છે	sure	unreviewed							
+1516	common	tame chai leso	તમે ચા લેશો	sure	unreviewed							
+1519	common	tame pani leso	તમે પાણી લેશો	sure	unreviewed							
+1522	common	tame roti leso	તમે રોટી લેશો	sure	unreviewed							
+1525	common	tame dal leso	તમે દાળ લેશો	sure	unreviewed							
+1528	common	tame bhat leso	તમે ભાત લેશો	sure	unreviewed							
+1531	common	tame shaak leso	તમે શાક લેશો	sure	unreviewed							
+1534	common	tame doodh leso	તમે દૂધ લેશો	sure	unreviewed							
+1537	common	tame coffee leso	તમે કોફી લેશો	review	unreviewed							
+1565	common	gaadi amdavad jaay che	ગાડી અમદાવાદ જાય છે	review	unreviewed							
+1568	common	gaadi surat jaay che	ગાડી સુરત જાય છે	review	unreviewed							
+1571	common	gaadi rajkot jaay che	ગાડી રાજકોટ જાય છે	review	unreviewed							
+1574	common	gaadi vadodara jaay che	ગાડી વડોદરા જાય છે	review	unreviewed							
+1577	common	gaadi bhavnagar jaay che	ગાડી ભાવનગર જાય છે	review	unreviewed							
+1580	common	gaadi junagadh jaay che	ગાડી જૂનાગઢ જાય છે	review	unreviewed							
+1583	common	gaadi gandhinagar jaay che	ગાડી ગાંધીનગર જાય છે	review	unreviewed							
+1586	common	gaadi bhuj jaay che	ગાડી ભુજ જાય છે	review	unreviewed							
+1613	common	aaje bahu saru che	આજે બહુ સારું છે	sure	unreviewed							
+1614	common	have ghar javu che	હવે ઘર જવું છે	sure	unreviewed							
+1615	common	hu thaki gayo chu	હું થાકી ગયો છું	review	unreviewed							
+1616	common	mari tabiyat saru nathi	મારી તબિયત સારી નથી	sure	unreviewed							
+1617	common	tame jem karjo	તમે જમ કરજો	review	unreviewed							
+1618	common	baju ma beso	બાજુ માં બેસો	review	unreviewed							
+1619	common	bahar varsad che	બહાર વરસાદ છે	sure	unreviewed							
+1620	common	andar thandak che	અંદર ઠંડક છે	review	unreviewed							
+1621	common	hu sau ne kahi didhu	હું સૌ ને કહી દીધું	sure	unreviewed							
+1622	common	ame saathe jaishu	અમે સાથે જઈશું	sure	unreviewed							
+1623	common	tame pan aavjo	તમે પણ આવજો	sure	unreviewed							
+1624	common	have nathi thatu	હવે નથી થતું	sure	unreviewed							
+1625	common	pachi vaat karishu	પછી વાત કરીશું	sure	unreviewed							
+1626	common	hu ghar thi kaam karu chu	હું ઘર થી કામ કરું છું	sure	unreviewed							
+1627	common	aapde kale vaat karishu	આપણે કાલે વાત કરીશું	sure	unreviewed							
+1628	common	raat e jova javanu che	રાત એ જોવા જવાનું છે	review	unreviewed							
+1629	common	savare jaldi utishu	સવારે જલ્દી ઊઠીશું	review	unreviewed							
+1630	common	bachcha ramva gayela	બચ્ચા રમવા ગયેલા	review	unreviewed							
+1631	common	maa rasoi ma che	મા રસોઈ માં છે	sure	unreviewed							
+1632	common	papa office thi aavshe	પપ્પા ઓફિસ થી આવશે	sure	unreviewed							
+1750	common	hu savare aavish	હું સવારે આવીશ	sure	unreviewed							
+1752	common	hu savare jaish	હું સવારે જઈશ	sure	unreviewed							
+1754	common	hu savare nikadish	હું સવારે નીકળીશ	review	unreviewed							
+1756	common	hu savare pohchish	હું સવારે પહોંચીશ	review	unreviewed							
+1758	common	hu bapore aavish	હું બપોરે આવીશ	sure	unreviewed							
+1760	common	hu bapore jaish	હું બપોરે જઈશ	sure	unreviewed							
+1762	common	hu bapore nikadish	હું બપોરે નીકળીશ	review	unreviewed							
+1764	common	hu bapore pohchish	હું બપોરે પહોંચીશ	review	unreviewed							
+1766	common	hu sanj e aavish	હું સાંજ એ આવીશ	sure	unreviewed							
+1768	common	hu sanj e jaish	હું સાંજ એ જઈશ	sure	unreviewed							
+1770	common	hu sanj e nikadish	હું સાંજ એ નીકળીશ	review	unreviewed							
+1772	common	hu sanj e pohchish	હું સાંજ એ પહોંચીશ	review	unreviewed							
+1774	common	hu raat e aavish	હું રાત એ આવીશ	sure	unreviewed							
+1776	common	hu raat e jaish	હું રાત એ જઈશ	sure	unreviewed							
+1778	common	hu raat e nikadish	હું રાત એ નીકળીશ	review	unreviewed							
+1780	common	hu raat e pohchish	હું રાત એ પહોંચીશ	review	unreviewed							
+1792	common	hu ready chu	હું રેડી છું	sure	unreviewed							
+1795	common	hu free chu	હું ફ્રી છું	sure	unreviewed							
+1797	common	hu busy chu	હું બિઝી છું	sure	unreviewed							
+1799	common	hu late chu	હું લેટ છું	sure	unreviewed							
+1801	common	hu online chu	હું ઓનલાઇન છું	sure	unreviewed							
+1803	common	hu thako chu	હું થાકું છું	review	unreviewed							
+1805	common	tame ready cho	તમે રેડી છો	sure	unreviewed							
+1807	common	tame free cho	તમે ફ્રી છો	sure	unreviewed							
+1809	common	tame busy cho	તમે બિઝી છો	sure	unreviewed							
+1811	common	tame late cho	તમે લેટ છો	sure	unreviewed							
+1813	common	tame offline cho	તમે ઓફલાઇન છો	sure	unreviewed							
+1815	common	hu bus ma chu	હું બસ માં છું	sure	unreviewed							
+1816	common	tame bus pakdo	તમે બસ પકડો	review	unreviewed							
+1820	common	hu train ma chu	હું ટ્રેન માં છું	sure	unreviewed							
+1821	common	tame train pakdo	તમે ટ્રેન પકડો	review	unreviewed							

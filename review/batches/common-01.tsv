@@ -1,0 +1,90 @@
+# Batch 01 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1	common	mitra	મિત્ર	editor	unreviewed							
+2	common	namaste	નમસ્તે	editor	unreviewed							
+3	common	stri	સ્ત્રી	editor	unreviewed							
+4	common	vidyaa	વિદ્યા	editor	unreviewed							
+5	common	kshamaa	ક્ષમા	editor	unreviewed							
+6	common	gyan	જ્ઞાન	editor	unreviewed							
+7	common	pustak	પુસ્તક	editor	unreviewed							
+8	common	paani	પાણી	editor	unreviewed							
+9	common	roti	રોટી	editor	unreviewed							
+10	common	dudh	દૂધ	editor	unreviewed							
+11	common	chaa	ચા	editor	unreviewed							
+12	common	bhaat	ભાત	editor	unreviewed							
+13	common	shaak	શાક	editor	unreviewed							
+14	common	kheer	ખીર	editor	unreviewed							
+15	common	laddu	લાડુ	editor	unreviewed							
+16	common	sukh	સુખ	editor	unreviewed							
+17	common	dukh	દુખ	editor	unreviewed							
+18	common	prem	પ્રેમ	editor	unreviewed							
+19	common	maitri	મૈત્રી	editor	unreviewed							
+20	common	shanti	શાંતિ	editor	unreviewed							
+21	common	aasha	આશા	editor	unreviewed							
+22	common	umang	ઉમંગ	editor	unreviewed							
+23	common	hausalo	હૌસલો	editor	unreviewed							
+24	common	saahas	સાહસ	editor	unreviewed							
+25	common	veer	વીર	editor	unreviewed							
+26	common	raaja	રાજા	editor	unreviewed							
+27	common	raani	રાણી	editor	unreviewed							
+51	common	mitr	મિત્ર	editor	unreviewed							
+52	common	dost	દોસ્ત	editor	unreviewed							
+53	common	kaam	કામ	editor	unreviewed							
+54	common	samay	સમય	editor	unreviewed							
+55	common	aaj	આજ	editor	unreviewed							
+56	common	kal	કાલ	editor	unreviewed							
+57	common	have	હવે	editor	unreviewed							
+58	common	pachhi	પછી	editor	unreviewed							
+59	common	pahela	પહેલાં	editor	unreviewed							
+60	common	andar	અંદર	editor	unreviewed							
+61	common	bahar	બહાર	editor	unreviewed							
+62	common	uppar	ઉપર	editor	unreviewed							
+63	common	niche	નીચે	editor	unreviewed							
+64	common	saame	સામે	editor	unreviewed							
+65	common	pachhal	પાછળ	editor	unreviewed							
+66	common	aagal	આગળ	editor	unreviewed							
+67	common	door	દૂર	editor	unreviewed							
+68	common	najik	નજીક	editor	unreviewed							
+69	common	mota	મોટા	editor	unreviewed							
+70	common	nana	નાના	editor	unreviewed							
+71	common	saaru	સારું	editor	unreviewed							
+72	common	kharab	ખરાબ	editor	unreviewed							
+73	common	sundar	સુંદર	editor	unreviewed							
+74	common	saaf	સાફ	editor	unreviewed							
+75	common	ganda	ગંદા	editor	unreviewed							
+76	common	garam	ગરમ	editor	unreviewed							
+77	common	thandu	ઠંડું	editor	unreviewed							
+78	common	mithu	મીઠું	editor	unreviewed							
+79	common	kadvo	કડવો	editor	unreviewed							
+80	common	teekhu	તીખું	editor	unreviewed							
+81	common	naram	નરમ	editor	unreviewed							
+82	common	sakht	સખત	editor	unreviewed							
+83	common	jaldi	જલ્દી	editor	unreviewed							
+84	common	dhime	ધીમે	editor	unreviewed							
+85	common	khub	ખૂબ	editor	unreviewed							
+86	common	bahu	બહુ	editor	unreviewed							
+87	common	thodu	થોડું	editor	unreviewed							
+88	common	badhu	બધું	editor	unreviewed							
+89	common	ketlu	કેટલું	editor	unreviewed							
+90	common	kevu	કેવું	editor	unreviewed							
+91	common	shu	શું	editor	unreviewed							
+92	common	kyan	ક્યાં	editor	unreviewed							
+93	common	kyare	ક્યારે	editor	unreviewed							
+94	common	kem	કેમ	editor	unreviewed							
+95	common	kon	કોણ	editor	unreviewed							
+96	common	nathi	નથી	editor	unreviewed							
+97	common	chhe	છે	editor	unreviewed							
+98	common	chho	છો	editor	unreviewed							
+99	common	chhu	છું	editor	unreviewed							
+120	common	jaadu	જાદુ	editor	unreviewed							
+121	common	kahaani	કહાની	editor	unreviewed							
+122	common	ghaar	ઘર	editor	unreviewed							
+123	common	tme	તમે	editor	unreviewed							

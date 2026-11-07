@@ -1,0 +1,53 @@
+# Batch 02 of religious. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+954	religious	hari om	હરિ ઓમ	editor	unreviewed							
+955	religious	jai jinendra	જય જિનેન્દ્ર	editor	unreviewed							
+956	religious	salam alaikum	સલામ અલાઇકુમ	editor	unreviewed							
+957	religious	walaikum salam	વાલાઇકુમ સલામ	editor	unreviewed							
+958	religious	khuda hafiz	ખુદા હાફિઝ	editor	unreviewed							
+959	religious	merry christmas	મેરી ક્રિસમસ	editor	unreviewed							
+960	religious	eid mubarak	ઈદ મુબારક	editor	unreviewed							
+961	religious	pateti mubarak	પાતેતી મુબારક	editor	unreviewed							
+962	religious	bestu varas	બેસતું વરસ	editor	unreviewed							
+963	religious	uttarayan ni shubh	ઉત્તરાયણ ની શુભ	editor	unreviewed							
+964	religious	kai po che	કાઈપો છે	editor	unreviewed							
+965	religious	holi hai	હોળી હૈ	editor	unreviewed							
+966	religious	rang barse	રંગ બરસે	editor	unreviewed							
+967	religious	dhuleti mubarak	ધૂળેટી મુબારક	editor	unreviewed							
+968	religious	janmashtami ni hardik	જન્માષ્ટમી ની હાર્દિક	editor	unreviewed							
+969	religious	shivratri ni shubh	શિવરાત્રી ની શુભ	editor	unreviewed							
+970	religious	ramzan mubarak	રમઝાન મુબારક	editor	unreviewed							
+971	religious	paryushan parva	પર્યુષણ પર્વ	editor	unreviewed							
+972	religious	guru purnima	ગુરુ પૂર્ણિમા	editor	unreviewed							
+973	religious	raksha bandhan	રક્ષા બંધન	editor	unreviewed							
+974	religious	bhai beej	ભાઈ બીજ	editor	unreviewed							
+975	religious	labh pancham	લાભ પાંચમ	editor	unreviewed							
+976	religious	gudi padwa	ગુડી પાડવા	editor	unreviewed							
+977	religious	cheti chand	ચૈતી ચાંદ	editor	unreviewed							
+978	religious	navroz mubarak	નવરોઝ મુબારક	editor	unreviewed							
+986	religious	kalapi no kavy	કલાપી નો કાવ્ય	editor	unreviewed							
+994	religious	saraswatichandra	સરસ્વતીચંદ્ર	editor	unreviewed							
+996	religious	patan ni prabhuta	પાટણ ની પ્રભુતા	editor	unreviewed							
+999	religious	somnath nu mandir	સોમનાથ નું મંદિર	editor	unreviewed							
+1010	religious	akshardham mandir	અક્ષરધામ મંદિર	editor	unreviewed							
+1011	religious	hatkeshwar mandir	હાટકેશ્વર મંદિર	editor	unreviewed							
+1012	religious	jama masjid	જામા મસ્જિદ	editor	unreviewed							
+1016	religious	modhera nu mandir	મોઢેરા નું મંદિર	editor	unreviewed							
+1201	religious	singing aavde che	સિંગિંગ આવડે છે	editor	unreviewed							
+1202	religious	garba aavde che	ગરબા આવડે છે	editor	unreviewed							
+1208	religious	kavita vacho	કવિતા વાંચો	editor	unreviewed							
+1209	religious	kahani kaho	કહાની કહો	editor	unreviewed							
+1211	religious	natak joie	નાટક જોઈએ	editor	unreviewed							
+1212	religious	sangeet sunie	સંગીત સાંભળીએ	editor	unreviewed							
+1276	religious	jai shri ram	જય શ્રી રામ	editor	unreviewed							
+1277	religious	har har mahadev	હર હર મહાદેવ	editor	unreviewed							
+1278	religious	jay mataji	જય માતાજી	editor	unreviewed							
+2371	religious	namaste	નમસ્તે	editor	unreviewed							

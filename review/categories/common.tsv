@@ -1,0 +1,730 @@
+# Full common worksheet. Still unreviewed until a person fills it in.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1	common	mitra	મિત્ર	editor	unreviewed							
+2	common	namaste	નમસ્તે	editor	unreviewed							
+3	common	stri	સ્ત્રી	editor	unreviewed							
+4	common	vidyaa	વિદ્યા	editor	unreviewed							
+5	common	kshamaa	ક્ષમા	editor	unreviewed							
+6	common	gyan	જ્ઞાન	editor	unreviewed							
+7	common	pustak	પુસ્તક	editor	unreviewed							
+8	common	paani	પાણી	editor	unreviewed							
+9	common	roti	રોટી	editor	unreviewed							
+10	common	dudh	દૂધ	editor	unreviewed							
+11	common	chaa	ચા	editor	unreviewed							
+12	common	bhaat	ભાત	editor	unreviewed							
+13	common	shaak	શાક	editor	unreviewed							
+14	common	kheer	ખીર	editor	unreviewed							
+15	common	laddu	લાડુ	editor	unreviewed							
+16	common	sukh	સુખ	editor	unreviewed							
+17	common	dukh	દુખ	editor	unreviewed							
+18	common	prem	પ્રેમ	editor	unreviewed							
+19	common	maitri	મૈત્રી	editor	unreviewed							
+20	common	shanti	શાંતિ	editor	unreviewed							
+21	common	aasha	આશા	editor	unreviewed							
+22	common	umang	ઉમંગ	editor	unreviewed							
+23	common	hausalo	હૌસલો	editor	unreviewed							
+24	common	saahas	સાહસ	editor	unreviewed							
+25	common	veer	વીર	editor	unreviewed							
+26	common	raaja	રાજા	editor	unreviewed							
+27	common	raani	રાણી	editor	unreviewed							
+51	common	mitr	મિત્ર	editor	unreviewed							
+52	common	dost	દોસ્ત	editor	unreviewed							
+53	common	kaam	કામ	editor	unreviewed							
+54	common	samay	સમય	editor	unreviewed							
+55	common	aaj	આજ	editor	unreviewed							
+56	common	kal	કાલ	editor	unreviewed							
+57	common	have	હવે	editor	unreviewed							
+58	common	pachhi	પછી	editor	unreviewed							
+59	common	pahela	પહેલાં	editor	unreviewed							
+60	common	andar	અંદર	editor	unreviewed							
+61	common	bahar	બહાર	editor	unreviewed							
+62	common	uppar	ઉપર	editor	unreviewed							
+63	common	niche	નીચે	editor	unreviewed							
+64	common	saame	સામે	editor	unreviewed							
+65	common	pachhal	પાછળ	editor	unreviewed							
+66	common	aagal	આગળ	editor	unreviewed							
+67	common	door	દૂર	editor	unreviewed							
+68	common	najik	નજીક	editor	unreviewed							
+69	common	mota	મોટા	editor	unreviewed							
+70	common	nana	નાના	editor	unreviewed							
+71	common	saaru	સારું	editor	unreviewed							
+72	common	kharab	ખરાબ	editor	unreviewed							
+73	common	sundar	સુંદર	editor	unreviewed							
+74	common	saaf	સાફ	editor	unreviewed							
+75	common	ganda	ગંદા	editor	unreviewed							
+76	common	garam	ગરમ	editor	unreviewed							
+77	common	thandu	ઠંડું	editor	unreviewed							
+78	common	mithu	મીઠું	editor	unreviewed							
+79	common	kadvo	કડવો	editor	unreviewed							
+80	common	teekhu	તીખું	editor	unreviewed							
+81	common	naram	નરમ	editor	unreviewed							
+82	common	sakht	સખત	editor	unreviewed							
+83	common	jaldi	જલ્દી	editor	unreviewed							
+84	common	dhime	ધીમે	editor	unreviewed							
+85	common	khub	ખૂબ	editor	unreviewed							
+86	common	bahu	બહુ	editor	unreviewed							
+87	common	thodu	થોડું	editor	unreviewed							
+88	common	badhu	બધું	editor	unreviewed							
+89	common	ketlu	કેટલું	editor	unreviewed							
+90	common	kevu	કેવું	editor	unreviewed							
+91	common	shu	શું	editor	unreviewed							
+92	common	kyan	ક્યાં	editor	unreviewed							
+93	common	kyare	ક્યારે	editor	unreviewed							
+94	common	kem	કેમ	editor	unreviewed							
+95	common	kon	કોણ	editor	unreviewed							
+96	common	nathi	નથી	editor	unreviewed							
+97	common	chhe	છે	editor	unreviewed							
+98	common	chho	છો	editor	unreviewed							
+99	common	chhu	છું	editor	unreviewed							
+120	common	jaadu	જાદુ	editor	unreviewed							
+121	common	kahaani	કહાની	editor	unreviewed							
+122	common	ghaar	ઘર	editor	unreviewed							
+123	common	tme	તમે	editor	unreviewed							
+124	common	mne	મને	editor	unreviewed							
+129	common	sarun	સારું	editor	unreviewed							
+130	common	ghar	ઘર	editor	unreviewed							
+131	common	cha	ચા	editor	unreviewed							
+132	common	pani	પાણી	editor	unreviewed							
+133	common	doodh	દૂધ	editor	unreviewed							
+134	common	rotee	રોટી	editor	unreviewed							
+135	common	bhat	ભાત	editor	unreviewed							
+136	common	dal	દાળ	editor	unreviewed							
+137	common	daal	દાળ	editor	unreviewed							
+138	common	shak	શાક	editor	unreviewed							
+139	common	kam	કામ	editor	unreviewed							
+142	common	gaam	ગામ	editor	unreviewed							
+143	common	gam	ગામ	editor	unreviewed							
+144	common	saath	સાથ	editor	unreviewed							
+145	common	saat	સાથ	editor	unreviewed							
+146	common	sathe	સાથે	editor	unreviewed							
+147	common	mate	માટે	editor	unreviewed							
+148	common	maate	માટે	editor	unreviewed							
+149	common	vagar	વગર	editor	unreviewed							
+150	common	sudhi	સુધી	editor	unreviewed							
+151	common	pachi	પછી	editor	unreviewed							
+152	common	upar	ઉપર	editor	unreviewed							
+153	common	same	સામે	editor	unreviewed							
+154	common	dur	દૂર	editor	unreviewed							
+155	common	nazik	નજીક	editor	unreviewed							
+156	common	moto	મોટો	editor	unreviewed							
+157	common	nano	નાનો	editor	unreviewed							
+158	common	sunder	સુંદર	editor	unreviewed							
+159	common	saf	સાફ	editor	unreviewed							
+160	common	thanda	ઠંડા	editor	unreviewed							
+161	common	mitha	મીઠા	editor	unreviewed							
+162	common	tikhu	તીખું	editor	unreviewed							
+163	common	jaldee	જલ્દી	editor	unreviewed							
+164	common	thoda	થોડા	editor	unreviewed							
+165	common	badha	બધા	editor	unreviewed							
+166	common	khoob	ખૂબ	editor	unreviewed							
+167	common	havee	હવે	editor	unreviewed							
+168	common	aaje	આજે	editor	unreviewed							
+169	common	kale	કાલે	editor	unreviewed							
+170	common	savare	સવારે	editor	unreviewed							
+171	common	sanjhe	સાંજે	editor	unreviewed							
+172	common	ratre	રાત્રે	editor	unreviewed							
+173	common	ratri	રાત્રી	editor	unreviewed							
+174	common	shun	શું	editor	unreviewed							
+175	common	kya	ક્યાં	editor	unreviewed							
+176	common	kaim	કેમ	editor	unreviewed							
+177	common	kaun	કોણ	editor	unreviewed							
+178	common	nahi	નહીં	editor	unreviewed							
+179	common	nahin	નહીં	editor	unreviewed							
+180	common	pan	પણ	editor	unreviewed							
+181	common	pun	પણ	editor	unreviewed							
+182	common	ke	કે	editor	unreviewed							
+183	common	ane	અને	editor	unreviewed							
+184	common	thi	થી	editor	unreviewed							
+185	common	ne	ને	editor	unreviewed							
+186	common	nu	નું	editor	unreviewed							
+187	common	no	નો	editor	unreviewed							
+188	common	ni	ની	editor	unreviewed							
+189	common	ma	માં	editor	unreviewed							
+190	common	maan	માં	editor	unreviewed							
+191	common	par	પર	editor	unreviewed							
+192	common	hu	હું	editor	unreviewed							
+193	common	hun	હું	editor	unreviewed							
+194	common	hum	હું	editor	unreviewed							
+195	common	tu	તું	editor	unreviewed							
+196	common	tun	તું	editor	unreviewed							
+197	common	tame	તમે	editor	unreviewed							
+198	common	ame	અમે	editor	unreviewed							
+199	common	aapne	આપણે	editor	unreviewed							
+200	common	aapnu	આપણું	editor	unreviewed							
+201	common	chu	છું	editor	unreviewed							
+202	common	che	છે	editor	unreviewed							
+203	common	cho	છો	editor	unreviewed							
+204	common	javu	જવું	editor	unreviewed							
+205	common	avu	આવું	editor	unreviewed							
+206	common	aavu	આવું	editor	unreviewed							
+207	common	khavu	ખાવું	editor	unreviewed							
+208	common	pivu	પીવું	editor	unreviewed							
+209	common	levu	લેવું	editor	unreviewed							
+210	common	devu	દેવું	editor	unreviewed							
+211	common	karvu	કરવું	editor	unreviewed							
+212	common	joyu	જોયું	editor	unreviewed							
+213	common	kahu	કહું	editor	unreviewed							
+214	common	bolu	બોલું	editor	unreviewed							
+215	common	rahu	રહું	editor	unreviewed							
+216	common	besu	બેસું	editor	unreviewed							
+217	common	uthu	ઊઠું	editor	unreviewed							
+218	common	sovu	સૂવું	editor	unreviewed							
+219	common	hasu	હસું	editor	unreviewed							
+220	common	rodu	રડું	editor	unreviewed							
+221	common	gaau	ગાઉં	editor	unreviewed							
+222	common	vaanchu	વાંચું	editor	unreviewed							
+223	common	lakhu	લખું	editor	unreviewed							
+224	common	sambhlu	સાંભળું	editor	unreviewed							
+225	common	samju	સમજું	editor	unreviewed							
+226	common	yaad	યાદ	editor	unreviewed							
+227	common	bhul	ભૂલ	editor	unreviewed							
+228	common	bhool	ભૂલ	editor	unreviewed							
+229	common	madad	મદદ	editor	unreviewed							
+230	common	shukriya	શુક્રિયા	editor	unreviewed							
+231	common	aabhar	આભાર	editor	unreviewed							
+232	common	abhar	આભાર	editor	unreviewed							
+233	common	maaf	માફ	editor	unreviewed							
+234	common	maafi	માફી	editor	unreviewed							
+235	common	kripya	કૃપા	editor	unreviewed							
+236	common	meherbani	મહેરબાની	editor	unreviewed							
+237	common	swagat	સ્વાગત	editor	unreviewed							
+242	common	gujarati	ગુજરાતી	editor	unreviewed							
+243	common	gujrati	ગુજરાતી	editor	unreviewed							
+244	common	gjrat	ગુજરાત	editor	unreviewed							
+259	common	patel	પટેલ	editor	unreviewed							
+260	common	sha	શાહ	editor	unreviewed							
+261	common	shah	શાહ	editor	unreviewed							
+262	common	mehta	મહેતા	editor	unreviewed							
+263	common	desai	દેસાઈ	editor	unreviewed							
+264	common	desay	દેસાઈ	editor	unreviewed							
+265	common	joshi	જોશી	editor	unreviewed							
+266	common	gandhi	ગાંધી	editor	unreviewed							
+267	common	modi	મોદી	editor	unreviewed							
+268	common	trivedi	ત્રિવેદી	editor	unreviewed							
+269	common	sharma	શર્મા	editor	unreviewed							
+270	common	pandya	પંડ્યા	editor	unreviewed							
+271	common	dave	દવે	editor	unreviewed							
+272	common	bhatt	ભટ્ટ	editor	unreviewed							
+273	common	vyas	વ્યાસ	editor	unreviewed							
+274	common	pathak	પાઠક	editor	unreviewed							
+275	common	parikh	પરીખ	editor	unreviewed							
+276	common	parekh	પરેખ	editor	unreviewed							
+277	common	soni	સોની	editor	unreviewed							
+278	common	rana	રાણા	editor	unreviewed							
+279	common	solanki	સોલંકી	editor	unreviewed							
+280	common	chavda	ચાવડા	editor	unreviewed							
+281	common	jadeja	જાડેજા	editor	unreviewed							
+282	common	gohil	ગોહિલ	editor	unreviewed							
+283	common	parmar	પરમાર	editor	unreviewed							
+284	common	rathod	રાઠોડ	editor	unreviewed							
+285	common	thakor	ઠાકોર	editor	unreviewed							
+286	common	chaudhary	ચૌધરી	editor	unreviewed							
+287	common	patil	પાટીલ	editor	unreviewed							
+288	common	naik	નાયક	editor	unreviewed							
+289	common	bhai	ભાઈ	editor	unreviewed							
+290	common	ben	બેન	editor	unreviewed							
+291	common	saheb	સાહેબ	editor	unreviewed							
+292	common	dikra	દીકરા	editor	unreviewed							
+293	common	dikri	દીકરી	editor	unreviewed							
+294	common	chhokra	છોકરા	editor	unreviewed							
+295	common	chhokri	છોકરી	editor	unreviewed							
+296	common	chokra	છોકરા	editor	unreviewed							
+297	common	chokri	છોકરી	editor	unreviewed							
+298	common	manas	માણસ	editor	unreviewed							
+299	common	maanav	માનવ	editor	unreviewed							
+300	common	lok	લોક	editor	unreviewed							
+301	common	loko	લોકો	editor	unreviewed							
+304	common	lagan	લગ્ન	editor	unreviewed							
+305	common	lagna	લગ્ન	editor	unreviewed							
+306	common	vivah	વિવાહ	editor	unreviewed							
+312	common	garba	ગરબા	editor	unreviewed							
+313	common	garbo	ગરબો	editor	unreviewed							
+314	common	dandiya	દાંડિયા	editor	unreviewed							
+315	common	raas	રાસ	editor	unreviewed							
+371	common	sabarmati	સાબરમતી	editor	unreviewed							
+372	common	tapi	તાપી	editor	unreviewed							
+373	common	kutch	કચ્છ	editor	unreviewed							
+374	common	kachchh	કચ્છ	editor	unreviewed							
+375	common	saurashtra	સૌરાષ્ટ્ર	editor	unreviewed							
+376	common	sorath	સોરઠ	editor	unreviewed							
+377	common	gir	ગીર	editor	unreviewed							
+378	common	rann	રણ	editor	unreviewed							
+379	common	bandar	બંદર	editor	unreviewed							
+380	common	sheher	શહેર	editor	unreviewed							
+381	common	shaher	શહેર	editor	unreviewed							
+382	common	nagar	નગર	editor	unreviewed							
+383	common	gaon	ગઓન	editor	unreviewed							
+384	common	taluka	તાલુકો	editor	unreviewed							
+385	common	jilla	જિલ્લો	editor	unreviewed							
+386	common	rajya	રાજ્ય	editor	unreviewed							
+387	common	sarkar	સરકાર	editor	unreviewed							
+388	common	mantri	મંત્રી	editor	unreviewed							
+389	common	pradhan	પ્રધાન	editor	unreviewed							
+390	common	adalat	અદાલત	editor	unreviewed							
+391	common	kanoon	કાનૂન	editor	unreviewed							
+392	common	kaydo	કાયદો	editor	unreviewed							
+393	common	police	પોલીસ	editor	unreviewed							
+394	common	hospital	હોસ્પિટલ	editor	unreviewed							
+395	common	skool	સ્કૂલ	editor	unreviewed							
+396	common	shaala	શાળા	editor	unreviewed							
+397	common	college	કોલેજ	editor	unreviewed							
+398	common	vidyalay	વિદ્યાલય	editor	unreviewed							
+399	common	kitab	કિતાબ	editor	unreviewed							
+400	common	akhbar	અખબાર	editor	unreviewed							
+401	common	samachar	સમાચાર	editor	unreviewed							
+402	common	khabar	ખબર	editor	unreviewed							
+403	common	patra	પત્ર	editor	unreviewed							
+404	common	chithi	ચિઠ્ઠી	editor	unreviewed							
+409	common	paise	પૈસા	editor	unreviewed							
+410	common	rupiya	રૂપિયા	editor	unreviewed							
+411	common	paisa	પૈસા	editor	unreviewed							
+412	common	dukan	દુકાન	editor	unreviewed							
+413	common	bazaar	બજાર	editor	unreviewed							
+414	common	bajar	બજાર	editor	unreviewed							
+415	common	kirana	કરિયાણું	editor	unreviewed							
+416	common	sabzi	શાકભાજી	editor	unreviewed							
+417	common	bhaji	ભાજી	editor	unreviewed							
+418	common	rotli	રોટલી	editor	unreviewed							
+419	common	rotlo	રોટલો	editor	unreviewed							
+420	common	khichdi	ખીચડી	editor	unreviewed							
+421	common	khichadi	ખીચડી	editor	unreviewed							
+422	common	kadhi	કઢી	editor	unreviewed							
+423	common	shaakbhaji	શાકભાજી	editor	unreviewed							
+424	common	fafda	ફાફડા	editor	unreviewed							
+425	common	jalebi	જલેબી	editor	unreviewed							
+426	common	dhokla	ઢોકળા	editor	unreviewed							
+427	common	khandvi	ખાંડવી	editor	unreviewed							
+428	common	thepla	થેપલા	editor	unreviewed							
+429	common	undhiyu	ઊંધિયું	editor	unreviewed							
+430	common	handvo	હાંડવો	editor	unreviewed							
+431	common	muthiya	મુઠિયા	editor	unreviewed							
+432	common	ganthia	ગાંઠિયા	editor	unreviewed							
+433	common	sev	સેવ	editor	unreviewed							
+434	common	chevdo	ચેવડો	editor	unreviewed							
+435	common	lassi	લસ્સી	editor	unreviewed							
+436	common	chaas	છાશ	editor	unreviewed							
+437	common	chhash	છાશ	editor	unreviewed							
+438	common	dahi	દહીં	editor	unreviewed							
+439	common	ghee	ઘી	editor	unreviewed							
+440	common	tel	તેલ	editor	unreviewed							
+441	common	mirch	મરચું	editor	unreviewed							
+442	common	marchu	મરચું	editor	unreviewed							
+443	common	haldar	હળદર	editor	unreviewed							
+444	common	haldi	હળદર	editor	unreviewed							
+445	common	jeeru	જીરું	editor	unreviewed							
+446	common	jeera	જીરું	editor	unreviewed							
+447	common	methi	મેથી	editor	unreviewed							
+448	common	dhana	ધાણા	editor	unreviewed							
+449	common	lebu	લીંબુ	editor	unreviewed							
+450	common	limbu	લીંબુ	editor	unreviewed							
+451	common	keri	કેરી	editor	unreviewed							
+452	common	aam	આમ	editor	unreviewed							
+453	common	kela	કેળા	editor	unreviewed							
+454	common	draksh	દ્રાક્ષ	editor	unreviewed							
+455	common	chikoo	ચીકુ	editor	unreviewed							
+456	common	santra	સંતરા	editor	unreviewed							
+457	common	jamfal	જામફળ	editor	unreviewed							
+458	common	papaya	પપૈયું	editor	unreviewed							
+459	common	tarbuch	તરબૂચ	editor	unreviewed							
+460	common	makai	મકાઈ	editor	unreviewed							
+461	common	gehu	ઘઉં	editor	unreviewed							
+462	common	bajra	બાજરી	editor	unreviewed							
+463	common	jowar	જુવાર	editor	unreviewed							
+464	common	chokha	ચોખા	editor	unreviewed							
+465	common	chokhaa	ચોખા	editor	unreviewed							
+466	common	kapas	કપાસ	editor	unreviewed							
+467	common	khetar	ખેતર	editor	unreviewed							
+468	common	khedut	ખેડૂત	editor	unreviewed							
+469	common	bail	બળદ	editor	unreviewed							
+470	common	gay	ગાય	editor	unreviewed							
+471	common	bhens	ભેંસ	editor	unreviewed							
+472	common	bakri	બકરી	editor	unreviewed							
+473	common	kutta	કૂતરો	editor	unreviewed							
+474	common	billi	બિલાડી	editor	unreviewed							
+475	common	ghoda	ઘોડો	editor	unreviewed							
+476	common	hathi	હાથી	editor	unreviewed							
+477	common	sher	સિંહ	editor	unreviewed							
+478	common	vagh	વાઘ	editor	unreviewed							
+479	common	mor	મોર	editor	unreviewed							
+480	common	popat	પોપટ	editor	unreviewed							
+481	common	kabutar	કબૂતર	editor	unreviewed							
+482	common	machhli	માછલી	editor	unreviewed							
+483	common	saap	સાપ	editor	unreviewed							
+484	common	undr	ઉંદર	editor	unreviewed							
+485	common	makdi	માકડી	editor	unreviewed							
+486	common	madh	મધ	editor	unreviewed							
+487	common	makhi	માખી	editor	unreviewed							
+488	common	pankhi	પંખી	editor	unreviewed							
+489	common	ped	પેડ	editor	unreviewed							
+490	common	jhad	ઝાડ	editor	unreviewed							
+491	common	phool	ફૂલ	editor	unreviewed							
+492	common	patti	પત્તિ	editor	unreviewed							
+493	common	paan	પાન	editor	unreviewed							
+494	common	beej	બીજ	editor	unreviewed							
+495	common	varsad	વરસાદ	editor	unreviewed							
+496	common	varsaad	વરસાદ	editor	unreviewed							
+497	common	hava	હવા	editor	unreviewed							
+498	common	vajr	વાદળ	editor	unreviewed							
+499	common	vadla	વાદળા	editor	unreviewed							
+500	common	bijli	વીજળી	editor	unreviewed							
+501	common	taap	તાપ	editor	unreviewed							
+502	common	thand	ઠંડી	editor	unreviewed							
+503	common	thandi	ઠંડી	editor	unreviewed							
+504	common	dhoop	ધૂપ	editor	unreviewed							
+505	common	dhup	ધૂપ	editor	unreviewed							
+506	common	chand	ચાંદ	editor	unreviewed							
+507	common	chandra	ચંદ્ર	editor	unreviewed							
+508	common	suraj	સૂરજ	editor	unreviewed							
+509	common	surya	સૂર્ય	editor	unreviewed							
+510	common	tara	તારા	editor	unreviewed							
+511	common	aakash	આકાશ	editor	unreviewed							
+512	common	jameen	જમીન	editor	unreviewed							
+513	common	jamin	જમીન	editor	unreviewed							
+514	common	pruthvi	પૃથ્વી	editor	unreviewed							
+515	common	prithvi	પૃથ્વી	editor	unreviewed							
+516	common	desh	દેશ	editor	unreviewed							
+517	common	des	દેશ	editor	unreviewed							
+518	common	bharat	ભારત	editor	unreviewed							
+519	common	hindustan	હિન્દુસ્તાન	editor	unreviewed							
+520	common	duniya	દુનિયા	editor	unreviewed							
+521	common	jagat	જગત	editor	unreviewed							
+522	common	waqt	વખત	editor	unreviewed							
+523	common	vakt	વખત	editor	unreviewed							
+524	common	ghadi	ઘડી	editor	unreviewed							
+525	common	kalak	કલાક	editor	unreviewed							
+526	common	minute	મિનિટ	editor	unreviewed							
+527	common	divas	દિવસ	editor	unreviewed							
+528	common	vaar	વાર	editor	unreviewed							
+529	common	ravivar	રવિવાર	editor	unreviewed							
+530	common	somvar	સોમવાર	editor	unreviewed							
+531	common	mangalvar	મંગળવાર	editor	unreviewed							
+532	common	budhvar	બુધવાર	editor	unreviewed							
+533	common	guruvar	ગુરુવાર	editor	unreviewed							
+534	common	shukravar	શુક્રવાર	editor	unreviewed							
+535	common	shanivar	શનિવાર	editor	unreviewed							
+536	common	mahino	મહિનો	editor	unreviewed							
+537	common	varsh	વર્ષ	editor	unreviewed							
+538	common	saal	સાલ	editor	unreviewed							
+539	common	umr	ઉંમર	editor	unreviewed							
+540	common	umar	ઉંમર	editor	unreviewed							
+541	common	janm	જન્મ	editor	unreviewed							
+542	common	janam	જન્મ	editor	unreviewed							
+543	common	mrutyu	મૃત્યુ	editor	unreviewed							
+544	common	mrityu	મૃત્યુ	editor	unreviewed							
+545	common	jindagi	જિંદગી	editor	unreviewed							
+546	common	jivan	જીવન	editor	unreviewed							
+547	common	zindagi	જિંદગી	editor	unreviewed							
+548	common	khushi	ખુશી	editor	unreviewed							
+549	common	dard	દર્દ	editor	unreviewed							
+550	common	pyaar	પ્રેમ	editor	unreviewed							
+551	common	gussa	ગુસ્સો	editor	unreviewed							
+552	common	gusso	ગુસ્સો	editor	unreviewed							
+553	common	dar	ડર	editor	unreviewed							
+554	common	bhay	ભય	editor	unreviewed							
+555	common	nirasha	નિરાશા	editor	unreviewed							
+556	common	hausla	હૌસલો	editor	unreviewed							
+557	common	himmat	હિંમત	editor	unreviewed							
+558	common	sharam	શરમ	editor	unreviewed							
+559	common	izzat	ઇઝ્ઝત	editor	unreviewed							
+560	common	adab	આદબ	editor	unreviewed							
+565	common	raatri	રાત્રી	editor	unreviewed							
+568	common	bal	બાળ	editor	unreviewed							
+569	common	mar	માર	editor	unreviewed							
+570	common	kar	કર	editor	unreviewed							
+571	common	din	દિન	editor	unreviewed							
+572	common	man	મન	editor	unreviewed							
+573	common	tan	તન	editor	unreviewed							
+574	common	jan	જન	editor	unreviewed							
+575	common	ran	રણ	editor	unreviewed							
+576	common	van	વન	editor	unreviewed							
+577	common	dan	દાન	editor	unreviewed							
+578	common	ban	બન	editor	unreviewed							
+579	common	chal	ચાલ	editor	unreviewed							
+580	common	bol	બોલ	editor	unreviewed							
+581	common	de	દે	editor	unreviewed							
+582	common	le	લે	editor	unreviewed							
+583	common	ja	જા	editor	unreviewed							
+584	common	aa	આ	editor	unreviewed							
+585	common	ae	એ	editor	unreviewed							
+586	common	te	તે	editor	unreviewed							
+587	common	me	મેં	editor	unreviewed							
+588	common	se	સે	editor	unreviewed							
+589	common	re	રે	editor	unreviewed							
+590	common	to	તો	editor	unreviewed							
+591	common	ho	હો	editor	unreviewed							
+592	common	ha	હા	editor	unreviewed							
+593	common	na	ના	editor	unreviewed							
+594	common	su	સુ	editor	unreviewed							
+595	common	mu	મુ	editor	unreviewed							
+596	common	gu	ગુ	editor	unreviewed							
+597	common	ku	કુ	editor	unreviewed							
+598	common	kai	કઈ	editor	unreviewed							
+599	common	bai	બાઈ	editor	unreviewed							
+602	common	mai	માઈ	editor	unreviewed							
+603	common	pai	પાઈ	editor	unreviewed							
+604	common	dai	દાઈ	editor	unreviewed							
+605	common	gai	ગાય	editor	unreviewed							
+606	common	nai	નહીં	editor	unreviewed							
+607	common	lai	લાઈ	editor	unreviewed							
+608	common	saiyam	સંયમ	editor	unreviewed							
+609	common	phal	ફળ	editor	unreviewed							
+610	common	mal	માળ	editor	unreviewed							
+611	common	tal	તાલ	editor	unreviewed							
+612	common	hal	હાલ	editor	unreviewed							
+613	common	sal	સાલ	editor	unreviewed							
+614	common	pal	પળ	editor	unreviewed							
+615	common	val	વળ	editor	unreviewed							
+616	common	gal	ગાળ	editor	unreviewed							
+617	common	nal	નળ	editor	unreviewed							
+618	common	lal	લાલ	editor	unreviewed							
+619	common	nil	નીલ	editor	unreviewed							
+620	common	pil	પીળો	editor	unreviewed							
+621	common	safed	સફેદ	editor	unreviewed							
+622	common	kala	કાળો	editor	unreviewed							
+623	common	kesar	કેસર	editor	unreviewed							
+624	common	rang	રંગ	editor	unreviewed							
+625	common	roop	રૂપ	editor	unreviewed							
+626	common	dhaam	ધામ	editor	unreviewed							
+628	common	paap	પાપ	editor	unreviewed							
+629	common	shaap	શાપ	editor	unreviewed							
+630	common	raag	રાગ	editor	unreviewed							
+631	common	bhaag	ભાગ	editor	unreviewed							
+632	common	tyaag	ત્યાગ	editor	unreviewed							
+633	common	raaj	રાજ	editor	unreviewed							
+634	common	saaj	સાજ	editor	unreviewed							
+635	common	kaaj	કાજ	editor	unreviewed							
+636	common	laabh	લાભ	editor	unreviewed							
+637	common	haani	હાનિ	editor	unreviewed							
+659	common	chaudhari	ચૌધરી	editor	unreviewed							
+660	common	ahmedabad	અમદાવાદ	editor	unreviewed							
+661	common	amdavad	અમદાવાદ	editor	unreviewed							
+662	common	surat	સુરત	editor	unreviewed							
+663	common	suurat	સુરત	editor	unreviewed							
+664	common	vadodara	વડોદરા	editor	unreviewed							
+665	common	baroda	વડોદરા	editor	unreviewed							
+666	common	rajkot	રાજકોટ	editor	unreviewed							
+667	common	raajkot	રાજકોટ	editor	unreviewed							
+668	common	bhavnagar	ભાવનગર	editor	unreviewed							
+669	common	jamnagar	જામનગર	editor	unreviewed							
+670	common	junagadh	જૂનાગઢ	editor	unreviewed							
+671	common	gandhinagar	ગાંધીનગર	editor	unreviewed							
+672	common	bhuj	ભુજ	editor	unreviewed							
+673	common	anand	આણંદ	editor	unreviewed							
+674	common	nadiad	નડિયાદ	editor	unreviewed							
+675	common	bharuch	ભરૂચ	editor	unreviewed							
+676	common	mehsana	મહેસાણા	editor	unreviewed							
+677	common	morbi	મોરબી	editor	unreviewed							
+678	common	dwarka	દ્વારકા	editor	unreviewed							
+679	common	somnath	સોમનાથ	editor	unreviewed							
+680	common	porbandar	પોરબંદર	editor	unreviewed							
+681	common	palanpur	પાલનપુર	editor	unreviewed							
+682	common	godhra	ગોધરા	editor	unreviewed							
+683	common	dahod	દાહોદ	editor	unreviewed							
+684	common	valsad	વલસાડ	editor	unreviewed							
+685	common	navsari	નવસારી	editor	unreviewed							
+686	common	surendranagar	સુરેન્દ્રનગર	editor	unreviewed							
+687	common	amreli	અમરેલી	editor	unreviewed							
+688	common	botad	બોટાદ	editor	unreviewed							
+1388	common	hu ghar ma chu	હું ઘર માં છું	sure	unreviewed							
+1389	common	tame ghar ma cho	તમે ઘર માં છો	sure	unreviewed							
+1390	common	te ghar ma che	તે ઘર માં છે	sure	unreviewed							
+1391	common	mare ghar ma javanu che	મારે ઘર માં જવાનું છે	sure	unreviewed							
+1392	common	hu office ma chu	હું ઓફિસ માં છું	sure	unreviewed							
+1393	common	tame office ma cho	તમે ઓફિસ માં છો	sure	unreviewed							
+1394	common	te office ma che	તે ઓફિસ માં છે	sure	unreviewed							
+1395	common	mare office ma javanu che	મારે ઓફિસ માં જવાનું છે	sure	unreviewed							
+1396	common	hu school ma chu	હું સ્કૂલ માં છું	sure	unreviewed							
+1397	common	tame school ma cho	તમે સ્કૂલ માં છો	sure	unreviewed							
+1398	common	te school ma che	તે સ્કૂલ માં છે	sure	unreviewed							
+1399	common	mare school ma javanu che	મારે સ્કૂલ માં જવાનું છે	sure	unreviewed							
+1400	common	hu college ma chu	હું કોલેજ માં છું	sure	unreviewed							
+1401	common	tame college ma cho	તમે કોલેજ માં છો	sure	unreviewed							
+1402	common	te college ma che	તે કોલેજ માં છે	sure	unreviewed							
+1403	common	mare college ma javanu che	મારે કોલેજ માં જવાનું છે	sure	unreviewed							
+1404	common	hu hospital ma chu	હું હોસ્પિટલ માં છું	sure	unreviewed							
+1405	common	tame hospital ma cho	તમે હોસ્પિટલ માં છો	sure	unreviewed							
+1406	common	te hospital ma che	તે હોસ્પિટલ માં છે	sure	unreviewed							
+1407	common	mare hospital ma javanu che	મારે હોસ્પિટલ માં જવાનું છે	sure	unreviewed							
+1408	common	hu market ma chu	હું માર્કેટ માં છું	sure	unreviewed							
+1409	common	tame market ma cho	તમે માર્કેટ માં છો	sure	unreviewed							
+1410	common	te market ma che	તે માર્કેટ માં છે	sure	unreviewed							
+1411	common	mare market ma javanu che	મારે માર્કેટ માં જવાનું છે	sure	unreviewed							
+1412	common	hu bank ma chu	હું બેંક માં છું	sure	unreviewed							
+1413	common	tame bank ma cho	તમે બેંક માં છો	sure	unreviewed							
+1414	common	te bank ma che	તે બેંક માં છે	sure	unreviewed							
+1415	common	mare bank ma javanu che	મારે બેંક માં જવાનું છે	sure	unreviewed							
+1416	common	hu hotel ma chu	હું હોટલ માં છું	sure	unreviewed							
+1417	common	tame hotel ma cho	તમે હોટલ માં છો	sure	unreviewed							
+1418	common	te hotel ma che	તે હોટલ માં છે	sure	unreviewed							
+1419	common	mare hotel ma javanu che	મારે હોટલ માં જવાનું છે	sure	unreviewed							
+1420	common	hu shop ma chu	હું શોપ માં છું	sure	unreviewed							
+1421	common	tame shop ma cho	તમે શોપ માં છો	sure	unreviewed							
+1422	common	te shop ma che	તે શોપ માં છે	sure	unreviewed							
+1423	common	mare shop ma javanu che	મારે શોપ માં જવાનું છે	sure	unreviewed							
+1424	common	hu station ma chu	હું સ્ટેશન માં છું	sure	unreviewed							
+1425	common	tame station ma cho	તમે સ્ટેશન માં છો	sure	unreviewed							
+1426	common	te station ma che	તે સ્ટેશન માં છે	sure	unreviewed							
+1427	common	mare station ma javanu che	મારે સ્ટેશન માં જવાનું છે	sure	unreviewed							
+1428	common	hu room ma chu	હું રૂમ માં છું	sure	unreviewed							
+1429	common	tame room ma cho	તમે રૂમ માં છો	sure	unreviewed							
+1430	common	te room ma che	તે રૂમ માં છે	sure	unreviewed							
+1431	common	mare room ma javanu che	મારે રૂમ માં જવાનું છે	sure	unreviewed							
+1432	common	hu class ma chu	હું ક્લાસ માં છું	sure	unreviewed							
+1433	common	tame class ma cho	તમે ક્લાસ માં છો	sure	unreviewed							
+1434	common	te class ma che	તે ક્લાસ માં છે	sure	unreviewed							
+1435	common	mare class ma javanu che	મારે ક્લાસ માં જવાનું છે	sure	unreviewed							
+1516	common	tame chai leso	તમે ચા લેશો	sure	unreviewed							
+1519	common	tame pani leso	તમે પાણી લેશો	sure	unreviewed							
+1522	common	tame roti leso	તમે રોટી લેશો	sure	unreviewed							
+1525	common	tame dal leso	તમે દાળ લેશો	sure	unreviewed							
+1528	common	tame bhat leso	તમે ભાત લેશો	sure	unreviewed							
+1531	common	tame shaak leso	તમે શાક લેશો	sure	unreviewed							
+1534	common	tame doodh leso	તમે દૂધ લેશો	sure	unreviewed							
+1537	common	tame coffee leso	તમે કોફી લેશો	review	unreviewed							
+1565	common	gaadi amdavad jaay che	ગાડી અમદાવાદ જાય છે	review	unreviewed							
+1568	common	gaadi surat jaay che	ગાડી સુરત જાય છે	review	unreviewed							
+1571	common	gaadi rajkot jaay che	ગાડી રાજકોટ જાય છે	review	unreviewed							
+1574	common	gaadi vadodara jaay che	ગાડી વડોદરા જાય છે	review	unreviewed							
+1577	common	gaadi bhavnagar jaay che	ગાડી ભાવનગર જાય છે	review	unreviewed							
+1580	common	gaadi junagadh jaay che	ગાડી જૂનાગઢ જાય છે	review	unreviewed							
+1583	common	gaadi gandhinagar jaay che	ગાડી ગાંધીનગર જાય છે	review	unreviewed							
+1586	common	gaadi bhuj jaay che	ગાડી ભુજ જાય છે	review	unreviewed							
+1613	common	aaje bahu saru che	આજે બહુ સારું છે	sure	unreviewed							
+1614	common	have ghar javu che	હવે ઘર જવું છે	sure	unreviewed							
+1615	common	hu thaki gayo chu	હું થાકી ગયો છું	review	unreviewed							
+1616	common	mari tabiyat saru nathi	મારી તબિયત સારી નથી	sure	unreviewed							
+1617	common	tame jem karjo	તમે જમ કરજો	review	unreviewed							
+1618	common	baju ma beso	બાજુ માં બેસો	review	unreviewed							
+1619	common	bahar varsad che	બહાર વરસાદ છે	sure	unreviewed							
+1620	common	andar thandak che	અંદર ઠંડક છે	review	unreviewed							
+1621	common	hu sau ne kahi didhu	હું સૌ ને કહી દીધું	sure	unreviewed							
+1622	common	ame saathe jaishu	અમે સાથે જઈશું	sure	unreviewed							
+1623	common	tame pan aavjo	તમે પણ આવજો	sure	unreviewed							
+1624	common	have nathi thatu	હવે નથી થતું	sure	unreviewed							
+1625	common	pachi vaat karishu	પછી વાત કરીશું	sure	unreviewed							
+1626	common	hu ghar thi kaam karu chu	હું ઘર થી કામ કરું છું	sure	unreviewed							
+1627	common	aapde kale vaat karishu	આપણે કાલે વાત કરીશું	sure	unreviewed							
+1628	common	raat e jova javanu che	રાત એ જોવા જવાનું છે	review	unreviewed							
+1629	common	savare jaldi utishu	સવારે જલ્દી ઊઠીશું	review	unreviewed							
+1630	common	bachcha ramva gayela	બચ્ચા રમવા ગયેલા	review	unreviewed							
+1631	common	maa rasoi ma che	મા રસોઈ માં છે	sure	unreviewed							
+1632	common	papa office thi aavshe	પપ્પા ઓફિસ થી આવશે	sure	unreviewed							
+1750	common	hu savare aavish	હું સવારે આવીશ	sure	unreviewed							
+1752	common	hu savare jaish	હું સવારે જઈશ	sure	unreviewed							
+1754	common	hu savare nikadish	હું સવારે નીકળીશ	review	unreviewed							
+1756	common	hu savare pohchish	હું સવારે પહોંચીશ	review	unreviewed							
+1758	common	hu bapore aavish	હું બપોરે આવીશ	sure	unreviewed							
+1760	common	hu bapore jaish	હું બપોરે જઈશ	sure	unreviewed							
+1762	common	hu bapore nikadish	હું બપોરે નીકળીશ	review	unreviewed							
+1764	common	hu bapore pohchish	હું બપોરે પહોંચીશ	review	unreviewed							
+1766	common	hu sanj e aavish	હું સાંજ એ આવીશ	sure	unreviewed							
+1768	common	hu sanj e jaish	હું સાંજ એ જઈશ	sure	unreviewed							
+1770	common	hu sanj e nikadish	હું સાંજ એ નીકળીશ	review	unreviewed							
+1772	common	hu sanj e pohchish	હું સાંજ એ પહોંચીશ	review	unreviewed							
+1774	common	hu raat e aavish	હું રાત એ આવીશ	sure	unreviewed							
+1776	common	hu raat e jaish	હું રાત એ જઈશ	sure	unreviewed							
+1778	common	hu raat e nikadish	હું રાત એ નીકળીશ	review	unreviewed							
+1780	common	hu raat e pohchish	હું રાત એ પહોંચીશ	review	unreviewed							
+1792	common	hu ready chu	હું રેડી છું	sure	unreviewed							
+1795	common	hu free chu	હું ફ્રી છું	sure	unreviewed							
+1797	common	hu busy chu	હું બિઝી છું	sure	unreviewed							
+1799	common	hu late chu	હું લેટ છું	sure	unreviewed							
+1801	common	hu online chu	હું ઓનલાઇન છું	sure	unreviewed							
+1803	common	hu thako chu	હું થાકું છું	review	unreviewed							
+1805	common	tame ready cho	તમે રેડી છો	sure	unreviewed							
+1807	common	tame free cho	તમે ફ્રી છો	sure	unreviewed							
+1809	common	tame busy cho	તમે બિઝી છો	sure	unreviewed							
+1811	common	tame late cho	તમે લેટ છો	sure	unreviewed							
+1813	common	tame offline cho	તમે ઓફલાઇન છો	sure	unreviewed							
+1815	common	hu bus ma chu	હું બસ માં છું	sure	unreviewed							
+1816	common	tame bus pakdo	તમે બસ પકડો	review	unreviewed							
+1820	common	hu train ma chu	હું ટ્રેન માં છું	sure	unreviewed							
+1821	common	tame train pakdo	તમે ટ્રેન પકડો	review	unreviewed							
+1825	common	hu car ma chu	હું કાર માં છું	sure	unreviewed							
+1826	common	tame car pakdo	તમે કાર પકડો	review	unreviewed							
+1830	common	hu taxi ma chu	હું ટેક્સી માં છું	sure	unreviewed							
+1831	common	tame taxi pakdo	તમે ટેક્સી પકડો	review	unreviewed							
+1835	common	hu auto ma chu	હું ઓટો માં છું	sure	unreviewed							
+1836	common	tame auto pakdo	તમે ઓટો પકડો	review	unreviewed							
+1840	common	hu flight ma chu	હું ફ્લાઇટ માં છું	sure	unreviewed							
+1841	common	tame flight pakdo	તમે ફ્લાઇટ પકડો	review	unreviewed							
+1845	common	mane pani joiye	મને પાણી જોઈએ	sure	unreviewed							
+1848	common	mane chai joiye	મને ચા જોઈએ	sure	unreviewed							
+1851	common	mane time joiye	મને ટાઇમ જોઈએ	sure	unreviewed							
+1855	common	mane madad joiye	મને મદદ જોઈએ	sure	unreviewed							
+1859	common	mane number joiye	મને નંબર જોઈએ	sure	unreviewed							
+1863	common	mane address joiye	મને એડ્રેસ જોઈએ	sure	unreviewed							
+1867	common	mane ticket joiye	મને ટિકિટ જોઈએ	sure	unreviewed							
+1871	common	mane room joiye	મને રૂમ જોઈએ	sure	unreviewed							
+1875	common	mane key joiye	મને ચાવી જોઈએ	review	unreviewed							
+1879	common	mane bill joiye	મને બિલ જોઈએ	sure	unreviewed							
+1884	common	hu monday aavish	હું મંડે આવીશ	sure	unreviewed							
+1889	common	hu tuesday aavish	હું ટ્યુસડે આવીશ	sure	unreviewed							
+1894	common	hu wednesday aavish	હું વેડનેસડે આવીશ	sure	unreviewed							
+1899	common	hu thursday aavish	હું થર્સડે આવીશ	sure	unreviewed							
+1904	common	hu friday aavish	હું ફ્રાઇડે આવીશ	sure	unreviewed							
+1909	common	hu saturday aavish	હું સેટર્ડે આવીશ	sure	unreviewed							
+1914	common	hu sunday aavish	હું સન્ડે આવીશ	sure	unreviewed							
+1997	common	hu dukan javu chu	હું દુકાન જવું છું	sure	unreviewed							
+2000	common	hu shop javu chu	હું શોપ જવું છું	sure	unreviewed							
+2003	common	hu market javu chu	હું માર્કેટ જવું છું	sure	unreviewed							
+2006	common	hu mall javu chu	હું મોલ જવું છું	sure	unreviewed							
+2009	common	hu bank javu chu	હું બેંક જવું છું	sure	unreviewed							
+2012	common	hu post office javu chu	હું પોસ્ટ ઓફિસ જવું છું	sure	unreviewed							
+2018	common	aaje document karvanu che	આજે ડોક્યુમેન્ટ કરવાનું છે	sure	unreviewed							
+2023	common	aapde document karishu	આપણે ડોક્યુમેન્ટ કરીશું	sure	unreviewed							
+2033	common	aaje file karvanu che	આજે ફાઇલ કરવાનું છે	sure	unreviewed							
+2038	common	aapde file karishu	આપણે ફાઇલ કરીશું	sure	unreviewed							
+2048	common	aaje photo karvanu che	આજે ફોટો કરવાનું છે	sure	unreviewed							
+2053	common	aapde photo karishu	આપણે ફોટો કરીશું	sure	unreviewed							
+2063	common	aaje message karvanu che	આજે મેસેજ કરવાનું છે	sure	unreviewed							
+2068	common	aapde message karishu	આપણે મેસેજ કરીશું	sure	unreviewed							
+2077	common	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	sure	unreviewed							
+2081	common	aapde report karishu	આપણે રિપોર્ટ કરીશું	sure	unreviewed							
+2090	common	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	sure	unreviewed							
+2095	common	aapde plan karishu	આપણે પ્લાન કરીશું	sure	unreviewed							
+2106	common	aaje list karvanu che	આજે લિસ્ટ કરવાનું છે	sure	unreviewed							
+2111	common	aapde list karishu	આપણે લિસ્ટ કરીશું	sure	unreviewed							
+2121	common	aaje form karvanu che	આજે ફોર્મ કરવાનું છે	sure	unreviewed							
+2126	common	aapde form karishu	આપણે ફોર્મ કરીશું	sure	unreviewed							
+2136	common	aaje copy karvanu che	આજે કોપી કરવાનું છે	sure	unreviewed							
+2141	common	aapde copy karishu	આપણે કોપી કરીશું	sure	unreviewed							
+2151	common	aaje invoice karvanu che	આજે ઇન્વોઇસ કરવાનું છે	sure	unreviewed							
+2156	common	aapde invoice karishu	આપણે ઇન્વોઇસ કરીશું	sure	unreviewed							
+2166	common	aaje email karvanu che	આજે ઈમેલ કરવાનું છે	sure	unreviewed							
+2171	common	aapde email karishu	આપણે ઈમેલ કરીશું	sure	unreviewed							
+2180	common	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	sure	unreviewed							
+2185	common	aapde project karishu	આપણે પ્રોજેક્ટ કરીશું	sure	unreviewed							
+2195	common	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	sure	unreviewed							
+2200	common	aapde meeting karishu	આપણે મીટિંગ કરીશું	sure	unreviewed							
+2210	common	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	sure	unreviewed							
+2215	common	aapde order karishu	આપણે ઓર્ડર કરીશું	sure	unreviewed							
+2225	common	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	sure	unreviewed							
+2230	common	aapde payment karishu	આપણે પેમેન્ટ કરીશું	sure	unreviewed							
+2240	common	aaje call karvanu che	આજે કોલ કરવાનું છે	sure	unreviewed							
+2245	common	aapde call karishu	આપણે કોલ કરીશું	sure	unreviewed							
+2255	common	aaje update karvanu che	આજે અપડેટ કરવાનું છે	sure	unreviewed							
+2260	common	aapde update karishu	આપણે અપડેટ કરીશું	sure	unreviewed							
+2271	common	aaje password karvanu che	આજે પાસવર્ડ કરવાનું છે	sure	unreviewed							
+2276	common	aapde password karishu	આપણે પાસવર્ડ કરીશું	sure	unreviewed							
+2287	common	aaje ticket karvanu che	આજે ટિકિટ કરવાનું છે	sure	unreviewed							
+2292	common	aapde ticket karishu	આપણે ટિકિટ કરીશું	sure	unreviewed							
+2303	common	aaje bill karvanu che	આજે બિલ કરવાનું છે	sure	unreviewed							
+2308	common	aapde bill karishu	આપણે બિલ કરીશું	sure	unreviewed							
+2335	common	aaje varsad che	આજે વરસાદ છે	sure	unreviewed							
+2338	common	aaje thandi che	આજે ઠંડી છે	sure	unreviewed							
+2339	common	bahar thandi che	બહાર ઠંડી છે	sure	unreviewed							
+2342	common	aaje garami che	આજે ગરમી છે	sure	unreviewed							
+2343	common	bahar garami che	બહાર ગરમી છે	sure	unreviewed							
+2346	common	aaje pavan che	આજે પવન છે	sure	unreviewed							
+2347	common	bahar pavan che	બહાર પવન છે	sure	unreviewed							
+2350	common	aaje vajr che	આજે વીજળી છે	review	unreviewed							
+2351	common	bahar vajr che	બહાર વીજળી છે	review	unreviewed							

@@ -1,0 +1,90 @@
+# Batch 03 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+210	common	devu	દેવું	editor	unreviewed							
+211	common	karvu	કરવું	editor	unreviewed							
+212	common	joyu	જોયું	editor	unreviewed							
+213	common	kahu	કહું	editor	unreviewed							
+214	common	bolu	બોલું	editor	unreviewed							
+215	common	rahu	રહું	editor	unreviewed							
+216	common	besu	બેસું	editor	unreviewed							
+217	common	uthu	ઊઠું	editor	unreviewed							
+218	common	sovu	સૂવું	editor	unreviewed							
+219	common	hasu	હસું	editor	unreviewed							
+220	common	rodu	રડું	editor	unreviewed							
+221	common	gaau	ગાઉં	editor	unreviewed							
+222	common	vaanchu	વાંચું	editor	unreviewed							
+223	common	lakhu	લખું	editor	unreviewed							
+224	common	sambhlu	સાંભળું	editor	unreviewed							
+225	common	samju	સમજું	editor	unreviewed							
+226	common	yaad	યાદ	editor	unreviewed							
+227	common	bhul	ભૂલ	editor	unreviewed							
+228	common	bhool	ભૂલ	editor	unreviewed							
+229	common	madad	મદદ	editor	unreviewed							
+230	common	shukriya	શુક્રિયા	editor	unreviewed							
+231	common	aabhar	આભાર	editor	unreviewed							
+232	common	abhar	આભાર	editor	unreviewed							
+233	common	maaf	માફ	editor	unreviewed							
+234	common	maafi	માફી	editor	unreviewed							
+235	common	kripya	કૃપા	editor	unreviewed							
+236	common	meherbani	મહેરબાની	editor	unreviewed							
+237	common	swagat	સ્વાગત	editor	unreviewed							
+242	common	gujarati	ગુજરાતી	editor	unreviewed							
+243	common	gujrati	ગુજરાતી	editor	unreviewed							
+244	common	gjrat	ગુજરાત	editor	unreviewed							
+259	common	patel	પટેલ	editor	unreviewed							
+260	common	sha	શાહ	editor	unreviewed							
+261	common	shah	શાહ	editor	unreviewed							
+262	common	mehta	મહેતા	editor	unreviewed							
+263	common	desai	દેસાઈ	editor	unreviewed							
+264	common	desay	દેસાઈ	editor	unreviewed							
+265	common	joshi	જોશી	editor	unreviewed							
+266	common	gandhi	ગાંધી	editor	unreviewed							
+267	common	modi	મોદી	editor	unreviewed							
+268	common	trivedi	ત્રિવેદી	editor	unreviewed							
+269	common	sharma	શર્મા	editor	unreviewed							
+270	common	pandya	પંડ્યા	editor	unreviewed							
+271	common	dave	દવે	editor	unreviewed							
+272	common	bhatt	ભટ્ટ	editor	unreviewed							
+273	common	vyas	વ્યાસ	editor	unreviewed							
+274	common	pathak	પાઠક	editor	unreviewed							
+275	common	parikh	પરીખ	editor	unreviewed							
+276	common	parekh	પરેખ	editor	unreviewed							
+277	common	soni	સોની	editor	unreviewed							
+278	common	rana	રાણા	editor	unreviewed							
+279	common	solanki	સોલંકી	editor	unreviewed							
+280	common	chavda	ચાવડા	editor	unreviewed							
+281	common	jadeja	જાડેજા	editor	unreviewed							
+282	common	gohil	ગોહિલ	editor	unreviewed							
+283	common	parmar	પરમાર	editor	unreviewed							
+284	common	rathod	રાઠોડ	editor	unreviewed							
+285	common	thakor	ઠાકોર	editor	unreviewed							
+286	common	chaudhary	ચૌધરી	editor	unreviewed							
+287	common	patil	પાટીલ	editor	unreviewed							
+288	common	naik	નાયક	editor	unreviewed							
+289	common	bhai	ભાઈ	editor	unreviewed							
+290	common	ben	બેન	editor	unreviewed							
+291	common	saheb	સાહેબ	editor	unreviewed							
+292	common	dikra	દીકરા	editor	unreviewed							
+293	common	dikri	દીકરી	editor	unreviewed							
+294	common	chhokra	છોકરા	editor	unreviewed							
+295	common	chhokri	છોકરી	editor	unreviewed							
+296	common	chokra	છોકરા	editor	unreviewed							
+297	common	chokri	છોકરી	editor	unreviewed							
+298	common	manas	માણસ	editor	unreviewed							
+299	common	maanav	માનવ	editor	unreviewed							
+300	common	lok	લોક	editor	unreviewed							
+301	common	loko	લોકો	editor	unreviewed							
+304	common	lagan	લગ્ન	editor	unreviewed							
+305	common	lagna	લગ્ન	editor	unreviewed							
+306	common	vivah	વિવાહ	editor	unreviewed							
+312	common	garba	ગરબા	editor	unreviewed							
+313	common	garbo	ગરબો	editor	unreviewed							
+314	common	dandiya	દાંડિયા	editor	unreviewed							

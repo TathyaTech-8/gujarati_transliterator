@@ -3,6 +3,7 @@ import 'word_dictionary.dart';
 
 part 'lexicon_extended.dart';
 part 'lexicon_growth.dart';
+part 'loanwords.dart';
 
 /// Builds the offline lexicon shipped with the package.
 WordDictionary createBuiltinDictionary() {
@@ -16,6 +17,7 @@ void loadBuiltinLexicon(WordDictionary dictionary) {
   _loadRows(dictionary, _lexicon);
   _loadRows(dictionary, _extendedLexicon);
   _loadRows(dictionary, _growthLexicon);
+  _loadRows(dictionary, _loanLexicon);
   _loadContext(dictionary, _context);
 }
 
@@ -65,6 +67,7 @@ const String _context = '''
 મારો|baap|બાપ|140
 ખૂબ|saru|સારું|80
 બહુ|saru|સારું|80
+ભાઈ|ben|બહેન|420
 ''';
 
 const String _lexicon = '''
@@ -347,6 +350,7 @@ bazaar|બજાર|52
 bhai|ભાઈ|90
 bahen|બહેન|74
 ben|બેન|80
+ben|બહેન|58
 ba|બા|70
 bap|બાપ|60
 baap|બાપ|70

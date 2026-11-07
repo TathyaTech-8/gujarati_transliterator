@@ -1,0 +1,90 @@
+# Batch 05 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1291	sentence	yaad che?	યાદ છે?	editor	unreviewed							
+1292	sentence	bhuli gayo	ભૂલી ગયો	editor	unreviewed							
+1293	sentence	yaad aavi gayu	યાદ આવી ગયું	editor	unreviewed							
+1294	sentence	sambhali lo	સાંભળી લો	editor	unreviewed							
+1295	sentence	joi lo	જોઈ લો	editor	unreviewed							
+1296	sentence	karine aapo	કરીને આપો	editor	unreviewed							
+1297	sentence	lai lo	લઈ લો	editor	unreviewed							
+1298	sentence	mukine jao	મૂકીને જાઓ	editor	unreviewed							
+1299	sentence	beso ne	બેસો ને	editor	unreviewed							
+1300	sentence	jao ne	જાઓ ને	editor	unreviewed							
+1301	sentence	aavo ne	આવો ને	editor	unreviewed							
+1302	sentence	khao ne	ખાઓ ને	editor	unreviewed							
+1303	sentence	piyo ne	પીઓ ને	editor	unreviewed							
+1304	sentence	haso ne	હસો ને	editor	unreviewed							
+1305	sentence	rudo nathi	રડો નથી	editor	unreviewed							
+1306	sentence	ghabrao nathi	ગભરાઓ નથી	editor	unreviewed							
+1307	sentence	sambhalo	સાંભળો	editor	unreviewed							
+1308	sentence	vicharo	વિચારો	editor	unreviewed							
+1309	sentence	nirnay karo	નિર્ણય કરો	editor	unreviewed							
+1310	sentence	raji cho?	રાજી છો?	editor	unreviewed							
+1311	sentence	ha raji chu	હા રાજી છું	editor	unreviewed							
+1312	sentence	na raji nathi	ના રાજી નથી	editor	unreviewed							
+1313	sentence	pachi joiye	પછી જોઈએ	editor	unreviewed							
+1314	sentence	have joiye	હવે જોઈએ	editor	unreviewed							
+1315	sentence	aaje j nathi	આજે જ નથી	editor	unreviewed							
+1316	sentence	kale j	કાલે જ	editor	unreviewed							
+1317	sentence	have j	હવે જ	editor	unreviewed							
+1318	sentence	pachhu aav	પાછા આવ	editor	unreviewed							
+1319	sentence	andar aav	અંદર આવ	editor	unreviewed							
+1320	sentence	bahar ja	બહાર જા	editor	unreviewed							
+1321	sentence	upar ja	ઉપર જા	editor	unreviewed							
+1322	sentence	niche aav	નીચે આવ	editor	unreviewed							
+1323	sentence	saame juo	સામે જુઓ	editor	unreviewed							
+1324	sentence	pachhal juo	પાછળ જુઓ	editor	unreviewed							
+1325	sentence	dabe juo	ડાબે જુઓ	editor	unreviewed							
+1326	sentence	jamne juo	જમણે જુઓ	editor	unreviewed							
+1327	sentence	seedha juo	સીધું જુઓ	editor	unreviewed							
+1328	sentence	dhime dhime	ધીમે ધીમે	editor	unreviewed							
+1329	sentence	ekdam	એકદમ	editor	unreviewed							
+1330	sentence	bilkul	બિલકુલ	editor	unreviewed							
+1331	sentence	jarur	જરૂર	editor	unreviewed							
+1332	sentence	shayad	કદાચ	editor	unreviewed							
+1333	sentence	pakku	પાક્કું	editor	unreviewed							
+1334	sentence	kharekhar	ખરેખર	editor	unreviewed							
+1335	sentence	sachu	સાચું	editor	unreviewed							
+1336	sentence	khotu	ખોટું	editor	unreviewed							
+1337	sentence	saras	સરસ	editor	unreviewed							
+1338	sentence	mast	મસ્ત	editor	unreviewed							
+1339	sentence	bapre	બાપરે	editor	unreviewed							
+1340	sentence	are wah	અરે વાહ	editor	unreviewed							
+1341	sentence	shabash	શાબાશ	editor	unreviewed							
+1367	sentence	roti pani	રોટી પાણી	editor	unreviewed							
+1368	sentence	dal bhat	દાળ ભાત	editor	unreviewed							
+1369	sentence	shaak roti	શાક રોટી	editor	unreviewed							
+1370	sentence	khichdi kadhi	ખીચડી કઢી	editor	unreviewed							
+1371	sentence	dudh roti	દૂધ રોટી	editor	unreviewed							
+1372	sentence	cha nasto	ચા નાસ્તો	editor	unreviewed							
+1373	sentence	mitho bhaat	મીઠો ભાત	editor	unreviewed							
+1374	sentence	tikhu shaak	તીખું શાક	editor	unreviewed							
+1375	sentence	ghar nu khavanu	ઘરનું ખાવાનું	editor	unreviewed							
+1376	sentence	maa na hath nu	મા ના હાથ નું	editor	unreviewed							
+1377	sentence	bhukh lagi che	ભૂખ લાગી છે	editor	unreviewed							
+1378	sentence	taras lagi che	તરસ લાગી છે	editor	unreviewed							
+1379	sentence	pet bhari gayu	પેટ ભરાઈ ગયું	editor	unreviewed							
+1380	sentence	biju nathi joitu	બીજું નથી જોઈતું	editor	unreviewed							
+1381	sentence	bas etlu purtu	બસ એટલું પૂરતું	editor	unreviewed							
+1382	sentence	swad saras che	સ્વાદ સરસ છે	editor	unreviewed							
+1383	sentence	lodhu che	લોઢું છે	editor	unreviewed							
+1384	sentence	mithas ochhi che	મીઠાશ ઓછી છે	editor	unreviewed							
+1385	sentence	namak vadhare che	નમક વધારે છે	editor	unreviewed							
+1386	sentence	tel ochhu nakho	તેલ ઓછું નાખો	editor	unreviewed							
+1387	sentence	masalo ochhu	મસાલો ઓછો	editor	unreviewed							
+1437	sentence	tame mane payment karjo	તમે મને પેમેન્ટ કરજો	sure	unreviewed							
+1439	sentence	shu payment karvanu che	શું પેમેન્ટ કરવાનું છે	sure	unreviewed							
+1441	sentence	tame mane meeting karjo	તમે મને મીટિંગ કરજો	sure	unreviewed							
+1443	sentence	shu meeting karvanu che	શું મીટિંગ કરવાનું છે	sure	unreviewed							
+1445	sentence	tame mane call karjo	તમે મને કોલ કરજો	sure	unreviewed							
+1447	sentence	shu call karvanu che	શું કોલ કરવાનું છે	sure	unreviewed							
+1449	sentence	tame mane project karjo	તમે મને પ્રોજેક્ટ કરજો	sure	unreviewed							
+1451	sentence	shu project karvanu che	શું પ્રોજેક્ટ કરવાનું છે	sure	unreviewed							

@@ -1,0 +1,90 @@
+# Batch 07 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1783	sentence	tame kapda dhoish	તમે કપડાં ધોઈશ	review	unreviewed							
+1785	sentence	tame rasoi karish	તમે રસોઈ કરીશ	review	unreviewed							
+1787	sentence	tame bartan dhosh	તમે બાજુ ધોશ	review	unreviewed							
+1789	sentence	tame jhadu karish	તમે ઝાડુ કરીશ	review	unreviewed							
+1791	sentence	tame bajar jaish	તમે બજાર જઈશ	review	unreviewed							
+1794	sentence	shu hu ready chu	શું હું રેડી છું	review	unreviewed							
+1796	sentence	shu hu free chu	શું હું ફ્રી છું	review	unreviewed							
+1798	sentence	shu hu busy chu	શું હું બિઝી છું	review	unreviewed							
+1800	sentence	shu hu late chu	શું હું લેટ છું	review	unreviewed							
+1802	sentence	shu hu online chu	શું હું ઓનલાઇન છું	review	unreviewed							
+1804	sentence	shu hu thako chu	શું હું થાકું છું	review	unreviewed							
+1806	sentence	kem tame ready cho	કેમ તમે રેડી છો	sure	unreviewed							
+1808	sentence	kem tame free cho	કેમ તમે ફ્રી છો	sure	unreviewed							
+1810	sentence	kem tame busy cho	કેમ તમે બિઝી છો	sure	unreviewed							
+1812	sentence	kem tame late cho	કેમ તમે લેટ છો	sure	unreviewed							
+1814	sentence	kem tame offline cho	કેમ તમે ઓફલાઇન છો	sure	unreviewed							
+1817	sentence	bus aapo	બસ આપો	review	unreviewed							
+1818	sentence	bus kyare che	બસ ક્યારે છે	sure	unreviewed							
+1822	sentence	train aapo	ટ્રેન આપો	review	unreviewed							
+1823	sentence	train kyare che	ટ્રેન ક્યારે છે	sure	unreviewed							
+1827	sentence	car aapo	કાર આપો	review	unreviewed							
+1828	sentence	car kyare che	કાર ક્યારે છે	sure	unreviewed							
+1832	sentence	taxi aapo	ટેક્સી આપો	review	unreviewed							
+1833	sentence	taxi kyare che	ટેક્સી ક્યારે છે	sure	unreviewed							
+1837	sentence	auto aapo	ઓટો આપો	review	unreviewed							
+1838	sentence	auto kyare che	ઓટો ક્યારે છે	sure	unreviewed							
+1842	sentence	flight aapo	ફ્લાઇટ આપો	review	unreviewed							
+1843	sentence	flight kyare che	ફ્લાઇટ ક્યારે છે	sure	unreviewed							
+1846	sentence	pani kyare male	પાણી ક્યારે મળે	sure	unreviewed							
+1849	sentence	chai kyare male	ચા ક્યારે મળે	sure	unreviewed							
+1852	sentence	time aapo	ટાઇમ આપો	sure	unreviewed							
+1853	sentence	time kyare male	ટાઇમ ક્યારે મળે	sure	unreviewed							
+1856	sentence	madad aapo	મદદ આપો	sure	unreviewed							
+1857	sentence	madad kyare male	મદદ ક્યારે મળે	sure	unreviewed							
+1860	sentence	number aapo	નંબર આપો	sure	unreviewed							
+1861	sentence	number kyare male	નંબર ક્યારે મળે	sure	unreviewed							
+1864	sentence	address aapo	એડ્રેસ આપો	sure	unreviewed							
+1865	sentence	address kyare male	એડ્રેસ ક્યારે મળે	sure	unreviewed							
+1868	sentence	ticket aapo	ટિકિટ આપો	sure	unreviewed							
+1869	sentence	ticket kyare male	ટિકિટ ક્યારે મળે	sure	unreviewed							
+1872	sentence	room aapo	રૂમ આપો	sure	unreviewed							
+1873	sentence	room kyare male	રૂમ ક્યારે મળે	sure	unreviewed							
+1876	sentence	key aapo	ચાવી આપો	review	unreviewed							
+1877	sentence	key kyare male	ચાવી ક્યારે મળે	review	unreviewed							
+1880	sentence	bill aapo	બિલ આપો	sure	unreviewed							
+1881	sentence	bill kyare male	બિલ ક્યારે મળે	sure	unreviewed							
+1885	sentence	tame monday free cho	તમે મંડે ફ્રી છો	sure	unreviewed							
+1890	sentence	tame tuesday free cho	તમે ટ્યુસડે ફ્રી છો	sure	unreviewed							
+1895	sentence	tame wednesday free cho	તમે વેડનેસડે ફ્રી છો	sure	unreviewed							
+1900	sentence	tame thursday free cho	તમે થર્સડે ફ્રી છો	sure	unreviewed							
+1905	sentence	tame friday free cho	તમે ફ્રાઇડે ફ્રી છો	sure	unreviewed							
+1910	sentence	tame saturday free cho	તમે સેટર્ડે ફ્રી છો	sure	unreviewed							
+1915	sentence	tame sunday free cho	તમે સન્ડે ફ્રી છો	sure	unreviewed							
+1918	sentence	tame mane aavjo	તમે મને આવજો	sure	unreviewed							
+1919	sentence	tame mane beso	તમે મને બેસો	sure	unreviewed							
+1920	sentence	tame mane jao	તમે મને જાઓ	sure	unreviewed							
+1921	sentence	tame mane raho	તમે મને રહો	sure	unreviewed							
+1922	sentence	tame mane lakho	તમે મને લખો	sure	unreviewed							
+1923	sentence	tame mane vachjo	તમે મને વાંચજો	sure	unreviewed							
+1924	sentence	tame mane sambhaljo	તમે મને સાંભળજો	review	unreviewed							
+1925	sentence	tame mane puchjo	તમે મને પૂછજો	sure	unreviewed							
+1926	sentence	tame tamne aavjo	તમે તમને આવજો	sure	unreviewed							
+1927	sentence	tame tamne beso	તમે તમને બેસો	sure	unreviewed							
+1928	sentence	tame tamne jao	તમે તમને જાઓ	sure	unreviewed							
+1929	sentence	tame tamne raho	તમે તમને રહો	sure	unreviewed							
+1930	sentence	tame tamne lakho	તમે તમને લખો	sure	unreviewed							
+1931	sentence	tame tamne vachjo	તમે તમને વાંચજો	sure	unreviewed							
+1932	sentence	tame tamne sambhaljo	તમે તમને સાંભળજો	review	unreviewed							
+1933	sentence	tame tamne puchjo	તમે તમને પૂછજો	sure	unreviewed							
+1934	sentence	tame bhai ne aavjo	તમે ભાઈ ને આવજો	sure	unreviewed							
+1935	sentence	tame bhai ne beso	તમે ભાઈ ને બેસો	sure	unreviewed							
+1936	sentence	tame bhai ne jao	તમે ભાઈ ને જાઓ	sure	unreviewed							
+1937	sentence	tame bhai ne raho	તમે ભાઈ ને રહો	sure	unreviewed							
+1938	sentence	tame bhai ne lakho	તમે ભાઈ ને લખો	sure	unreviewed							
+1939	sentence	tame bhai ne vachjo	તમે ભાઈ ને વાંચજો	sure	unreviewed							
+1940	sentence	tame bhai ne sambhaljo	તમે ભાઈ ને સાંભળજો	review	unreviewed							
+1941	sentence	tame bhai ne puchjo	તમે ભાઈ ને પૂછજો	sure	unreviewed							
+1942	sentence	tame ben ne aavjo	તમે બહેન ને આવજો	sure	unreviewed							
+1943	sentence	tame ben ne beso	તમે બહેન ને બેસો	sure	unreviewed							
+1944	sentence	tame ben ne jao	તમે બહેન ને જાઓ	sure	unreviewed							

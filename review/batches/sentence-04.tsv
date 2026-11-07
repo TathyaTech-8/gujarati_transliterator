@@ -1,0 +1,90 @@
+# Batch 04 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1134	sentence	ambulance bolav	એમ્બ્યુલન્સ બોલાવ	editor	unreviewed							
+1135	sentence	blood group shu	બ્લડ ગ્રુપ શું	editor	unreviewed							
+1136	sentence	operation theatre	ઓપરેશન થિયેટર	editor	unreviewed							
+1137	sentence	icu ma che	આઇસીયુ માં છે	editor	unreviewed							
+1138	sentence	ventilator par	વેન્ટિલેટર પર	editor	unreviewed							
+1139	sentence	oxygen aapo	ઓક્સિજન આપો	editor	unreviewed							
+1140	sentence	saline chalu	સેલાઇન ચાલુ	editor	unreviewed							
+1141	sentence	discharge aapyo	ડિસ્ચાર્જ આપ્યો	editor	unreviewed							
+1142	sentence	follow up kale	ફોલો અપ કાલે	editor	unreviewed							
+1143	sentence	dressing karavi	ડ્રેસિંગ કરાવી	editor	unreviewed							
+1144	sentence	stitches kadhya	ટાંકા કાઢ્યા	editor	unreviewed							
+1145	sentence	plaster mukyu	પ્લાસ્ટર મૂક્યું	editor	unreviewed							
+1146	sentence	fracture che	ફ્રેક્ચર છે	editor	unreviewed							
+1147	sentence	xray karav	એક્સરે કરાવ	editor	unreviewed							
+1148	sentence	sonography karavi	સોનોગ્રાફી કરાવી	editor	unreviewed							
+1149	sentence	mri report	એમઆરઆઇ રિપોર્ટ	editor	unreviewed							
+1150	sentence	ct scan	સીટી સ્કેન	editor	unreviewed							
+1151	sentence	ecg normal che	ઇસીજી નોર્મલ છે	editor	unreviewed							
+1152	sentence	bp machine	બીપી મશીન	editor	unreviewed							
+1153	sentence	thermometer aapo	થર્મોમીટર આપો	editor	unreviewed							
+1154	sentence	mask pehro	માસ્ક પહેરો	editor	unreviewed							
+1155	sentence	sanitizer lagav	સેનિટાઇઝર લગાવ	editor	unreviewed							
+1156	sentence	haath dho	હાથ ધો	editor	unreviewed							
+1158	sentence	vaccine lidhi	વેક્સિન લીધી	editor	unreviewed							
+1159	sentence	booster dose	બૂસ્ટર ડોઝ	editor	unreviewed							
+1160	sentence	certificate aapo	સર્ટિફિકેટ આપો	editor	unreviewed							
+1161	sentence	stamp lagavo	સ્ટેમ્પ લગાવો	editor	unreviewed							
+1162	sentence	sign karo	સાઇન કરો	editor	unreviewed							
+1163	sentence	photo chipkavo	ફોટો ચોંટાડો	editor	unreviewed							
+1164	sentence	form submit karyu	ફોર્મ સબમિટ કર્યું	editor	unreviewed							
+1165	sentence	receipt aapo	રસીદ આપો	editor	unreviewed							
+1166	sentence	token number	ટોકન નંબર	editor	unreviewed							
+1167	sentence	counter teen	કાઉન્ટર ત્રણ	editor	unreviewed							
+1168	sentence	line ma ubha	લાઇન માં ઊભા	editor	unreviewed							
+1170	sentence	aaje bandh	આજે બંધ	editor	unreviewed							
+1171	sentence	kale khula	કાલે ખુલ્લું	editor	unreviewed							
+1172	sentence	subah 10 thi	સવારે 10 થી	editor	unreviewed							
+1173	sentence	sandhya 6 sudhi	સાંજે 6 સુધી	editor	unreviewed							
+1195	sentence	gujarati aavde che	ગુજરાતી આવડે છે	editor	unreviewed							
+1196	sentence	hindi pan aavde	હિન્દી પણ આવડે	editor	unreviewed							
+1200	sentence	cooking aavde che	કુકિંગ આવડે છે	editor	unreviewed							
+1203	sentence	cricket aavde che	ક્રિકેટ આવડે છે	editor	unreviewed							
+1204	sentence	chess ramie	ચેસ રમીએ	editor	unreviewed							
+1205	sentence	carrom ramie	કેરમ રમીએ	editor	unreviewed							
+1206	sentence	antakshari ramie	અંતાક્ષરી રમીએ	editor	unreviewed							
+1207	sentence	joke sunavo	જોક સંભળાવો	editor	unreviewed							
+1210	sentence	film joie	ફિલ્મ જોઈએ	editor	unreviewed							
+1213	sentence	radio lagavo	રેડિયો લગાવો	editor	unreviewed							
+1214	sentence	tv bandh karo	ટીવી બંધ કરો	editor	unreviewed							
+1215	sentence	news jo	સમાચાર જુઓ	editor	unreviewed							
+1216	sentence	cricket score shu	ક્રિકેટ સ્કોર શું	editor	unreviewed							
+1217	sentence	match jeetya	મેચ જીત્યા	editor	unreviewed							
+1218	sentence	team haar gayi	ટીમ હાર ગઈ	editor	unreviewed							
+1219	sentence	goal thayo	ગોલ થયો	editor	unreviewed							
+1220	sentence	wicket padi	વિકેટ પડી	editor	unreviewed							
+1221	sentence	sixer maryo	સિક્સર માર્યો	editor	unreviewed							
+1222	sentence	umpire no nirnay	અમ્પાયર નો નિર્ણય	editor	unreviewed							
+1223	sentence	stadium bharayo	સ્ટેડિયમ ભરાયો	editor	unreviewed							
+1224	sentence	ticket nathi malyu	ટિકિટ નથી મળ્યું	editor	unreviewed							
+1225	sentence	live match jo	લાઇવ મેચ જુઓ	editor	unreviewed							
+1226	sentence	highlights moklo	હાઇલાઇટ્સ મોકલો	editor	unreviewed							
+1268	sentence	rasta batavo	રસ્તો બતાવો	editor	unreviewed							
+1269	sentence	traffic che	ટ્રાફિક છે	editor	unreviewed							
+1270	sentence	shortcut le	શોર્ટકટ લે	editor	unreviewed							
+1271	sentence	ghar pohchi gayo	ઘર પહોંચી ગયો	editor	unreviewed							
+1273	sentence	khush rahiye	ખુશ રહીએ	editor	unreviewed							
+1274	sentence	milie pachi	મળીએ પછી	editor	unreviewed							
+1275	sentence	ram ram	રામ રામ	editor	unreviewed							
+1279	sentence	aavjo bhai	આવજો ભાઈ	editor	unreviewed							
+1280	sentence	aavjo ben	આવજો બેન	editor	unreviewed							
+1281	sentence	saru chhe	સારું છે	editor	unreviewed							
+1282	sentence	biju kai nathi	બીજું કાંઈ નથી	editor	unreviewed							
+1283	sentence	etle shu	એટલે શું	editor	unreviewed							
+1284	sentence	samjyu?	સમજ્યું?	editor	unreviewed							
+1285	sentence	ha samjyu	હા સમજ્યું	editor	unreviewed							
+1286	sentence	fari kaho	ફરી કહો	editor	unreviewed							
+1287	sentence	dhime bolo	ધીમે બોલો	editor	unreviewed							
+1288	sentence	motu bolo	મોટેથી બોલો	editor	unreviewed							
+1289	sentence	lakhine aapo	લખીને આપો	editor	unreviewed							
+1290	sentence	vachi ne kaho	વાંચીને કહો	editor	unreviewed							

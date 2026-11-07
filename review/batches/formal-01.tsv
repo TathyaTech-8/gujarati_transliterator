@@ -1,0 +1,33 @@
+# Batch 01 of formal. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1681	formal	aapne vinanti che	આપને વિનંતી છે	review	unreviewed							
+1682	formal	krupa kari jojo	કૃપા કરી જોજો	review	unreviewed							
+1683	formal	aavedan manjur karjo	આવેદન મંજૂર કરજો	review	unreviewed							
+1684	formal	suchna vachjo	સૂચના વાંચજો	sure	unreviewed							
+1685	formal	aadesh palvu	આદેશ પાળવું	review	unreviewed							
+1686	formal	sabha kale che	સભા કાલે છે	sure	unreviewed							
+1687	formal	pratibhav aapo	પ્રતિભાવ આપો	review	unreviewed							
+1688	formal	ahval mokli aapo	અહેવાલ મોકલી આપો	review	unreviewed							
+1689	formal	manyata aapjo	માન્યતા આપજો	sure	unreviewed							
+1690	formal	lekhan sampurn karyu	લેખન સંપૂર્ણ કર્યું	review	unreviewed							
+1691	formal	niyam palvanu che	નિયમ પાળવાનું છે	review	unreviewed							
+1692	formal	karyalay khullu che	કાર્યાલય ખુલ્લું છે	review	unreviewed							
+1693	formal	prashna puchjo	પ્રશ્ન પૂછજો	sure	unreviewed							
+1694	formal	uttar aapo	ઉત્તર આપો	sure	unreviewed							
+1695	formal	vivechan karjo	વિવેચન કરજો	review	unreviewed							
+2361	formal	ahval	અહેવાલ	editor	unreviewed							
+2362	formal	palvanu	પાળવાનું	editor	unreviewed							
+2363	formal	vyavastha	વ્યવસ્થા	editor	unreviewed							
+2364	formal	javabdari	જવાબદારી	editor	unreviewed							
+2365	formal	karyakram	કાર્યક્રમ	editor	unreviewed							
+2366	formal	suchna	સૂચના	editor	unreviewed							
+2367	formal	arji	અરજી	editor	unreviewed							
+2368	formal	mahiti	માહિતી	editor	unreviewed							

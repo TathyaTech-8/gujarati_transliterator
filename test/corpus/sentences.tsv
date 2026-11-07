@@ -1,0 +1,1034 @@
+# split	roman	gujarati	note	certainty
+# Editor-written Roman Gujarati sentences for v1.4.0.
+# Expected spellings were not exported from the lexicon and were not produced by the engine.
+# Rows marked review need an independent native-speaker check. No such panel has reviewed this file.
+everyday	hu ghar ma chu	હું ઘર માં છું	everyday	sure
+everyday	tame ghar ma cho	તમે ઘર માં છો	everyday	sure
+everyday	te ghar ma che	તે ઘર માં છે	everyday	sure
+everyday	mare ghar ma javanu che	મારે ઘર માં જવાનું છે	everyday	sure
+everyday	hu office ma chu	હું ઓફિસ માં છું	everyday	sure
+everyday	tame office ma cho	તમે ઓફિસ માં છો	everyday	sure
+everyday	te office ma che	તે ઓફિસ માં છે	everyday	sure
+everyday	mare office ma javanu che	મારે ઓફિસ માં જવાનું છે	everyday	sure
+everyday	hu school ma chu	હું સ્કૂલ માં છું	everyday	sure
+everyday	tame school ma cho	તમે સ્કૂલ માં છો	everyday	sure
+everyday	te school ma che	તે સ્કૂલ માં છે	everyday	sure
+everyday	mare school ma javanu che	મારે સ્કૂલ માં જવાનું છે	everyday	sure
+everyday	hu college ma chu	હું કોલેજ માં છું	everyday	sure
+everyday	tame college ma cho	તમે કોલેજ માં છો	everyday	sure
+everyday	te college ma che	તે કોલેજ માં છે	everyday	sure
+everyday	mare college ma javanu che	મારે કોલેજ માં જવાનું છે	everyday	sure
+everyday	hu hospital ma chu	હું હોસ્પિટલ માં છું	everyday	sure
+everyday	tame hospital ma cho	તમે હોસ્પિટલ માં છો	everyday	sure
+everyday	te hospital ma che	તે હોસ્પિટલ માં છે	everyday	sure
+everyday	mare hospital ma javanu che	મારે હોસ્પિટલ માં જવાનું છે	everyday	sure
+everyday	hu market ma chu	હું માર્કેટ માં છું	everyday	sure
+everyday	tame market ma cho	તમે માર્કેટ માં છો	everyday	sure
+everyday	te market ma che	તે માર્કેટ માં છે	everyday	sure
+everyday	mare market ma javanu che	મારે માર્કેટ માં જવાનું છે	everyday	sure
+everyday	hu bank ma chu	હું બેંક માં છું	everyday	sure
+everyday	tame bank ma cho	તમે બેંક માં છો	everyday	sure
+everyday	te bank ma che	તે બેંક માં છે	everyday	sure
+everyday	mare bank ma javanu che	મારે બેંક માં જવાનું છે	everyday	sure
+everyday	hu hotel ma chu	હું હોટલ માં છું	everyday	sure
+everyday	tame hotel ma cho	તમે હોટલ માં છો	everyday	sure
+everyday	te hotel ma che	તે હોટલ માં છે	everyday	sure
+everyday	mare hotel ma javanu che	મારે હોટલ માં જવાનું છે	everyday	sure
+everyday	hu shop ma chu	હું શોપ માં છું	everyday	sure
+everyday	tame shop ma cho	તમે શોપ માં છો	everyday	sure
+everyday	te shop ma che	તે શોપ માં છે	everyday	sure
+everyday	mare shop ma javanu che	મારે શોપ માં જવાનું છે	everyday	sure
+everyday	hu station ma chu	હું સ્ટેશન માં છું	everyday	sure
+everyday	tame station ma cho	તમે સ્ટેશન માં છો	everyday	sure
+everyday	te station ma che	તે સ્ટેશન માં છે	everyday	sure
+everyday	mare station ma javanu che	મારે સ્ટેશન માં જવાનું છે	everyday	sure
+everyday	hu room ma chu	હું રૂમ માં છું	everyday	sure
+everyday	tame room ma cho	તમે રૂમ માં છો	everyday	sure
+everyday	te room ma che	તે રૂમ માં છે	everyday	sure
+everyday	mare room ma javanu che	મારે રૂમ માં જવાનું છે	everyday	sure
+everyday	hu class ma chu	હું ક્લાસ માં છું	everyday	sure
+everyday	tame class ma cho	તમે ક્લાસ માં છો	everyday	sure
+everyday	te class ma che	તે ક્લાસ માં છે	everyday	sure
+everyday	mare class ma javanu che	મારે ક્લાસ માં જવાનું છે	everyday	sure
+office	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	office	sure
+command	tame mane payment karjo	તમે મને પેમેન્ટ કરજો	command	sure
+office	hu payment kari didhu	હું પેમેન્ટ કરી દીધું	office	sure
+question	shu payment karvanu che	શું પેમેન્ટ કરવાનું છે	question	sure
+office	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	office	sure
+command	tame mane meeting karjo	તમે મને મીટિંગ કરજો	command	sure
+office	hu meeting kari didhu	હું મીટિંગ કરી દીધું	office	sure
+question	shu meeting karvanu che	શું મીટિંગ કરવાનું છે	question	sure
+office	aaje call karvanu che	આજે કોલ કરવાનું છે	office	sure
+command	tame mane call karjo	તમે મને કોલ કરજો	command	sure
+office	hu call kari didhu	હું કોલ કરી દીધું	office	sure
+question	shu call karvanu che	શું કોલ કરવાનું છે	question	sure
+office	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	office	sure
+command	tame mane project karjo	તમે મને પ્રોજેક્ટ કરજો	command	sure
+office	hu project kari didhu	હું પ્રોજેક્ટ કરી દીધું	office	sure
+question	shu project karvanu che	શું પ્રોજેક્ટ કરવાનું છે	question	sure
+office	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	office	sure
+command	tame mane report karjo	તમે મને રિપોર્ટ કરજો	command	sure
+office	hu report kari didhu	હું રિપોર્ટ કરી દીધું	office	sure
+question	shu report karvanu che	શું રિપોર્ટ કરવાનું છે	question	sure
+office	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	office	sure
+command	tame mane order karjo	તમે મને ઓર્ડર કરજો	command	sure
+office	hu order kari didhu	હું ઓર્ડર કરી દીધું	office	sure
+question	shu order karvanu che	શું ઓર્ડર કરવાનું છે	question	sure
+office	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	office	sure
+command	tame mane plan karjo	તમે મને પ્લાન કરજો	command	sure
+office	hu plan kari didhu	હું પ્લાન કરી દીધું	office	sure
+question	shu plan karvanu che	શું પ્લાન કરવાનું છે	question	sure
+office	aaje update karvanu che	આજે અપડેટ કરવાનું છે	office	sure
+command	tame mane update karjo	તમે મને અપડેટ કરજો	command	sure
+office	hu update kari didhu	હું અપડેટ કરી દીધું	office	sure
+question	shu update karvanu che	શું અપડેટ કરવાનું છે	question	sure
+office	aaje check karvanu che	આજે ચેક કરવાનું છે	office	sure
+command	tame mane check karjo	તમે મને ચેક કરજો	command	sure
+office	hu check kari didhu	હું ચેક કરી દીધું	office	sure
+question	shu check karvanu che	શું ચેક કરવાનું છે	question	sure
+office	aaje kaam karvanu che	આજે કામ કરવાનું છે	office	sure
+command	tame mane kaam karjo	તમે મને કામ કરજો	command	sure
+office	hu kaam kari didhu	હું કામ કરી દીધું	office	sure
+question	shu kaam karvanu che	શું કામ કરવાનું છે	question	sure
+command	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	command	sure
+office	hu document moklu chu	હું ડોક્યુમેન્ટ મોકલું છું	office	sure
+mixed	tamaro document mali gayo	તમારો ડોક્યુમેન્ટ મળી ગયો	mixed	sure
+office	please document moklo	પ્લીઝ ડોક્યુમેન્ટ મોકલો	office	sure
+command	aa file mokli aapjo	આ ફાઇલ મોકલી આપજો	command	sure
+office	hu file moklu chu	હું ફાઇલ મોકલું છું	office	sure
+mixed	tamaro file mali gayo	તમારો ફાઇલ મળી ગયો	mixed	sure
+office	please file moklo	પ્લીઝ ફાઇલ મોકલો	office	sure
+command	aa photo mokli aapjo	આ ફોટો મોકલી આપજો	command	sure
+office	hu photo moklu chu	હું ફોટો મોકલું છું	office	sure
+mixed	tamaro photo mali gayo	તમારો ફોટો મળી ગયો	mixed	sure
+office	please photo moklo	પ્લીઝ ફોટો મોકલો	office	sure
+command	aa report mokli aapjo	આ રિપોર્ટ મોકલી આપજો	command	sure
+office	hu report moklu chu	હું રિપોર્ટ મોકલું છું	office	sure
+mixed	tamaro report mali gayo	તમારો રિપોર્ટ મળી ગયો	mixed	sure
+office	please report moklo	પ્લીઝ રિપોર્ટ મોકલો	office	sure
+command	aa message mokli aapjo	આ મેસેજ મોકલી આપજો	command	sure
+office	hu message moklu chu	હું મેસેજ મોકલું છું	office	sure
+mixed	tamaro message mali gayo	તમારો મેસેજ મળી ગયો	mixed	sure
+office	please message moklo	પ્લીઝ મેસેજ મોકલો	office	sure
+command	aa email mokli aapjo	આ ઈમેલ મોકલી આપજો	command	sure
+office	hu email moklu chu	હું ઈમેલ મોકલું છું	office	sure
+mixed	tamaro email mali gayo	તમારો ઈમેલ મળી ગયો	mixed	sure
+office	please email moklo	પ્લીઝ ઈમેલ મોકલો	office	sure
+command	aa list mokli aapjo	આ લિસ્ટ મોકલી આપજો	command	sure
+office	hu list moklu chu	હું લિસ્ટ મોકલું છું	office	sure
+mixed	tamaro list mali gayo	તમારો લિસ્ટ મળી ગયો	mixed	sure
+office	please list moklo	પ્લીઝ લિસ્ટ મોકલો	office	sure
+command	aa form mokli aapjo	આ ફોર્મ મોકલી આપજો	command	sure
+office	hu form moklu chu	હું ફોર્મ મોકલું છું	office	sure
+mixed	tamaro form mali gayo	તમારો ફોર્મ મળી ગયો	mixed	sure
+office	please form moklo	પ્લીઝ ફોર્મ મોકલો	office	sure
+command	aa copy mokli aapjo	આ કોપી મોકલી આપજો	command	sure
+office	hu copy moklu chu	હું કોપી મોકલું છું	office	sure
+mixed	tamaro copy mali gayo	તમારો કોપી મળી ગયો	mixed	sure
+office	please copy moklo	પ્લીઝ કોપી મોકલો	office	sure
+command	aa invoice mokli aapjo	આ ઇન્વોઇસ મોકલી આપજો	command	sure
+office	hu invoice moklu chu	હું ઇન્વોઇસ મોકલું છું	office	sure
+mixed	tamaro invoice mali gayo	તમારો ઇન્વોઇસ મળી ગયો	mixed	sure
+office	please invoice moklo	પ્લીઝ ઇન્વોઇસ મોકલો	office	sure
+family	mane chai joiye	મને ચા જોઈએ	family	sure
+everyday	tame chai leso	તમે ચા લેશો	everyday	sure
+command	chai aapo	ચા આપો	command	sure
+family	mane pani joiye	મને પાણી જોઈએ	family	sure
+everyday	tame pani leso	તમે પાણી લેશો	everyday	sure
+command	pani aapo	પાણી આપો	command	sure
+family	mane roti joiye	મને રોટી જોઈએ	family	sure
+everyday	tame roti leso	તમે રોટી લેશો	everyday	sure
+command	roti aapo	રોટી આપો	command	sure
+family	mane dal joiye	મને દાળ જોઈએ	family	sure
+everyday	tame dal leso	તમે દાળ લેશો	everyday	sure
+command	dal aapo	દાળ આપો	command	sure
+family	mane bhat joiye	મને ભાત જોઈએ	family	sure
+everyday	tame bhat leso	તમે ભાત લેશો	everyday	sure
+command	bhat aapo	ભાત આપો	command	sure
+family	mane shaak joiye	મને શાક જોઈએ	family	sure
+everyday	tame shaak leso	તમે શાક લેશો	everyday	sure
+command	shaak aapo	શાક આપો	command	sure
+family	mane doodh joiye	મને દૂધ જોઈએ	family	sure
+everyday	tame doodh leso	તમે દૂધ લેશો	everyday	sure
+command	doodh aapo	દૂધ આપો	command	sure
+family	mane coffee joiye	મને કોફી જોઈએ	family	review
+everyday	tame coffee leso	તમે કોફી લેશો	everyday	review
+command	coffee aapo	કોફી આપો	command	review
+family	mari maa ghar ma che	મારી મા ઘર માં છે	family	sure
+family	tamaro maa kyare aavshe	તમારો મા ક્યારે આવશે	family	sure
+question	maa kem nathi aavya	મા કેમ નથી આવ્યા	question	sure
+family	mari bhai ghar ma che	મારી ભાઈ ઘર માં છે	family	sure
+family	tamaro bhai kyare aavshe	તમારો ભાઈ ક્યારે આવશે	family	sure
+question	bhai kem nathi aavya	ભાઈ કેમ નથી આવ્યા	question	sure
+family	mari ben ghar ma che	મારી બહેન ઘર માં છે	family	sure
+family	tamaro ben kyare aavshe	તમારો બહેન ક્યારે આવશે	family	sure
+question	ben kem nathi aavya	બહેન કેમ નથી આવ્યા	question	sure
+family	mari papa ghar ma che	મારી પપ્પા ઘર માં છે	family	sure
+family	tamaro papa kyare aavshe	તમારો પપ્પા ક્યારે આવશે	family	sure
+question	papa kem nathi aavya	પપ્પા કેમ નથી આવ્યા	question	sure
+family	mari dada ghar ma che	મારી દાદા ઘર માં છે	family	sure
+family	tamaro dada kyare aavshe	તમારો દાદા ક્યારે આવશે	family	sure
+question	dada kem nathi aavya	દાદા કેમ નથી આવ્યા	question	sure
+family	mari dadi ghar ma che	મારી દાદી ઘર માં છે	family	sure
+family	tamaro dadi kyare aavshe	તમારો દાદી ક્યારે આવશે	family	sure
+question	dadi kem nathi aavya	દાદી કેમ નથી આવ્યા	question	sure
+family	mari kaka ghar ma che	મારી કાકા ઘર માં છે	family	sure
+family	tamaro kaka kyare aavshe	તમારો કાકા ક્યારે આવશે	family	sure
+question	kaka kem nathi aavya	કાકા કેમ નથી આવ્યા	question	sure
+family	mari mami ghar ma che	મારી મામી ઘર માં છે	family	sure
+family	tamaro mami kyare aavshe	તમારો મામી ક્યારે આવશે	family	sure
+question	mami kem nathi aavya	મામી કેમ નથી આવ્યા	question	sure
+proper	hu amdavad ma chu	હું અમદાવાદ માં છું	proper	sure
+proper	tame amdavad kyare javana cho	તમે અમદાવાદ ક્યારે જવાના છો	proper	review
+everyday	gaadi amdavad jaay che	ગાડી અમદાવાદ જાય છે	everyday	review
+proper	hu surat ma chu	હું સુરત માં છું	proper	sure
+proper	tame surat kyare javana cho	તમે સુરત ક્યારે જવાના છો	proper	review
+everyday	gaadi surat jaay che	ગાડી સુરત જાય છે	everyday	review
+proper	hu rajkot ma chu	હું રાજકોટ માં છું	proper	sure
+proper	tame rajkot kyare javana cho	તમે રાજકોટ ક્યારે જવાના છો	proper	review
+everyday	gaadi rajkot jaay che	ગાડી રાજકોટ જાય છે	everyday	review
+proper	hu vadodara ma chu	હું વડોદરા માં છું	proper	sure
+proper	tame vadodara kyare javana cho	તમે વડોદરા ક્યારે જવાના છો	proper	review
+everyday	gaadi vadodara jaay che	ગાડી વડોદરા જાય છે	everyday	review
+proper	hu bhavnagar ma chu	હું ભાવનગર માં છું	proper	sure
+proper	tame bhavnagar kyare javana cho	તમે ભાવનગર ક્યારે જવાના છો	proper	review
+everyday	gaadi bhavnagar jaay che	ગાડી ભાવનગર જાય છે	everyday	review
+proper	hu junagadh ma chu	હું જૂનાગઢ માં છું	proper	sure
+proper	tame junagadh kyare javana cho	તમે જૂનાગઢ ક્યારે જવાના છો	proper	review
+everyday	gaadi junagadh jaay che	ગાડી જૂનાગઢ જાય છે	everyday	review
+proper	hu gandhinagar ma chu	હું ગાંધીનગર માં છું	proper	sure
+proper	tame gandhinagar kyare javana cho	તમે ગાંધીનગર ક્યારે જવાના છો	proper	review
+everyday	gaadi gandhinagar jaay che	ગાડી ગાંધીનગર જાય છે	everyday	review
+proper	hu bhuj ma chu	હું ભુજ માં છું	proper	sure
+proper	tame bhuj kyare javana cho	તમે ભુજ ક્યારે જવાના છો	proper	review
+everyday	gaadi bhuj jaay che	ગાડી ભુજ જાય છે	everyday	review
+question	tame kem cho	તમે કેમ છો	question	sure
+question	tame kyare aavsho	તમે ક્યારે આવશો	question	sure
+question	hu shu karu	હું શું કરું	question	sure
+question	aa shu che	આ શું છે	question	sure
+question	e kya che	એ ક્યાં છે	question	sure
+question	tame kya cho	તમે ક્યાં છો	question	sure
+question	paani kevu che	પાણી કેવું છે	question	sure
+question	chai kevi che	ચા કેવી છે	question	sure
+question	tame rite samjya	તમે રીતે સમજ્યા	question	review
+question	hu have aavu	હું હવે આવું	question	sure
+question	tame aavya ke nahi	તમે આવ્યા કે નહીં	question	sure
+question	phone kyare karsho	ફોન ક્યારે કરશો	question	sure
+question	message malyo ke nahi	મેસેજ મળ્યો કે નહીં	question	sure
+question	office khuli che	ઓફિસ ખુલી છે	question	review
+question	meeting ketli vage che	મીટિંગ કેટલી વાગે છે	question	sure
+command	jaldi aavjo	જલ્દી આવજો	command	sure
+command	please beso	પ્લીઝ બેસો	command	sure
+command	darvajo kholo	દરવાજો ખોલો	command	sure
+command	pani aapo	પાણી આપો	command	sure
+command	light bandh karo	લાઇટ બંધ કરો	command	sure
+command	fan chaloo karo	ફેન ચાલુ કરો	command	review
+command	file save karo	ફાઇલ સેવ કરો	command	sure
+command	photo moklo	ફોટો મોકલો	command	sure
+command	call karjo	કોલ કરજો	command	sure
+command	message vachjo	મેસેજ વાંચજો	command	sure
+command	report lakho	રિપોર્ટ લખો	command	sure
+command	please madad karo	પ્લીઝ મદદ કરો	command	sure
+command	aa form bharjo	આ ફોર્મ ભરજો	command	sure
+command	copy kari aapo	કોપી કરી આપો	command	sure
+command	print kari aapo	પ્રિન્ટ કરી આપો	command	sure
+everyday	aaje bahu saru che	આજે બહુ સારું છે	everyday	sure
+everyday	have ghar javu che	હવે ઘર જવું છે	everyday	sure
+everyday	hu thaki gayo chu	હું થાકી ગયો છું	everyday	review
+everyday	mari tabiyat saru nathi	મારી તબિયત સારી નથી	everyday	sure
+everyday	tame jem karjo	તમે જમ કરજો	everyday	review
+everyday	baju ma beso	બાજુ માં બેસો	everyday	review
+everyday	bahar varsad che	બહાર વરસાદ છે	everyday	sure
+everyday	andar thandak che	અંદર ઠંડક છે	everyday	review
+everyday	hu sau ne kahi didhu	હું સૌ ને કહી દીધું	everyday	sure
+everyday	ame saathe jaishu	અમે સાથે જઈશું	everyday	sure
+everyday	tame pan aavjo	તમે પણ આવજો	everyday	sure
+everyday	have nathi thatu	હવે નથી થતું	everyday	sure
+everyday	pachi vaat karishu	પછી વાત કરીશું	everyday	sure
+everyday	hu ghar thi kaam karu chu	હું ઘર થી કામ કરું છું	everyday	sure
+everyday	aapde kale vaat karishu	આપણે કાલે વાત કરીશું	everyday	sure
+everyday	raat e jova javanu che	રાત એ જોવા જવાનું છે	everyday	review
+everyday	savare jaldi utishu	સવારે જલ્દી ઊઠીશું	everyday	review
+everyday	bachcha ramva gayela	બચ્ચા રમવા ગયેલા	everyday	review
+everyday	maa rasoi ma che	મા રસોઈ માં છે	everyday	sure
+everyday	papa office thi aavshe	પપ્પા ઓફિસ થી આવશે	everyday	sure
+family	bhai school gayo	ભાઈ સ્કૂલ ગયો	family	sure
+family	ben college ma che	બહેન કોલેજ માં છે	family	sure
+family	dada katha kahe che	દાદા કથા કહે છે	family	sure
+family	dadi roti banave che	દાદી રોટી બનાવે છે	family	sure
+family	kaka phone karjo	કાકા ફોન કરજો	family	sure
+family	mami message moklo	મામી મેસેજ મોકલો	family	sure
+family	amne ghar jaanu che	અમને ઘર જવાનું છે	family	review
+family	tamne chai piye che	તમને ચા પીએ છે	family	review
+family	mari maa dakav jo	મારી મા ડાકવ જો	family	review
+family	papa ne kahi do	પપ્પા ને કહી દો	family	sure
+family	bhai ne call karjo	ભાઈ ને કોલ કરજો	family	sure
+family	ben photo moklse	બહેન ફોટો મોકલશે	family	sure
+family	ame raat e jamvana chhiye	અમે રાત એ જમવાના છીએ	family	review
+family	tame savare aavjo	તમે સવારે આવજો	family	sure
+family	hu have nikhdyo chu	હું હવે નીકળ્યો છું	family	review
+office	hu office ma chu	હું ઓફિસ માં છું	office	sure
+office	mare meeting ma javanu che	મારે મીટિંગ માં જવાનું છે	office	sure
+office	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	office	sure
+office	tame mane call karjo	તમે મને કોલ કરજો	office	sure
+office	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	office	sure
+office	tamaro message mali gayo	તમારો મેસેજ મળી ગયો	office	sure
+office	meeting link moklo	મીટિંગ લિંક મોકલો	office	sure
+office	hu online chu	હું ઓનલાઇન છું	office	sure
+office	tame offline cho	તમે ઓફલાઇન છો	office	sure
+office	screen share karo	સ્ક્રીન શેર કરો	office	sure
+office	camera bandh karo	કેમેરા બંધ કરો	office	sure
+office	mic on karo	માઇક ઓન કરો	office	sure
+office	file mokli	ફાઇલ મોકલી	office	sure
+office	password bhuli gayo	પાસવર્ડ ભૂલી ગયો	office	sure
+office	login nathi thatu	લોગિન નથી થતું	office	sure
+office	server down che	સર્વર ડાઉન છે	office	sure
+office	update aavi gayu	અપડેટ આવી ગયું	office	sure
+office	download thai gayu	ડાઉનલોડ થઈ ગયું	office	sure
+office	please report check karo	પ્લીઝ રિપોર્ટ ચેક કરો	office	sure
+office	client ne mail karjo	ક્લાયન્ટ ને મેલ કરજો	office	review
+office	manager office ma che	મેનેજર ઓફિસ માં છે	office	sure
+office	salary account ma aavi	સેલરી એકાઉન્ટ માં આવી	office	sure
+office	project deadline kale che	પ્રોજેક્ટ ડેડલાઇન કાલે છે	office	sure
+office	hu leave par chu	હું લીવ પર છું	office	sure
+office	aaje holiday che	આજે હોલિડે છે	office	sure
+office	team meeting pachi che	ટીમ મીટિંગ પછી છે	office	sure
+office	hu late chu	હું લેટ છું	office	sure
+office	sorry hu late chu	સોરી હું લેટ છું	office	sure
+office	ok hu aavu chu	ઓકે હું આવું છું	office	sure
+office	please madad karo	પ્લીઝ મદદ કરો	office	sure
+office	wifi nathi chaltu	વાઇફાઇ નથી ચાલતું	office	sure
+office	battery gayi	બેટરી ગઈ	office	sure
+office	charger aapo	ચાર્જર આપો	office	sure
+office	laptop bandh che	લેપટોપ બંધ છે	office	sure
+office	email id shu che	ઈમેલ આઈડી શું છે	office	sure
+office	mobile number aapo	મોબાઈલ નંબર આપો	office	sure
+office	hu verify kari didhu	હું વેરિફાય કરી દીધું	office	sure
+office	status pending che	સ્ટેટસ પેન્ડિંગ છે	office	sure
+office	invoice print karo	ઇન્વોઇસ પ્રિન્ટ કરો	office	sure
+office	customer ne call karjo	કસ્ટમર ને કોલ કરજો	office	sure
+business	order confirm karo	ઓર્ડર કન્ફર્મ કરો	business	sure
+business	payment pending che	પેમેન્ટ પેન્ડિંગ છે	business	sure
+business	discount aapo	ડિસ્કાઉન્ટ આપો	business	sure
+business	price shu che	પ્રાઇસ શું છે	business	sure
+business	bill print karo	બિલ પ્રિન્ટ કરો	business	sure
+business	cash ke card	કેશ કે કાર્ડ	business	sure
+business	delivery late che	ડિલિવરી લેટ છે	business	sure
+business	parcel aavyo	પાર્સલ આવ્યો	business	sure
+business	return karvanu che	રિટર્ન કરવાનું છે	business	sure
+business	warranty check karo	વોરંટી ચેક કરો	business	review
+business	gst bill joiye	જીએસટી બિલ જોઈએ	business	sure
+business	account balance shu che	એકાઉન્ટ બેલેન્સ શું છે	business	sure
+business	transfer kari didhu	ટ્રાન્સફર કરી દીધું	business	sure
+business	refund aavse	રિફંડ આવશે	business	review
+business	customer wait kare che	કસ્ટમર વેઇટ કરે છે	business	review
+business	shop bandh che	શોપ બંધ છે	business	sure
+business	market ma bhiad che	માર્કેટ માં ભીડ છે	business	review
+business	navo order aavyo	નવો ઓર્ડર આવ્યો	business	sure
+business	stock khatam che	સ્ટોક ખતમ છે	business	review
+business	invoice email karjo	ઇન્વોઇસ ઈમેલ કરજો	business	sure
+formal	aapne vinanti che	આપને વિનંતી છે	formal	review
+formal	krupa kari jojo	કૃપા કરી જોજો	formal	review
+formal	aavedan manjur karjo	આવેદન મંજૂર કરજો	formal	review
+formal	suchna vachjo	સૂચના વાંચજો	formal	sure
+formal	aadesh palvu	આદેશ પાળવું	formal	review
+formal	sabha kale che	સભા કાલે છે	formal	sure
+formal	pratibhav aapo	પ્રતિભાવ આપો	formal	review
+formal	ahval mokli aapo	અહેવાલ મોકલી આપો	formal	review
+formal	manyata aapjo	માન્યતા આપજો	formal	sure
+formal	lekhan sampurn karyu	લેખન સંપૂર્ણ કર્યું	formal	review
+formal	niyam palvanu che	નિયમ પાળવાનું છે	formal	review
+formal	karyalay khullu che	કાર્યાલય ખુલ્લું છે	formal	review
+formal	prashna puchjo	પ્રશ્ન પૂછજો	formal	sure
+formal	uttar aapo	ઉત્તર આપો	formal	sure
+formal	vivechan karjo	વિવેચન કરજો	formal	review
+informal	hu gujarati bolu chu	હું ગુજરાતી બોલું છું	informal	sure
+informal	aaje bahu saru che	આજે બહુ સારું છે	informal	sure
+informal	mare ghar javu che	મારે ઘર જવું છે	informal	sure
+informal	tame kem cho	તમે કેમ છો	informal	sure
+informal	aapnu gujarat	આપણું ગુજરાત	informal	sure
+informal	chal have nikalie	ચાલ હવે નીકળીએ	informal	review
+informal	bas kar have	બસ કર હવે	informal	sure
+informal	shu thai gayu	શું થઈ ગયું	informal	sure
+informal	mane nathi khabar	મને નથી ખબર	informal	sure
+informal	tame maja ma cho	તમે મજા માં છો	informal	sure
+informal	hu free chu	હું ફ્રી છું	informal	sure
+informal	tame busy cho	તમે બિઝી છો	informal	sure
+informal	have aavish	હવે આવીશ	informal	sure
+informal	pachi milishu	પછી મળીશું	informal	review
+informal	saru lage che	સારું લાગે છે	informal	sure
+informal	ochhu bol	ઓછું બોલ	informal	sure
+informal	vadharo mat	વધારો મત	informal	review
+informal	male che	મળે છે	informal	sure
+informal	nathi maltu	નથી મળતું	informal	sure
+informal	chaltu nathi	ચાલતું નથી	informal	sure
+mixed	hello kem cho	હેલો કેમ છો	mixed	sure
+mixed	bye aavjo	બાય આવજો	mixed	sure
+mixed	thank you	થેન્ક યુ	mixed	sure
+mixed	good night	ગુડ નાઇટ	mixed	sure
+mixed	good morning	ગુડ મોર્નિંગ	mixed	sure
+mixed	ok done	ઓકે ડન	mixed	sure
+mixed	please confirm karo	પ્લીઝ કન્ફર્મ કરો	mixed	sure
+mixed	meeting cancel karo	મીટિંગ કેન્સલ કરો	mixed	sure
+mixed	hu leave par chu	હું લીવ પર છું	mixed	sure
+mixed	call cut thai gayo	કોલ કટ થઈ ગયો	mixed	review
+mixed	network nathi aavtu	નેટવર્ક નથી આવતું	mixed	sure
+mixed	whatsapp par moklo	વોટ્સએપ પર મોકલો	mixed	sure
+mixed	google par shodho	ગૂગલ પર શોધો	mixed	sure
+mixed	photo upload karo	ફોટો અપલોડ કરો	mixed	sure
+mixed	file download karo	ફાઇલ ડાઉનલોડ કરો	mixed	sure
+mixed	password reset karo	પાસવર્ડ રિસેટ કરો	mixed	review
+mixed	login fail thai	લોગિન ફેલ થઈ	mixed	sure
+mixed	test pass thai	ટેસ્ટ પાસ થઈ	mixed	sure
+mixed	bug male che	બગ મળે છે	mixed	sure
+mixed	code review karjo	કોડ રિવ્યૂ કરજો	mixed	sure
+mixed	Please send the document tomorrow	Please send the document tomorrow	mixed	sure
+mixed	I will call you tomorrow	I will call you tomorrow	mixed	sure
+mixed	She is going to the office	She is going to the office	mixed	sure
+mixed	We have a meeting today	We have a meeting today	mixed	sure
+mixed	Can you send the file	Can you send the file	mixed	sure
+proper	patel sahib aavya	પટેલ સાહેબ આવ્યા	proper	review
+proper	hu patel bolu chu	હું પટેલ બોલું છું	proper	sure
+proper	shah sahib aavya	શાહ સાહેબ આવ્યા	proper	review
+proper	hu shah bolu chu	હું શાહ બોલું છું	proper	sure
+proper	mehta sahib aavya	મહેતા સાહેબ આવ્યા	proper	review
+proper	hu mehta bolu chu	હું મહેતા બોલું છું	proper	sure
+proper	desai sahib aavya	દેસાઈ સાહેબ આવ્યા	proper	review
+proper	hu desai bolu chu	હું દેસાઈ બોલું છું	proper	sure
+proper	joshi sahib aavya	જોષી સાહેબ આવ્યા	proper	review
+proper	hu joshi bolu chu	હું જોષી બોલું છું	proper	sure
+proper	trivedi sahib aavya	ત્રિવેદી સાહેબ આવ્યા	proper	review
+proper	hu trivedi bolu chu	હું ત્રિવેદી બોલું છું	proper	sure
+proper	gandhi sahib aavya	ગાંધી સાહેબ આવ્યા	proper	review
+proper	hu gandhi bolu chu	હું ગાંધી બોલું છું	proper	sure
+proper	modi sahib aavya	મોદી સાહેબ આવ્યા	proper	review
+proper	hu modi bolu chu	હું મોદી બોલું છું	proper	sure
+everyday	hu savare aavish	હું સવારે આવીશ	everyday	sure
+question	tame savare aavish ke	તમે સવારે આવીશ કે	question	review
+everyday	hu savare jaish	હું સવારે જઈશ	everyday	sure
+question	tame savare jaish ke	તમે સવારે જઈશ કે	question	review
+everyday	hu savare nikadish	હું સવારે નીકળીશ	everyday	review
+question	tame savare nikadish ke	તમે સવારે નીકળીશ કે	question	review
+everyday	hu savare pohchish	હું સવારે પહોંચીશ	everyday	review
+question	tame savare pohchish ke	તમે સવારે પહોંચીશ કે	question	review
+everyday	hu bapore aavish	હું બપોરે આવીશ	everyday	sure
+question	tame bapore aavish ke	તમે બપોરે આવીશ કે	question	review
+everyday	hu bapore jaish	હું બપોરે જઈશ	everyday	sure
+question	tame bapore jaish ke	તમે બપોરે જઈશ કે	question	review
+everyday	hu bapore nikadish	હું બપોરે નીકળીશ	everyday	review
+question	tame bapore nikadish ke	તમે બપોરે નીકળીશ કે	question	review
+everyday	hu bapore pohchish	હું બપોરે પહોંચીશ	everyday	review
+question	tame bapore pohchish ke	તમે બપોરે પહોંચીશ કે	question	review
+everyday	hu sanj e aavish	હું સાંજ એ આવીશ	everyday	sure
+question	tame sanj e aavish ke	તમે સાંજ એ આવીશ કે	question	review
+everyday	hu sanj e jaish	હું સાંજ એ જઈશ	everyday	sure
+question	tame sanj e jaish ke	તમે સાંજ એ જઈશ કે	question	review
+everyday	hu sanj e nikadish	હું સાંજ એ નીકળીશ	everyday	review
+question	tame sanj e nikadish ke	તમે સાંજ એ નીકળીશ કે	question	review
+everyday	hu sanj e pohchish	હું સાંજ એ પહોંચીશ	everyday	review
+question	tame sanj e pohchish ke	તમે સાંજ એ પહોંચીશ કે	question	review
+everyday	hu raat e aavish	હું રાત એ આવીશ	everyday	sure
+question	tame raat e aavish ke	તમે રાત એ આવીશ કે	question	review
+everyday	hu raat e jaish	હું રાત એ જઈશ	everyday	sure
+question	tame raat e jaish ke	તમે રાત એ જઈશ કે	question	review
+everyday	hu raat e nikadish	હું રાત એ નીકળીશ	everyday	review
+question	tame raat e nikadish ke	તમે રાત એ નીકળીશ કે	question	review
+everyday	hu raat e pohchish	હું રાત એ પહોંચીશ	everyday	review
+question	tame raat e pohchish ke	તમે રાત એ પહોંચીશ કે	question	review
+family	hu kapda dhoish	હું કપડાં ધોઈશ	family	sure
+command	tame kapda dhoish	તમે કપડાં ધોઈશ	command	review
+family	hu rasoi karish	હું રસોઈ કરીશ	family	sure
+command	tame rasoi karish	તમે રસોઈ કરીશ	command	review
+family	hu bartan dhosh	હું બાજુ ધોશ	family	review
+command	tame bartan dhosh	તમે બાજુ ધોશ	command	review
+family	hu jhadu karish	હું ઝાડુ કરીશ	family	review
+command	tame jhadu karish	તમે ઝાડુ કરીશ	command	review
+family	hu bajar jaish	હું બજાર જઈશ	family	sure
+command	tame bajar jaish	તમે બજાર જઈશ	command	review
+everyday	hu ready chu	હું રેડી છું	everyday	sure
+informal	ghar ma chu	ઘર માં છું	informal	sure
+everyday	hu ready chu	હું રેડી છું	everyday	sure
+question	shu hu ready chu	શું હું રેડી છું	question	review
+everyday	hu free chu	હું ફ્રી છું	everyday	sure
+question	shu hu free chu	શું હું ફ્રી છું	question	review
+everyday	hu busy chu	હું બિઝી છું	everyday	sure
+question	shu hu busy chu	શું હું બિઝી છું	question	review
+everyday	hu late chu	હું લેટ છું	everyday	sure
+question	shu hu late chu	શું હું લેટ છું	question	review
+everyday	hu online chu	હું ઓનલાઇન છું	everyday	sure
+question	shu hu online chu	શું હું ઓનલાઇન છું	question	review
+everyday	hu thako chu	હું થાકું છું	everyday	review
+question	shu hu thako chu	શું હું થાકું છું	question	review
+everyday	tame ready cho	તમે રેડી છો	everyday	sure
+question	kem tame ready cho	કેમ તમે રેડી છો	question	sure
+everyday	tame free cho	તમે ફ્રી છો	everyday	sure
+question	kem tame free cho	કેમ તમે ફ્રી છો	question	sure
+everyday	tame busy cho	તમે બિઝી છો	everyday	sure
+question	kem tame busy cho	કેમ તમે બિઝી છો	question	sure
+everyday	tame late cho	તમે લેટ છો	everyday	sure
+question	kem tame late cho	કેમ તમે લેટ છો	question	sure
+everyday	tame offline cho	તમે ઓફલાઇન છો	everyday	sure
+question	kem tame offline cho	કેમ તમે ઓફલાઇન છો	question	sure
+everyday	hu bus ma chu	હું બસ માં છું	everyday	sure
+everyday	tame bus pakdo	તમે બસ પકડો	everyday	review
+command	bus aapo	બસ આપો	command	review
+question	bus kyare che	બસ ક્યારે છે	question	sure
+family	papa bus ma che	પપ્પા બસ માં છે	family	sure
+everyday	hu train ma chu	હું ટ્રેન માં છું	everyday	sure
+everyday	tame train pakdo	તમે ટ્રેન પકડો	everyday	review
+command	train aapo	ટ્રેન આપો	command	review
+question	train kyare che	ટ્રેન ક્યારે છે	question	sure
+family	papa train ma che	પપ્પા ટ્રેન માં છે	family	sure
+everyday	hu car ma chu	હું કાર માં છું	everyday	sure
+everyday	tame car pakdo	તમે કાર પકડો	everyday	review
+command	car aapo	કાર આપો	command	review
+question	car kyare che	કાર ક્યારે છે	question	sure
+family	papa car ma che	પપ્પા કાર માં છે	family	sure
+everyday	hu taxi ma chu	હું ટેક્સી માં છું	everyday	sure
+everyday	tame taxi pakdo	તમે ટેક્સી પકડો	everyday	review
+command	taxi aapo	ટેક્સી આપો	command	review
+question	taxi kyare che	ટેક્સી ક્યારે છે	question	sure
+family	papa taxi ma che	પપ્પા ટેક્સી માં છે	family	sure
+everyday	hu auto ma chu	હું ઓટો માં છું	everyday	sure
+everyday	tame auto pakdo	તમે ઓટો પકડો	everyday	review
+command	auto aapo	ઓટો આપો	command	review
+question	auto kyare che	ઓટો ક્યારે છે	question	sure
+family	papa auto ma che	પપ્પા ઓટો માં છે	family	sure
+everyday	hu flight ma chu	હું ફ્લાઇટ માં છું	everyday	sure
+everyday	tame flight pakdo	તમે ફ્લાઇટ પકડો	everyday	review
+command	flight aapo	ફ્લાઇટ આપો	command	review
+question	flight kyare che	ફ્લાઇટ ક્યારે છે	question	sure
+family	papa flight ma che	પપ્પા ફ્લાઇટ માં છે	family	sure
+everyday	mane pani joiye	મને પાણી જોઈએ	everyday	sure
+command	pani aapo	પાણી આપો	command	sure
+question	pani kyare male	પાણી ક્યારે મળે	question	sure
+office	please pani moklo	પ્લીઝ પાણી મોકલો	office	sure
+everyday	mane chai joiye	મને ચા જોઈએ	everyday	sure
+command	chai aapo	ચા આપો	command	sure
+question	chai kyare male	ચા ક્યારે મળે	question	sure
+office	please chai moklo	પ્લીઝ ચા મોકલો	office	sure
+everyday	mane time joiye	મને ટાઇમ જોઈએ	everyday	sure
+command	time aapo	ટાઇમ આપો	command	sure
+question	time kyare male	ટાઇમ ક્યારે મળે	question	sure
+office	please time moklo	પ્લીઝ ટાઇમ મોકલો	office	sure
+everyday	mane madad joiye	મને મદદ જોઈએ	everyday	sure
+command	madad aapo	મદદ આપો	command	sure
+question	madad kyare male	મદદ ક્યારે મળે	question	sure
+office	please madad moklo	પ્લીઝ મદદ મોકલો	office	sure
+everyday	mane number joiye	મને નંબર જોઈએ	everyday	sure
+command	number aapo	નંબર આપો	command	sure
+question	number kyare male	નંબર ક્યારે મળે	question	sure
+office	please number moklo	પ્લીઝ નંબર મોકલો	office	sure
+everyday	mane address joiye	મને એડ્રેસ જોઈએ	everyday	sure
+command	address aapo	એડ્રેસ આપો	command	sure
+question	address kyare male	એડ્રેસ ક્યારે મળે	question	sure
+office	please address moklo	પ્લીઝ એડ્રેસ મોકલો	office	sure
+everyday	mane ticket joiye	મને ટિકિટ જોઈએ	everyday	sure
+command	ticket aapo	ટિકિટ આપો	command	sure
+question	ticket kyare male	ટિકિટ ક્યારે મળે	question	sure
+office	please ticket moklo	પ્લીઝ ટિકિટ મોકલો	office	sure
+everyday	mane room joiye	મને રૂમ જોઈએ	everyday	sure
+command	room aapo	રૂમ આપો	command	sure
+question	room kyare male	રૂમ ક્યારે મળે	question	sure
+office	please room moklo	પ્લીઝ રૂમ મોકલો	office	sure
+everyday	mane key joiye	મને ચાવી જોઈએ	everyday	review
+command	key aapo	ચાવી આપો	command	review
+question	key kyare male	ચાવી ક્યારે મળે	question	review
+office	please key moklo	પ્લીઝ ચાવી મોકલો	office	review
+everyday	mane bill joiye	મને બિલ જોઈએ	everyday	sure
+command	bill aapo	બિલ આપો	command	sure
+question	bill kyare male	બિલ ક્યારે મળે	question	sure
+office	please bill moklo	પ્લીઝ બિલ મોકલો	office	sure
+office	meeting monday che	મીટિંગ મંડે છે	office	review
+everyday	hu monday aavish	હું મંડે આવીશ	everyday	sure
+question	tame monday free cho	તમે મંડે ફ્રી છો	question	sure
+business	order monday aavse	ઓર્ડર મંડે આવશે	business	review
+family	ame monday jaishu	અમે મંડે જઈશું	family	sure
+office	meeting tuesday che	મીટિંગ ટ્યુસડે છે	office	review
+everyday	hu tuesday aavish	હું ટ્યુસડે આવીશ	everyday	sure
+question	tame tuesday free cho	તમે ટ્યુસડે ફ્રી છો	question	sure
+business	order tuesday aavse	ઓર્ડર ટ્યુસડે આવશે	business	review
+family	ame tuesday jaishu	અમે ટ્યુસડે જઈશું	family	sure
+office	meeting wednesday che	મીટિંગ વેડનેસડે છે	office	review
+everyday	hu wednesday aavish	હું વેડનેસડે આવીશ	everyday	sure
+question	tame wednesday free cho	તમે વેડનેસડે ફ્રી છો	question	sure
+business	order wednesday aavse	ઓર્ડર વેડનેસડે આવશે	business	review
+family	ame wednesday jaishu	અમે વેડનેસડે જઈશું	family	sure
+office	meeting thursday che	મીટિંગ થર્સડે છે	office	review
+everyday	hu thursday aavish	હું થર્સડે આવીશ	everyday	sure
+question	tame thursday free cho	તમે થર્સડે ફ્રી છો	question	sure
+business	order thursday aavse	ઓર્ડર થર્સડે આવશે	business	review
+family	ame thursday jaishu	અમે થર્સડે જઈશું	family	sure
+office	meeting friday che	મીટિંગ ફ્રાઇડે છે	office	review
+everyday	hu friday aavish	હું ફ્રાઇડે આવીશ	everyday	sure
+question	tame friday free cho	તમે ફ્રાઇડે ફ્રી છો	question	sure
+business	order friday aavse	ઓર્ડર ફ્રાઇડે આવશે	business	review
+family	ame friday jaishu	અમે ફ્રાઇડે જઈશું	family	sure
+office	meeting saturday che	મીટિંગ સેટર્ડે છે	office	review
+everyday	hu saturday aavish	હું સેટર્ડે આવીશ	everyday	sure
+question	tame saturday free cho	તમે સેટર્ડે ફ્રી છો	question	sure
+business	order saturday aavse	ઓર્ડર સેટર્ડે આવશે	business	review
+family	ame saturday jaishu	અમે સેટર્ડે જઈશું	family	sure
+office	meeting sunday che	મીટિંગ સન્ડે છે	office	review
+everyday	hu sunday aavish	હું સન્ડે આવીશ	everyday	sure
+question	tame sunday free cho	તમે સન્ડે ફ્રી છો	question	sure
+business	order sunday aavse	ઓર્ડર સન્ડે આવશે	business	review
+family	ame sunday jaishu	અમે સન્ડે જઈશું	family	sure
+command	tame mane aavjo	તમે મને આવજો	command	sure
+command	tame mane beso	તમે મને બેસો	command	sure
+command	tame mane jao	તમે મને જાઓ	command	sure
+command	tame mane raho	તમે મને રહો	command	sure
+command	tame mane lakho	તમે મને લખો	command	sure
+command	tame mane vachjo	તમે મને વાંચજો	command	sure
+command	tame mane sambhaljo	તમે મને સાંભળજો	command	review
+command	tame mane puchjo	તમે મને પૂછજો	command	sure
+command	tame tamne aavjo	તમે તમને આવજો	command	sure
+command	tame tamne beso	તમે તમને બેસો	command	sure
+command	tame tamne jao	તમે તમને જાઓ	command	sure
+command	tame tamne raho	તમે તમને રહો	command	sure
+command	tame tamne lakho	તમે તમને લખો	command	sure
+command	tame tamne vachjo	તમે તમને વાંચજો	command	sure
+command	tame tamne sambhaljo	તમે તમને સાંભળજો	command	review
+command	tame tamne puchjo	તમે તમને પૂછજો	command	sure
+command	tame bhai ne aavjo	તમે ભાઈ ને આવજો	command	sure
+command	tame bhai ne beso	તમે ભાઈ ને બેસો	command	sure
+command	tame bhai ne jao	તમે ભાઈ ને જાઓ	command	sure
+command	tame bhai ne raho	તમે ભાઈ ને રહો	command	sure
+command	tame bhai ne lakho	તમે ભાઈ ને લખો	command	sure
+command	tame bhai ne vachjo	તમે ભાઈ ને વાંચજો	command	sure
+command	tame bhai ne sambhaljo	તમે ભાઈ ને સાંભળજો	command	review
+command	tame bhai ne puchjo	તમે ભાઈ ને પૂછજો	command	sure
+command	tame ben ne aavjo	તમે બહેન ને આવજો	command	sure
+command	tame ben ne beso	તમે બહેન ને બેસો	command	sure
+command	tame ben ne jao	તમે બહેન ને જાઓ	command	sure
+command	tame ben ne raho	તમે બહેન ને રહો	command	sure
+command	tame ben ne lakho	તમે બહેન ને લખો	command	sure
+command	tame ben ne vachjo	તમે બહેન ને વાંચજો	command	sure
+command	tame ben ne sambhaljo	તમે બહેન ને સાંભળજો	command	review
+command	tame ben ne puchjo	તમે બહેન ને પૂછજો	command	sure
+command	tame sir ne aavjo	તમે સર ને આવજો	command	sure
+command	tame sir ne beso	તમે સર ને બેસો	command	sure
+command	tame sir ne jao	તમે સર ને જાઓ	command	sure
+command	tame sir ne raho	તમે સર ને રહો	command	sure
+command	tame sir ne lakho	તમે સર ને લખો	command	sure
+command	tame sir ne vachjo	તમે સર ને વાંચજો	command	sure
+command	tame sir ne sambhaljo	તમે સર ને સાંભળજો	command	review
+command	tame sir ne puchjo	તમે સર ને પૂછજો	command	sure
+office	wifi nathi chaltu	વાઇફાઇ નથી ચાલતું	office	sure
+office	wifi bandh che	વાઇફાઇ બંધ છે	office	sure
+mixed	wifi error aave che	વાઇફાઇ એરર આવે છે	mixed	sure
+question	wifi kem bandh che	વાઇફાઇ કેમ બંધ છે	question	sure
+command	wifi check karo	વાઇફાઇ ચેક કરો	command	sure
+office	network nathi chaltu	નેટવર્ક નથી ચાલતું	office	sure
+office	network bandh che	નેટવર્ક બંધ છે	office	sure
+mixed	network error aave che	નેટવર્ક એરર આવે છે	mixed	sure
+question	network kem bandh che	નેટવર્ક કેમ બંધ છે	question	sure
+command	network check karo	નેટવર્ક ચેક કરો	command	sure
+office	server nathi chaltu	સર્વર નથી ચાલતું	office	sure
+office	server bandh che	સર્વર બંધ છે	office	sure
+mixed	server error aave che	સર્વર એરર આવે છે	mixed	sure
+question	server kem bandh che	સર્વર કેમ બંધ છે	question	sure
+command	server check karo	સર્વર ચેક કરો	command	sure
+office	printer nathi chaltu	પ્રિન્ટર નથી ચાલતું	office	sure
+office	printer bandh che	પ્રિન્ટર બંધ છે	office	sure
+mixed	printer error aave che	પ્રિન્ટર એરર આવે છે	mixed	sure
+question	printer kem bandh che	પ્રિન્ટર કેમ બંધ છે	question	sure
+command	printer check karo	પ્રિન્ટર ચેક કરો	command	sure
+office	laptop nathi chaltu	લેપટોપ નથી ચાલતું	office	sure
+office	laptop bandh che	લેપટોપ બંધ છે	office	sure
+mixed	laptop error aave che	લેપટોપ એરર આવે છે	mixed	sure
+question	laptop kem bandh che	લેપટોપ કેમ બંધ છે	question	sure
+command	laptop check karo	લેપટોપ ચેક કરો	command	sure
+office	phone nathi chaltu	ફોન નથી ચાલતું	office	sure
+office	phone bandh che	ફોન બંધ છે	office	sure
+mixed	phone error aave che	ફોન એરર આવે છે	mixed	sure
+question	phone kem bandh che	ફોન કેમ બંધ છે	question	sure
+command	phone check karo	ફોન ચેક કરો	command	sure
+office	system nathi chaltu	સિસ્ટમ નથી ચાલતું	office	sure
+office	system bandh che	સિસ્ટમ બંધ છે	office	sure
+mixed	system error aave che	સિસ્ટમ એરર આવે છે	mixed	sure
+question	system kem bandh che	સિસ્ટમ કેમ બંધ છે	question	sure
+command	system check karo	સિસ્ટમ ચેક કરો	command	sure
+office	login nathi chaltu	લોગિન નથી ચાલતું	office	sure
+office	login bandh che	લોગિન બંધ છે	office	sure
+mixed	login error aave che	લોગિન એરર આવે છે	mixed	sure
+question	login kem bandh che	લોગિન કેમ બંધ છે	question	sure
+command	login check karo	લોગિન ચેક કરો	command	sure
+business	dukan kyare khule	દુકાન ક્યારે ખુલે	business	review
+everyday	hu dukan javu chu	હું દુકાન જવું છું	everyday	sure
+question	dukan khullu che	દુકાન ખુલ્લું છે	question	review
+business	shop kyare khule	શોપ ક્યારે ખુલે	business	review
+everyday	hu shop javu chu	હું શોપ જવું છું	everyday	sure
+question	shop khullu che	શોપ ખુલ્લું છે	question	review
+business	market kyare khule	માર્કેટ ક્યારે ખુલે	business	review
+everyday	hu market javu chu	હું માર્કેટ જવું છું	everyday	sure
+question	market khullu che	માર્કેટ ખુલ્લું છે	question	review
+business	mall kyare khule	મોલ ક્યારે ખુલે	business	review
+everyday	hu mall javu chu	હું મોલ જવું છું	everyday	sure
+question	mall khullu che	મોલ ખુલ્લું છે	question	review
+business	bank kyare khule	બેંક ક્યારે ખુલે	business	review
+everyday	hu bank javu chu	હું બેંક જવું છું	everyday	sure
+question	bank khullu che	બેંક ખુલ્લું છે	question	review
+business	post office kyare khule	પોસ્ટ ઓફિસ ક્યારે ખુલે	business	review
+everyday	hu post office javu chu	હું પોસ્ટ ઓફિસ જવું છું	everyday	sure
+question	post office khullu che	પોસ્ટ ઓફિસ ખુલ્લું છે	question	review
+office	hu document karu chu	હું ડોક્યુમેન્ટ કરું છું	office	sure
+office	hu document kari didhu	હું ડોક્યુમેન્ટ કરી દીધું	office	sure
+informal	hu document karish	હું ડોક્યુમેન્ટ કરીશ	informal	sure
+command	tame document karjo	તમે ડોક્યુમેન્ટ કરજો	command	sure
+everyday	aaje document karvanu che	આજે ડોક્યુમેન્ટ કરવાનું છે	everyday	sure
+question	document kyare karshu	ડોક્યુમેન્ટ ક્યારે કરશું	question	review
+business	customer ne document moklo	કસ્ટમર ને ડોક્યુમેન્ટ મોકલો	business	sure
+mixed	please document check karo	પ્લીઝ ડોક્યુમેન્ટ ચેક કરો	mixed	sure
+office	ame document karishu	અમે ડોક્યુમેન્ટ કરીશું	office	sure
+everyday	aapde document karishu	આપણે ડોક્યુમેન્ટ કરીશું	everyday	sure
+office	hu document moklu chu	હું ડોક્યુમેન્ટ મોકલું છું	office	sure
+command	tame document vachjo	તમે ડોક્યુમેન્ટ વાંચજો	command	sure
+question	tame document karyu	તમે ડોક્યુમેન્ટ કર્યું	question	review
+business	manager document mange che	મેનેજર ડોક્યુમેન્ટ માંગે છે	business	sure
+informal	have document karie	હવે ડોક્યુમેન્ટ કરીએ	informal	review
+family	bhai document lai gayo	ભાઈ ડોક્યુમેન્ટ લઈ ગયો	family	review
+office	hu file karu chu	હું ફાઇલ કરું છું	office	sure
+office	hu file kari didhu	હું ફાઇલ કરી દીધું	office	sure
+informal	hu file karish	હું ફાઇલ કરીશ	informal	sure
+command	tame file karjo	તમે ફાઇલ કરજો	command	sure
+everyday	aaje file karvanu che	આજે ફાઇલ કરવાનું છે	everyday	sure
+question	file kyare karshu	ફાઇલ ક્યારે કરશું	question	review
+business	customer ne file moklo	કસ્ટમર ને ફાઇલ મોકલો	business	sure
+mixed	please file check karo	પ્લીઝ ફાઇલ ચેક કરો	mixed	sure
+office	ame file karishu	અમે ફાઇલ કરીશું	office	sure
+everyday	aapde file karishu	આપણે ફાઇલ કરીશું	everyday	sure
+office	hu file moklu chu	હું ફાઇલ મોકલું છું	office	sure
+command	tame file vachjo	તમે ફાઇલ વાંચજો	command	sure
+question	tame file karyu	તમે ફાઇલ કર્યું	question	review
+business	manager file mange che	મેનેજર ફાઇલ માંગે છે	business	sure
+informal	have file karie	હવે ફાઇલ કરીએ	informal	review
+family	bhai file lai gayo	ભાઈ ફાઇલ લઈ ગયો	family	review
+office	hu photo karu chu	હું ફોટો કરું છું	office	sure
+office	hu photo kari didhu	હું ફોટો કરી દીધું	office	sure
+informal	hu photo karish	હું ફોટો કરીશ	informal	sure
+command	tame photo karjo	તમે ફોટો કરજો	command	sure
+everyday	aaje photo karvanu che	આજે ફોટો કરવાનું છે	everyday	sure
+question	photo kyare karshu	ફોટો ક્યારે કરશું	question	review
+business	customer ne photo moklo	કસ્ટમર ને ફોટો મોકલો	business	sure
+mixed	please photo check karo	પ્લીઝ ફોટો ચેક કરો	mixed	sure
+office	ame photo karishu	અમે ફોટો કરીશું	office	sure
+everyday	aapde photo karishu	આપણે ફોટો કરીશું	everyday	sure
+office	hu photo moklu chu	હું ફોટો મોકલું છું	office	sure
+command	tame photo vachjo	તમે ફોટો વાંચજો	command	sure
+question	tame photo karyu	તમે ફોટો કર્યું	question	review
+business	manager photo mange che	મેનેજર ફોટો માંગે છે	business	sure
+informal	have photo karie	હવે ફોટો કરીએ	informal	review
+family	bhai photo lai gayo	ભાઈ ફોટો લઈ ગયો	family	review
+office	hu message karu chu	હું મેસેજ કરું છું	office	sure
+office	hu message kari didhu	હું મેસેજ કરી દીધું	office	sure
+informal	hu message karish	હું મેસેજ કરીશ	informal	sure
+command	tame message karjo	તમે મેસેજ કરજો	command	sure
+everyday	aaje message karvanu che	આજે મેસેજ કરવાનું છે	everyday	sure
+question	message kyare karshu	મેસેજ ક્યારે કરશું	question	review
+business	customer ne message moklo	કસ્ટમર ને મેસેજ મોકલો	business	sure
+mixed	please message check karo	પ્લીઝ મેસેજ ચેક કરો	mixed	sure
+office	ame message karishu	અમે મેસેજ કરીશું	office	sure
+everyday	aapde message karishu	આપણે મેસેજ કરીશું	everyday	sure
+office	hu message moklu chu	હું મેસેજ મોકલું છું	office	sure
+command	tame message vachjo	તમે મેસેજ વાંચજો	command	sure
+question	tame message karyu	તમે મેસેજ કર્યું	question	review
+business	manager message mange che	મેનેજર મેસેજ માંગે છે	business	sure
+informal	have message karie	હવે મેસેજ કરીએ	informal	review
+family	bhai message lai gayo	ભાઈ મેસેજ લઈ ગયો	family	review
+office	hu report karu chu	હું રિપોર્ટ કરું છું	office	sure
+office	hu report kari didhu	હું રિપોર્ટ કરી દીધું	office	sure
+informal	hu report karish	હું રિપોર્ટ કરીશ	informal	sure
+command	tame report karjo	તમે રિપોર્ટ કરજો	command	sure
+everyday	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	everyday	sure
+question	report kyare karshu	રિપોર્ટ ક્યારે કરશું	question	review
+business	customer ne report moklo	કસ્ટમર ને રિપોર્ટ મોકલો	business	sure
+mixed	please report check karo	પ્લીઝ રિપોર્ટ ચેક કરો	mixed	sure
+office	ame report karishu	અમે રિપોર્ટ કરીશું	office	sure
+everyday	aapde report karishu	આપણે રિપોર્ટ કરીશું	everyday	sure
+office	hu report moklu chu	હું રિપોર્ટ મોકલું છું	office	sure
+command	tame report vachjo	તમે રિપોર્ટ વાંચજો	command	sure
+question	tame report karyu	તમે રિપોર્ટ કર્યું	question	review
+business	manager report mange che	મેનેજર રિપોર્ટ માંગે છે	business	sure
+informal	have report karie	હવે રિપોર્ટ કરીએ	informal	review
+family	bhai report lai gayo	ભાઈ રિપોર્ટ લઈ ગયો	family	review
+office	hu plan karu chu	હું પ્લાન કરું છું	office	sure
+office	hu plan kari didhu	હું પ્લાન કરી દીધું	office	sure
+informal	hu plan karish	હું પ્લાન કરીશ	informal	sure
+command	tame plan karjo	તમે પ્લાન કરજો	command	sure
+everyday	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	everyday	sure
+question	plan kyare karshu	પ્લાન ક્યારે કરશું	question	review
+business	customer ne plan moklo	કસ્ટમર ને પ્લાન મોકલો	business	sure
+mixed	please plan check karo	પ્લીઝ પ્લાન ચેક કરો	mixed	sure
+office	ame plan karishu	અમે પ્લાન કરીશું	office	sure
+everyday	aapde plan karishu	આપણે પ્લાન કરીશું	everyday	sure
+office	hu plan moklu chu	હું પ્લાન મોકલું છું	office	sure
+command	tame plan vachjo	તમે પ્લાન વાંચજો	command	sure
+question	tame plan karyu	તમે પ્લાન કર્યું	question	review
+business	manager plan mange che	મેનેજર પ્લાન માંગે છે	business	sure
+informal	have plan karie	હવે પ્લાન કરીએ	informal	review
+family	bhai plan lai gayo	ભાઈ પ્લાન લઈ ગયો	family	review
+office	hu list karu chu	હું લિસ્ટ કરું છું	office	sure
+office	hu list kari didhu	હું લિસ્ટ કરી દીધું	office	sure
+informal	hu list karish	હું લિસ્ટ કરીશ	informal	sure
+command	tame list karjo	તમે લિસ્ટ કરજો	command	sure
+everyday	aaje list karvanu che	આજે લિસ્ટ કરવાનું છે	everyday	sure
+question	list kyare karshu	લિસ્ટ ક્યારે કરશું	question	review
+business	customer ne list moklo	કસ્ટમર ને લિસ્ટ મોકલો	business	sure
+mixed	please list check karo	પ્લીઝ લિસ્ટ ચેક કરો	mixed	sure
+office	ame list karishu	અમે લિસ્ટ કરીશું	office	sure
+everyday	aapde list karishu	આપણે લિસ્ટ કરીશું	everyday	sure
+office	hu list moklu chu	હું લિસ્ટ મોકલું છું	office	sure
+command	tame list vachjo	તમે લિસ્ટ વાંચજો	command	sure
+question	tame list karyu	તમે લિસ્ટ કર્યું	question	review
+business	manager list mange che	મેનેજર લિસ્ટ માંગે છે	business	sure
+informal	have list karie	હવે લિસ્ટ કરીએ	informal	review
+family	bhai list lai gayo	ભાઈ લિસ્ટ લઈ ગયો	family	review
+office	hu form karu chu	હું ફોર્મ કરું છું	office	sure
+office	hu form kari didhu	હું ફોર્મ કરી દીધું	office	sure
+informal	hu form karish	હું ફોર્મ કરીશ	informal	sure
+command	tame form karjo	તમે ફોર્મ કરજો	command	sure
+everyday	aaje form karvanu che	આજે ફોર્મ કરવાનું છે	everyday	sure
+question	form kyare karshu	ફોર્મ ક્યારે કરશું	question	review
+business	customer ne form moklo	કસ્ટમર ને ફોર્મ મોકલો	business	sure
+mixed	please form check karo	પ્લીઝ ફોર્મ ચેક કરો	mixed	sure
+office	ame form karishu	અમે ફોર્મ કરીશું	office	sure
+everyday	aapde form karishu	આપણે ફોર્મ કરીશું	everyday	sure
+office	hu form moklu chu	હું ફોર્મ મોકલું છું	office	sure
+command	tame form vachjo	તમે ફોર્મ વાંચજો	command	sure
+question	tame form karyu	તમે ફોર્મ કર્યું	question	review
+business	manager form mange che	મેનેજર ફોર્મ માંગે છે	business	sure
+informal	have form karie	હવે ફોર્મ કરીએ	informal	review
+family	bhai form lai gayo	ભાઈ ફોર્મ લઈ ગયો	family	review
+office	hu copy karu chu	હું કોપી કરું છું	office	sure
+office	hu copy kari didhu	હું કોપી કરી દીધું	office	sure
+informal	hu copy karish	હું કોપી કરીશ	informal	sure
+command	tame copy karjo	તમે કોપી કરજો	command	sure
+everyday	aaje copy karvanu che	આજે કોપી કરવાનું છે	everyday	sure
+question	copy kyare karshu	કોપી ક્યારે કરશું	question	review
+business	customer ne copy moklo	કસ્ટમર ને કોપી મોકલો	business	sure
+mixed	please copy check karo	પ્લીઝ કોપી ચેક કરો	mixed	sure
+office	ame copy karishu	અમે કોપી કરીશું	office	sure
+everyday	aapde copy karishu	આપણે કોપી કરીશું	everyday	sure
+office	hu copy moklu chu	હું કોપી મોકલું છું	office	sure
+command	tame copy vachjo	તમે કોપી વાંચજો	command	sure
+question	tame copy karyu	તમે કોપી કર્યું	question	review
+business	manager copy mange che	મેનેજર કોપી માંગે છે	business	sure
+informal	have copy karie	હવે કોપી કરીએ	informal	review
+family	bhai copy lai gayo	ભાઈ કોપી લઈ ગયો	family	review
+office	hu invoice karu chu	હું ઇન્વોઇસ કરું છું	office	sure
+office	hu invoice kari didhu	હું ઇન્વોઇસ કરી દીધું	office	sure
+informal	hu invoice karish	હું ઇન્વોઇસ કરીશ	informal	sure
+command	tame invoice karjo	તમે ઇન્વોઇસ કરજો	command	sure
+everyday	aaje invoice karvanu che	આજે ઇન્વોઇસ કરવાનું છે	everyday	sure
+question	invoice kyare karshu	ઇન્વોઇસ ક્યારે કરશું	question	review
+business	customer ne invoice moklo	કસ્ટમર ને ઇન્વોઇસ મોકલો	business	sure
+mixed	please invoice check karo	પ્લીઝ ઇન્વોઇસ ચેક કરો	mixed	sure
+office	ame invoice karishu	અમે ઇન્વોઇસ કરીશું	office	sure
+everyday	aapde invoice karishu	આપણે ઇન્વોઇસ કરીશું	everyday	sure
+office	hu invoice moklu chu	હું ઇન્વોઇસ મોકલું છું	office	sure
+command	tame invoice vachjo	તમે ઇન્વોઇસ વાંચજો	command	sure
+question	tame invoice karyu	તમે ઇન્વોઇસ કર્યું	question	review
+business	manager invoice mange che	મેનેજર ઇન્વોઇસ માંગે છે	business	sure
+informal	have invoice karie	હવે ઇન્વોઇસ કરીએ	informal	review
+family	bhai invoice lai gayo	ભાઈ ઇન્વોઇસ લઈ ગયો	family	review
+office	hu email karu chu	હું ઈમેલ કરું છું	office	sure
+office	hu email kari didhu	હું ઈમેલ કરી દીધું	office	sure
+informal	hu email karish	હું ઈમેલ કરીશ	informal	sure
+command	tame email karjo	તમે ઈમેલ કરજો	command	sure
+everyday	aaje email karvanu che	આજે ઈમેલ કરવાનું છે	everyday	sure
+question	email kyare karshu	ઈમેલ ક્યારે કરશું	question	review
+business	customer ne email moklo	કસ્ટમર ને ઈમેલ મોકલો	business	sure
+mixed	please email check karo	પ્લીઝ ઈમેલ ચેક કરો	mixed	sure
+office	ame email karishu	અમે ઈમેલ કરીશું	office	sure
+everyday	aapde email karishu	આપણે ઈમેલ કરીશું	everyday	sure
+office	hu email moklu chu	હું ઈમેલ મોકલું છું	office	sure
+command	tame email vachjo	તમે ઈમેલ વાંચજો	command	sure
+question	tame email karyu	તમે ઈમેલ કર્યું	question	review
+business	manager email mange che	મેનેજર ઈમેલ માંગે છે	business	sure
+informal	have email karie	હવે ઈમેલ કરીએ	informal	review
+family	bhai email lai gayo	ભાઈ ઈમેલ લઈ ગયો	family	review
+office	hu project karu chu	હું પ્રોજેક્ટ કરું છું	office	sure
+office	hu project kari didhu	હું પ્રોજેક્ટ કરી દીધું	office	sure
+informal	hu project karish	હું પ્રોજેક્ટ કરીશ	informal	sure
+command	tame project karjo	તમે પ્રોજેક્ટ કરજો	command	sure
+everyday	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	everyday	sure
+question	project kyare karshu	પ્રોજેક્ટ ક્યારે કરશું	question	review
+business	customer ne project moklo	કસ્ટમર ને પ્રોજેક્ટ મોકલો	business	sure
+mixed	please project check karo	પ્લીઝ પ્રોજેક્ટ ચેક કરો	mixed	sure
+office	ame project karishu	અમે પ્રોજેક્ટ કરીશું	office	sure
+everyday	aapde project karishu	આપણે પ્રોજેક્ટ કરીશું	everyday	sure
+office	hu project moklu chu	હું પ્રોજેક્ટ મોકલું છું	office	sure
+command	tame project vachjo	તમે પ્રોજેક્ટ વાંચજો	command	sure
+question	tame project karyu	તમે પ્રોજેક્ટ કર્યું	question	review
+business	manager project mange che	મેનેજર પ્રોજેક્ટ માંગે છે	business	sure
+informal	have project karie	હવે પ્રોજેક્ટ કરીએ	informal	review
+family	bhai project lai gayo	ભાઈ પ્રોજેક્ટ લઈ ગયો	family	review
+office	hu meeting karu chu	હું મીટિંગ કરું છું	office	sure
+office	hu meeting kari didhu	હું મીટિંગ કરી દીધું	office	sure
+informal	hu meeting karish	હું મીટિંગ કરીશ	informal	sure
+command	tame meeting karjo	તમે મીટિંગ કરજો	command	sure
+everyday	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	everyday	sure
+question	meeting kyare karshu	મીટિંગ ક્યારે કરશું	question	review
+business	customer ne meeting moklo	કસ્ટમર ને મીટિંગ મોકલો	business	sure
+mixed	please meeting check karo	પ્લીઝ મીટિંગ ચેક કરો	mixed	sure
+office	ame meeting karishu	અમે મીટિંગ કરીશું	office	sure
+everyday	aapde meeting karishu	આપણે મીટિંગ કરીશું	everyday	sure
+office	hu meeting moklu chu	હું મીટિંગ મોકલું છું	office	sure
+command	tame meeting vachjo	તમે મીટિંગ વાંચજો	command	sure
+question	tame meeting karyu	તમે મીટિંગ કર્યું	question	review
+business	manager meeting mange che	મેનેજર મીટિંગ માંગે છે	business	sure
+informal	have meeting karie	હવે મીટિંગ કરીએ	informal	review
+family	bhai meeting lai gayo	ભાઈ મીટિંગ લઈ ગયો	family	review
+office	hu order karu chu	હું ઓર્ડર કરું છું	office	sure
+office	hu order kari didhu	હું ઓર્ડર કરી દીધું	office	sure
+informal	hu order karish	હું ઓર્ડર કરીશ	informal	sure
+command	tame order karjo	તમે ઓર્ડર કરજો	command	sure
+everyday	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	everyday	sure
+question	order kyare karshu	ઓર્ડર ક્યારે કરશું	question	review
+business	customer ne order moklo	કસ્ટમર ને ઓર્ડર મોકલો	business	sure
+mixed	please order check karo	પ્લીઝ ઓર્ડર ચેક કરો	mixed	sure
+office	ame order karishu	અમે ઓર્ડર કરીશું	office	sure
+everyday	aapde order karishu	આપણે ઓર્ડર કરીશું	everyday	sure
+office	hu order moklu chu	હું ઓર્ડર મોકલું છું	office	sure
+command	tame order vachjo	તમે ઓર્ડર વાંચજો	command	sure
+question	tame order karyu	તમે ઓર્ડર કર્યું	question	review
+business	manager order mange che	મેનેજર ઓર્ડર માંગે છે	business	sure
+informal	have order karie	હવે ઓર્ડર કરીએ	informal	review
+family	bhai order lai gayo	ભાઈ ઓર્ડર લઈ ગયો	family	review
+office	hu payment karu chu	હું પેમેન્ટ કરું છું	office	sure
+office	hu payment kari didhu	હું પેમેન્ટ કરી દીધું	office	sure
+informal	hu payment karish	હું પેમેન્ટ કરીશ	informal	sure
+command	tame payment karjo	તમે પેમેન્ટ કરજો	command	sure
+everyday	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	everyday	sure
+question	payment kyare karshu	પેમેન્ટ ક્યારે કરશું	question	review
+business	customer ne payment moklo	કસ્ટમર ને પેમેન્ટ મોકલો	business	sure
+mixed	please payment check karo	પ્લીઝ પેમેન્ટ ચેક કરો	mixed	sure
+office	ame payment karishu	અમે પેમેન્ટ કરીશું	office	sure
+everyday	aapde payment karishu	આપણે પેમેન્ટ કરીશું	everyday	sure
+office	hu payment moklu chu	હું પેમેન્ટ મોકલું છું	office	sure
+command	tame payment vachjo	તમે પેમેન્ટ વાંચજો	command	sure
+question	tame payment karyu	તમે પેમેન્ટ કર્યું	question	review
+business	manager payment mange che	મેનેજર પેમેન્ટ માંગે છે	business	sure
+informal	have payment karie	હવે પેમેન્ટ કરીએ	informal	review
+family	bhai payment lai gayo	ભાઈ પેમેન્ટ લઈ ગયો	family	review
+office	hu call karu chu	હું કોલ કરું છું	office	sure
+office	hu call kari didhu	હું કોલ કરી દીધું	office	sure
+informal	hu call karish	હું કોલ કરીશ	informal	sure
+command	tame call karjo	તમે કોલ કરજો	command	sure
+everyday	aaje call karvanu che	આજે કોલ કરવાનું છે	everyday	sure
+question	call kyare karshu	કોલ ક્યારે કરશું	question	review
+business	customer ne call moklo	કસ્ટમર ને કોલ મોકલો	business	sure
+mixed	please call check karo	પ્લીઝ કોલ ચેક કરો	mixed	sure
+office	ame call karishu	અમે કોલ કરીશું	office	sure
+everyday	aapde call karishu	આપણે કોલ કરીશું	everyday	sure
+office	hu call moklu chu	હું કોલ મોકલું છું	office	sure
+command	tame call vachjo	તમે કોલ વાંચજો	command	sure
+question	tame call karyu	તમે કોલ કર્યું	question	review
+business	manager call mange che	મેનેજર કોલ માંગે છે	business	sure
+informal	have call karie	હવે કોલ કરીએ	informal	review
+family	bhai call lai gayo	ભાઈ કોલ લઈ ગયો	family	review
+office	hu update karu chu	હું અપડેટ કરું છું	office	sure
+office	hu update kari didhu	હું અપડેટ કરી દીધું	office	sure
+informal	hu update karish	હું અપડેટ કરીશ	informal	sure
+command	tame update karjo	તમે અપડેટ કરજો	command	sure
+everyday	aaje update karvanu che	આજે અપડેટ કરવાનું છે	everyday	sure
+question	update kyare karshu	અપડેટ ક્યારે કરશું	question	review
+business	customer ne update moklo	કસ્ટમર ને અપડેટ મોકલો	business	sure
+mixed	please update check karo	પ્લીઝ અપડેટ ચેક કરો	mixed	sure
+office	ame update karishu	અમે અપડેટ કરીશું	office	sure
+everyday	aapde update karishu	આપણે અપડેટ કરીશું	everyday	sure
+office	hu update moklu chu	હું અપડેટ મોકલું છું	office	sure
+command	tame update vachjo	તમે અપડેટ વાંચજો	command	sure
+question	tame update karyu	તમે અપડેટ કર્યું	question	review
+business	manager update mange che	મેનેજર અપડેટ માંગે છે	business	sure
+informal	have update karie	હવે અપડેટ કરીએ	informal	review
+family	bhai update lai gayo	ભાઈ અપડેટ લઈ ગયો	family	review
+office	hu password karu chu	હું પાસવર્ડ કરું છું	office	sure
+office	hu password kari didhu	હું પાસવર્ડ કરી દીધું	office	sure
+informal	hu password karish	હું પાસવર્ડ કરીશ	informal	sure
+command	tame password karjo	તમે પાસવર્ડ કરજો	command	sure
+everyday	aaje password karvanu che	આજે પાસવર્ડ કરવાનું છે	everyday	sure
+question	password kyare karshu	પાસવર્ડ ક્યારે કરશું	question	review
+business	customer ne password moklo	કસ્ટમર ને પાસવર્ડ મોકલો	business	sure
+mixed	please password check karo	પ્લીઝ પાસવર્ડ ચેક કરો	mixed	sure
+office	ame password karishu	અમે પાસવર્ડ કરીશું	office	sure
+everyday	aapde password karishu	આપણે પાસવર્ડ કરીશું	everyday	sure
+office	hu password moklu chu	હું પાસવર્ડ મોકલું છું	office	sure
+command	tame password vachjo	તમે પાસવર્ડ વાંચજો	command	sure
+question	tame password karyu	તમે પાસવર્ડ કર્યું	question	review
+business	manager password mange che	મેનેજર પાસવર્ડ માંગે છે	business	sure
+informal	have password karie	હવે પાસવર્ડ કરીએ	informal	review
+family	bhai password lai gayo	ભાઈ પાસવર્ડ લઈ ગયો	family	review
+office	hu ticket karu chu	હું ટિકિટ કરું છું	office	sure
+office	hu ticket kari didhu	હું ટિકિટ કરી દીધું	office	sure
+informal	hu ticket karish	હું ટિકિટ કરીશ	informal	sure
+command	tame ticket karjo	તમે ટિકિટ કરજો	command	sure
+everyday	aaje ticket karvanu che	આજે ટિકિટ કરવાનું છે	everyday	sure
+question	ticket kyare karshu	ટિકિટ ક્યારે કરશું	question	review
+business	customer ne ticket moklo	કસ્ટમર ને ટિકિટ મોકલો	business	sure
+mixed	please ticket check karo	પ્લીઝ ટિકિટ ચેક કરો	mixed	sure
+office	ame ticket karishu	અમે ટિકિટ કરીશું	office	sure
+everyday	aapde ticket karishu	આપણે ટિકિટ કરીશું	everyday	sure
+office	hu ticket moklu chu	હું ટિકિટ મોકલું છું	office	sure
+command	tame ticket vachjo	તમે ટિકિટ વાંચજો	command	sure
+question	tame ticket karyu	તમે ટિકિટ કર્યું	question	review
+business	manager ticket mange che	મેનેજર ટિકિટ માંગે છે	business	sure
+informal	have ticket karie	હવે ટિકિટ કરીએ	informal	review
+family	bhai ticket lai gayo	ભાઈ ટિકિટ લઈ ગયો	family	review
+office	hu bill karu chu	હું બિલ કરું છું	office	sure
+office	hu bill kari didhu	હું બિલ કરી દીધું	office	sure
+informal	hu bill karish	હું બિલ કરીશ	informal	sure
+command	tame bill karjo	તમે બિલ કરજો	command	sure
+everyday	aaje bill karvanu che	આજે બિલ કરવાનું છે	everyday	sure
+question	bill kyare karshu	બિલ ક્યારે કરશું	question	review
+business	customer ne bill moklo	કસ્ટમર ને બિલ મોકલો	business	sure
+mixed	please bill check karo	પ્લીઝ બિલ ચેક કરો	mixed	sure
+office	ame bill karishu	અમે બિલ કરીશું	office	sure
+everyday	aapde bill karishu	આપણે બિલ કરીશું	everyday	sure
+office	hu bill moklu chu	હું બિલ મોકલું છું	office	sure
+command	tame bill vachjo	તમે બિલ વાંચજો	command	sure
+question	tame bill karyu	તમે બિલ કર્યું	question	review
+business	manager bill mange che	મેનેજર બિલ માંગે છે	business	sure
+informal	have bill karie	હવે બિલ કરીએ	informal	review
+family	bhai bill lai gayo	ભાઈ બિલ લઈ ગયો	family	review
+family	hu rasoi ma chu	હું રસોઈ માં છું	family	sure
+family	maa rasoi ma che	મા રસોઈ માં છે	family	sure
+command	rasoi saaf karo	રસોઈ સાફ કરો	command	review
+question	rasoi kya che	રસોઈ ક્યાં છે	question	sure
+family	hu orhu ma chu	હું ઓરડો માં છું	family	review
+family	maa orhu ma che	મા ઓરડો માં છે	family	review
+command	orhu saaf karo	ઓરડો સાફ કરો	command	review
+question	orhu kya che	ઓરડો ક્યાં છે	question	review
+family	hu bagad ma chu	હું બગીચો માં છું	family	review
+family	maa bagad ma che	મા બગીચો માં છે	family	review
+command	bagad saaf karo	બગીચો સાફ કરો	command	review
+question	bagad kya che	બગીચો ક્યાં છે	question	review
+family	hu aangan ma chu	હું આંગણું માં છું	family	review
+family	maa aangan ma che	મા આંગણું માં છે	family	review
+command	aangan saaf karo	આંગણું સાફ કરો	command	review
+question	aangan kya che	આંગણું ક્યાં છે	question	review
+family	hu chok ma chu	હું ચોક માં છું	family	review
+family	maa chok ma che	મા ચોક માં છે	family	review
+command	chok saaf karo	ચોક સાફ કરો	command	review
+question	chok kya che	ચોક ક્યાં છે	question	review
+everyday	aaje varsad che	આજે વરસાદ છે	everyday	sure
+everyday	bahar varsad che	બહાર વરસાદ છે	everyday	sure
+question	varsad kem che	વરસાદ કેમ છે	question	sure
+family	bhai varsad ma gayo	ભાઈ વરસાદ માં ગયો	family	review
+everyday	aaje thandi che	આજે ઠંડી છે	everyday	sure
+everyday	bahar thandi che	બહાર ઠંડી છે	everyday	sure
+question	thandi kem che	ઠંડી કેમ છે	question	sure
+family	bhai thandi ma gayo	ભાઈ ઠંડી માં ગયો	family	review
+everyday	aaje garami che	આજે ગરમી છે	everyday	sure
+everyday	bahar garami che	બહાર ગરમી છે	everyday	sure
+question	garami kem che	ગરમી કેમ છે	question	sure
+family	bhai garami ma gayo	ભાઈ ગરમી માં ગયો	family	review
+everyday	aaje pavan che	આજે પવન છે	everyday	sure
+everyday	bahar pavan che	બહાર પવન છે	everyday	sure
+question	pavan kem che	પવન કેમ છે	question	sure
+family	bhai pavan ma gayo	ભાઈ પવન માં ગયો	family	review
+everyday	aaje vajr che	આજે વીજળી છે	everyday	review
+everyday	bahar vajr che	બહાર વીજળી છે	everyday	review
+question	vajr kem che	વીજળી કેમ છે	question	review
+family	bhai vajr ma gayo	ભાઈ વીજળી માં ગયો	family	review

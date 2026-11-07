@@ -1,0 +1,90 @@
+# Batch 05 of office. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1988	office	system error aave che	સિસ્ટમ એરર આવે છે	sure	unreviewed							
+1991	office	login nathi chaltu	લોગિન નથી ચાલતું	sure	unreviewed							
+1992	office	login bandh che	લોગિન બંધ છે	sure	unreviewed							
+1993	office	login error aave che	લોગિન એરર આવે છે	sure	unreviewed							
+1996	office	dukan kyare khule	દુકાન ક્યારે ખુલે	review	unreviewed							
+1999	office	shop kyare khule	શોપ ક્યારે ખુલે	review	unreviewed							
+2002	office	market kyare khule	માર્કેટ ક્યારે ખુલે	review	unreviewed							
+2005	office	mall kyare khule	મોલ ક્યારે ખુલે	review	unreviewed							
+2008	office	bank kyare khule	બેંક ક્યારે ખુલે	review	unreviewed							
+2011	office	post office kyare khule	પોસ્ટ ઓફિસ ક્યારે ખુલે	review	unreviewed							
+2014	office	hu document karu chu	હું ડોક્યુમેન્ટ કરું છું	sure	unreviewed							
+2015	office	hu document kari didhu	હું ડોક્યુમેન્ટ કરી દીધું	sure	unreviewed							
+2020	office	customer ne document moklo	કસ્ટમર ને ડોક્યુમેન્ટ મોકલો	sure	unreviewed							
+2021	office	please document check karo	પ્લીઝ ડોક્યુમેન્ટ ચેક કરો	sure	unreviewed							
+2022	office	ame document karishu	અમે ડોક્યુમેન્ટ કરીશું	sure	unreviewed							
+2026	office	manager document mange che	મેનેજર ડોક્યુમેન્ટ માંગે છે	sure	unreviewed							
+2029	office	hu file karu chu	હું ફાઇલ કરું છું	sure	unreviewed							
+2030	office	hu file kari didhu	હું ફાઇલ કરી દીધું	sure	unreviewed							
+2035	office	customer ne file moklo	કસ્ટમર ને ફાઇલ મોકલો	sure	unreviewed							
+2036	office	please file check karo	પ્લીઝ ફાઇલ ચેક કરો	sure	unreviewed							
+2037	office	ame file karishu	અમે ફાઇલ કરીશું	sure	unreviewed							
+2041	office	manager file mange che	મેનેજર ફાઇલ માંગે છે	sure	unreviewed							
+2044	office	hu photo karu chu	હું ફોટો કરું છું	sure	unreviewed							
+2045	office	hu photo kari didhu	હું ફોટો કરી દીધું	sure	unreviewed							
+2050	office	customer ne photo moklo	કસ્ટમર ને ફોટો મોકલો	sure	unreviewed							
+2051	office	please photo check karo	પ્લીઝ ફોટો ચેક કરો	sure	unreviewed							
+2052	office	ame photo karishu	અમે ફોટો કરીશું	sure	unreviewed							
+2056	office	manager photo mange che	મેનેજર ફોટો માંગે છે	sure	unreviewed							
+2059	office	hu message karu chu	હું મેસેજ કરું છું	sure	unreviewed							
+2060	office	hu message kari didhu	હું મેસેજ કરી દીધું	sure	unreviewed							
+2065	office	customer ne message moklo	કસ્ટમર ને મેસેજ મોકલો	sure	unreviewed							
+2066	office	please message check karo	પ્લીઝ મેસેજ ચેક કરો	sure	unreviewed							
+2067	office	ame message karishu	અમે મેસેજ કરીશું	sure	unreviewed							
+2071	office	manager message mange che	મેનેજર મેસેજ માંગે છે	sure	unreviewed							
+2074	office	hu report karu chu	હું રિપોર્ટ કરું છું	sure	unreviewed							
+2079	office	customer ne report moklo	કસ્ટમર ને રિપોર્ટ મોકલો	sure	unreviewed							
+2080	office	ame report karishu	અમે રિપોર્ટ કરીશું	sure	unreviewed							
+2084	office	manager report mange che	મેનેજર રિપોર્ટ માંગે છે	sure	unreviewed							
+2087	office	hu plan karu chu	હું પ્લાન કરું છું	sure	unreviewed							
+2092	office	customer ne plan moklo	કસ્ટમર ને પ્લાન મોકલો	sure	unreviewed							
+2093	office	please plan check karo	પ્લીઝ પ્લાન ચેક કરો	sure	unreviewed							
+2094	office	ame plan karishu	અમે પ્લાન કરીશું	sure	unreviewed							
+2096	office	hu plan moklu chu	હું પ્લાન મોકલું છું	sure	unreviewed							
+2099	office	manager plan mange che	મેનેજર પ્લાન માંગે છે	sure	unreviewed							
+2102	office	hu list karu chu	હું લિસ્ટ કરું છું	sure	unreviewed							
+2103	office	hu list kari didhu	હું લિસ્ટ કરી દીધું	sure	unreviewed							
+2108	office	customer ne list moklo	કસ્ટમર ને લિસ્ટ મોકલો	sure	unreviewed							
+2109	office	please list check karo	પ્લીઝ લિસ્ટ ચેક કરો	sure	unreviewed							
+2110	office	ame list karishu	અમે લિસ્ટ કરીશું	sure	unreviewed							
+2114	office	manager list mange che	મેનેજર લિસ્ટ માંગે છે	sure	unreviewed							
+2117	office	hu form karu chu	હું ફોર્મ કરું છું	sure	unreviewed							
+2118	office	hu form kari didhu	હું ફોર્મ કરી દીધું	sure	unreviewed							
+2123	office	customer ne form moklo	કસ્ટમર ને ફોર્મ મોકલો	sure	unreviewed							
+2124	office	please form check karo	પ્લીઝ ફોર્મ ચેક કરો	sure	unreviewed							
+2125	office	ame form karishu	અમે ફોર્મ કરીશું	sure	unreviewed							
+2129	office	manager form mange che	મેનેજર ફોર્મ માંગે છે	sure	unreviewed							
+2132	office	hu copy karu chu	હું કોપી કરું છું	sure	unreviewed							
+2133	office	hu copy kari didhu	હું કોપી કરી દીધું	sure	unreviewed							
+2138	office	customer ne copy moklo	કસ્ટમર ને કોપી મોકલો	sure	unreviewed							
+2139	office	please copy check karo	પ્લીઝ કોપી ચેક કરો	sure	unreviewed							
+2140	office	ame copy karishu	અમે કોપી કરીશું	sure	unreviewed							
+2144	office	manager copy mange che	મેનેજર કોપી માંગે છે	sure	unreviewed							
+2147	office	hu invoice karu chu	હું ઇન્વોઇસ કરું છું	sure	unreviewed							
+2148	office	hu invoice kari didhu	હું ઇન્વોઇસ કરી દીધું	sure	unreviewed							
+2153	office	customer ne invoice moklo	કસ્ટમર ને ઇન્વોઇસ મોકલો	sure	unreviewed							
+2154	office	please invoice check karo	પ્લીઝ ઇન્વોઇસ ચેક કરો	sure	unreviewed							
+2155	office	ame invoice karishu	અમે ઇન્વોઇસ કરીશું	sure	unreviewed							
+2159	office	manager invoice mange che	મેનેજર ઇન્વોઇસ માંગે છે	sure	unreviewed							
+2162	office	hu email karu chu	હું ઈમેલ કરું છું	sure	unreviewed							
+2163	office	hu email kari didhu	હું ઈમેલ કરી દીધું	sure	unreviewed							
+2168	office	customer ne email moklo	કસ્ટમર ને ઈમેલ મોકલો	sure	unreviewed							
+2169	office	please email check karo	પ્લીઝ ઈમેલ ચેક કરો	sure	unreviewed							
+2170	office	ame email karishu	અમે ઈમેલ કરીશું	sure	unreviewed							
+2174	office	manager email mange che	મેનેજર ઈમેલ માંગે છે	sure	unreviewed							
+2177	office	hu project karu chu	હું પ્રોજેક્ટ કરું છું	sure	unreviewed							
+2182	office	customer ne project moklo	કસ્ટમર ને પ્રોજેક્ટ મોકલો	sure	unreviewed							
+2183	office	please project check karo	પ્લીઝ પ્રોજેક્ટ ચેક કરો	sure	unreviewed							
+2184	office	ame project karishu	અમે પ્રોજેક્ટ કરીશું	sure	unreviewed							
+2186	office	hu project moklu chu	હું પ્રોજેક્ટ મોકલું છું	sure	unreviewed							
+2189	office	manager project mange che	મેનેજર પ્રોજેક્ટ માંગે છે	sure	unreviewed							

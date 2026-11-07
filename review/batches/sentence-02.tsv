@@ -1,0 +1,90 @@
+# Batch 02 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+779	sentence	chokha ghar ma nathi	ચોખા ઘર માં નથી	editor	unreviewed							
+780	sentence	hu bajar thi aavyo	હું બજાર થી આવ્યો	editor	unreviewed							
+781	sentence	bhaav vadhi gaya	ભાવ વધી ગયા	editor	unreviewed							
+782	sentence	sasto maal aapo	સસ્તો માલ આપો	editor	unreviewed							
+783	sentence	hisaab chukavyo	હિસાબ ચૂકવ્યો	editor	unreviewed							
+784	sentence	bank ma paisa mukya	બેંક માં પૈસા મૂક્યા	editor	unreviewed							
+785	sentence	khata number aapo	ખાતા નંબર આપો	editor	unreviewed							
+786	sentence	aadhar card lai aavo	આધાર કાર્ડ લઈ આવો	editor	unreviewed							
+787	sentence	form bharvo padshe	ફોર્મ ભરવો પડશે	editor	unreviewed							
+788	sentence	office bandh che	ઓફિસ બંધ છે	editor	unreviewed							
+789	sentence	rajkot ni bus kyare che	રાજકોટ ની બસ ક્યારે છે	editor	unreviewed							
+803	sentence	kem cho?	કેમ છો?	editor	unreviewed							
+804	sentence	aaje, bahu saru che.	આજે, બહુ સારું છે.	editor	unreviewed							
+805	sentence	hu  gujarati bolu chu	હું  ગુજરાતી બોલું છું	editor	unreviewed							
+806	sentence	tame kem cho!	તમે કેમ છો!	editor	unreviewed							
+807	sentence	ghar, javu che	ઘર, જવું છે	editor	unreviewed							
+808	sentence	aapnu gujarat.	આપણું ગુજરાત.	editor	unreviewed							
+809	sentence	12 vage aavjo	12 વાગે આવજો	editor	unreviewed							
+810	sentence	2 cup cha	2 કપ ચા	editor	unreviewed							
+879	sentence	homework aaje aap	હોમવર્ક આજે આપ	editor	unreviewed							
+880	sentence	exam ma pass thai	એક્ઝામ માં પાસ થયા	editor	unreviewed							
+881	sentence	result aavi gayu	રિઝલ્ટ આવી ગયું	editor	unreviewed							
+882	sentence	admission form bharo	એડમિશન ફોર્મ ભરો	editor	unreviewed							
+883	sentence	fees bharvi che	ફીઝ ભરવી છે	editor	unreviewed							
+884	sentence	library ma javu che	લાઇબ્રેરી માં જવું છે	editor	unreviewed							
+885	sentence	bus late che	બસ લેટ છે	editor	unreviewed							
+886	sentence	auto bhavjo	ઑટો બોલાવો	editor	unreviewed							
+887	sentence	petrol bharpavu che	પેટ્રોલ ભરાવવું છે	editor	unreviewed							
+888	sentence	puncture thai gayu	પંકચર થઈ ગયું	editor	unreviewed							
+889	sentence	helmet pehro	હેલ્મેટ પહેરો	editor	unreviewed							
+890	sentence	signal red che	સિગ્નલ રેડ છે	editor	unreviewed							
+891	sentence	left lo	લેફ્ટ લો	editor	unreviewed							
+892	sentence	right modho	રાઇટ મોડો	editor	unreviewed							
+893	sentence	seedha jao	સીધા જાઓ	editor	unreviewed							
+894	sentence	ruko	રુકો	editor	unreviewed							
+895	sentence	aavjo phari	આવજો ફરી	editor	unreviewed							
+896	sentence	saru, aavjo	સારું, આવજો	editor	unreviewed							
+897	sentence	theek che	ઠીક છે	editor	unreviewed							
+898	sentence	barobar che	બરોબર છે	editor	unreviewed							
+899	sentence	kharekh?	ખરેખર?	editor	unreviewed							
+900	sentence	ha, barobar	હા, બરોબર	editor	unreviewed							
+901	sentence	na, nathi	ના, નથી	editor	unreviewed							
+902	sentence	pachi vat karish	પછી વાત કરીશ	editor	unreviewed							
+904	sentence	thoda samay pachi	થોડા સમય પછી	editor	unreviewed							
+905	sentence	ek minute	એક મિનિટ	editor	unreviewed							
+906	sentence	have j nathi	હવે જ નથી	editor	unreviewed							
+907	sentence	pachi kalje	પછી કાલજે	editor	unreviewed							
+908	sentence	sambhaline	સંભાળીને	editor	unreviewed							
+909	sentence	dhime chalo	ધીમે ચાલો	editor	unreviewed							
+910	sentence	jaldi aavjo	જલ્દી આવજો	editor	unreviewed							
+911	sentence	biju shu	બીજું શું	editor	unreviewed							
+912	sentence	bas etlu	બસ એટલું	editor	unreviewed							
+913	sentence	bija lok aavya	બીજા લોક આવ્યા	editor	unreviewed							
+914	sentence	badha saaru che	બધા સારું છે	editor	unreviewed							
+915	sentence	tamne shu joiye	તમને શું જોઈએ	editor	unreviewed							
+916	sentence	mane aa joiye	મને આ જોઈએ	editor	unreviewed							
+917	sentence	biji variety batavo	બીજી વેરાયટી બતાવો	editor	unreviewed							
+918	sentence	size moto aapo	સાઇઝ મોટો આપો	editor	unreviewed							
+919	sentence	rang blue che	રંગ બ્લૂ છે	editor	unreviewed							
+920	sentence	bill cash ma	બિલ કેશ માં	editor	unreviewed							
+921	sentence	change aapo	ચેન્જ આપો	editor	unreviewed							
+922	sentence	bag aapo	બેગ આપો	editor	unreviewed							
+923	sentence	plastic nathi joitu	પ્લાસ્ટિક નથી જોઈતું	editor	unreviewed							
+924	sentence	ghar sudhi pohchado	ઘર સુધી પહોંચાડો	editor	unreviewed							
+925	sentence	kiraya ketla	ભાડું કેટલા	editor	unreviewed							
+926	sentence	meter chalu karo	મીટર ચાલુ કરો	editor	unreviewed							
+927	sentence	ac chalu karo	એસી ચાલુ કરો	editor	unreviewed							
+928	sentence	pankho bandh karo	પંખો બંધ કરો	editor	unreviewed							
+929	sentence	light chalu karo	લાઇટ ચાલુ કરો	editor	unreviewed							
+930	sentence	paani bandh che	પાણી બંધ છે	editor	unreviewed							
+931	sentence	nal kholo	નળ ખોલો	editor	unreviewed							
+932	sentence	kapda dho	કપડાં ધો	editor	unreviewed							
+933	sentence	rasoi ma jao	રસોડું માં જાઓ	editor	unreviewed							
+934	sentence	bartan saaf karo	વાસણ સાફ કરો	editor	unreviewed							
+935	sentence	jhadu nakh	ઝાડું નાખ	editor	unreviewed							
+936	sentence	kachro bahar muk	કચરો બહાર મૂક	editor	unreviewed							
+937	sentence	darvajo bandh kar	દરવાજો બંધ કર	editor	unreviewed							
+938	sentence	chaavi aap	ચાવી આપ	editor	unreviewed							
+939	sentence	talla lagavo	તાળું લગાવો	editor	unreviewed							
+941	sentence	baithak ma beso	બેઠક માં બેસો	editor	unreviewed							

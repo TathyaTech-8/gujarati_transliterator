@@ -10,7 +10,7 @@ The core is pure Dart. It does not depend on Flutter, a font, or a network conne
 
 ```yaml
 dependencies:
-  gujarati_transliterator: ^1.2.0
+  gujarati_transliterator: ^1.5.0
 ```
 
 ```dart
@@ -75,6 +75,8 @@ await engine.learnSelection('kal', 'કલ્પ');
 
 `prefer: false` keeps the mapping as a suggestion without forcing it.
 
+Abbreviations are the same mechanism. `sbi` is already એસબીઆઇ. Add another with `addCustomMapping('lic', 'એલઆઇસી')`, or load `assets/dictionaries/acronyms.json` through `DictionaryLoader.addJson`. A saved mapping stays in the vocabulary store and outranks the built-in list when `prefer` is true.
+
 ```dart
 final engine = await GujaratiTransliterator.open(
   store: MemoryVocabularyStore(),
@@ -112,6 +114,8 @@ session.update('Kem cho'); // કેમ છો
 ```
 
 The last word is live until a boundary follows it. Backspacing into a finished word makes it live again. Changing `session.mode` clears frozen words.
+
+A word that already has a space after it stays as it was. `bolu ` then `bolu chu` remains બોલુ છું. The same words in one update, before any word has frozen, are બોલું છું. The live word still sees the previous committed word, so `bahu ` then `bahu saru` is બહુ સારું.
 
 ## Phonetic letters
 
@@ -152,11 +156,32 @@ A known word still wins. `trivedi` is ત્રિવેદી, while `krishna` 
 
 A preceding word can select a phrase that is already stored. `khub saru` is ખૂબ સારું and `bahu saru` is બહુ સારું. Punctuation, spaces, and Gujarati characters already in the input stay as typed. In a typing session, a word that has been committed does not change when the next word is edited.
 
+## Informal typing
+
+Intelligent mode can rank a standard spelling ahead of the typed reading when the evidence is narrow:
+
+- The typed key is missing, and one vowel-length change or one inserted `a` finds a frequent lexicon entry whose spelling is one character away. `ghaar` is ઘર, `tme` is તમે, and `suurat` is સુરત.
+- A closed grammatical pattern matches: `mare` is મારે, `aapnu` is આપણું, and a word ending in short ઉ immediately before `chu` is read with anusvara, so `bolu chu` is બોલું છું. A stored name stem such as `raj` blocks that nasal, so `raju chu` stays રજુ છું.
+
+શ/સ, ચ/છ, aspiration, and retroflex swaps stay lower suggestions. They do not replace the typed pronunciation. Phonetic mode keeps the typed reading: `mare` is મરે there. The typed spelling also stays in the intelligent suggestion list.
+
+These lookups are a few edited keys, not a scan of the lexicon. `hu gujarati bolu chu`, `aaje bahu saru che`, `mare ghar javu che`, `tame kem cho`, and `aapnu gujarat` resolve to હું ગુજરાતી બોલું છું, આજે બહુ સારું છે, મારે ઘર જવું છે, તમે કેમ છો, and આપણું ગુજરાત.
+
+## Sentences, grammar, and loans
+
+Intelligent mode looks at the following word when a verb ending depends on it, and it applies a closed set of Gujarati endings to known stems. `karjo` is કરજો, `javanu` is જવાનું, `karishu` is કરીશું, and `mokli` is મોકલી. The stem table is a hash set. It is not a scan of the lexicon, and an unknown name is not rewritten merely because it ends in the same letter.
+
+A curated loan list stores the Gujarati spelling of English words that conversations actually use. `meeting` is મીટિંગ, `payment` is પેમેન્ટ, and `document` is ડોક્યુમેન્ટ. Those are transliterations, not translations: `school` stays સ્કૂલ. Phonetic mode still returns the typed reading, so `meeting` is મીતિન્ગ there and `karjo` is કર્જો.
+
+A sentence made only of English function words, plain English words, and known loans stays in Latin. `Please send the document tomorrow` is unchanged. `hu office ma chu` is હું ઓફિસ માં છું, because `hu` and `chu` are Gujarati. Spaces stay between words, so માં is its own word when it was typed as `ma`.
+
+`hu office ma chu`, `mare meeting ma javanu che`, `tame mane call karjo`, `aaje payment karvanu che`, `aapde kale vaat karishu`, `hu ghar thi kaam karu chu`, `tamaro message mali gayo`, and `aa document mokli aapjo` resolve to હું ઓફિસ માં છું, મારે મીટિંગ માં જવાનું છે, તમે મને કોલ કરજો, આજે પેમેન્ટ કરવાનું છે, આપણે કાલે વાત કરીશું, હું ઘર થી કામ કરું છું, તમારો મેસેજ મળી ગયો, and આ ડોક્યુમેન્ટ મોકલી આપજો.
+
 ## Dictionary
 
 The built-in lexicon is an original editorial word list: everyday and formal Gujarati, verbs, family words, religious vocabulary, personal names, surnames, Gujarat towns and districts, and administrative words. It is not copied from a published dictionary, and the package license covers the compilation. Frequencies are editorial ranks from 1 to 100, not counts from an outside corpus. The list is not a complete dictionary of the language. Unknown words fall back to the phonetic parse.
 
-The current list has 1,153 spellings and 1,147 roman keys: 697 everyday words, 106 cultural entries, 167 names, 136 places, 24 loans, and 23 phrases. Six keys keep a second, lower-ranked spelling, such as `ma` → માં and મા. The list grew from 953 spellings in 1.1.0. It is still well short of a 5,000-word lexicon. Entries were not invented to close that gap.
+The current list has 1,404 entries: 699 everyday words, 106 cultural entries, 167 names, 136 places, 272 loans, and 24 phrases. Six keys keep a second, lower-ranked spelling, such as `ma` → માં and મા. Version 1.2.0 had 1,153 entries. The 1.4.0 growth is the curated loan list, not filler toward 5,000. The list is still well short of a 5,000-word lexicon.
 
 Add entries for one engine:
 
@@ -197,9 +222,11 @@ The test prints `PERF median=... p95=...` and fails if a sample exceeds those bu
 
 ```bash
 dart run benchmark/latency.dart
+dart run benchmark/candidates.dart
+dart run benchmark/sentences.dart
 ```
 
-On the development desktop, version 1.1.0 measured a median of 0.011 ms and a 95th percentile of 0.282 ms on the 2,400-sample test, and the benchmark script measured a median of 0.010 ms and a 95th percentile of 0.225 ms over 3,000 samples. Version 1.2.0, with the larger lexicon and the extra unknown-word candidates, measured a median of 0.030 ms and a 95th percentile of 0.528 ms on the same test, and a benchmark median of 0.032 ms and a 95th percentile of 0.519 ms. Those figures are one desktop, not a phone, and not a guarantee. Measure phones separately. A typing session reuses completed words instead of letting them change under the cursor.
+On this development desktop, version 1.2.0 measured a test median of 0.030 ms and a 95th percentile of 0.528 ms, and a benchmark median of 0.032 ms and a 95th percentile of 0.519 ms. Version 1.3.0 measured a test median of 0.025 ms and a 95th percentile of 0.298 ms (2,400 samples), and a benchmark median of 0.023 ms and a 95th percentile of 0.191 ms (3,000 samples). Candidate generation alone, timed separately, had a median of 0.062 ms and a 95th percentile of 0.152 ms over 2,000 ordinary and informal words, and 0.036 ms / 0.115 ms on the conjunct-heavy subset. The five example sentences measured a median of 0.138 ms and a 95th percentile of 0.366 ms. Version 1.4.0 measured a test median of 0.037 ms and a 95th percentile of 0.433 ms (2,400 samples), a word benchmark median of 0.024 ms and a 95th percentile of 0.200 ms (3,000 samples), and a sentence benchmark median of 0.135 ms and a 95th percentile of 0.255 ms (1,800 samples). Those figures are one desktop, not a phone, and not a guarantee. Measure phones separately. A typing session reuses completed words instead of letting them change under the cursor.
 
 ## Tests
 
@@ -207,7 +234,7 @@ On the development desktop, version 1.1.0 measured a median of 0.011 ms and a 95
 dart test
 ```
 
-The suite covers vowels, consonants, matras, conjunct code points, the three modes, suggestions, context, custom vocabulary, file reload, incremental typing and backspace, a round-trip of the built-in lexicon, unknown-word candidates, the lexicon round-trip corpus, and a held-out set whose keys are absent from that lexicon.
+The suite covers vowels, consonants, matras, conjunct code points, the three modes, suggestions, context, custom vocabulary, file reload, incremental typing and backspace, a round-trip of the built-in lexicon, unknown-word candidates, the lexicon round-trip corpus, a held-out scheme set, a natural-roman set, and a sentence set.
 
 ## Accuracy corpus
 
@@ -236,6 +263,73 @@ The explicit rows use the documented roman scheme, including long vowels and dot
 
 Rule rows are checked in phonetic mode and are labeled `rule` so they stay separate from the hand-written spellings.
 
+`test/corpus/natural_roman.tsv` is a separate file of 1,500 roman lines: 121 scheme-faithful, 497 informal, 86 short ambiguous, 101 proper nouns, and 695 phrases. Expected spellings were written as standard orthography for this file. They were not exported from the lexicon or the phonetic tables. No separate native-speaker panel reviewed them. `dart test test/natural_test.dart` prints `NATURAL`.
+
+| Split | Items | Top-1 | Top-3 | Character error rate |
+| --- | ---: | ---: | ---: | ---: |
+| Exact | 121 | 0.760 | 0.909 | 0.074 |
+| Informal | 497 | 0.658 | 0.722 | 0.158 |
+| Ambiguous short | 86 | 0.628 | 0.721 | 0.213 |
+| Proper nouns | 101 | 0.782 | 0.851 | 0.082 |
+| Phrases | 695 | 0.396 | 0.417 | 0.174 |
+| Everyday phrases | 298 | 0.453 | 0.477 | 0.132 |
+| Mixed office phrases | 178 | 0.483 | 0.483 | 0.168 |
+| Stored key or phrase | 993 | 0.698 | 0.712 | 0.102 |
+| No stored key | 507 | 0.264 | 0.394 | 0.340 |
+| Combined | 1,500 | 0.551 | 0.605 | 0.164 |
+
+The combined figure is not overall Gujarati accuracy. The 1.2 held-out explicit score of 1.000 is still only the scheme round-trip. The 507 lines with no stored key remain the harder natural-roman set: top-1 0.264 and top-3 0.394. Mixed office top-1 rose from 0.011 in 1.3.0 to 0.483 because many of those lines are now covered by the loan list or a verb ending. Rows whose expected text translates the English word, or spells an acronym, still miss. Proper-noun top-1 of 0.782 includes names and cities that are stored under the typed key.
+
+`test/corpus/sentences.tsv` is a separate file of 1,030 editor-written sentences. The Gujarati was not exported from the lexicon and was not produced by the engine. 253 rows are marked `review` for a native-speaker pass that has not been done. `dart test test/sentence_corpus_test.dart` prints `SENTENCE` and `WORD`.
+
+| Split | Items | Exact | Top-3 | Character error rate |
+| --- | ---: | ---: | ---: | ---: |
+| Everyday | 197 | 0.736 | 0.736 | 0.036 |
+| Family | 92 | 0.446 | 0.446 | 0.062 |
+| Office | 193 | 0.990 | 0.990 | 0.001 |
+| Business | 73 | 0.575 | 0.575 | 0.032 |
+| Formal | 15 | 0.400 | 0.467 | 0.079 |
+| Informal | 61 | 0.623 | 0.623 | 0.034 |
+| Questions | 147 | 0.633 | 0.633 | 0.049 |
+| Commands | 157 | 0.854 | 0.854 | 0.026 |
+| Mixed | 63 | 0.952 | 0.952 | 0.021 |
+| Proper nouns | 32 | 0.719 | 0.719 | 0.028 |
+| Editor-sure only | 777 | 0.906 | 0.906 | 0.009 |
+| All sentences | 1,030 | 0.750 | 0.751 | 0.030 |
+
+On the 3,587 aligned words, 844 have no lexicon entry. Those unseen words score top-1 0.700 and top-3 0.714. Stored words score top-1 0.993. Sentence top-3 is almost the same as exact match because a wrong word is not repaired by listing unrelated full-sentence alternatives. The everyday exact rate of 0.736 and the sentence character error rate of 0.030 meet the 1.4.0 goals on this file. They are not a claim about all Gujarati. Family exact is 0.446, largely where the file writes બહેન and the lexicon's stored spelling is બેન, and where a `review` row uses an unmodeled form. Formal exact is 0.400.
+
+`ben` is બેન and also offers બહેન. `bahen` is બહેન. After ભાઈ, `ben` is બહેન. `bhabhi` is ભાભી. `kaka`, `kaki`, `masi`, and `mama` are કાકા, કાકી, માસી, and મામા. `ahval`, `palvanu`, `vyavastha`, `javabdari`, `karyakram`, and `mahiti` are અહેવાલ, પાળવાનું, વ્યવસ્થા, જવાબદારી, કાર્યક્રમ, and માહિતી. `suchna` and `arji` were already સૂચના and અરજી. A stored name or place is not rewritten by a verb ending. `Male` does not become મળે. `Patel`, `Trilok`, and `Rajkot` stay on their name or place spelling.
+
+## Stable API
+
+These signatures are the stable surface at 1.5.0:
+
+- `GujaratiTransliterator.transliterate` and `suggest`
+- `addCustomMapping`, `addCorrection`, `learnSelection`, `removeCustomMapping`
+- `exportVocabulary`, `importVocabulary`, `load`, and `open`
+- `startSession`, `IncrementalSession.update`, and `reset`
+- `MemoryVocabularyStore`, `DelegatingVocabularyStore`, and `FileVocabularyStore`
+- `DictionaryLoader.addJson` and `WordDictionary.add`
+- `TransliterationMode.phonetic`, `standard`, and `intelligent`
+
+The package version is 1.5.0 because this project has already used the 1.x numbers. The signatures above are not being reset to a new 1.0.0. `FileVocabularyStore` is imported from `package:gujarati_transliterator/file.dart` so the core library does not import `dart:io`. Inputs that are missing a roman or Gujarati string throw `ArgumentError` or `FormatException`. The SDK constraint is `>=3.0.0 <4.0.0`.
+
+## Speaker review
+
+`test/corpus/validation_review.tsv` has 2,371 editor-written rows. Every `native_status` is `unreviewed`. That file is the original packet. The review tools do not write to it, and they do not mark a row reviewed.
+
+`review/categories/` has one worksheet each for everyday vocabulary, informal roman, family, office, formal Gujarati, proper nouns, religious vocabulary, English loans, and complete sentences. `review/batches/` splits those worksheets into groups of 80. A reviewer sets `native_status` to `accepted`, `incorrect`, `ambiguous`, or `dialect`, writes `reviewer_spelling`, and may add further approved spellings in `accepted_alternatives`, separated by `|`. `dialect` names the variety. `reviewer_id` is a short code such as `r1`, not a name, email, or phone number.
+
+```shell
+dart run tool/review_check.dart
+dart run tool/review_import.dart review/batches/family-01.tsv
+dart run tool/review_export.dart
+dart run tool/review_stats.dart
+```
+
+`review_stats` counts a spelling only after import, and only when the row has both a decision and `reviewer_spelling`. Strict top-1 compares the transliteration with that primary spelling. Accepted-variant top-1 also allows `accepted_alternatives`. Top-3, character error rate, and sentence exact match use the same approved rows. With no imported decisions those figures are `not_measured`. Editor-sure sentence accuracy remains the `SENTENCE_SURE` line from `test/sentence_corpus_test.dart`. The held-out file remains the independent split.
+
 ## Limits
 
-English spelling does not identify one Gujarati pronunciation. Some words have more than one accepted spelling. Names that are not in the lexicon stay phonetic; they are not replaced by a nearby dictionary word, and a custom entry is how to teach one. A dictionary cannot by itself choose the right word in every sentence. User corrections stay in that user's store; they do not rewrite the shared lexicon. The lexicon round-trip is not held-out accuracy. The held-out combined score is not overall Gujarati accuracy either, because the explicit encodings dominate it. Unknown short roman input is still often wrong at the first suggestion.
+English spelling does not identify one Gujarati pronunciation. Some words have more than one accepted spelling. Names that are not in the lexicon stay phonetic; they are not replaced by a nearby dictionary word, and a custom entry is how to teach one. A dictionary cannot by itself choose the right word in every sentence. User corrections stay in that user's store; they do not rewrite the shared lexicon. The lexicon round-trip is not held-out accuracy. The held-out combined score is not overall Gujarati accuracy either, because the explicit encodings dominate it. Unknown short roman input is still often wrong at the first suggestion. The review packet has not been marked by a fluent speaker, so this package is not claiming production-ready linguistic accuracy.

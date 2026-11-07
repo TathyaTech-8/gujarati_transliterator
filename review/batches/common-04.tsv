@@ -1,0 +1,90 @@
+# Batch 04 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+315	common	raas	રાસ	editor	unreviewed							
+371	common	sabarmati	સાબરમતી	editor	unreviewed							
+372	common	tapi	તાપી	editor	unreviewed							
+373	common	kutch	કચ્છ	editor	unreviewed							
+374	common	kachchh	કચ્છ	editor	unreviewed							
+375	common	saurashtra	સૌરાષ્ટ્ર	editor	unreviewed							
+376	common	sorath	સોરઠ	editor	unreviewed							
+377	common	gir	ગીર	editor	unreviewed							
+378	common	rann	રણ	editor	unreviewed							
+379	common	bandar	બંદર	editor	unreviewed							
+380	common	sheher	શહેર	editor	unreviewed							
+381	common	shaher	શહેર	editor	unreviewed							
+382	common	nagar	નગર	editor	unreviewed							
+383	common	gaon	ગઓન	editor	unreviewed							
+384	common	taluka	તાલુકો	editor	unreviewed							
+385	common	jilla	જિલ્લો	editor	unreviewed							
+386	common	rajya	રાજ્ય	editor	unreviewed							
+387	common	sarkar	સરકાર	editor	unreviewed							
+388	common	mantri	મંત્રી	editor	unreviewed							
+389	common	pradhan	પ્રધાન	editor	unreviewed							
+390	common	adalat	અદાલત	editor	unreviewed							
+391	common	kanoon	કાનૂન	editor	unreviewed							
+392	common	kaydo	કાયદો	editor	unreviewed							
+393	common	police	પોલીસ	editor	unreviewed							
+394	common	hospital	હોસ્પિટલ	editor	unreviewed							
+395	common	skool	સ્કૂલ	editor	unreviewed							
+396	common	shaala	શાળા	editor	unreviewed							
+397	common	college	કોલેજ	editor	unreviewed							
+398	common	vidyalay	વિદ્યાલય	editor	unreviewed							
+399	common	kitab	કિતાબ	editor	unreviewed							
+400	common	akhbar	અખબાર	editor	unreviewed							
+401	common	samachar	સમાચાર	editor	unreviewed							
+402	common	khabar	ખબર	editor	unreviewed							
+403	common	patra	પત્ર	editor	unreviewed							
+404	common	chithi	ચિઠ્ઠી	editor	unreviewed							
+409	common	paise	પૈસા	editor	unreviewed							
+410	common	rupiya	રૂપિયા	editor	unreviewed							
+411	common	paisa	પૈસા	editor	unreviewed							
+412	common	dukan	દુકાન	editor	unreviewed							
+413	common	bazaar	બજાર	editor	unreviewed							
+414	common	bajar	બજાર	editor	unreviewed							
+415	common	kirana	કરિયાણું	editor	unreviewed							
+416	common	sabzi	શાકભાજી	editor	unreviewed							
+417	common	bhaji	ભાજી	editor	unreviewed							
+418	common	rotli	રોટલી	editor	unreviewed							
+419	common	rotlo	રોટલો	editor	unreviewed							
+420	common	khichdi	ખીચડી	editor	unreviewed							
+421	common	khichadi	ખીચડી	editor	unreviewed							
+422	common	kadhi	કઢી	editor	unreviewed							
+423	common	shaakbhaji	શાકભાજી	editor	unreviewed							
+424	common	fafda	ફાફડા	editor	unreviewed							
+425	common	jalebi	જલેબી	editor	unreviewed							
+426	common	dhokla	ઢોકળા	editor	unreviewed							
+427	common	khandvi	ખાંડવી	editor	unreviewed							
+428	common	thepla	થેપલા	editor	unreviewed							
+429	common	undhiyu	ઊંધિયું	editor	unreviewed							
+430	common	handvo	હાંડવો	editor	unreviewed							
+431	common	muthiya	મુઠિયા	editor	unreviewed							
+432	common	ganthia	ગાંઠિયા	editor	unreviewed							
+433	common	sev	સેવ	editor	unreviewed							
+434	common	chevdo	ચેવડો	editor	unreviewed							
+435	common	lassi	લસ્સી	editor	unreviewed							
+436	common	chaas	છાશ	editor	unreviewed							
+437	common	chhash	છાશ	editor	unreviewed							
+438	common	dahi	દહીં	editor	unreviewed							
+439	common	ghee	ઘી	editor	unreviewed							
+440	common	tel	તેલ	editor	unreviewed							
+441	common	mirch	મરચું	editor	unreviewed							
+442	common	marchu	મરચું	editor	unreviewed							
+443	common	haldar	હળદર	editor	unreviewed							
+444	common	haldi	હળદર	editor	unreviewed							
+445	common	jeeru	જીરું	editor	unreviewed							
+446	common	jeera	જીરું	editor	unreviewed							
+447	common	methi	મેથી	editor	unreviewed							
+448	common	dhana	ધાણા	editor	unreviewed							
+449	common	lebu	લીંબુ	editor	unreviewed							
+450	common	limbu	લીંબુ	editor	unreviewed							
+451	common	keri	કેરી	editor	unreviewed							
+452	common	aam	આમ	editor	unreviewed							
+453	common	kela	કેળા	editor	unreviewed							

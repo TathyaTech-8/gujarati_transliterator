@@ -1,0 +1,461 @@
+# Full office worksheet. Still unreviewed until a person fills it in.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+811	office	hu english pan bolu chu	હું અંગ્રેજી પણ બોલું છું	editor	unreviewed							
+812	office	please madad karo	પ્લીઝ મદદ કરો	editor	unreviewed							
+813	office	ok hu aavu chu	ઓકે હું આવું છું	editor	unreviewed							
+814	office	sorry hu late chu	સોરી હું લેટ છું	editor	unreviewed							
+815	office	good night	ગુડ નાઇટ	editor	unreviewed							
+816	office	thank you	થેન્ક યુ	editor	unreviewed							
+817	office	hello kem cho	હેલો કેમ છો	editor	unreviewed							
+818	office	bye aavjo	બાય આવજો	editor	unreviewed							
+819	office	hu message moklu chu	હું મેસેજ મોકલું છું	editor	unreviewed							
+820	office	call karjo	કોલ કરજો	editor	unreviewed							
+821	office	photo moklo	ફોટો મોકલો	editor	unreviewed							
+822	office	wifi nathi chaltu	વાઇફાઇ નથી ચાલતું	editor	unreviewed							
+823	office	battery gayi	બેટરી ગઈ	editor	unreviewed							
+824	office	charger aapo	ચાર્જર આપો	editor	unreviewed							
+825	office	password bhuli gayo	પાસવર્ડ ભૂલી ગયો	editor	unreviewed							
+826	office	login nathi thatu	લોગિન નથી થતું	editor	unreviewed							
+827	office	file mokli	ફાઇલ મોકલી	editor	unreviewed							
+828	office	meeting link moklo	મીટિંગ લિંક મોકલો	editor	unreviewed							
+829	office	hu online chu	હું ઓનલાઇન છું	editor	unreviewed							
+830	office	tame offline cho	તમે ઓફલાઇન છો	editor	unreviewed							
+831	office	screen share karo	સ્ક્રીન શેર કરો	editor	unreviewed							
+832	office	camera bandh karo	કેમેરા બંધ કરો	editor	unreviewed							
+833	office	mic on karo	માઇક ઓન કરો	editor	unreviewed							
+834	office	record karvu che	રેકોર્ડ કરવું છે	editor	unreviewed							
+835	office	download thai gayu	ડાઉનલોડ થઈ ગયું	editor	unreviewed							
+836	office	update aavi gayu	અપડેટ આવી ગયું	editor	unreviewed							
+837	office	server down che	સર્વર ડાઉન છે	editor	unreviewed							
+838	office	bug male che	બગ મળે છે	editor	unreviewed							
+839	office	code commit karyo	કોડ કમિટ કર્યો	editor	unreviewed							
+840	office	test pass thai	ટેસ્ટ પાસ થયા	editor	unreviewed							
+841	office	build fail thai	બિલ્ડ ફેલ થયું	editor	unreviewed							
+842	office	deploy kari didhu	ડિપ્લોય કરી દીધું	editor	unreviewed							
+843	office	branch merge karo	બ્રાન્ચ મર્જ કરો	editor	unreviewed							
+844	office	review aapo	રિવ્યૂ આપો	editor	unreviewed							
+845	office	issue kholo	ઇશ્યૂ ખોલો	editor	unreviewed							
+846	office	deadline kale che	ડેડલાઇન કાલે છે	editor	unreviewed							
+847	office	standup 10 vage	સ્ટેન્ડઅપ 10 વાગે	editor	unreviewed							
+848	office	lunch pachi aavish	લંચ પછી આવીશ	editor	unreviewed							
+849	office	hu leave par chu	હું લીવ પર છું	editor	unreviewed							
+850	office	holiday che	હોલિડે છે	editor	unreviewed							
+851	office	salary aavi	સેલરી આવી	editor	unreviewed							
+852	office	tax bharvo che	ટેક્સ ભરવો છે	editor	unreviewed							
+853	office	bill print karo	બિલ પ્રિન્ટ કરો	editor	unreviewed							
+854	office	invoice moklo	ઇન્વોઇસ મોકલો	editor	unreviewed							
+855	office	payment pending che	પેમેન્ટ પેન્ડિંગ છે	editor	unreviewed							
+856	office	refund aapo	રિફંડ આપો	editor	unreviewed							
+857	office	order cancel karyo	ઓર્ડર કેન્સલ કર્યો	editor	unreviewed							
+858	office	delivery late che	ડિલિવરી લેટ છે	editor	unreviewed							
+859	office	address moklo	એડ્રેસ મોકલો	editor	unreviewed							
+860	office	pin code shu che	પિન કોડ શું છે	editor	unreviewed							
+861	office	mobile number aapo	મોબાઇલ નંબર આપો	editor	unreviewed							
+862	office	email id shu che	ઇમેઇલ આઇડી શું છે	editor	unreviewed							
+863	office	otp aavyo	ઓટીપી આવ્યો	editor	unreviewed							
+864	office	password badlo	પાસવર્ડ બદલો	editor	unreviewed							
+865	office	account bandh thai gayu	એકાઉન્ટ બંધ થઈ ગયું	editor	unreviewed							
+866	office	hu verify kari didhu	હું વેરિફાય કરી દીધું	editor	unreviewed							
+867	office	notification bandh karo	નોટિફિકેશન બંધ કરો	editor	unreviewed							
+868	office	volume ochhu karo	વોલ્યુમ ઓછું કરો	editor	unreviewed							
+869	office	brightness vadharo	બ્રાઇટનેસ વધારો	editor	unreviewed							
+870	office	screenshot lo	સ્ક્રીનશોટ લો	editor	unreviewed							
+871	office	copy paste karo	કોપી પેસ્ટ કરો	editor	unreviewed							
+872	office	undo karo	અનડુ કરો	editor	unreviewed							
+873	office	save kari lo	સેવ કરી લો	editor	unreviewed							
+874	office	print nathi thatu	પ્રિન્ટ નથી થતું	editor	unreviewed							
+875	office	paper khatam	પેપર ખતમ	editor	unreviewed							
+876	office	pen aapo	પેન આપો	editor	unreviewed							
+877	office	notebook kholo	નોટબુક ખોલો	editor	unreviewed							
+878	office	class start thai	ક્લાસ સ્ટાર્ટ થઈ	editor	unreviewed							
+903	office	hu busy chu	હું બિઝી છું	editor	unreviewed							
+979	office	independence day	ઇન્ડિપેન્ડન્સ ડે	editor	unreviewed							
+980	office	republic day	રિપબ્લિક ડે	editor	unreviewed							
+1018	office	statue of unity	સ્ટેચ્યુ ઓફ યુનિટી	editor	unreviewed							
+1024	office	diamond bourse	ડાયમંડ બોર્સ	editor	unreviewed							
+1025	office	gift city	ગિફ્ટ સિટી	editor	unreviewed							
+1026	office	iim ahmedabad	આઇઆઇએમ અમદાવાદ	editor	unreviewed							
+1027	office	nid ahmedabad	એનઆઇડી અમદાવાદ	editor	unreviewed							
+1029	office	ms university	એમએસ યુનિવર્સિટી	editor	unreviewed							
+1030	office	ddit nadiad	ડીડીઆઇટી નડિયાદ	editor	unreviewed							
+1031	office	gmers hospital	જીએમઇઆરએસ હોસ્પિટલ	editor	unreviewed							
+1032	office	civil hospital	સિવિલ હોસ્પિટલ	editor	unreviewed							
+1033	office	vs hospital	વીએસ હોસ્પિટલ	editor	unreviewed							
+1034	office	rbi office	આરબીઆઇ ઓફિસ	editor	unreviewed							
+1035	office	sbi branch	એસબીઆઇ બ્રાન્ચ	editor	unreviewed							
+1036	office	post office	પોસ્ટ ઓફિસ	editor	unreviewed							
+1037	office	railway station	રેલ્વે સ્ટેશન	editor	unreviewed							
+1038	office	bus stand	બસ સ્ટેન્ડ	editor	unreviewed							
+1039	office	airport terminal	એરપોર્ટ ટર્મિનલ	editor	unreviewed							
+1040	office	metro station	મેટ્રો સ્ટેશન	editor	unreviewed							
+1041	office	brts stop	બીઆરટીએસ સ્ટોપ	editor	unreviewed							
+1042	office	amts bus	એએમટીએસ બસ	editor	unreviewed							
+1043	office	gsrtc bus	જીએસઆરટીસી બસ	editor	unreviewed							
+1044	office	irctc ticket	આઇઆરસીટીસી ટિકિટ	editor	unreviewed							
+1077	office	fair price shop	ફેર પ્રાઇસ શોપ	editor	unreviewed							
+1078	office	mid day meal	મિડ ડે મીલ	editor	unreviewed							
+1079	office	school uniform	સ્કૂલ યુનિફોર્મ	editor	unreviewed							
+1080	office	exam hall	એક્ઝામ હોલ	editor	unreviewed							
+1081	office	answer sheet	આન્સર શીટ	editor	unreviewed							
+1082	office	question paper	ક્વેશ્ચન પેપર	editor	unreviewed							
+1083	office	practical exam	પ્રેક્ટિકલ એક્ઝામ	editor	unreviewed							
+1084	office	oral exam	ઓરલ એક્ઝામ	editor	unreviewed							
+1085	office	result date	રિઝલ્ટ ડેટ	editor	unreviewed							
+1086	office	admission round	એડમિશન રાઉન્ડ	editor	unreviewed							
+1087	office	merit list	મેરિટ લિસ્ટ	editor	unreviewed							
+1088	office	waiting list	વેઇટિંગ લિસ્ટ	editor	unreviewed							
+1089	office	hostel room	હોસ્ટેલ રૂમ	editor	unreviewed							
+1090	office	mess bill	મેસ બિલ	editor	unreviewed							
+1091	office	library card	લાઇબ્રેરી કાર્ડ	editor	unreviewed							
+1092	office	lab report	લેબ રિપોર્ટ	editor	unreviewed							
+1093	office	blood test	બ્લડ ટેસ્ટ	editor	unreviewed							
+1094	office	xray report	એક્સરે રિપોર્ટ	editor	unreviewed							
+1157	office	social distance	સોશિયલ ડિસ્ટન્સ	editor	unreviewed							
+1169	office	time over	ટાઇમ ઓવર	editor	unreviewed							
+1174	office	lunch break	લંચ બ્રેક	editor	unreviewed							
+1175	office	half day	હાફ ડે	editor	unreviewed							
+1176	office	full day	ફુલ ડે	editor	unreviewed							
+1177	office	night shift	નાઇટ શિફ્ટ	editor	unreviewed							
+1178	office	overtime che	ઓવરટાઇમ છે	editor	unreviewed							
+1179	office	salary slip	સેલરી સ્લિપ	editor	unreviewed							
+1180	office	pf katay	પીએફ કપાય	editor	unreviewed							
+1181	office	tds katay	ટીડીએસ કપાય	editor	unreviewed							
+1182	office	bonus aavyo	બોનસ આવ્યો	editor	unreviewed							
+1183	office	increment malyu	ઇન્ક્રિમેન્ટ મળ્યો	editor	unreviewed							
+1184	office	promotion thai	પ્રમોશન થયું	editor	unreviewed							
+1185	office	transfer order	ટ્રાન્સફર ઓર્ડર	editor	unreviewed							
+1186	office	resignation aapi	રાજીનામું આપ્યું	editor	unreviewed							
+1187	office	notice period	નોટિસ પિરિયડ	editor	unreviewed							
+1188	office	experience letter	એક્સપિરિયન્સ લેટર	editor	unreviewed							
+1189	office	joining date	જોઇનિંગ ડેટ	editor	unreviewed							
+1190	office	offer letter	ઓફર લેટર	editor	unreviewed							
+1191	office	interview kale	ઇન્ટરવ્યૂ કાલે	editor	unreviewed							
+1192	office	resume moklo	રિઝ્યુમે મોકલો	editor	unreviewed							
+1193	office	skill set shu	સ્કિલ સેટ શું	editor	unreviewed							
+1194	office	english aavde che	અંગ્રેજી આવડે છે	editor	unreviewed							
+1197	office	typing aavde che	ટાઇપિંગ આવડે છે	editor	unreviewed							
+1198	office	computer aavde che	કમ્પ્યુટર આવડે છે	editor	unreviewed							
+1199	office	driving aavde che	ડ્રાઇવિંગ આવડે છે	editor	unreviewed							
+1227	office	photo share kar	ફોટો શેર કર	editor	unreviewed							
+1228	office	video call kar	વિડિયો કોલ કર	editor	unreviewed							
+1229	office	voice note moklo	વોઇસ નોટ મોકલો	editor	unreviewed							
+1230	office	status muk	સ્ટેટસ મૂક	editor	unreviewed							
+1231	office	story joi	સ્ટોરી જોઈ	editor	unreviewed							
+1232	office	like karyu	લાઇક કર્યું	editor	unreviewed							
+1233	office	comment lakho	કોમેન્ટ લખો	editor	unreviewed							
+1234	office	share karo	શેર કરો	editor	unreviewed							
+1235	office	follow karo	ફોલો કરો	editor	unreviewed							
+1236	office	unfollow karyu	અનફોલો કર્યું	editor	unreviewed							
+1237	office	block karyo	બ્લોક કર્યો	editor	unreviewed							
+1238	office	report karyu	રિપોર્ટ કર્યું	editor	unreviewed							
+1239	office	spam che	સ્પામ છે	editor	unreviewed							
+1240	office	fake id che	ફેક આઇડી છે	editor	unreviewed							
+1241	office	profile update kar	પ્રોફાઇલ અપડેટ કર	editor	unreviewed							
+1242	office	bio lakhi	બાયો લખી	editor	unreviewed							
+1243	office	dp badli	ડીપી બદલી	editor	unreviewed							
+1244	office	cover photo	કવર ફોટો	editor	unreviewed							
+1245	office	group banavyo	ગ્રુપ બનાવ્યો	editor	unreviewed							
+1246	office	admin banavyo	એડમિન બનાવ્યો	editor	unreviewed							
+1247	office	member kadhyo	મેમ્બર કાઢ્યો	editor	unreviewed							
+1248	office	mute karyu	મ્યુટ કર્યું	editor	unreviewed							
+1249	office	pin message	પિન મેસેજ	editor	unreviewed							
+1250	office	forward karo	ફોરવર્ડ કરો	editor	unreviewed							
+1251	office	reply aapo	રિપ્લાય આપો	editor	unreviewed							
+1252	office	seen thai gayu	સીન થઈ ગયું	editor	unreviewed							
+1253	office	typing che	ટાઇપિંગ છે	editor	unreviewed							
+1254	office	online aavyo	ઓનલાઇન આવ્યો	editor	unreviewed							
+1255	office	last seen kal	લાસ્ટ સીન કાલ	editor	unreviewed							
+1256	office	hu busy hatо	હું બિઝી હતો	editor	unreviewed							
+1257	office	pachi call karu	પછી કોલ કરું	editor	unreviewed							
+1258	office	network nathi	નેટવર્ક નથી	editor	unreviewed							
+1259	office	signal weak che	સિગ્નલ વીક છે	editor	unreviewed							
+1260	office	recharge karav	રિચાર્જ કરાવ	editor	unreviewed							
+1261	office	balance khatam	બેલેન્સ ખતમ	editor	unreviewed							
+1262	office	data pack	ડેટા પેક	editor	unreviewed							
+1263	office	wifi password	વાઇફાઇ પાસવર્ડ	editor	unreviewed							
+1264	office	hotspot on kar	હોટસ્પોટ ઓન કર	editor	unreviewed							
+1265	office	bluetooth on	બ્લૂટૂથ ઓન	editor	unreviewed							
+1266	office	location on kar	લોકેશન ઓન કર	editor	unreviewed							
+1267	office	map kholo	મેપ ખોલો	editor	unreviewed							
+1272	office	safe journey	સેફ જર્ની	editor	unreviewed							
+1436	office	aaje payment karvanu che	આજે પેમેન્ટ કરવાનું છે	sure	unreviewed							
+1438	office	hu payment kari didhu	હું પેમેન્ટ કરી દીધું	sure	unreviewed							
+1440	office	aaje meeting karvanu che	આજે મીટિંગ કરવાનું છે	sure	unreviewed							
+1442	office	hu meeting kari didhu	હું મીટિંગ કરી દીધું	sure	unreviewed							
+1444	office	aaje call karvanu che	આજે કોલ કરવાનું છે	sure	unreviewed							
+1446	office	hu call kari didhu	હું કોલ કરી દીધું	sure	unreviewed							
+1448	office	aaje project karvanu che	આજે પ્રોજેક્ટ કરવાનું છે	sure	unreviewed							
+1450	office	hu project kari didhu	હું પ્રોજેક્ટ કરી દીધું	sure	unreviewed							
+1452	office	aaje report karvanu che	આજે રિપોર્ટ કરવાનું છે	sure	unreviewed							
+1454	office	hu report kari didhu	હું રિપોર્ટ કરી દીધું	sure	unreviewed							
+1456	office	aaje order karvanu che	આજે ઓર્ડર કરવાનું છે	sure	unreviewed							
+1458	office	hu order kari didhu	હું ઓર્ડર કરી દીધું	sure	unreviewed							
+1460	office	aaje plan karvanu che	આજે પ્લાન કરવાનું છે	sure	unreviewed							
+1462	office	hu plan kari didhu	હું પ્લાન કરી દીધું	sure	unreviewed							
+1464	office	aaje update karvanu che	આજે અપડેટ કરવાનું છે	sure	unreviewed							
+1466	office	hu update kari didhu	હું અપડેટ કરી દીધું	sure	unreviewed							
+1468	office	aaje check karvanu che	આજે ચેક કરવાનું છે	sure	unreviewed							
+1470	office	hu check kari didhu	હું ચેક કરી દીધું	sure	unreviewed							
+1472	office	aaje kaam karvanu che	આજે કામ કરવાનું છે	sure	unreviewed							
+1474	office	hu kaam kari didhu	હું કામ કરી દીધું	sure	unreviewed							
+1477	office	hu document moklu chu	હું ડોક્યુમેન્ટ મોકલું છું	sure	unreviewed							
+1478	office	tamaro document mali gayo	તમારો ડોક્યુમેન્ટ મળી ગયો	sure	unreviewed							
+1479	office	please document moklo	પ્લીઝ ડોક્યુમેન્ટ મોકલો	sure	unreviewed							
+1481	office	hu file moklu chu	હું ફાઇલ મોકલું છું	sure	unreviewed							
+1482	office	tamaro file mali gayo	તમારો ફાઇલ મળી ગયો	sure	unreviewed							
+1483	office	please file moklo	પ્લીઝ ફાઇલ મોકલો	sure	unreviewed							
+1485	office	hu photo moklu chu	હું ફોટો મોકલું છું	sure	unreviewed							
+1486	office	tamaro photo mali gayo	તમારો ફોટો મળી ગયો	sure	unreviewed							
+1487	office	please photo moklo	પ્લીઝ ફોટો મોકલો	sure	unreviewed							
+1489	office	hu report moklu chu	હું રિપોર્ટ મોકલું છું	sure	unreviewed							
+1490	office	tamaro report mali gayo	તમારો રિપોર્ટ મળી ગયો	sure	unreviewed							
+1491	office	please report moklo	પ્લીઝ રિપોર્ટ મોકલો	sure	unreviewed							
+1493	office	tamaro message mali gayo	તમારો મેસેજ મળી ગયો	sure	unreviewed							
+1494	office	please message moklo	પ્લીઝ મેસેજ મોકલો	sure	unreviewed							
+1496	office	hu email moklu chu	હું ઈમેલ મોકલું છું	sure	unreviewed							
+1497	office	tamaro email mali gayo	તમારો ઈમેલ મળી ગયો	sure	unreviewed							
+1498	office	please email moklo	પ્લીઝ ઈમેલ મોકલો	sure	unreviewed							
+1500	office	hu list moklu chu	હું લિસ્ટ મોકલું છું	sure	unreviewed							
+1501	office	tamaro list mali gayo	તમારો લિસ્ટ મળી ગયો	sure	unreviewed							
+1502	office	please list moklo	પ્લીઝ લિસ્ટ મોકલો	sure	unreviewed							
+1504	office	hu form moklu chu	હું ફોર્મ મોકલું છું	sure	unreviewed							
+1505	office	tamaro form mali gayo	તમારો ફોર્મ મળી ગયો	sure	unreviewed							
+1506	office	please form moklo	પ્લીઝ ફોર્મ મોકલો	sure	unreviewed							
+1508	office	hu copy moklu chu	હું કોપી મોકલું છું	sure	unreviewed							
+1509	office	tamaro copy mali gayo	તમારો કોપી મળી ગયો	sure	unreviewed							
+1510	office	please copy moklo	પ્લીઝ કોપી મોકલો	sure	unreviewed							
+1512	office	hu invoice moklu chu	હું ઇન્વોઇસ મોકલું છું	sure	unreviewed							
+1513	office	tamaro invoice mali gayo	તમારો ઇન્વોઇસ મળી ગયો	sure	unreviewed							
+1514	office	please invoice moklo	પ્લીઝ ઇન્વોઇસ મોકલો	sure	unreviewed							
+1648	office	hu office ma chu	હું ઓફિસ માં છું	sure	unreviewed							
+1649	office	mare meeting ma javanu che	મારે મીટિંગ માં જવાનું છે	sure	unreviewed							
+1650	office	tame mane call karjo	તમે મને કોલ કરજો	sure	unreviewed							
+1651	office	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	sure	unreviewed							
+1652	office	please report check karo	પ્લીઝ રિપોર્ટ ચેક કરો	sure	unreviewed							
+1653	office	client ne mail karjo	ક્લાયન્ટ ને મેલ કરજો	review	unreviewed							
+1654	office	manager office ma che	મેનેજર ઓફિસ માં છે	sure	unreviewed							
+1655	office	salary account ma aavi	સેલરી એકાઉન્ટ માં આવી	sure	unreviewed							
+1656	office	project deadline kale che	પ્રોજેક્ટ ડેડલાઇન કાલે છે	sure	unreviewed							
+1657	office	aaje holiday che	આજે હોલિડે છે	sure	unreviewed							
+1658	office	team meeting pachi che	ટીમ મીટિંગ પછી છે	sure	unreviewed							
+1659	office	hu late chu	હું લેટ છું	sure	unreviewed							
+1660	office	laptop bandh che	લેપટોપ બંધ છે	sure	unreviewed							
+1661	office	status pending che	સ્ટેટસ પેન્ડિંગ છે	sure	unreviewed							
+1662	office	invoice print karo	ઇન્વોઇસ પ્રિન્ટ કરો	sure	unreviewed							
+1663	office	customer ne call karjo	કસ્ટમર ને કોલ કરજો	sure	unreviewed							
+1664	office	order confirm karo	ઓર્ડર કન્ફર્મ કરો	sure	unreviewed							
+1665	office	discount aapo	ડિસ્કાઉન્ટ આપો	sure	unreviewed							
+1666	office	price shu che	પ્રાઇસ શું છે	sure	unreviewed							
+1667	office	cash ke card	કેશ કે કાર્ડ	sure	unreviewed							
+1668	office	parcel aavyo	પાર્સલ આવ્યો	sure	unreviewed							
+1669	office	return karvanu che	રિટર્ન કરવાનું છે	sure	unreviewed							
+1670	office	warranty check karo	વોરંટી ચેક કરો	review	unreviewed							
+1671	office	gst bill joiye	જીએસટી બિલ જોઈએ	sure	unreviewed							
+1672	office	account balance shu che	એકાઉન્ટ બેલેન્સ શું છે	sure	unreviewed							
+1673	office	transfer kari didhu	ટ્રાન્સફર કરી દીધું	sure	unreviewed							
+1674	office	refund aavse	રિફંડ આવશે	review	unreviewed							
+1675	office	customer wait kare che	કસ્ટમર વેઇટ કરે છે	review	unreviewed							
+1676	office	shop bandh che	શોપ બંધ છે	sure	unreviewed							
+1677	office	market ma bhiad che	માર્કેટ માં ભીડ છે	review	unreviewed							
+1678	office	navo order aavyo	નવો ઓર્ડર આવ્યો	sure	unreviewed							
+1679	office	stock khatam che	સ્ટોક ખતમ છે	review	unreviewed							
+1680	office	invoice email karjo	ઇન્વોઇસ ઈમેલ કરજો	sure	unreviewed							
+1716	office	good morning	ગુડ મોર્નિંગ	sure	unreviewed							
+1717	office	ok done	ઓકે ડન	sure	unreviewed							
+1718	office	please confirm karo	પ્લીઝ કન્ફર્મ કરો	sure	unreviewed							
+1719	office	meeting cancel karo	મીટિંગ કેન્સલ કરો	sure	unreviewed							
+1720	office	call cut thai gayo	કોલ કટ થઈ ગયો	review	unreviewed							
+1721	office	network nathi aavtu	નેટવર્ક નથી આવતું	sure	unreviewed							
+1722	office	whatsapp par moklo	વોટ્સએપ પર મોકલો	sure	unreviewed							
+1723	office	google par shodho	ગૂગલ પર શોધો	sure	unreviewed							
+1724	office	photo upload karo	ફોટો અપલોડ કરો	sure	unreviewed							
+1725	office	file download karo	ફાઇલ ડાઉનલોડ કરો	sure	unreviewed							
+1726	office	password reset karo	પાસવર્ડ રિસેટ કરો	review	unreviewed							
+1727	office	login fail thai	લોગિન ફેલ થઈ	sure	unreviewed							
+1728	office	code review karjo	કોડ રિવ્યૂ કરજો	sure	unreviewed							
+1729	office	Please send the document tomorrow	Please send the document tomorrow	sure	unreviewed							
+1730	office	I will call you tomorrow	I will call you tomorrow	sure	unreviewed							
+1731	office	She is going to the office	She is going to the office	sure	unreviewed							
+1732	office	We have a meeting today	We have a meeting today	sure	unreviewed							
+1733	office	Can you send the file	Can you send the file	sure	unreviewed							
+1847	office	please pani moklo	પ્લીઝ પાણી મોકલો	sure	unreviewed							
+1850	office	please chai moklo	પ્લીઝ ચા મોકલો	sure	unreviewed							
+1854	office	please time moklo	પ્લીઝ ટાઇમ મોકલો	sure	unreviewed							
+1858	office	please madad moklo	પ્લીઝ મદદ મોકલો	sure	unreviewed							
+1862	office	please number moklo	પ્લીઝ નંબર મોકલો	sure	unreviewed							
+1866	office	please address moklo	પ્લીઝ એડ્રેસ મોકલો	sure	unreviewed							
+1870	office	please ticket moklo	પ્લીઝ ટિકિટ મોકલો	sure	unreviewed							
+1874	office	please room moklo	પ્લીઝ રૂમ મોકલો	sure	unreviewed							
+1878	office	please key moklo	પ્લીઝ ચાવી મોકલો	review	unreviewed							
+1882	office	please bill moklo	પ્લીઝ બિલ મોકલો	sure	unreviewed							
+1883	office	meeting monday che	મીટિંગ મંડે છે	review	unreviewed							
+1886	office	order monday aavse	ઓર્ડર મંડે આવશે	review	unreviewed							
+1888	office	meeting tuesday che	મીટિંગ ટ્યુસડે છે	review	unreviewed							
+1891	office	order tuesday aavse	ઓર્ડર ટ્યુસડે આવશે	review	unreviewed							
+1893	office	meeting wednesday che	મીટિંગ વેડનેસડે છે	review	unreviewed							
+1896	office	order wednesday aavse	ઓર્ડર વેડનેસડે આવશે	review	unreviewed							
+1898	office	meeting thursday che	મીટિંગ થર્સડે છે	review	unreviewed							
+1901	office	order thursday aavse	ઓર્ડર થર્સડે આવશે	review	unreviewed							
+1903	office	meeting friday che	મીટિંગ ફ્રાઇડે છે	review	unreviewed							
+1906	office	order friday aavse	ઓર્ડર ફ્રાઇડે આવશે	review	unreviewed							
+1908	office	meeting saturday che	મીટિંગ સેટર્ડે છે	review	unreviewed							
+1911	office	order saturday aavse	ઓર્ડર સેટર્ડે આવશે	review	unreviewed							
+1913	office	meeting sunday che	મીટિંગ સન્ડે છે	review	unreviewed							
+1916	office	order sunday aavse	ઓર્ડર સન્ડે આવશે	review	unreviewed							
+1958	office	wifi bandh che	વાઇફાઇ બંધ છે	sure	unreviewed							
+1959	office	wifi error aave che	વાઇફાઇ એરર આવે છે	sure	unreviewed							
+1962	office	network nathi chaltu	નેટવર્ક નથી ચાલતું	sure	unreviewed							
+1963	office	network bandh che	નેટવર્ક બંધ છે	sure	unreviewed							
+1964	office	network error aave che	નેટવર્ક એરર આવે છે	sure	unreviewed							
+1967	office	server nathi chaltu	સર્વર નથી ચાલતું	sure	unreviewed							
+1968	office	server bandh che	સર્વર બંધ છે	sure	unreviewed							
+1969	office	server error aave che	સર્વર એરર આવે છે	sure	unreviewed							
+1972	office	printer nathi chaltu	પ્રિન્ટર નથી ચાલતું	sure	unreviewed							
+1973	office	printer bandh che	પ્રિન્ટર બંધ છે	sure	unreviewed							
+1974	office	printer error aave che	પ્રિન્ટર એરર આવે છે	sure	unreviewed							
+1977	office	laptop nathi chaltu	લેપટોપ નથી ચાલતું	sure	unreviewed							
+1978	office	laptop error aave che	લેપટોપ એરર આવે છે	sure	unreviewed							
+1981	office	phone nathi chaltu	ફોન નથી ચાલતું	sure	unreviewed							
+1982	office	phone bandh che	ફોન બંધ છે	sure	unreviewed							
+1983	office	phone error aave che	ફોન એરર આવે છે	sure	unreviewed							
+1986	office	system nathi chaltu	સિસ્ટમ નથી ચાલતું	sure	unreviewed							
+1987	office	system bandh che	સિસ્ટમ બંધ છે	sure	unreviewed							
+1988	office	system error aave che	સિસ્ટમ એરર આવે છે	sure	unreviewed							
+1991	office	login nathi chaltu	લોગિન નથી ચાલતું	sure	unreviewed							
+1992	office	login bandh che	લોગિન બંધ છે	sure	unreviewed							
+1993	office	login error aave che	લોગિન એરર આવે છે	sure	unreviewed							
+1996	office	dukan kyare khule	દુકાન ક્યારે ખુલે	review	unreviewed							
+1999	office	shop kyare khule	શોપ ક્યારે ખુલે	review	unreviewed							
+2002	office	market kyare khule	માર્કેટ ક્યારે ખુલે	review	unreviewed							
+2005	office	mall kyare khule	મોલ ક્યારે ખુલે	review	unreviewed							
+2008	office	bank kyare khule	બેંક ક્યારે ખુલે	review	unreviewed							
+2011	office	post office kyare khule	પોસ્ટ ઓફિસ ક્યારે ખુલે	review	unreviewed							
+2014	office	hu document karu chu	હું ડોક્યુમેન્ટ કરું છું	sure	unreviewed							
+2015	office	hu document kari didhu	હું ડોક્યુમેન્ટ કરી દીધું	sure	unreviewed							
+2020	office	customer ne document moklo	કસ્ટમર ને ડોક્યુમેન્ટ મોકલો	sure	unreviewed							
+2021	office	please document check karo	પ્લીઝ ડોક્યુમેન્ટ ચેક કરો	sure	unreviewed							
+2022	office	ame document karishu	અમે ડોક્યુમેન્ટ કરીશું	sure	unreviewed							
+2026	office	manager document mange che	મેનેજર ડોક્યુમેન્ટ માંગે છે	sure	unreviewed							
+2029	office	hu file karu chu	હું ફાઇલ કરું છું	sure	unreviewed							
+2030	office	hu file kari didhu	હું ફાઇલ કરી દીધું	sure	unreviewed							
+2035	office	customer ne file moklo	કસ્ટમર ને ફાઇલ મોકલો	sure	unreviewed							
+2036	office	please file check karo	પ્લીઝ ફાઇલ ચેક કરો	sure	unreviewed							
+2037	office	ame file karishu	અમે ફાઇલ કરીશું	sure	unreviewed							
+2041	office	manager file mange che	મેનેજર ફાઇલ માંગે છે	sure	unreviewed							
+2044	office	hu photo karu chu	હું ફોટો કરું છું	sure	unreviewed							
+2045	office	hu photo kari didhu	હું ફોટો કરી દીધું	sure	unreviewed							
+2050	office	customer ne photo moklo	કસ્ટમર ને ફોટો મોકલો	sure	unreviewed							
+2051	office	please photo check karo	પ્લીઝ ફોટો ચેક કરો	sure	unreviewed							
+2052	office	ame photo karishu	અમે ફોટો કરીશું	sure	unreviewed							
+2056	office	manager photo mange che	મેનેજર ફોટો માંગે છે	sure	unreviewed							
+2059	office	hu message karu chu	હું મેસેજ કરું છું	sure	unreviewed							
+2060	office	hu message kari didhu	હું મેસેજ કરી દીધું	sure	unreviewed							
+2065	office	customer ne message moklo	કસ્ટમર ને મેસેજ મોકલો	sure	unreviewed							
+2066	office	please message check karo	પ્લીઝ મેસેજ ચેક કરો	sure	unreviewed							
+2067	office	ame message karishu	અમે મેસેજ કરીશું	sure	unreviewed							
+2071	office	manager message mange che	મેનેજર મેસેજ માંગે છે	sure	unreviewed							
+2074	office	hu report karu chu	હું રિપોર્ટ કરું છું	sure	unreviewed							
+2079	office	customer ne report moklo	કસ્ટમર ને રિપોર્ટ મોકલો	sure	unreviewed							
+2080	office	ame report karishu	અમે રિપોર્ટ કરીશું	sure	unreviewed							
+2084	office	manager report mange che	મેનેજર રિપોર્ટ માંગે છે	sure	unreviewed							
+2087	office	hu plan karu chu	હું પ્લાન કરું છું	sure	unreviewed							
+2092	office	customer ne plan moklo	કસ્ટમર ને પ્લાન મોકલો	sure	unreviewed							
+2093	office	please plan check karo	પ્લીઝ પ્લાન ચેક કરો	sure	unreviewed							
+2094	office	ame plan karishu	અમે પ્લાન કરીશું	sure	unreviewed							
+2096	office	hu plan moklu chu	હું પ્લાન મોકલું છું	sure	unreviewed							
+2099	office	manager plan mange che	મેનેજર પ્લાન માંગે છે	sure	unreviewed							
+2102	office	hu list karu chu	હું લિસ્ટ કરું છું	sure	unreviewed							
+2103	office	hu list kari didhu	હું લિસ્ટ કરી દીધું	sure	unreviewed							
+2108	office	customer ne list moklo	કસ્ટમર ને લિસ્ટ મોકલો	sure	unreviewed							
+2109	office	please list check karo	પ્લીઝ લિસ્ટ ચેક કરો	sure	unreviewed							
+2110	office	ame list karishu	અમે લિસ્ટ કરીશું	sure	unreviewed							
+2114	office	manager list mange che	મેનેજર લિસ્ટ માંગે છે	sure	unreviewed							
+2117	office	hu form karu chu	હું ફોર્મ કરું છું	sure	unreviewed							
+2118	office	hu form kari didhu	હું ફોર્મ કરી દીધું	sure	unreviewed							
+2123	office	customer ne form moklo	કસ્ટમર ને ફોર્મ મોકલો	sure	unreviewed							
+2124	office	please form check karo	પ્લીઝ ફોર્મ ચેક કરો	sure	unreviewed							
+2125	office	ame form karishu	અમે ફોર્મ કરીશું	sure	unreviewed							
+2129	office	manager form mange che	મેનેજર ફોર્મ માંગે છે	sure	unreviewed							
+2132	office	hu copy karu chu	હું કોપી કરું છું	sure	unreviewed							
+2133	office	hu copy kari didhu	હું કોપી કરી દીધું	sure	unreviewed							
+2138	office	customer ne copy moklo	કસ્ટમર ને કોપી મોકલો	sure	unreviewed							
+2139	office	please copy check karo	પ્લીઝ કોપી ચેક કરો	sure	unreviewed							
+2140	office	ame copy karishu	અમે કોપી કરીશું	sure	unreviewed							
+2144	office	manager copy mange che	મેનેજર કોપી માંગે છે	sure	unreviewed							
+2147	office	hu invoice karu chu	હું ઇન્વોઇસ કરું છું	sure	unreviewed							
+2148	office	hu invoice kari didhu	હું ઇન્વોઇસ કરી દીધું	sure	unreviewed							
+2153	office	customer ne invoice moklo	કસ્ટમર ને ઇન્વોઇસ મોકલો	sure	unreviewed							
+2154	office	please invoice check karo	પ્લીઝ ઇન્વોઇસ ચેક કરો	sure	unreviewed							
+2155	office	ame invoice karishu	અમે ઇન્વોઇસ કરીશું	sure	unreviewed							
+2159	office	manager invoice mange che	મેનેજર ઇન્વોઇસ માંગે છે	sure	unreviewed							
+2162	office	hu email karu chu	હું ઈમેલ કરું છું	sure	unreviewed							
+2163	office	hu email kari didhu	હું ઈમેલ કરી દીધું	sure	unreviewed							
+2168	office	customer ne email moklo	કસ્ટમર ને ઈમેલ મોકલો	sure	unreviewed							
+2169	office	please email check karo	પ્લીઝ ઈમેલ ચેક કરો	sure	unreviewed							
+2170	office	ame email karishu	અમે ઈમેલ કરીશું	sure	unreviewed							
+2174	office	manager email mange che	મેનેજર ઈમેલ માંગે છે	sure	unreviewed							
+2177	office	hu project karu chu	હું પ્રોજેક્ટ કરું છું	sure	unreviewed							
+2182	office	customer ne project moklo	કસ્ટમર ને પ્રોજેક્ટ મોકલો	sure	unreviewed							
+2183	office	please project check karo	પ્લીઝ પ્રોજેક્ટ ચેક કરો	sure	unreviewed							
+2184	office	ame project karishu	અમે પ્રોજેક્ટ કરીશું	sure	unreviewed							
+2186	office	hu project moklu chu	હું પ્રોજેક્ટ મોકલું છું	sure	unreviewed							
+2189	office	manager project mange che	મેનેજર પ્રોજેક્ટ માંગે છે	sure	unreviewed							
+2192	office	hu meeting karu chu	હું મીટિંગ કરું છું	sure	unreviewed							
+2197	office	customer ne meeting moklo	કસ્ટમર ને મીટિંગ મોકલો	sure	unreviewed							
+2198	office	please meeting check karo	પ્લીઝ મીટિંગ ચેક કરો	sure	unreviewed							
+2199	office	ame meeting karishu	અમે મીટિંગ કરીશું	sure	unreviewed							
+2201	office	hu meeting moklu chu	હું મીટિંગ મોકલું છું	sure	unreviewed							
+2204	office	manager meeting mange che	મેનેજર મીટિંગ માંગે છે	sure	unreviewed							
+2207	office	hu order karu chu	હું ઓર્ડર કરું છું	sure	unreviewed							
+2212	office	customer ne order moklo	કસ્ટમર ને ઓર્ડર મોકલો	sure	unreviewed							
+2213	office	please order check karo	પ્લીઝ ઓર્ડર ચેક કરો	sure	unreviewed							
+2214	office	ame order karishu	અમે ઓર્ડર કરીશું	sure	unreviewed							
+2216	office	hu order moklu chu	હું ઓર્ડર મોકલું છું	sure	unreviewed							
+2219	office	manager order mange che	મેનેજર ઓર્ડર માંગે છે	sure	unreviewed							
+2222	office	hu payment karu chu	હું પેમેન્ટ કરું છું	sure	unreviewed							
+2227	office	customer ne payment moklo	કસ્ટમર ને પેમેન્ટ મોકલો	sure	unreviewed							
+2228	office	please payment check karo	પ્લીઝ પેમેન્ટ ચેક કરો	sure	unreviewed							
+2229	office	ame payment karishu	અમે પેમેન્ટ કરીશું	sure	unreviewed							
+2231	office	hu payment moklu chu	હું પેમેન્ટ મોકલું છું	sure	unreviewed							
+2234	office	manager payment mange che	મેનેજર પેમેન્ટ માંગે છે	sure	unreviewed							
+2237	office	hu call karu chu	હું કોલ કરું છું	sure	unreviewed							
+2242	office	customer ne call moklo	કસ્ટમર ને કોલ મોકલો	sure	unreviewed							
+2243	office	please call check karo	પ્લીઝ કોલ ચેક કરો	sure	unreviewed							
+2244	office	ame call karishu	અમે કોલ કરીશું	sure	unreviewed							
+2246	office	hu call moklu chu	હું કોલ મોકલું છું	sure	unreviewed							
+2249	office	manager call mange che	મેનેજર કોલ માંગે છે	sure	unreviewed							
+2252	office	hu update karu chu	હું અપડેટ કરું છું	sure	unreviewed							
+2257	office	customer ne update moklo	કસ્ટમર ને અપડેટ મોકલો	sure	unreviewed							
+2258	office	please update check karo	પ્લીઝ અપડેટ ચેક કરો	sure	unreviewed							
+2259	office	ame update karishu	અમે અપડેટ કરીશું	sure	unreviewed							
+2261	office	hu update moklu chu	હું અપડેટ મોકલું છું	sure	unreviewed							
+2264	office	manager update mange che	મેનેજર અપડેટ માંગે છે	sure	unreviewed							
+2267	office	hu password karu chu	હું પાસવર્ડ કરું છું	sure	unreviewed							
+2268	office	hu password kari didhu	હું પાસવર્ડ કરી દીધું	sure	unreviewed							
+2273	office	customer ne password moklo	કસ્ટમર ને પાસવર્ડ મોકલો	sure	unreviewed							
+2274	office	please password check karo	પ્લીઝ પાસવર્ડ ચેક કરો	sure	unreviewed							
+2275	office	ame password karishu	અમે પાસવર્ડ કરીશું	sure	unreviewed							
+2277	office	hu password moklu chu	હું પાસવર્ડ મોકલું છું	sure	unreviewed							
+2280	office	manager password mange che	મેનેજર પાસવર્ડ માંગે છે	sure	unreviewed							
+2283	office	hu ticket karu chu	હું ટિકિટ કરું છું	sure	unreviewed							
+2284	office	hu ticket kari didhu	હું ટિકિટ કરી દીધું	sure	unreviewed							
+2289	office	customer ne ticket moklo	કસ્ટમર ને ટિકિટ મોકલો	sure	unreviewed							
+2290	office	please ticket check karo	પ્લીઝ ટિકિટ ચેક કરો	sure	unreviewed							
+2291	office	ame ticket karishu	અમે ટિકિટ કરીશું	sure	unreviewed							
+2293	office	hu ticket moklu chu	હું ટિકિટ મોકલું છું	sure	unreviewed							
+2296	office	manager ticket mange che	મેનેજર ટિકિટ માંગે છે	sure	unreviewed							
+2299	office	hu bill karu chu	હું બિલ કરું છું	sure	unreviewed							
+2300	office	hu bill kari didhu	હું બિલ કરી દીધું	sure	unreviewed							
+2305	office	customer ne bill moklo	કસ્ટમર ને બિલ મોકલો	sure	unreviewed							
+2306	office	please bill check karo	પ્લીઝ બિલ ચેક કરો	sure	unreviewed							
+2307	office	ame bill karishu	અમે બિલ કરીશું	sure	unreviewed							
+2309	office	hu bill moklu chu	હું બિલ મોકલું છું	sure	unreviewed							
+2312	office	manager bill mange che	મેનેજર બિલ માંગે છે	sure	unreviewed							

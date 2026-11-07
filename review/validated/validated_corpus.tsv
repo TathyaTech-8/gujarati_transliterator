@@ -1,0 +1,4 @@
+# Approved spellings only. A row is here because a person set native_status and reviewer_spelling.
+# Unreviewed editor spellings are not included.
+# An empty body means no human review has been imported.
+id	category	roman	reviewer_spelling	accepted_alternatives	native_status	dialect	reviewer_id

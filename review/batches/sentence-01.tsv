@@ -1,0 +1,90 @@
+# Batch 01 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+238	sentence	namaste	નમસ્તે	editor	unreviewed							
+239	sentence	ramram	રામરામ	editor	unreviewed							
+240	sentence	jay	જય	editor	unreviewed							
+561	sentence	salaam	સલામ	editor	unreviewed							
+562	sentence	namaskar	નમસ્કાર	editor	unreviewed							
+563	sentence	suprabhat	સુપ્રભાત	editor	unreviewed							
+564	sentence	shubh	શુભ	editor	unreviewed							
+566	sentence	shubh ratri	શુભ રાત્રી	editor	unreviewed							
+694	sentence	hu gujarati bolu chu	હું ગુજરાતી બોલું છું	editor	unreviewed							
+695	sentence	aaje bahu saru che	આજે બહુ સારું છે	editor	unreviewed							
+696	sentence	mare ghar javu che	મારે ઘર જવું છે	editor	unreviewed							
+697	sentence	tame kem cho	તમે કેમ છો	editor	unreviewed							
+698	sentence	aapnu gujarat	આપણું ગુજરાત	editor	unreviewed							
+699	sentence	hu ghar javu chu	હું ઘર જવું છું	editor	unreviewed							
+700	sentence	aaje kem cho	આજે કેમ છો	editor	unreviewed							
+701	sentence	shu karo cho	શું કરો છો	editor	unreviewed							
+702	sentence	hu aavyo	હું આવ્યો	editor	unreviewed							
+703	sentence	mane pani aap	મને પાણી આપ	editor	unreviewed							
+704	sentence	tame kya cho	તમે ક્યાં છો	editor	unreviewed							
+705	sentence	hu barabar chu	હું બરાબર છું	editor	unreviewed							
+706	sentence	aaje varsad che	આજે વરસાદ છે	editor	unreviewed							
+707	sentence	bahu garam che	બહુ ગરમ છે	editor	unreviewed							
+708	sentence	thandi hava che	ઠંડી હવા છે	editor	unreviewed							
+709	sentence	hu cha pi chu	હું ચા પી છું	editor	unreviewed							
+710	sentence	rotli saru che	રોટલી સારું છે	editor	unreviewed							
+711	sentence	mane bhukh lagi	મને ભૂખ લાગી	editor	unreviewed							
+712	sentence	tame jamo	તમે જમો	editor	unreviewed							
+713	sentence	paani aapo	પાણી આપો	editor	unreviewed							
+714	sentence	hu school jau chu	હું સ્કૂલ જાઉં છું	editor	unreviewed							
+715	sentence	aaje ravivar che	આજે રવિવાર છે	editor	unreviewed							
+716	sentence	kale aavjo	કાલે આવજો	editor	unreviewed							
+717	sentence	have javu che	હવે જવું છે	editor	unreviewed							
+718	sentence	hu tamne gamtu nathi	હું તમને ગમતો નથી	editor	unreviewed							
+725	sentence	ram ram saheb	રામ રામ સાહેબ	editor	unreviewed							
+726	sentence	namaste kem cho	નમસ્તે કેમ છો	editor	unreviewed							
+727	sentence	shubh prabhat	શુભ પ્રભાત	editor	unreviewed							
+728	sentence	aabhar tamne	આભાર તમને	editor	unreviewed							
+729	sentence	maaf karjo	માફ કરજો	editor	unreviewed							
+730	sentence	hu bhuli gayo	હું ભૂલી ગયો	editor	unreviewed							
+731	sentence	tame sachu bolo	તમે સાચું બોલો	editor	unreviewed							
+732	sentence	aa ketlu che	આ કેટલું છે	editor	unreviewed							
+733	sentence	mane bill aapo	મને બિલ આપો	editor	unreviewed							
+734	sentence	dukan bandh che	દુકાન બંધ છે	editor	unreviewed							
+735	sentence	bajar ma bhid che	બજાર માં ભીડ છે	editor	unreviewed							
+736	sentence	hu office jau chu	હું ઓફિસ જાઉં છું	editor	unreviewed							
+737	sentence	kaam bandh karyu	કામ બંધ કર્યું	editor	unreviewed							
+738	sentence	report tayar che	રિપોર્ટ તૈયાર છે	editor	unreviewed							
+739	sentence	meeting kale che	મીટિંગ કાલે છે	editor	unreviewed							
+740	sentence	hu doctor ne malva jau chu	હું ડૉક્ટર ને મળવા જાઉં છું	editor	unreviewed							
+741	sentence	mane tav che	મને તાવ છે	editor	unreviewed							
+742	sentence	dawai lidhi	દવા લીધી	editor	unreviewed							
+743	sentence	hospital door che	હોસ્પિટલ દૂર છે	editor	unreviewed							
+744	sentence	balak school ma che	બાળક સ્કૂલ માં છે	editor	unreviewed							
+745	sentence	shikshak aavya	શિક્ષક આવ્યા	editor	unreviewed							
+746	sentence	pustak khullo	પુસ્તક ખોલો	editor	unreviewed							
+747	sentence	homework kari lidhu	હોમવર્ક કરી લીધું	editor	unreviewed							
+748	sentence	pariksha kale che	પરીક્ષા કાલે છે	editor	unreviewed							
+749	sentence	hu cricket ramu chu	હું ક્રિકેટ રમું છું	editor	unreviewed							
+750	sentence	aamne jeet mali	અમને જીત મળી	editor	unreviewed							
+751	sentence	film saru hati	ફિલ્મ સારી હતી	editor	unreviewed							
+752	sentence	git gao	ગીત ગાઓ	editor	unreviewed							
+754	sentence	aaje somvar che	આજે સોમવાર છે	editor	unreviewed							
+761	sentence	hu train ma chu	હું ટ્રેન માં છું	editor	unreviewed							
+762	sentence	station ketlu door che	સ્ટેશન કેટલું દૂર છે	editor	unreviewed							
+763	sentence	ticket katyo	ટિકિટ કાપ્યો	editor	unreviewed							
+764	sentence	rickshaw aapo	રિક્ષા આપો	editor	unreviewed							
+765	sentence	rasto bandh che	રસ્તો બંધ છે	editor	unreviewed							
+766	sentence	varsaad thi rasto bhiyu	વરસાદ થી રસ્તો ભીનો	editor	unreviewed							
+767	sentence	bijli gayi	વીજળી ગઈ	editor	unreviewed							
+768	sentence	pankho chalavo	પંખો ચલાવો	editor	unreviewed							
+769	sentence	bari bandh karo	બારી બંધ કરો	editor	unreviewed							
+770	sentence	divo petavyo	દીવો પેટાવ્યો	editor	unreviewed							
+771	sentence	hu thakyo chu	હું થાક્યો છું	editor	unreviewed							
+772	sentence	bas besi jau	બસ બેસી જાઉ	editor	unreviewed							
+773	sentence	ek cup cha aapo	એક કપ ચા આપો	editor	unreviewed							
+774	sentence	mithu ochhu nakho	મીઠું ઓછું નાખો	editor	unreviewed							
+775	sentence	aa shaak saaru che	આ શાક સારું છે	editor	unreviewed							
+776	sentence	mane jeeru nathi gamtu	મને જીરું નથી ગમતું	editor	unreviewed							
+777	sentence	bhaji kapi aapo	ભાજી કાપી આપો	editor	unreviewed							
+778	sentence	dudh ubalya	દૂધ ઊકાળ્યા	editor	unreviewed							

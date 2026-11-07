@@ -1,0 +1,90 @@
+# Batch 02 of office. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1033	office	vs hospital	વીએસ હોસ્પિટલ	editor	unreviewed							
+1034	office	rbi office	આરબીઆઇ ઓફિસ	editor	unreviewed							
+1035	office	sbi branch	એસબીઆઇ બ્રાન્ચ	editor	unreviewed							
+1036	office	post office	પોસ્ટ ઓફિસ	editor	unreviewed							
+1037	office	railway station	રેલ્વે સ્ટેશન	editor	unreviewed							
+1038	office	bus stand	બસ સ્ટેન્ડ	editor	unreviewed							
+1039	office	airport terminal	એરપોર્ટ ટર્મિનલ	editor	unreviewed							
+1040	office	metro station	મેટ્રો સ્ટેશન	editor	unreviewed							
+1041	office	brts stop	બીઆરટીએસ સ્ટોપ	editor	unreviewed							
+1042	office	amts bus	એએમટીએસ બસ	editor	unreviewed							
+1043	office	gsrtc bus	જીએસઆરટીસી બસ	editor	unreviewed							
+1044	office	irctc ticket	આઇઆરસીટીસી ટિકિટ	editor	unreviewed							
+1077	office	fair price shop	ફેર પ્રાઇસ શોપ	editor	unreviewed							
+1078	office	mid day meal	મિડ ડે મીલ	editor	unreviewed							
+1079	office	school uniform	સ્કૂલ યુનિફોર્મ	editor	unreviewed							
+1080	office	exam hall	એક્ઝામ હોલ	editor	unreviewed							
+1081	office	answer sheet	આન્સર શીટ	editor	unreviewed							
+1082	office	question paper	ક્વેશ્ચન પેપર	editor	unreviewed							
+1083	office	practical exam	પ્રેક્ટિકલ એક્ઝામ	editor	unreviewed							
+1084	office	oral exam	ઓરલ એક્ઝામ	editor	unreviewed							
+1085	office	result date	રિઝલ્ટ ડેટ	editor	unreviewed							
+1086	office	admission round	એડમિશન રાઉન્ડ	editor	unreviewed							
+1087	office	merit list	મેરિટ લિસ્ટ	editor	unreviewed							
+1088	office	waiting list	વેઇટિંગ લિસ્ટ	editor	unreviewed							
+1089	office	hostel room	હોસ્ટેલ રૂમ	editor	unreviewed							
+1090	office	mess bill	મેસ બિલ	editor	unreviewed							
+1091	office	library card	લાઇબ્રેરી કાર્ડ	editor	unreviewed							
+1092	office	lab report	લેબ રિપોર્ટ	editor	unreviewed							
+1093	office	blood test	બ્લડ ટેસ્ટ	editor	unreviewed							
+1094	office	xray report	એક્સરે રિપોર્ટ	editor	unreviewed							
+1157	office	social distance	સોશિયલ ડિસ્ટન્સ	editor	unreviewed							
+1169	office	time over	ટાઇમ ઓવર	editor	unreviewed							
+1174	office	lunch break	લંચ બ્રેક	editor	unreviewed							
+1175	office	half day	હાફ ડે	editor	unreviewed							
+1176	office	full day	ફુલ ડે	editor	unreviewed							
+1177	office	night shift	નાઇટ શિફ્ટ	editor	unreviewed							
+1178	office	overtime che	ઓવરટાઇમ છે	editor	unreviewed							
+1179	office	salary slip	સેલરી સ્લિપ	editor	unreviewed							
+1180	office	pf katay	પીએફ કપાય	editor	unreviewed							
+1181	office	tds katay	ટીડીએસ કપાય	editor	unreviewed							
+1182	office	bonus aavyo	બોનસ આવ્યો	editor	unreviewed							
+1183	office	increment malyu	ઇન્ક્રિમેન્ટ મળ્યો	editor	unreviewed							
+1184	office	promotion thai	પ્રમોશન થયું	editor	unreviewed							
+1185	office	transfer order	ટ્રાન્સફર ઓર્ડર	editor	unreviewed							
+1186	office	resignation aapi	રાજીનામું આપ્યું	editor	unreviewed							
+1187	office	notice period	નોટિસ પિરિયડ	editor	unreviewed							
+1188	office	experience letter	એક્સપિરિયન્સ લેટર	editor	unreviewed							
+1189	office	joining date	જોઇનિંગ ડેટ	editor	unreviewed							
+1190	office	offer letter	ઓફર લેટર	editor	unreviewed							
+1191	office	interview kale	ઇન્ટરવ્યૂ કાલે	editor	unreviewed							
+1192	office	resume moklo	રિઝ્યુમે મોકલો	editor	unreviewed							
+1193	office	skill set shu	સ્કિલ સેટ શું	editor	unreviewed							
+1194	office	english aavde che	અંગ્રેજી આવડે છે	editor	unreviewed							
+1197	office	typing aavde che	ટાઇપિંગ આવડે છે	editor	unreviewed							
+1198	office	computer aavde che	કમ્પ્યુટર આવડે છે	editor	unreviewed							
+1199	office	driving aavde che	ડ્રાઇવિંગ આવડે છે	editor	unreviewed							
+1227	office	photo share kar	ફોટો શેર કર	editor	unreviewed							
+1228	office	video call kar	વિડિયો કોલ કર	editor	unreviewed							
+1229	office	voice note moklo	વોઇસ નોટ મોકલો	editor	unreviewed							
+1230	office	status muk	સ્ટેટસ મૂક	editor	unreviewed							
+1231	office	story joi	સ્ટોરી જોઈ	editor	unreviewed							
+1232	office	like karyu	લાઇક કર્યું	editor	unreviewed							
+1233	office	comment lakho	કોમેન્ટ લખો	editor	unreviewed							
+1234	office	share karo	શેર કરો	editor	unreviewed							
+1235	office	follow karo	ફોલો કરો	editor	unreviewed							
+1236	office	unfollow karyu	અનફોલો કર્યું	editor	unreviewed							
+1237	office	block karyo	બ્લોક કર્યો	editor	unreviewed							
+1238	office	report karyu	રિપોર્ટ કર્યું	editor	unreviewed							
+1239	office	spam che	સ્પામ છે	editor	unreviewed							
+1240	office	fake id che	ફેક આઇડી છે	editor	unreviewed							
+1241	office	profile update kar	પ્રોફાઇલ અપડેટ કર	editor	unreviewed							
+1242	office	bio lakhi	બાયો લખી	editor	unreviewed							
+1243	office	dp badli	ડીપી બદલી	editor	unreviewed							
+1244	office	cover photo	કવર ફોટો	editor	unreviewed							
+1245	office	group banavyo	ગ્રુપ બનાવ્યો	editor	unreviewed							
+1246	office	admin banavyo	એડમિન બનાવ્યો	editor	unreviewed							
+1247	office	member kadhyo	મેમ્બર કાઢ્યો	editor	unreviewed							
+1248	office	mute karyu	મ્યુટ કર્યું	editor	unreviewed							
+1249	office	pin message	પિન મેસેજ	editor	unreviewed							
+1250	office	forward karo	ફોરવર્ડ કરો	editor	unreviewed							

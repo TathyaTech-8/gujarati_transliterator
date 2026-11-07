@@ -5,6 +5,7 @@ import '../models/suggestion.dart';
 import '../models/transliteration_mode.dart';
 import '../utils/input_normalizer.dart';
 import '../utils/unicode_utils.dart';
+import 'grammar.dart';
 import 'informal_readings.dart';
 import 'phonetic_parser.dart';
 
@@ -102,6 +103,15 @@ class CandidateResolver {
         source: SuggestionSource.orthographic,
       );
     }
+    final grammar = _properNoun(word)
+        ? const <GrammarReading>[]
+        : GrammarReadings.generate(
+            parser: _parser,
+            original: word,
+            prepared: prepared,
+            literal: literal,
+            nextRoman: next,
+          );
     for (final reading in InformalReadings.generate(
       parser: _parser,
       dictionary: dictionary,
@@ -110,11 +120,25 @@ class CandidateResolver {
       literal: literal,
       nextRoman: next,
     )) {
+      // A real ending outranks a one-character lexicon bridge. શ/સ and the
+      // other weak alternates stay, because those readings are not strong.
+      if (grammar.isNotEmpty &&
+          reading.strong &&
+          reading.source == SuggestionSource.dictionary) {
+        continue;
+      }
       consider(
         text: reading.text,
         score: reading.strong
             ? _strongScore(reading.score, mode)
             : _editScore(reading.score, mode),
+        source: reading.source,
+      );
+    }
+    for (final reading in grammar) {
+      consider(
+        text: reading.text,
+        score: _strongScore(reading.score, mode),
         source: reading.source,
       );
     }
@@ -186,6 +210,17 @@ class CandidateResolver {
   /// Score for a built-in entry, in thousandths.
   int dictionaryScore(int frequency, TransliterationMode mode) {
     return _dictionaryScore(frequency, mode);
+  }
+
+  /// A stored name or place keeps its spelling. Verb endings do not rewrite it.
+  bool _properNoun(String word) {
+    final hits = dictionary.lookupWord(word);
+    if (hits.isEmpty) return false;
+    var best = hits.first;
+    for (final hit in hits.skip(1)) {
+      if (hit.frequency > best.frequency) best = hit;
+    }
+    return best.kind == EntryKind.name || best.kind == EntryKind.place;
   }
 
   /// Score for a custom entry, in thousandths.

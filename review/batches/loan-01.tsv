@@ -1,0 +1,16 @@
+# Batch 01 of loan. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+405	loan	phone	ફોન	editor	unreviewed							
+406	loan	mobile	મોબાઇલ	editor	unreviewed							
+407	loan	computer	કમ્પ્યુટર	editor	unreviewed							
+408	loan	internet	ઇન્ટરનેટ	editor	unreviewed							
+2369	loan	sbi	એસબીઆઇ	editor	unreviewed		acronym; local mapping can replace it					
+2370	loan	meeting	મીટિંગ	editor	unreviewed							

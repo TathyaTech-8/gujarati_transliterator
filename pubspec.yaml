@@ -2,7 +2,9 @@ name: gujarati_transliterator
 description: >-
   Offline English-to-Gujarati transliteration for Dart, with phonetic,
   standard, and intelligent modes.
-version: 1.2.0
+version: 1.5.0
+homepage: https://github.com/TathyaTech-8/gujarati_transliterator
+repository: https://github.com/TathyaTech-8/gujarati_transliterator
 environment:
   sdk: ">=3.0.0 <4.0.0"
 

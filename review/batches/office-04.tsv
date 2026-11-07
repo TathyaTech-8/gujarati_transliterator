@@ -1,0 +1,90 @@
+# Batch 04 of office. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1661	office	status pending che	સ્ટેટસ પેન્ડિંગ છે	sure	unreviewed							
+1662	office	invoice print karo	ઇન્વોઇસ પ્રિન્ટ કરો	sure	unreviewed							
+1663	office	customer ne call karjo	કસ્ટમર ને કોલ કરજો	sure	unreviewed							
+1664	office	order confirm karo	ઓર્ડર કન્ફર્મ કરો	sure	unreviewed							
+1665	office	discount aapo	ડિસ્કાઉન્ટ આપો	sure	unreviewed							
+1666	office	price shu che	પ્રાઇસ શું છે	sure	unreviewed							
+1667	office	cash ke card	કેશ કે કાર્ડ	sure	unreviewed							
+1668	office	parcel aavyo	પાર્સલ આવ્યો	sure	unreviewed							
+1669	office	return karvanu che	રિટર્ન કરવાનું છે	sure	unreviewed							
+1670	office	warranty check karo	વોરંટી ચેક કરો	review	unreviewed							
+1671	office	gst bill joiye	જીએસટી બિલ જોઈએ	sure	unreviewed							
+1672	office	account balance shu che	એકાઉન્ટ બેલેન્સ શું છે	sure	unreviewed							
+1673	office	transfer kari didhu	ટ્રાન્સફર કરી દીધું	sure	unreviewed							
+1674	office	refund aavse	રિફંડ આવશે	review	unreviewed							
+1675	office	customer wait kare che	કસ્ટમર વેઇટ કરે છે	review	unreviewed							
+1676	office	shop bandh che	શોપ બંધ છે	sure	unreviewed							
+1677	office	market ma bhiad che	માર્કેટ માં ભીડ છે	review	unreviewed							
+1678	office	navo order aavyo	નવો ઓર્ડર આવ્યો	sure	unreviewed							
+1679	office	stock khatam che	સ્ટોક ખતમ છે	review	unreviewed							
+1680	office	invoice email karjo	ઇન્વોઇસ ઈમેલ કરજો	sure	unreviewed							
+1716	office	good morning	ગુડ મોર્નિંગ	sure	unreviewed							
+1717	office	ok done	ઓકે ડન	sure	unreviewed							
+1718	office	please confirm karo	પ્લીઝ કન્ફર્મ કરો	sure	unreviewed							
+1719	office	meeting cancel karo	મીટિંગ કેન્સલ કરો	sure	unreviewed							
+1720	office	call cut thai gayo	કોલ કટ થઈ ગયો	review	unreviewed							
+1721	office	network nathi aavtu	નેટવર્ક નથી આવતું	sure	unreviewed							
+1722	office	whatsapp par moklo	વોટ્સએપ પર મોકલો	sure	unreviewed							
+1723	office	google par shodho	ગૂગલ પર શોધો	sure	unreviewed							
+1724	office	photo upload karo	ફોટો અપલોડ કરો	sure	unreviewed							
+1725	office	file download karo	ફાઇલ ડાઉનલોડ કરો	sure	unreviewed							
+1726	office	password reset karo	પાસવર્ડ રિસેટ કરો	review	unreviewed							
+1727	office	login fail thai	લોગિન ફેલ થઈ	sure	unreviewed							
+1728	office	code review karjo	કોડ રિવ્યૂ કરજો	sure	unreviewed							
+1729	office	Please send the document tomorrow	Please send the document tomorrow	sure	unreviewed							
+1730	office	I will call you tomorrow	I will call you tomorrow	sure	unreviewed							
+1731	office	She is going to the office	She is going to the office	sure	unreviewed							
+1732	office	We have a meeting today	We have a meeting today	sure	unreviewed							
+1733	office	Can you send the file	Can you send the file	sure	unreviewed							
+1847	office	please pani moklo	પ્લીઝ પાણી મોકલો	sure	unreviewed							
+1850	office	please chai moklo	પ્લીઝ ચા મોકલો	sure	unreviewed							
+1854	office	please time moklo	પ્લીઝ ટાઇમ મોકલો	sure	unreviewed							
+1858	office	please madad moklo	પ્લીઝ મદદ મોકલો	sure	unreviewed							
+1862	office	please number moklo	પ્લીઝ નંબર મોકલો	sure	unreviewed							
+1866	office	please address moklo	પ્લીઝ એડ્રેસ મોકલો	sure	unreviewed							
+1870	office	please ticket moklo	પ્લીઝ ટિકિટ મોકલો	sure	unreviewed							
+1874	office	please room moklo	પ્લીઝ રૂમ મોકલો	sure	unreviewed							
+1878	office	please key moklo	પ્લીઝ ચાવી મોકલો	review	unreviewed							
+1882	office	please bill moklo	પ્લીઝ બિલ મોકલો	sure	unreviewed							
+1883	office	meeting monday che	મીટિંગ મંડે છે	review	unreviewed							
+1886	office	order monday aavse	ઓર્ડર મંડે આવશે	review	unreviewed							
+1888	office	meeting tuesday che	મીટિંગ ટ્યુસડે છે	review	unreviewed							
+1891	office	order tuesday aavse	ઓર્ડર ટ્યુસડે આવશે	review	unreviewed							
+1893	office	meeting wednesday che	મીટિંગ વેડનેસડે છે	review	unreviewed							
+1896	office	order wednesday aavse	ઓર્ડર વેડનેસડે આવશે	review	unreviewed							
+1898	office	meeting thursday che	મીટિંગ થર્સડે છે	review	unreviewed							
+1901	office	order thursday aavse	ઓર્ડર થર્સડે આવશે	review	unreviewed							
+1903	office	meeting friday che	મીટિંગ ફ્રાઇડે છે	review	unreviewed							
+1906	office	order friday aavse	ઓર્ડર ફ્રાઇડે આવશે	review	unreviewed							
+1908	office	meeting saturday che	મીટિંગ સેટર્ડે છે	review	unreviewed							
+1911	office	order saturday aavse	ઓર્ડર સેટર્ડે આવશે	review	unreviewed							
+1913	office	meeting sunday che	મીટિંગ સન્ડે છે	review	unreviewed							
+1916	office	order sunday aavse	ઓર્ડર સન્ડે આવશે	review	unreviewed							
+1958	office	wifi bandh che	વાઇફાઇ બંધ છે	sure	unreviewed							
+1959	office	wifi error aave che	વાઇફાઇ એરર આવે છે	sure	unreviewed							
+1962	office	network nathi chaltu	નેટવર્ક નથી ચાલતું	sure	unreviewed							
+1963	office	network bandh che	નેટવર્ક બંધ છે	sure	unreviewed							
+1964	office	network error aave che	નેટવર્ક એરર આવે છે	sure	unreviewed							
+1967	office	server nathi chaltu	સર્વર નથી ચાલતું	sure	unreviewed							
+1968	office	server bandh che	સર્વર બંધ છે	sure	unreviewed							
+1969	office	server error aave che	સર્વર એરર આવે છે	sure	unreviewed							
+1972	office	printer nathi chaltu	પ્રિન્ટર નથી ચાલતું	sure	unreviewed							
+1973	office	printer bandh che	પ્રિન્ટર બંધ છે	sure	unreviewed							
+1974	office	printer error aave che	પ્રિન્ટર એરર આવે છે	sure	unreviewed							
+1977	office	laptop nathi chaltu	લેપટોપ નથી ચાલતું	sure	unreviewed							
+1978	office	laptop error aave che	લેપટોપ એરર આવે છે	sure	unreviewed							
+1981	office	phone nathi chaltu	ફોન નથી ચાલતું	sure	unreviewed							
+1982	office	phone bandh che	ફોન બંધ છે	sure	unreviewed							
+1983	office	phone error aave che	ફોન એરર આવે છે	sure	unreviewed							
+1986	office	system nathi chaltu	સિસ્ટમ નથી ચાલતું	sure	unreviewed							
+1987	office	system bandh che	સિસ્ટમ બંધ છે	sure	unreviewed							

@@ -1,0 +1,90 @@
+# Batch 06 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1453	sentence	tame mane report karjo	તમે મને રિપોર્ટ કરજો	sure	unreviewed							
+1455	sentence	shu report karvanu che	શું રિપોર્ટ કરવાનું છે	sure	unreviewed							
+1457	sentence	tame mane order karjo	તમે મને ઓર્ડર કરજો	sure	unreviewed							
+1459	sentence	shu order karvanu che	શું ઓર્ડર કરવાનું છે	sure	unreviewed							
+1461	sentence	tame mane plan karjo	તમે મને પ્લાન કરજો	sure	unreviewed							
+1463	sentence	shu plan karvanu che	શું પ્લાન કરવાનું છે	sure	unreviewed							
+1465	sentence	tame mane update karjo	તમે મને અપડેટ કરજો	sure	unreviewed							
+1467	sentence	shu update karvanu che	શું અપડેટ કરવાનું છે	sure	unreviewed							
+1469	sentence	tame mane check karjo	તમે મને ચેક કરજો	sure	unreviewed							
+1471	sentence	shu check karvanu che	શું ચેક કરવાનું છે	sure	unreviewed							
+1473	sentence	tame mane kaam karjo	તમે મને કામ કરજો	sure	unreviewed							
+1475	sentence	shu kaam karvanu che	શું કામ કરવાનું છે	sure	unreviewed							
+1476	sentence	aa document mokli aapjo	આ ડોક્યુમેન્ટ મોકલી આપજો	sure	unreviewed							
+1480	sentence	aa file mokli aapjo	આ ફાઇલ મોકલી આપજો	sure	unreviewed							
+1484	sentence	aa photo mokli aapjo	આ ફોટો મોકલી આપજો	sure	unreviewed							
+1488	sentence	aa report mokli aapjo	આ રિપોર્ટ મોકલી આપજો	sure	unreviewed							
+1492	sentence	aa message mokli aapjo	આ મેસેજ મોકલી આપજો	sure	unreviewed							
+1495	sentence	aa email mokli aapjo	આ ઈમેલ મોકલી આપજો	sure	unreviewed							
+1499	sentence	aa list mokli aapjo	આ લિસ્ટ મોકલી આપજો	sure	unreviewed							
+1503	sentence	aa form mokli aapjo	આ ફોર્મ મોકલી આપજો	sure	unreviewed							
+1507	sentence	aa copy mokli aapjo	આ કોપી મોકલી આપજો	sure	unreviewed							
+1511	sentence	aa invoice mokli aapjo	આ ઇન્વોઇસ મોકલી આપજો	sure	unreviewed							
+1517	sentence	chai aapo	ચા આપો	sure	unreviewed							
+1520	sentence	pani aapo	પાણી આપો	sure	unreviewed							
+1523	sentence	roti aapo	રોટી આપો	sure	unreviewed							
+1526	sentence	dal aapo	દાળ આપો	sure	unreviewed							
+1529	sentence	bhat aapo	ભાત આપો	sure	unreviewed							
+1532	sentence	shaak aapo	શાક આપો	sure	unreviewed							
+1535	sentence	doodh aapo	દૂધ આપો	sure	unreviewed							
+1538	sentence	coffee aapo	કોફી આપો	review	unreviewed							
+1541	sentence	maa kem nathi aavya	મા કેમ નથી આવ્યા	sure	unreviewed							
+1544	sentence	bhai kem nathi aavya	ભાઈ કેમ નથી આવ્યા	sure	unreviewed							
+1547	sentence	ben kem nathi aavya	બહેન કેમ નથી આવ્યા	sure	unreviewed							
+1550	sentence	papa kem nathi aavya	પપ્પા કેમ નથી આવ્યા	sure	unreviewed							
+1553	sentence	dada kem nathi aavya	દાદા કેમ નથી આવ્યા	sure	unreviewed							
+1556	sentence	dadi kem nathi aavya	દાદી કેમ નથી આવ્યા	sure	unreviewed							
+1559	sentence	kaka kem nathi aavya	કાકા કેમ નથી આવ્યા	sure	unreviewed							
+1562	sentence	mami kem nathi aavya	મામી કેમ નથી આવ્યા	sure	unreviewed							
+1587	sentence	tame kyare aavsho	તમે ક્યારે આવશો	sure	unreviewed							
+1588	sentence	hu shu karu	હું શું કરું	sure	unreviewed							
+1589	sentence	aa shu che	આ શું છે	sure	unreviewed							
+1590	sentence	e kya che	એ ક્યાં છે	sure	unreviewed							
+1591	sentence	paani kevu che	પાણી કેવું છે	sure	unreviewed							
+1592	sentence	chai kevi che	ચા કેવી છે	sure	unreviewed							
+1593	sentence	tame rite samjya	તમે રીતે સમજ્યા	review	unreviewed							
+1594	sentence	hu have aavu	હું હવે આવું	sure	unreviewed							
+1595	sentence	tame aavya ke nahi	તમે આવ્યા કે નહીં	sure	unreviewed							
+1596	sentence	phone kyare karsho	ફોન ક્યારે કરશો	sure	unreviewed							
+1597	sentence	message malyo ke nahi	મેસેજ મળ્યો કે નહીં	sure	unreviewed							
+1598	sentence	office khuli che	ઓફિસ ખુલી છે	review	unreviewed							
+1599	sentence	meeting ketli vage che	મીટિંગ કેટલી વાગે છે	sure	unreviewed							
+1600	sentence	please beso	પ્લીઝ બેસો	sure	unreviewed							
+1601	sentence	darvajo kholo	દરવાજો ખોલો	sure	unreviewed							
+1602	sentence	light bandh karo	લાઇટ બંધ કરો	sure	unreviewed							
+1603	sentence	fan chaloo karo	ફેન ચાલુ કરો	review	unreviewed							
+1604	sentence	file save karo	ફાઇલ સેવ કરો	sure	unreviewed							
+1605	sentence	photo moklo	ફોટો મોકલો	sure	unreviewed							
+1606	sentence	call karjo	કોલ કરજો	sure	unreviewed							
+1607	sentence	message vachjo	મેસેજ વાંચજો	sure	unreviewed							
+1608	sentence	report lakho	રિપોર્ટ લખો	sure	unreviewed							
+1609	sentence	please madad karo	પ્લીઝ મદદ કરો	sure	unreviewed							
+1610	sentence	aa form bharjo	આ ફોર્મ ભરજો	sure	unreviewed							
+1611	sentence	copy kari aapo	કોપી કરી આપો	sure	unreviewed							
+1612	sentence	print kari aapo	પ્રિન્ટ કરી આપો	sure	unreviewed							
+1751	sentence	tame savare aavish ke	તમે સવારે આવીશ કે	review	unreviewed							
+1753	sentence	tame savare jaish ke	તમે સવારે જઈશ કે	review	unreviewed							
+1755	sentence	tame savare nikadish ke	તમે સવારે નીકળીશ કે	review	unreviewed							
+1757	sentence	tame savare pohchish ke	તમે સવારે પહોંચીશ કે	review	unreviewed							
+1759	sentence	tame bapore aavish ke	તમે બપોરે આવીશ કે	review	unreviewed							
+1761	sentence	tame bapore jaish ke	તમે બપોરે જઈશ કે	review	unreviewed							
+1763	sentence	tame bapore nikadish ke	તમે બપોરે નીકળીશ કે	review	unreviewed							
+1765	sentence	tame bapore pohchish ke	તમે બપોરે પહોંચીશ કે	review	unreviewed							
+1767	sentence	tame sanj e aavish ke	તમે સાંજ એ આવીશ કે	review	unreviewed							
+1769	sentence	tame sanj e jaish ke	તમે સાંજ એ જઈશ કે	review	unreviewed							
+1771	sentence	tame sanj e nikadish ke	તમે સાંજ એ નીકળીશ કે	review	unreviewed							
+1773	sentence	tame sanj e pohchish ke	તમે સાંજ એ પહોંચીશ કે	review	unreviewed							
+1775	sentence	tame raat e aavish ke	તમે રાત એ આવીશ કે	review	unreviewed							
+1777	sentence	tame raat e jaish ke	તમે રાત એ જઈશ કે	review	unreviewed							
+1779	sentence	tame raat e nikadish ke	તમે રાત એ નીકળીશ કે	review	unreviewed							
+1781	sentence	tame raat e pohchish ke	તમે રાત એ પહોંચીશ કે	review	unreviewed							

@@ -97,6 +97,7 @@ InformalReading? _aapPossessive(PhoneticParser parser, String prepared) {
     'aapnu': 'aapa.nu.m',
     'aapni': 'aapa.ni',
     'aapno': 'aapa.no',
+    'aapde': 'aapa.ne',
   };
   final alternate = keys[prepared];
   if (alternate == null) return null;
@@ -398,7 +399,8 @@ List<_Token> _scan(String prepared) {
   var index = 0;
   while (index < prepared.length) {
     if (prepared.startsWith('.e', index) || prepared.startsWith('.o', index)) {
-      tokens.add(_Token(_Kind.vowel, prepared.substring(index, index + 2), index));
+      tokens.add(
+          _Token(_Kind.vowel, prepared.substring(index, index + 2), index));
       index += 2;
       continue;
     }

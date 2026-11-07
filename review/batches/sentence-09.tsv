@@ -1,0 +1,60 @@
+# Batch 09 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+2181	sentence	project kyare karshu	પ્રોજેક્ટ ક્યારે કરશું	review	unreviewed							
+2187	sentence	tame project vachjo	તમે પ્રોજેક્ટ વાંચજો	sure	unreviewed							
+2188	sentence	tame project karyu	તમે પ્રોજેક્ટ કર્યું	review	unreviewed							
+2194	sentence	tame meeting karjo	તમે મીટિંગ કરજો	sure	unreviewed							
+2196	sentence	meeting kyare karshu	મીટિંગ ક્યારે કરશું	review	unreviewed							
+2202	sentence	tame meeting vachjo	તમે મીટિંગ વાંચજો	sure	unreviewed							
+2203	sentence	tame meeting karyu	તમે મીટિંગ કર્યું	review	unreviewed							
+2209	sentence	tame order karjo	તમે ઓર્ડર કરજો	sure	unreviewed							
+2211	sentence	order kyare karshu	ઓર્ડર ક્યારે કરશું	review	unreviewed							
+2217	sentence	tame order vachjo	તમે ઓર્ડર વાંચજો	sure	unreviewed							
+2218	sentence	tame order karyu	તમે ઓર્ડર કર્યું	review	unreviewed							
+2224	sentence	tame payment karjo	તમે પેમેન્ટ કરજો	sure	unreviewed							
+2226	sentence	payment kyare karshu	પેમેન્ટ ક્યારે કરશું	review	unreviewed							
+2232	sentence	tame payment vachjo	તમે પેમેન્ટ વાંચજો	sure	unreviewed							
+2233	sentence	tame payment karyu	તમે પેમેન્ટ કર્યું	review	unreviewed							
+2239	sentence	tame call karjo	તમે કોલ કરજો	sure	unreviewed							
+2241	sentence	call kyare karshu	કોલ ક્યારે કરશું	review	unreviewed							
+2247	sentence	tame call vachjo	તમે કોલ વાંચજો	sure	unreviewed							
+2248	sentence	tame call karyu	તમે કોલ કર્યું	review	unreviewed							
+2254	sentence	tame update karjo	તમે અપડેટ કરજો	sure	unreviewed							
+2256	sentence	update kyare karshu	અપડેટ ક્યારે કરશું	review	unreviewed							
+2262	sentence	tame update vachjo	તમે અપડેટ વાંચજો	sure	unreviewed							
+2263	sentence	tame update karyu	તમે અપડેટ કર્યું	review	unreviewed							
+2270	sentence	tame password karjo	તમે પાસવર્ડ કરજો	sure	unreviewed							
+2272	sentence	password kyare karshu	પાસવર્ડ ક્યારે કરશું	review	unreviewed							
+2278	sentence	tame password vachjo	તમે પાસવર્ડ વાંચજો	sure	unreviewed							
+2279	sentence	tame password karyu	તમે પાસવર્ડ કર્યું	review	unreviewed							
+2286	sentence	tame ticket karjo	તમે ટિકિટ કરજો	sure	unreviewed							
+2288	sentence	ticket kyare karshu	ટિકિટ ક્યારે કરશું	review	unreviewed							
+2294	sentence	tame ticket vachjo	તમે ટિકિટ વાંચજો	sure	unreviewed							
+2295	sentence	tame ticket karyu	તમે ટિકિટ કર્યું	review	unreviewed							
+2302	sentence	tame bill karjo	તમે બિલ કરજો	sure	unreviewed							
+2304	sentence	bill kyare karshu	બિલ ક્યારે કરશું	review	unreviewed							
+2310	sentence	tame bill vachjo	તમે બિલ વાંચજો	sure	unreviewed							
+2311	sentence	tame bill karyu	તમે બિલ કર્યું	review	unreviewed							
+2317	sentence	rasoi saaf karo	રસોઈ સાફ કરો	review	unreviewed							
+2318	sentence	rasoi kya che	રસોઈ ક્યાં છે	sure	unreviewed							
+2321	sentence	orhu saaf karo	ઓરડો સાફ કરો	review	unreviewed							
+2322	sentence	orhu kya che	ઓરડો ક્યાં છે	review	unreviewed							
+2325	sentence	bagad saaf karo	બગીચો સાફ કરો	review	unreviewed							
+2326	sentence	bagad kya che	બગીચો ક્યાં છે	review	unreviewed							
+2329	sentence	aangan saaf karo	આંગણું સાફ કરો	review	unreviewed							
+2330	sentence	aangan kya che	આંગણું ક્યાં છે	review	unreviewed							
+2333	sentence	chok saaf karo	ચોક સાફ કરો	review	unreviewed							
+2334	sentence	chok kya che	ચોક ક્યાં છે	review	unreviewed							
+2336	sentence	varsad kem che	વરસાદ કેમ છે	sure	unreviewed							
+2340	sentence	thandi kem che	ઠંડી કેમ છે	sure	unreviewed							
+2344	sentence	garami kem che	ગરમી કેમ છે	sure	unreviewed							
+2348	sentence	pavan kem che	પવન કેમ છે	sure	unreviewed							
+2352	sentence	vajr kem che	વીજળી કેમ છે	review	unreviewed							

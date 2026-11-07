@@ -1,0 +1,61 @@
+# Batch 06 of office. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+2192	office	hu meeting karu chu	હું મીટિંગ કરું છું	sure	unreviewed							
+2197	office	customer ne meeting moklo	કસ્ટમર ને મીટિંગ મોકલો	sure	unreviewed							
+2198	office	please meeting check karo	પ્લીઝ મીટિંગ ચેક કરો	sure	unreviewed							
+2199	office	ame meeting karishu	અમે મીટિંગ કરીશું	sure	unreviewed							
+2201	office	hu meeting moklu chu	હું મીટિંગ મોકલું છું	sure	unreviewed							
+2204	office	manager meeting mange che	મેનેજર મીટિંગ માંગે છે	sure	unreviewed							
+2207	office	hu order karu chu	હું ઓર્ડર કરું છું	sure	unreviewed							
+2212	office	customer ne order moklo	કસ્ટમર ને ઓર્ડર મોકલો	sure	unreviewed							
+2213	office	please order check karo	પ્લીઝ ઓર્ડર ચેક કરો	sure	unreviewed							
+2214	office	ame order karishu	અમે ઓર્ડર કરીશું	sure	unreviewed							
+2216	office	hu order moklu chu	હું ઓર્ડર મોકલું છું	sure	unreviewed							
+2219	office	manager order mange che	મેનેજર ઓર્ડર માંગે છે	sure	unreviewed							
+2222	office	hu payment karu chu	હું પેમેન્ટ કરું છું	sure	unreviewed							
+2227	office	customer ne payment moklo	કસ્ટમર ને પેમેન્ટ મોકલો	sure	unreviewed							
+2228	office	please payment check karo	પ્લીઝ પેમેન્ટ ચેક કરો	sure	unreviewed							
+2229	office	ame payment karishu	અમે પેમેન્ટ કરીશું	sure	unreviewed							
+2231	office	hu payment moklu chu	હું પેમેન્ટ મોકલું છું	sure	unreviewed							
+2234	office	manager payment mange che	મેનેજર પેમેન્ટ માંગે છે	sure	unreviewed							
+2237	office	hu call karu chu	હું કોલ કરું છું	sure	unreviewed							
+2242	office	customer ne call moklo	કસ્ટમર ને કોલ મોકલો	sure	unreviewed							
+2243	office	please call check karo	પ્લીઝ કોલ ચેક કરો	sure	unreviewed							
+2244	office	ame call karishu	અમે કોલ કરીશું	sure	unreviewed							
+2246	office	hu call moklu chu	હું કોલ મોકલું છું	sure	unreviewed							
+2249	office	manager call mange che	મેનેજર કોલ માંગે છે	sure	unreviewed							
+2252	office	hu update karu chu	હું અપડેટ કરું છું	sure	unreviewed							
+2257	office	customer ne update moklo	કસ્ટમર ને અપડેટ મોકલો	sure	unreviewed							
+2258	office	please update check karo	પ્લીઝ અપડેટ ચેક કરો	sure	unreviewed							
+2259	office	ame update karishu	અમે અપડેટ કરીશું	sure	unreviewed							
+2261	office	hu update moklu chu	હું અપડેટ મોકલું છું	sure	unreviewed							
+2264	office	manager update mange che	મેનેજર અપડેટ માંગે છે	sure	unreviewed							
+2267	office	hu password karu chu	હું પાસવર્ડ કરું છું	sure	unreviewed							
+2268	office	hu password kari didhu	હું પાસવર્ડ કરી દીધું	sure	unreviewed							
+2273	office	customer ne password moklo	કસ્ટમર ને પાસવર્ડ મોકલો	sure	unreviewed							
+2274	office	please password check karo	પ્લીઝ પાસવર્ડ ચેક કરો	sure	unreviewed							
+2275	office	ame password karishu	અમે પાસવર્ડ કરીશું	sure	unreviewed							
+2277	office	hu password moklu chu	હું પાસવર્ડ મોકલું છું	sure	unreviewed							
+2280	office	manager password mange che	મેનેજર પાસવર્ડ માંગે છે	sure	unreviewed							
+2283	office	hu ticket karu chu	હું ટિકિટ કરું છું	sure	unreviewed							
+2284	office	hu ticket kari didhu	હું ટિકિટ કરી દીધું	sure	unreviewed							
+2289	office	customer ne ticket moklo	કસ્ટમર ને ટિકિટ મોકલો	sure	unreviewed							
+2290	office	please ticket check karo	પ્લીઝ ટિકિટ ચેક કરો	sure	unreviewed							
+2291	office	ame ticket karishu	અમે ટિકિટ કરીશું	sure	unreviewed							
+2293	office	hu ticket moklu chu	હું ટિકિટ મોકલું છું	sure	unreviewed							
+2296	office	manager ticket mange che	મેનેજર ટિકિટ માંગે છે	sure	unreviewed							
+2299	office	hu bill karu chu	હું બિલ કરું છું	sure	unreviewed							
+2300	office	hu bill kari didhu	હું બિલ કરી દીધું	sure	unreviewed							
+2305	office	customer ne bill moklo	કસ્ટમર ને બિલ મોકલો	sure	unreviewed							
+2306	office	please bill check karo	પ્લીઝ બિલ ચેક કરો	sure	unreviewed							
+2307	office	ame bill karishu	અમે બિલ કરીશું	sure	unreviewed							
+2309	office	hu bill moklu chu	હું બિલ મોકલું છું	sure	unreviewed							
+2312	office	manager bill mange che	મેનેજર બિલ માંગે છે	sure	unreviewed							

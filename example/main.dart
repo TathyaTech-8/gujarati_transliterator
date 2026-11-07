@@ -19,6 +19,8 @@ Future<void> main() async {
     'Aabhar',
     'Mitra',
     'Kem cho?',
+    'hu office ma chu',
+    'Please send the document tomorrow',
     'saputara',
     'shraddhanjali',
     'krishna',

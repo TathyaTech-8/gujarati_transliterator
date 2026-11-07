@@ -1,0 +1,71 @@
+# Batch 01 of informal. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+1696	informal	hu gujarati bolu chu	હું ગુજરાતી બોલું છું	sure	unreviewed							
+1697	informal	aaje bahu saru che	આજે બહુ સારું છે	sure	unreviewed							
+1698	informal	mare ghar javu che	મારે ઘર જવું છે	sure	unreviewed							
+1699	informal	tame kem cho	તમે કેમ છો	sure	unreviewed							
+1700	informal	aapnu gujarat	આપણું ગુજરાત	sure	unreviewed							
+1701	informal	chal have nikalie	ચાલ હવે નીકળીએ	review	unreviewed							
+1702	informal	bas kar have	બસ કર હવે	sure	unreviewed							
+1703	informal	shu thai gayu	શું થઈ ગયું	sure	unreviewed							
+1704	informal	mane nathi khabar	મને નથી ખબર	sure	unreviewed							
+1705	informal	tame maja ma cho	તમે મજા માં છો	sure	unreviewed							
+1706	informal	hu free chu	હું ફ્રી છું	sure	unreviewed							
+1707	informal	tame busy cho	તમે બિઝી છો	sure	unreviewed							
+1708	informal	have aavish	હવે આવીશ	sure	unreviewed							
+1709	informal	pachi milishu	પછી મળીશું	review	unreviewed							
+1710	informal	saru lage che	સારું લાગે છે	sure	unreviewed							
+1711	informal	ochhu bol	ઓછું બોલ	sure	unreviewed							
+1712	informal	vadharo mat	વધારો મત	review	unreviewed							
+1713	informal	male che	મળે છે	sure	unreviewed							
+1714	informal	nathi maltu	નથી મળતું	sure	unreviewed							
+1715	informal	chaltu nathi	ચાલતું નથી	sure	unreviewed							
+1793	informal	ghar ma chu	ઘર માં છું	sure	unreviewed							
+2016	informal	hu document karish	હું ડોક્યુમેન્ટ કરીશ	sure	unreviewed							
+2027	informal	have document karie	હવે ડોક્યુમેન્ટ કરીએ	review	unreviewed							
+2031	informal	hu file karish	હું ફાઇલ કરીશ	sure	unreviewed							
+2042	informal	have file karie	હવે ફાઇલ કરીએ	review	unreviewed							
+2046	informal	hu photo karish	હું ફોટો કરીશ	sure	unreviewed							
+2057	informal	have photo karie	હવે ફોટો કરીએ	review	unreviewed							
+2061	informal	hu message karish	હું મેસેજ કરીશ	sure	unreviewed							
+2072	informal	have message karie	હવે મેસેજ કરીએ	review	unreviewed							
+2075	informal	hu report karish	હું રિપોર્ટ કરીશ	sure	unreviewed							
+2085	informal	have report karie	હવે રિપોર્ટ કરીએ	review	unreviewed							
+2088	informal	hu plan karish	હું પ્લાન કરીશ	sure	unreviewed							
+2100	informal	have plan karie	હવે પ્લાન કરીએ	review	unreviewed							
+2104	informal	hu list karish	હું લિસ્ટ કરીશ	sure	unreviewed							
+2115	informal	have list karie	હવે લિસ્ટ કરીએ	review	unreviewed							
+2119	informal	hu form karish	હું ફોર્મ કરીશ	sure	unreviewed							
+2130	informal	have form karie	હવે ફોર્મ કરીએ	review	unreviewed							
+2134	informal	hu copy karish	હું કોપી કરીશ	sure	unreviewed							
+2145	informal	have copy karie	હવે કોપી કરીએ	review	unreviewed							
+2149	informal	hu invoice karish	હું ઇન્વોઇસ કરીશ	sure	unreviewed							
+2160	informal	have invoice karie	હવે ઇન્વોઇસ કરીએ	review	unreviewed							
+2164	informal	hu email karish	હું ઈમેલ કરીશ	sure	unreviewed							
+2175	informal	have email karie	હવે ઈમેલ કરીએ	review	unreviewed							
+2178	informal	hu project karish	હું પ્રોજેક્ટ કરીશ	sure	unreviewed							
+2190	informal	have project karie	હવે પ્રોજેક્ટ કરીએ	review	unreviewed							
+2193	informal	hu meeting karish	હું મીટિંગ કરીશ	sure	unreviewed							
+2205	informal	have meeting karie	હવે મીટિંગ કરીએ	review	unreviewed							
+2208	informal	hu order karish	હું ઓર્ડર કરીશ	sure	unreviewed							
+2220	informal	have order karie	હવે ઓર્ડર કરીએ	review	unreviewed							
+2223	informal	hu payment karish	હું પેમેન્ટ કરીશ	sure	unreviewed							
+2235	informal	have payment karie	હવે પેમેન્ટ કરીએ	review	unreviewed							
+2238	informal	hu call karish	હું કોલ કરીશ	sure	unreviewed							
+2250	informal	have call karie	હવે કોલ કરીએ	review	unreviewed							
+2253	informal	hu update karish	હું અપડેટ કરીશ	sure	unreviewed							
+2265	informal	have update karie	હવે અપડેટ કરીએ	review	unreviewed							
+2269	informal	hu password karish	હું પાસવર્ડ કરીશ	sure	unreviewed							
+2281	informal	have password karie	હવે પાસવર્ડ કરીએ	review	unreviewed							
+2285	informal	hu ticket karish	હું ટિકિટ કરીશ	sure	unreviewed							
+2297	informal	have ticket karie	હવે ટિકિટ કરીએ	review	unreviewed							
+2301	informal	hu bill karish	હું બિલ કરીશ	sure	unreviewed							
+2313	informal	have bill karie	હવે બિલ કરીએ	review	unreviewed							

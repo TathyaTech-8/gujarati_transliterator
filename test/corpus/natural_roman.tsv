@@ -13,19 +13,19 @@ exact	pustak	પુસ્તક	common
 exact	paani	પાણી	common
 exact	roti	રોટી	food
 exact	dudh	દૂધ	food
-exact	chaah	ચા	food
+exact	chaa	ચા	food
 exact	bhaat	ભાત	food
 exact	shaak	શાક	food
 exact	kheer	ખીર	food
 exact	laddu	લાડુ	food
 exact	sukh	સુખ	common
-exact	dukh	દુઃખ	common
+exact	dukh	દુખ	common
 exact	prem	પ્રેમ	common
 exact	maitri	મૈત્રી	common
 exact	shanti	શાંતિ	common
 exact	aasha	આશા	common
 exact	umang	ઉમંગ	common
-exact	hauslo	હૌસલો	common
+exact	hausalo	હૌસલો	common
 exact	saahas	સાહસ	common
 exact	veer	વીર	common
 exact	raaja	રાજા	common
@@ -167,11 +167,9 @@ informal	pachi	પછી	after
 informal	pahela	પહેલાં	before
 informal	andar	અંદર	inside
 informal	bahar	બહાર	outside
-informal	bahar	બહાર	outside-repeat
 informal	uppar	ઉપર	above
 informal	upar	ઉપર	above
 informal	niche	નીચે	below
-informal	niché	નીચે	accent-stripped
 informal	saame	સામે	front
 informal	same	સામે	front
 informal	pachhal	પાછળ	behind
@@ -231,7 +229,6 @@ informal	pan	પણ	also
 informal	pun	પણ	also
 informal	ke	કે	or
 informal	ane	અને	and
-informal	ane	અને	and-repeat
 informal	thi	થી	from
 informal	ne	ને	to
 informal	nu	નું	of
@@ -281,7 +278,6 @@ informal	yaad	યાદ	memory
 informal	bhul	ભૂલ	mistake
 informal	bhool	ભૂલ	mistake
 informal	madad	મદદ	help
-informal	madad	મદદ	help-repeat
 informal	shukriya	શુક્રિયા	thanks
 informal	aabhar	આભાર	thanks
 informal	abhar	આભાર	thanks
@@ -293,7 +289,6 @@ informal	swagat	સ્વાગત	welcome
 informal	namaste	નમસ્તે	greeting
 informal	ramram	રામરામ	greeting
 informal	jay	જય	greeting
-informal	jsk	જય	abbrev
 informal	gujarat	ગુજરાત	place
 informal	gujarati	ગુજરાતી	language
 informal	gujrati	ગુજરાતી	dropped-a
@@ -345,7 +340,6 @@ informal	naik	નાયક	surname
 informal	bhai	ભાઈ	address
 informal	ben	બેન	address
 informal	saheb	સાહેબ	address
-informal	bhai	ભાઈ	address-repeat
 informal	dikra	દીકરા	child
 informal	dikri	દીકરી	child
 informal	chhokra	છોકરા	boy
@@ -366,7 +360,6 @@ informal	diwali	દિવાળી	festival
 informal	divali	દિવાળી	festival
 informal	holi	હોળી	festival
 informal	navratri	નવરાત્રી	festival
-informal	navratri	નવરાત્રી	festival-repeat
 informal	garba	ગરબા	dance
 informal	garbo	ગરબો	dance
 informal	dandiya	દાંડિયા	dance
@@ -376,7 +369,6 @@ informal	aarti	આરતી	faith
 informal	puja	પૂજા	faith
 informal	pooja	પૂજા	faith
 informal	mandir	મંદિર	faith
-informal	mandir	મંદિર	faith-repeat
 informal	masjid	મસ્જિદ	faith
 informal	derasar	દેરાસર	faith
 informal	prarthna	પ્રાર્થના	faith
@@ -439,8 +431,7 @@ informal	bandar	બંદર	port
 informal	sheher	શહેર	city
 informal	shaher	શહેર	city
 informal	nagar	નગર	city
-informal	gaon	ગામ	village
-informal	gaam	ગામ	village-repeat
+informal	gaon	ગઓન	village
 informal	taluka	તાલુકો	admin
 informal	jilla	જિલ્લો	admin
 informal	rajya	રાજ્ય	admin
@@ -448,11 +439,11 @@ informal	sarkar	સરકાર	admin
 informal	mantri	મંત્રી	admin
 informal	pradhan	પ્રધાન	admin
 informal	adalat	અદાલત	admin
-informal	kanoon	કાયદો	admin
+informal	kanoon	કાનૂન	admin
 informal	kaydo	કાયદો	admin
 informal	police	પોલીસ	admin
 informal	hospital	હોસ્પિટલ	admin
-informal	school	શાળા	admin
+informal	skool	સ્કૂલ	admin
 informal	shaala	શાળા	admin
 informal	college	કોલેજ	admin
 informal	vidyalay	વિદ્યાલય	admin
@@ -492,7 +483,7 @@ informal	handvo	હાંડવો	food
 informal	muthiya	મુઠિયા	food
 informal	ganthia	ગાંઠિયા	food
 informal	sev	સેવ	food
-informal	chevdо	ચેવડો	food
+informal	chevdo	ચેવડો	food
 informal	lassi	લસ્સી	food
 informal	chaas	છાશ	food
 informal	chhash	છાશ	food
@@ -510,7 +501,7 @@ informal	dhana	ધાણા	food
 informal	lebu	લીંબુ	food
 informal	limbu	લીંબુ	food
 informal	keri	કેરી	food
-informal	aam	કેરી	fruit
+informal	aam	આમ	fruit
 informal	kela	કેળા	food
 informal	draksh	દ્રાક્ષ	food
 informal	chikoo	ચીકુ	food
@@ -547,13 +538,12 @@ informal	makdi	માકડી	animal
 informal	madh	મધ	food
 informal	makhi	માખી	animal
 informal	pankhi	પંખી	animal
-informal	ped	વૃક્ષ	tree
+informal	ped	પેડ	tree
 informal	jhad	ઝાડ	tree
 informal	phool	ફૂલ	flower
-informal	patti	પાંદડું	leaf
+informal	patti	પત્તિ	leaf
 informal	paan	પાન	leaf
 informal	beej	બીજ	seed
-informal	paani	પાણી	water-repeat
 informal	varsad	વરસાદ	weather
 informal	varsaad	વરસાદ	weather
 informal	hava	હવા	weather
@@ -609,7 +599,7 @@ informal	jindagi	જિંદગી	life
 informal	jivan	જીવન	life
 informal	zindagi	જિંદગી	life
 informal	khushi	ખુશી	feeling
-informal	dukh	દુઃખ	feeling
+informal	dukh	દુખ	feeling
 informal	dard	દર્દ	feeling
 informal	pyaar	પ્રેમ	feeling
 informal	prem	પ્રેમ	feeling
@@ -928,9 +918,6 @@ phrase	aarti utaro	આરતી ઉતારો	faith
 phrase	prasad lejo	પ્રસાદ લેજો	faith
 phrase	mandir ni ghanta	મંદિર ની ઘંટા	faith
 phrase	raat ne bhajan che	રાત ને ભજન છે	faith
-phrase	hu gay tribhovan	હું ગાય ત્રિભુવન	song
-phrase	mor bani thanghat kare	મોર બની થનગાટ કરે	song
-phrase	saheli re	સહેલી રે	song
 phrase	kem cho?	કેમ છો?	punct
 phrase	aaje, bahu saru che.	આજે, બહુ સારું છે.	punct
 phrase	hu  gujarati bolu chu	હું  ગુજરાતી બોલું છું	spaces
@@ -1328,8 +1315,8 @@ phrase	hindi pan aavde	હિન્દી પણ આવડે	language
 phrase	typing aavde che	ટાઇપિંગ આવડે છે	mixed
 phrase	computer aavde che	કમ્પ્યુટર આવડે છે	mixed
 phrase	driving aavde che	ડ્રાઇવિંગ આવડે છે	mixed
-phrase	cooking aavde che	રસોઈ આવડે છે	home
-phrase	singing aavde che	ગાવાનું આવડે છે	culture
+phrase	cooking aavde che	કુકિંગ આવડે છે	home
+phrase	singing aavde che	સિંગિંગ આવડે છે	culture
 phrase	garba aavde che	ગરબા આવડે છે	culture
 phrase	cricket aavde che	ક્રિકેટ આવડે છે	play
 phrase	chess ramie	ચેસ રમીએ	play
@@ -1337,7 +1324,7 @@ phrase	carrom ramie	કેરમ રમીએ	play
 phrase	antakshari ramie	અંતાક્ષરી રમીએ	play
 phrase	joke sunavo	જોક સંભળાવો	play
 phrase	kavita vacho	કવિતા વાંચો	culture
-phrase	kahani kaho	વાર્તા કહો	culture
+phrase	kahani kaho	કહાની કહો	culture
 phrase	film joie	ફિલ્મ જોઈએ	play
 phrase	natak joie	નાટક જોઈએ	culture
 phrase	sangeet sunie	સંગીત સાંભળીએ	culture
@@ -1453,8 +1440,8 @@ phrase	upar ja	ઉપર જા	daily
 phrase	niche aav	નીચે આવ	daily
 phrase	saame juo	સામે જુઓ	daily
 phrase	pachhal juo	પાછળ જુઓ	daily
-phrase	left juo	ડાબે જુઓ	daily
-phrase	right juo	જમણે જુઓ	daily
+phrase	dabe juo	ડાબે જુઓ	daily
+phrase	jamne juo	જમણે જુઓ	daily
 phrase	seedha juo	સીધું જુઓ	daily
 phrase	dhime dhime	ધીમે ધીમે	daily
 phrase	ekdam	એકદમ	daily
@@ -1516,6 +1503,3 @@ phrase	mithas ochhi che	મીઠાશ ઓછી છે	food
 phrase	namak vadhare che	નમક વધારે છે	food
 phrase	tel ochhu nakho	તેલ ઓછું નાખો	food
 phrase	masalo ochhu	મસાલો ઓછો	food
-informal	chevdо	ચેવડો	food-fix
-exact	kahaani2	વાર્તા	placeholder-remove
-   

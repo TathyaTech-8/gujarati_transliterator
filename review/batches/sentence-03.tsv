@@ -1,0 +1,90 @@
+# Batch 03 of sentence. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+942	sentence	paani pivo	પાણી પીઓ	editor	unreviewed							
+943	sentence	nasto lejo	નાસ્તો લેજો	editor	unreviewed							
+944	sentence	mithai khao	મીઠાઈ ખાઓ	editor	unreviewed							
+945	sentence	ful aapya	ફૂલ આપ્યા	editor	unreviewed							
+946	sentence	tohfo moklyo	તોહફો મોકલ્યો	editor	unreviewed							
+947	sentence	badhai ho	બધાઈ હો	editor	unreviewed							
+948	sentence	khush raho	ખુશ રહો	editor	unreviewed							
+949	sentence	lambu aayu ho	લાંબુ આયુ હો	editor	unreviewed							
+950	sentence	sukh shanti rahe	સુખ શાંતિ રહે	editor	unreviewed							
+1045	sentence	aadhar kendra	આધાર કેન્દ્ર	editor	unreviewed							
+1046	sentence	pan card	પાન કાર્ડ	editor	unreviewed							
+1047	sentence	ration card	રેશન કાર્ડ	editor	unreviewed							
+1048	sentence	voter id	વોટર આઇડી	editor	unreviewed							
+1049	sentence	driving licence	ડ્રાઇવિંગ લાઇસન્સ	editor	unreviewed							
+1050	sentence	birth certificate	બર્થ સર્ટિફિકેટ	editor	unreviewed							
+1051	sentence	income certificate	ઇન્કમ સર્ટિફિકેટ	editor	unreviewed							
+1052	sentence	caste certificate	કાસ્ટ સર્ટિફિકેટ	editor	unreviewed							
+1053	sentence	gram panchayat	ગ્રામ પંચાયત	editor	unreviewed							
+1054	sentence	taluka panchayat	તાલુકા પંચાયત	editor	unreviewed							
+1055	sentence	jilla panchayat	જિલ્લા પંચાયત	editor	unreviewed							
+1056	sentence	mamlatdar office	મામલતદાર ઓફિસ	editor	unreviewed							
+1057	sentence	collector office	કલેક્ટર ઓફિસ	editor	unreviewed							
+1058	sentence	police station	પોલીસ સ્ટેશન	editor	unreviewed							
+1059	sentence	fire station	ફાયર સ્ટેશન	editor	unreviewed							
+1060	sentence	court building	કોર્ટ બિલ્ડિંગ	editor	unreviewed							
+1061	sentence	high court	હાઇ કોર્ટ	editor	unreviewed							
+1062	sentence	vidhan sabha	વિધાન સભા	editor	unreviewed							
+1063	sentence	lok sabha	લોક સભા	editor	unreviewed							
+1064	sentence	rajya sabha	રાજ્ય સભા	editor	unreviewed							
+1065	sentence	mukhyamantri	મુખ્યમંત્રી	editor	unreviewed							
+1066	sentence	pradhan mantri	પ્રધાનમંત્રી	editor	unreviewed							
+1067	sentence	rashtrapati	રાષ્ટ્રપતિ	editor	unreviewed							
+1068	sentence	governor	ગવર્નર	editor	unreviewed							
+1069	sentence	mayor	મેયર	editor	unreviewed							
+1070	sentence	corporator	કોર્પોરેટર	editor	unreviewed							
+1071	sentence	sarpanch	સરપંચ	editor	unreviewed							
+1072	sentence	talati	તલાટી	editor	unreviewed							
+1073	sentence	gram sevak	ગ્રામ સેવક	editor	unreviewed							
+1074	sentence	anganwadi	આંગણવાડી	editor	unreviewed							
+1075	sentence	asha worker	આશા વર્કર	editor	unreviewed							
+1076	sentence	ration dukaan	રેશન દુકાન	editor	unreviewed							
+1095	sentence	doctor saheb	ડૉક્ટર સાહેબ	editor	unreviewed							
+1096	sentence	nurse ben	નર્સ બેન	editor	unreviewed							
+1097	sentence	dawai ki bill	દવા કી બિલ	editor	unreviewed							
+1098	sentence	injection lagavyu	ઇન્જેક્શન લગાવ્યું	editor	unreviewed							
+1099	sentence	operation pachi	ઓપરેશન પછી	editor	unreviewed							
+1100	sentence	rest karo	રેસ્ટ કરો	editor	unreviewed							
+1101	sentence	pani vadhare piyo	પાણી વધારે પીઓ	editor	unreviewed							
+1102	sentence	khato bandh	ખાટો બંધ	editor	unreviewed							
+1103	sentence	mithu kam karo	મીઠું કમ કરો	editor	unreviewed							
+1104	sentence	walking karo	વૉકિંગ કરો	editor	unreviewed							
+1105	sentence	yoga karo	યોગા કરો	editor	unreviewed							
+1106	sentence	exercise jaruri che	એક્સરસાઇઝ જરૂરી છે	editor	unreviewed							
+1107	sentence	neend puri nathi	નીંદ પૂરી નથી	editor	unreviewed							
+1108	sentence	mathu dukhe che	માથું દુખે છે	editor	unreviewed							
+1109	sentence	pet dukhe che	પેટ દુખે છે	editor	unreviewed							
+1110	sentence	tavu aavyo	તાવ આવ્યો	editor	unreviewed							
+1111	sentence	khansi che	ઉધરસ છે	editor	unreviewed							
+1112	sentence	sardi lagi	શરદી લાગી	editor	unreviewed							
+1113	sentence	dast thai che	ઝાડા થાય છે	editor	unreviewed							
+1114	sentence	ulti thai che	ઊલટી થાય છે	editor	unreviewed							
+1115	sentence	chakkar aave che	ચક્કર આવે છે	editor	unreviewed							
+1116	sentence	aankh dukhe che	આંખ દુખે છે	editor	unreviewed							
+1117	sentence	kan dukhe che	કાન દુખે છે	editor	unreviewed							
+1118	sentence	dant dukhe che	દાંત દુખે છે	editor	unreviewed							
+1119	sentence	pathariyu che	પથરી છે	editor	unreviewed							
+1120	sentence	sugar vadhi gayu	સુગર વધી ગયું	editor	unreviewed							
+1121	sentence	bp vadhu che	બીપી વધુ છે	editor	unreviewed							
+1122	sentence	diabetes che	ડાયાબિટીસ છે	editor	unreviewed							
+1123	sentence	thyroid che	થાઇરોઇડ છે	editor	unreviewed							
+1124	sentence	allergy che	એલર્જી છે	editor	unreviewed							
+1125	sentence	dawai ki time	દવા કી ટાઇમ	editor	unreviewed							
+1126	sentence	subah ek goli	સવારે એક ગોળી	editor	unreviewed							
+1127	sentence	ratre sova pehla	રાત્રે સૂવા પહેલાં	editor	unreviewed							
+1128	sentence	khali pet	ખાલી પેટ	editor	unreviewed							
+1129	sentence	jeman pachi	જમ્યા પછી	editor	unreviewed							
+1130	sentence	doctor ne batav	ડૉક્ટર ને બતાવ	editor	unreviewed							
+1131	sentence	report lai ja	રિપોર્ટ લઈ જા	editor	unreviewed							
+1132	sentence	appointment le	એપોઇન્ટમેન્ટ લે	editor	unreviewed							
+1133	sentence	emergency che	ઇમરજન્સી છે	editor	unreviewed							

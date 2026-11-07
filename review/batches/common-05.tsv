@@ -1,0 +1,90 @@
+# Batch 05 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+454	common	draksh	દ્રાક્ષ	editor	unreviewed							
+455	common	chikoo	ચીકુ	editor	unreviewed							
+456	common	santra	સંતરા	editor	unreviewed							
+457	common	jamfal	જામફળ	editor	unreviewed							
+458	common	papaya	પપૈયું	editor	unreviewed							
+459	common	tarbuch	તરબૂચ	editor	unreviewed							
+460	common	makai	મકાઈ	editor	unreviewed							
+461	common	gehu	ઘઉં	editor	unreviewed							
+462	common	bajra	બાજરી	editor	unreviewed							
+463	common	jowar	જુવાર	editor	unreviewed							
+464	common	chokha	ચોખા	editor	unreviewed							
+465	common	chokhaa	ચોખા	editor	unreviewed							
+466	common	kapas	કપાસ	editor	unreviewed							
+467	common	khetar	ખેતર	editor	unreviewed							
+468	common	khedut	ખેડૂત	editor	unreviewed							
+469	common	bail	બળદ	editor	unreviewed							
+470	common	gay	ગાય	editor	unreviewed							
+471	common	bhens	ભેંસ	editor	unreviewed							
+472	common	bakri	બકરી	editor	unreviewed							
+473	common	kutta	કૂતરો	editor	unreviewed							
+474	common	billi	બિલાડી	editor	unreviewed							
+475	common	ghoda	ઘોડો	editor	unreviewed							
+476	common	hathi	હાથી	editor	unreviewed							
+477	common	sher	સિંહ	editor	unreviewed							
+478	common	vagh	વાઘ	editor	unreviewed							
+479	common	mor	મોર	editor	unreviewed							
+480	common	popat	પોપટ	editor	unreviewed							
+481	common	kabutar	કબૂતર	editor	unreviewed							
+482	common	machhli	માછલી	editor	unreviewed							
+483	common	saap	સાપ	editor	unreviewed							
+484	common	undr	ઉંદર	editor	unreviewed							
+485	common	makdi	માકડી	editor	unreviewed							
+486	common	madh	મધ	editor	unreviewed							
+487	common	makhi	માખી	editor	unreviewed							
+488	common	pankhi	પંખી	editor	unreviewed							
+489	common	ped	પેડ	editor	unreviewed							
+490	common	jhad	ઝાડ	editor	unreviewed							
+491	common	phool	ફૂલ	editor	unreviewed							
+492	common	patti	પત્તિ	editor	unreviewed							
+493	common	paan	પાન	editor	unreviewed							
+494	common	beej	બીજ	editor	unreviewed							
+495	common	varsad	વરસાદ	editor	unreviewed							
+496	common	varsaad	વરસાદ	editor	unreviewed							
+497	common	hava	હવા	editor	unreviewed							
+498	common	vajr	વાદળ	editor	unreviewed							
+499	common	vadla	વાદળા	editor	unreviewed							
+500	common	bijli	વીજળી	editor	unreviewed							
+501	common	taap	તાપ	editor	unreviewed							
+502	common	thand	ઠંડી	editor	unreviewed							
+503	common	thandi	ઠંડી	editor	unreviewed							
+504	common	dhoop	ધૂપ	editor	unreviewed							
+505	common	dhup	ધૂપ	editor	unreviewed							
+506	common	chand	ચાંદ	editor	unreviewed							
+507	common	chandra	ચંદ્ર	editor	unreviewed							
+508	common	suraj	સૂરજ	editor	unreviewed							
+509	common	surya	સૂર્ય	editor	unreviewed							
+510	common	tara	તારા	editor	unreviewed							
+511	common	aakash	આકાશ	editor	unreviewed							
+512	common	jameen	જમીન	editor	unreviewed							
+513	common	jamin	જમીન	editor	unreviewed							
+514	common	pruthvi	પૃથ્વી	editor	unreviewed							
+515	common	prithvi	પૃથ્વી	editor	unreviewed							
+516	common	desh	દેશ	editor	unreviewed							
+517	common	des	દેશ	editor	unreviewed							
+518	common	bharat	ભારત	editor	unreviewed							
+519	common	hindustan	હિન્દુસ્તાન	editor	unreviewed							
+520	common	duniya	દુનિયા	editor	unreviewed							
+521	common	jagat	જગત	editor	unreviewed							
+522	common	waqt	વખત	editor	unreviewed							
+523	common	vakt	વખત	editor	unreviewed							
+524	common	ghadi	ઘડી	editor	unreviewed							
+525	common	kalak	કલાક	editor	unreviewed							
+526	common	minute	મિનિટ	editor	unreviewed							
+527	common	divas	દિવસ	editor	unreviewed							
+528	common	vaar	વાર	editor	unreviewed							
+529	common	ravivar	રવિવાર	editor	unreviewed							
+530	common	somvar	સોમવાર	editor	unreviewed							
+531	common	mangalvar	મંગળવાર	editor	unreviewed							
+532	common	budhvar	બુધવાર	editor	unreviewed							
+533	common	guruvar	ગુરુવાર	editor	unreviewed							

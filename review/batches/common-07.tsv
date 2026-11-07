@@ -1,0 +1,90 @@
+# Batch 07 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+622	common	kala	કાળો	editor	unreviewed							
+623	common	kesar	કેસર	editor	unreviewed							
+624	common	rang	રંગ	editor	unreviewed							
+625	common	roop	રૂપ	editor	unreviewed							
+626	common	dhaam	ધામ	editor	unreviewed							
+628	common	paap	પાપ	editor	unreviewed							
+629	common	shaap	શાપ	editor	unreviewed							
+630	common	raag	રાગ	editor	unreviewed							
+631	common	bhaag	ભાગ	editor	unreviewed							
+632	common	tyaag	ત્યાગ	editor	unreviewed							
+633	common	raaj	રાજ	editor	unreviewed							
+634	common	saaj	સાજ	editor	unreviewed							
+635	common	kaaj	કાજ	editor	unreviewed							
+636	common	laabh	લાભ	editor	unreviewed							
+637	common	haani	હાનિ	editor	unreviewed							
+659	common	chaudhari	ચૌધરી	editor	unreviewed							
+660	common	ahmedabad	અમદાવાદ	editor	unreviewed							
+661	common	amdavad	અમદાવાદ	editor	unreviewed							
+662	common	surat	સુરત	editor	unreviewed							
+663	common	suurat	સુરત	editor	unreviewed							
+664	common	vadodara	વડોદરા	editor	unreviewed							
+665	common	baroda	વડોદરા	editor	unreviewed							
+666	common	rajkot	રાજકોટ	editor	unreviewed							
+667	common	raajkot	રાજકોટ	editor	unreviewed							
+668	common	bhavnagar	ભાવનગર	editor	unreviewed							
+669	common	jamnagar	જામનગર	editor	unreviewed							
+670	common	junagadh	જૂનાગઢ	editor	unreviewed							
+671	common	gandhinagar	ગાંધીનગર	editor	unreviewed							
+672	common	bhuj	ભુજ	editor	unreviewed							
+673	common	anand	આણંદ	editor	unreviewed							
+674	common	nadiad	નડિયાદ	editor	unreviewed							
+675	common	bharuch	ભરૂચ	editor	unreviewed							
+676	common	mehsana	મહેસાણા	editor	unreviewed							
+677	common	morbi	મોરબી	editor	unreviewed							
+678	common	dwarka	દ્વારકા	editor	unreviewed							
+679	common	somnath	સોમનાથ	editor	unreviewed							
+680	common	porbandar	પોરબંદર	editor	unreviewed							
+681	common	palanpur	પાલનપુર	editor	unreviewed							
+682	common	godhra	ગોધરા	editor	unreviewed							
+683	common	dahod	દાહોદ	editor	unreviewed							
+684	common	valsad	વલસાડ	editor	unreviewed							
+685	common	navsari	નવસારી	editor	unreviewed							
+686	common	surendranagar	સુરેન્દ્રનગર	editor	unreviewed							
+687	common	amreli	અમરેલી	editor	unreviewed							
+688	common	botad	બોટાદ	editor	unreviewed							
+1388	common	hu ghar ma chu	હું ઘર માં છું	sure	unreviewed							
+1389	common	tame ghar ma cho	તમે ઘર માં છો	sure	unreviewed							
+1390	common	te ghar ma che	તે ઘર માં છે	sure	unreviewed							
+1391	common	mare ghar ma javanu che	મારે ઘર માં જવાનું છે	sure	unreviewed							
+1392	common	hu office ma chu	હું ઓફિસ માં છું	sure	unreviewed							
+1393	common	tame office ma cho	તમે ઓફિસ માં છો	sure	unreviewed							
+1394	common	te office ma che	તે ઓફિસ માં છે	sure	unreviewed							
+1395	common	mare office ma javanu che	મારે ઓફિસ માં જવાનું છે	sure	unreviewed							
+1396	common	hu school ma chu	હું સ્કૂલ માં છું	sure	unreviewed							
+1397	common	tame school ma cho	તમે સ્કૂલ માં છો	sure	unreviewed							
+1398	common	te school ma che	તે સ્કૂલ માં છે	sure	unreviewed							
+1399	common	mare school ma javanu che	મારે સ્કૂલ માં જવાનું છે	sure	unreviewed							
+1400	common	hu college ma chu	હું કોલેજ માં છું	sure	unreviewed							
+1401	common	tame college ma cho	તમે કોલેજ માં છો	sure	unreviewed							
+1402	common	te college ma che	તે કોલેજ માં છે	sure	unreviewed							
+1403	common	mare college ma javanu che	મારે કોલેજ માં જવાનું છે	sure	unreviewed							
+1404	common	hu hospital ma chu	હું હોસ્પિટલ માં છું	sure	unreviewed							
+1405	common	tame hospital ma cho	તમે હોસ્પિટલ માં છો	sure	unreviewed							
+1406	common	te hospital ma che	તે હોસ્પિટલ માં છે	sure	unreviewed							
+1407	common	mare hospital ma javanu che	મારે હોસ્પિટલ માં જવાનું છે	sure	unreviewed							
+1408	common	hu market ma chu	હું માર્કેટ માં છું	sure	unreviewed							
+1409	common	tame market ma cho	તમે માર્કેટ માં છો	sure	unreviewed							
+1410	common	te market ma che	તે માર્કેટ માં છે	sure	unreviewed							
+1411	common	mare market ma javanu che	મારે માર્કેટ માં જવાનું છે	sure	unreviewed							
+1412	common	hu bank ma chu	હું બેંક માં છું	sure	unreviewed							
+1413	common	tame bank ma cho	તમે બેંક માં છો	sure	unreviewed							
+1414	common	te bank ma che	તે બેંક માં છે	sure	unreviewed							
+1415	common	mare bank ma javanu che	મારે બેંક માં જવાનું છે	sure	unreviewed							
+1416	common	hu hotel ma chu	હું હોટલ માં છું	sure	unreviewed							
+1417	common	tame hotel ma cho	તમે હોટલ માં છો	sure	unreviewed							
+1418	common	te hotel ma che	તે હોટલ માં છે	sure	unreviewed							
+1419	common	mare hotel ma javanu che	મારે હોટલ માં જવાનું છે	sure	unreviewed							
+1420	common	hu shop ma chu	હું શોપ માં છું	sure	unreviewed							
+1421	common	tame shop ma cho	તમે શોપ માં છો	sure	unreviewed							
+1422	common	te shop ma che	તે શોપ માં છે	sure	unreviewed							

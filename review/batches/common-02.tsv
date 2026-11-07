@@ -1,0 +1,90 @@
+# Batch 02 of common. Leave native_status as unreviewed until you decide.
+# roman and editor_gujarati are copied from the editor packet. Do not delete them.
+# native_status: unreviewed | accepted | incorrect | ambiguous | dialect
+# reviewer_spelling is the primary spelling you approve. Required for accepted, ambiguous, and dialect.
+# accepted_alternatives: other approved spellings, separated by |.
+# dialect: a short variety label such as standard or kathiyawadi. Required when status is dialect.
+# reviewer_id: a code such as r1. Do not write a name, email, or phone number.
+# reviewer_note: spelling notes only.
+# This file is not validated while native_status is unreviewed.
+id	category	roman	editor_gujarati	editor_certainty	native_status	reviewer_spelling	dispute	note	accepted_alternatives	dialect	reviewer_id	reviewer_note
+124	common	mne	મને	editor	unreviewed							
+129	common	sarun	સારું	editor	unreviewed							
+130	common	ghar	ઘર	editor	unreviewed							
+131	common	cha	ચા	editor	unreviewed							
+132	common	pani	પાણી	editor	unreviewed							
+133	common	doodh	દૂધ	editor	unreviewed							
+134	common	rotee	રોટી	editor	unreviewed							
+135	common	bhat	ભાત	editor	unreviewed							
+136	common	dal	દાળ	editor	unreviewed							
+137	common	daal	દાળ	editor	unreviewed							
+138	common	shak	શાક	editor	unreviewed							
+139	common	kam	કામ	editor	unreviewed							
+142	common	gaam	ગામ	editor	unreviewed							
+143	common	gam	ગામ	editor	unreviewed							
+144	common	saath	સાથ	editor	unreviewed							
+145	common	saat	સાથ	editor	unreviewed							
+146	common	sathe	સાથે	editor	unreviewed							
+147	common	mate	માટે	editor	unreviewed							
+148	common	maate	માટે	editor	unreviewed							
+149	common	vagar	વગર	editor	unreviewed							
+150	common	sudhi	સુધી	editor	unreviewed							
+151	common	pachi	પછી	editor	unreviewed							
+152	common	upar	ઉપર	editor	unreviewed							
+153	common	same	સામે	editor	unreviewed							
+154	common	dur	દૂર	editor	unreviewed							
+155	common	nazik	નજીક	editor	unreviewed							
+156	common	moto	મોટો	editor	unreviewed							
+157	common	nano	નાનો	editor	unreviewed							
+158	common	sunder	સુંદર	editor	unreviewed							
+159	common	saf	સાફ	editor	unreviewed							
+160	common	thanda	ઠંડા	editor	unreviewed							
+161	common	mitha	મીઠા	editor	unreviewed							
+162	common	tikhu	તીખું	editor	unreviewed							
+163	common	jaldee	જલ્દી	editor	unreviewed							
+164	common	thoda	થોડા	editor	unreviewed							
+165	common	badha	બધા	editor	unreviewed							
+166	common	khoob	ખૂબ	editor	unreviewed							
+167	common	havee	હવે	editor	unreviewed							
+168	common	aaje	આજે	editor	unreviewed							
+169	common	kale	કાલે	editor	unreviewed							
+170	common	savare	સવારે	editor	unreviewed							
+171	common	sanjhe	સાંજે	editor	unreviewed							
+172	common	ratre	રાત્રે	editor	unreviewed							
+173	common	ratri	રાત્રી	editor	unreviewed							
+174	common	shun	શું	editor	unreviewed							
+175	common	kya	ક્યાં	editor	unreviewed							
+176	common	kaim	કેમ	editor	unreviewed							
+177	common	kaun	કોણ	editor	unreviewed							
+178	common	nahi	નહીં	editor	unreviewed							
+179	common	nahin	નહીં	editor	unreviewed							
+180	common	pan	પણ	editor	unreviewed							
+181	common	pun	પણ	editor	unreviewed							
+182	common	ke	કે	editor	unreviewed							
+183	common	ane	અને	editor	unreviewed							
+184	common	thi	થી	editor	unreviewed							
+185	common	ne	ને	editor	unreviewed							
+186	common	nu	નું	editor	unreviewed							
+187	common	no	નો	editor	unreviewed							
+188	common	ni	ની	editor	unreviewed							
+189	common	ma	માં	editor	unreviewed							
+190	common	maan	માં	editor	unreviewed							
+191	common	par	પર	editor	unreviewed							
+192	common	hu	હું	editor	unreviewed							
+193	common	hun	હું	editor	unreviewed							
+194	common	hum	હું	editor	unreviewed							
+195	common	tu	તું	editor	unreviewed							
+196	common	tun	તું	editor	unreviewed							
+197	common	tame	તમે	editor	unreviewed							
+198	common	ame	અમે	editor	unreviewed							
+199	common	aapne	આપણે	editor	unreviewed							
+200	common	aapnu	આપણું	editor	unreviewed							
+201	common	chu	છું	editor	unreviewed							
+202	common	che	છે	editor	unreviewed							
+203	common	cho	છો	editor	unreviewed							
+204	common	javu	જવું	editor	unreviewed							
+205	common	avu	આવું	editor	unreviewed							
+206	common	aavu	આવું	editor	unreviewed							
+207	common	khavu	ખાવું	editor	unreviewed							
+208	common	pivu	પીવું	editor	unreviewed							
+209	common	levu	લેવું	editor	unreviewed							

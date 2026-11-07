@@ -157,6 +157,8 @@ putri|પુત્રી|44
 mata|માતા|60
 kutumb|કુટુંબ|50
 bhai bahen|ભાઈ બહેન|40|phrase
+bhai ben|ભાઈ બહેન|72|phrase
+bhabhi|ભાભી|64
 
 # Food and home
 chhash|છાશ|44
