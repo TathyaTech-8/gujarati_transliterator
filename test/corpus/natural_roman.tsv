@@ -1,0 +1,1521 @@
+# Natural Roman Gujarati typed the way people write, plus scheme-faithful controls.
+# Expected spellings are standard orthography written for this file.
+# They were not exported from the engine, the lexicon, or the phonetic tables.
+# Editor-checked. No separate native-speaker panel.
+# Columns: split, roman, gujarati, note
+exact	mitra	મિત્ર	common
+exact	namaste	નમસ્તે	common
+exact	stri	સ્ત્રી	common
+exact	vidyaa	વિદ્યા	common
+exact	kshamaa	ક્ષમા	common
+exact	gyan	જ્ઞાન	common
+exact	pustak	પુસ્તક	common
+exact	paani	પાણી	common
+exact	roti	રોટી	food
+exact	dudh	દૂધ	food
+exact	chaah	ચા	food
+exact	bhaat	ભાત	food
+exact	shaak	શાક	food
+exact	kheer	ખીર	food
+exact	laddu	લાડુ	food
+exact	sukh	સુખ	common
+exact	dukh	દુઃખ	common
+exact	prem	પ્રેમ	common
+exact	maitri	મૈત્રી	common
+exact	shanti	શાંતિ	common
+exact	aasha	આશા	common
+exact	umang	ઉમંગ	common
+exact	hauslo	હૌસલો	common
+exact	saahas	સાહસ	common
+exact	veer	વીર	common
+exact	raaja	રાજા	common
+exact	raani	રાણી	common
+exact	beta	બેટા	family
+exact	beti	બેટી	family
+exact	bhaai	ભાઈ	family
+exact	bahen	બહેન	family
+exact	pitaa	પિતા	family
+exact	maata	માતા	family
+exact	daada	દાદા	family
+exact	daadi	દાદી	family
+exact	naana	નાના	family
+exact	naani	નાની	family
+exact	kaaka	કાકા	family
+exact	kaaki	કાકી	family
+exact	maama	મામા	family
+exact	maami	મામી	family
+exact	fua	ફુઆ	family
+exact	foi	ફોઈ	family
+exact	bhaabhi	ભાભી	family
+exact	jeth	જેઠ	family
+exact	der	દેર	family
+exact	sasra	સસરા	family
+exact	saas	સાસ	family
+exact	putra	પુત્ર	family
+exact	putri	પુત્રી	family
+exact	mitr	મિત્ર	common
+exact	dost	દોસ્ત	common
+exact	kaam	કામ	common
+exact	samay	સમય	common
+exact	aaj	આજ	common
+exact	kal	કાલ	common
+exact	have	હવે	common
+exact	pachhi	પછી	common
+exact	pahela	પહેલાં	common
+exact	andar	અંદર	common
+exact	bahar	બહાર	common
+exact	uppar	ઉપર	common
+exact	niche	નીચે	common
+exact	saame	સામે	common
+exact	pachhal	પાછળ	common
+exact	aagal	આગળ	common
+exact	door	દૂર	common
+exact	najik	નજીક	common
+exact	mota	મોટા	common
+exact	nana	નાના	common
+exact	saaru	સારું	common
+exact	kharab	ખરાબ	common
+exact	sundar	સુંદર	common
+exact	saaf	સાફ	common
+exact	ganda	ગંદા	common
+exact	garam	ગરમ	common
+exact	thandu	ઠંડું	common
+exact	mithu	મીઠું	common
+exact	kadvo	કડવો	common
+exact	teekhu	તીખું	common
+exact	naram	નરમ	common
+exact	sakht	સખત	common
+exact	jaldi	જલ્દી	common
+exact	dhime	ધીમે	common
+exact	khub	ખૂબ	common
+exact	bahu	બહુ	common
+exact	thodu	થોડું	common
+exact	badhu	બધું	common
+exact	ketlu	કેટલું	common
+exact	kevu	કેવું	common
+exact	shu	શું	common
+exact	kyan	ક્યાં	common
+exact	kyare	ક્યારે	common
+exact	kem	કેમ	common
+exact	kon	કોણ	common
+exact	nathi	નથી	common
+exact	chhe	છે	common
+exact	chho	છો	common
+exact	chhu	છું	common
+exact	raaju	રાજુ	name
+exact	meena	મીના	name
+exact	geeta	ગીતા	name
+exact	suresh	સુરેશ	name
+exact	mahesh	મહેશ	name
+exact	ramesh	રમેશ	name
+exact	dinesh	દિનેશ	name
+exact	nilesh	નિલેશ	name
+exact	paresh	પરેશ	name
+exact	haresh	હરેશ	name
+exact	kiran	કિરણ	name
+exact	nayan	નયન	name
+exact	komal	કોમલ	name
+exact	sheetal	શીતલ	name
+exact	amitaa	અમિતા	name
+exact	kavitaa	કવિતા	name
+exact	savitaa	સવિતા	name
+exact	anil	અનિલ	name
+exact	sunil	સુનિલ	name
+exact	kapil	કપિલ	name
+exact	jaadu	જાદુ	common
+exact	kahaani	કહાની	common
+informal	ghaar	ઘર	home
+informal	tme	તમે	pronoun
+informal	mne	મને	pronoun
+informal	suurat	સુરત	place
+informal	paani	પાણી	water
+informal	bhaai	ભાઈ	family
+informal	bhai	ભાઈ	family
+informal	maa	મા	family
+informal	baap	બાપ	family
+informal	bahu	બહુ	common
+informal	sarun	સારું	typo-n
+informal	ghar	ઘર	home
+informal	chaa	ચા	drink
+informal	cha	ચા	drink
+informal	pani	પાણી	water
+informal	dudh	દૂધ	drink
+informal	doodh	દૂધ	drink
+informal	roti	રોટી	food
+informal	rotee	રોટી	food
+informal	bhat	ભાત	food
+informal	bhaat	ભાત	food
+informal	shaak	શાક	food
+informal	dal	દાળ	food
+informal	daal	દાળ	food
+informal	shak	શાક	sh-for-s
+informal	kam	કામ	work
+informal	kaam	કામ	work
+informal	naam	નામ	name
+informal	nam	નામ	name
+informal	gaam	ગામ	village
+informal	gam	ગામ	village
+informal	saath	સાથ	with
+informal	saat	સાથ	aspiration
+informal	sathe	સાથે	with
+informal	mate	માટે	for
+informal	maate	માટે	for
+informal	vagar	વગર	without
+informal	sudhi	સુધી	until
+informal	pachhi	પછી	after
+informal	pachi	પછી	after
+informal	pahela	પહેલાં	before
+informal	andar	અંદર	inside
+informal	bahar	બહાર	outside
+informal	bahar	બહાર	outside-repeat
+informal	uppar	ઉપર	above
+informal	upar	ઉપર	above
+informal	niche	નીચે	below
+informal	niché	નીચે	accent-stripped
+informal	saame	સામે	front
+informal	same	સામે	front
+informal	pachhal	પાછળ	behind
+informal	aagal	આગળ	ahead
+informal	door	દૂર	far
+informal	dur	દૂર	far
+informal	nazik	નજીક	near
+informal	najik	નજીક	near
+informal	mota	મોટા	big
+informal	moto	મોટો	big
+informal	nana	નાના	small
+informal	nano	નાનો	small
+informal	sundar	સુંદર	pretty
+informal	sunder	સુંદર	pretty
+informal	saaf	સાફ	clean
+informal	saf	સાફ	clean
+informal	garam	ગરમ	hot
+informal	thanda	ઠંડા	cold
+informal	mithu	મીઠું	sweet
+informal	mitha	મીઠા	sweet
+informal	teekhu	તીખું	spicy
+informal	tikhu	તીખું	spicy
+informal	kadvo	કડવો	bitter
+informal	naram	નરમ	soft
+informal	jaldi	જલ્દી	quick
+informal	jaldee	જલ્દી	quick
+informal	dhime	ધીમે	slow
+informal	thodu	થોડું	little
+informal	thoda	થોડા	little
+informal	badhu	બધું	all
+informal	badha	બધા	all
+informal	khub	ખૂબ	very
+informal	khoob	ખૂબ	very
+informal	have	હવે	now
+informal	havee	હવે	now
+informal	aaje	આજે	today
+informal	aaj	આજ	today
+informal	kale	કાલે	tomorrow
+informal	kal	કાલ	tomorrow
+informal	savare	સવારે	morning
+informal	sanjhe	સાંજે	evening
+informal	ratre	રાત્રે	night
+informal	ratri	રાત્રી	night
+informal	shu	શું	what
+informal	shun	શું	what
+informal	kyan	ક્યાં	where
+informal	kya	ક્યાં	where
+informal	kyare	ક્યારે	when
+informal	kem	કેમ	how
+informal	kaim	કેમ	how
+informal	kon	કોણ	who
+informal	kaun	કોણ	who
+informal	nathi	નથી	not
+informal	nahi	નહીં	not
+informal	nahin	નહીં	not
+informal	pan	પણ	also
+informal	pun	પણ	also
+informal	ke	કે	or
+informal	ane	અને	and
+informal	ane	અને	and-repeat
+informal	thi	થી	from
+informal	ne	ને	to
+informal	nu	નું	of
+informal	no	નો	of
+informal	ni	ની	of
+informal	ma	માં	in
+informal	maan	માં	in
+informal	par	પર	on
+informal	hu	હું	I
+informal	hun	હું	I
+informal	hum	હું	I
+informal	tu	તું	you
+informal	tun	તું	you
+informal	tame	તમે	you
+informal	ame	અમે	we
+informal	aapne	આપણે	we
+informal	aapnu	આપણું	our
+informal	chu	છું	aux
+informal	chhu	છું	aux
+informal	che	છે	aux
+informal	chhe	છે	aux
+informal	cho	છો	aux
+informal	chho	છો	aux
+informal	javu	જવું	go
+informal	avu	આવું	come
+informal	aavu	આવું	come
+informal	khavu	ખાવું	eat
+informal	pivu	પીવું	drink
+informal	levu	લેવું	take
+informal	devu	દેવું	give
+informal	karvu	કરવું	do
+informal	joyu	જોયું	saw
+informal	kahu	કહું	say
+informal	bolu	બોલું	speak
+informal	rahu	રહું	live
+informal	besu	બેસું	sit
+informal	uthu	ઊઠું	rise
+informal	sovu	સૂવું	sleep
+informal	hasu	હસું	laugh
+informal	rodu	રડું	cry
+informal	gaau	ગાઉં	sing
+informal	vaanchu	વાંચું	read
+informal	lakhu	લખું	write
+informal	sambhlu	સાંભળું	listen
+informal	samju	સમજું	understand
+informal	yaad	યાદ	memory
+informal	bhul	ભૂલ	mistake
+informal	bhool	ભૂલ	mistake
+informal	madad	મદદ	help
+informal	madad	મદદ	help-repeat
+informal	shukriya	શુક્રિયા	thanks
+informal	aabhar	આભાર	thanks
+informal	abhar	આભાર	thanks
+informal	maaf	માફ	sorry
+informal	maafi	માફી	sorry
+informal	kripya	કૃપા	please
+informal	meherbani	મહેરબાની	please
+informal	swagat	સ્વાગત	welcome
+informal	namaste	નમસ્તે	greeting
+informal	ramram	રામરામ	greeting
+informal	jay	જય	greeting
+informal	jsk	જય	abbrev
+informal	gujarat	ગુજરાત	place
+informal	gujarati	ગુજરાતી	language
+informal	gujrati	ગુજરાતી	dropped-a
+informal	gjrat	ગુજરાત	dropped-vowels
+informal	ahmedabad	અમદાવાદ	place
+informal	amdavad	અમદાવાદ	place
+informal	rajkot	રાજકોટ	place
+informal	raajkot	રાજકોટ	place
+informal	vadodra	વડોદરા	place
+informal	baroda	વડોદરા	place
+informal	bhavnagar	ભાવનગર	place
+informal	bhuj	ભુજ	place
+informal	surat	સુરત	place
+informal	anand	આણંદ	place
+informal	nadiad	નડિયાદ	place
+informal	morbi	મોરબી	place
+informal	dwarka	દ્વારકા	place
+informal	somnath	સોમનાથ	place
+informal	patel	પટેલ	surname
+informal	sha	શાહ	surname
+informal	shah	શાહ	surname
+informal	mehta	મહેતા	surname
+informal	desai	દેસાઈ	surname
+informal	desay	દેસાઈ	surname
+informal	joshi	જોશી	surname
+informal	gandhi	ગાંધી	surname
+informal	modi	મોદી	surname
+informal	trivedi	ત્રિવેદી	surname
+informal	sharma	શર્મા	surname
+informal	pandya	પંડ્યા	surname
+informal	dave	દવે	surname
+informal	bhatt	ભટ્ટ	surname
+informal	vyas	વ્યાસ	surname
+informal	pathak	પાઠક	surname
+informal	parikh	પરીખ	surname
+informal	parekh	પરેખ	surname
+informal	soni	સોની	surname
+informal	rana	રાણા	surname
+informal	solanki	સોલંકી	surname
+informal	chavda	ચાવડા	surname
+informal	jadeja	જાડેજા	surname
+informal	gohil	ગોહિલ	surname
+informal	parmar	પરમાર	surname
+informal	rathod	રાઠોડ	surname
+informal	thakor	ઠાકોર	surname
+informal	chaudhary	ચૌધરી	surname
+informal	patil	પાટીલ	surname
+informal	naik	નાયક	surname
+informal	bhai	ભાઈ	address
+informal	ben	બેન	address
+informal	saheb	સાહેબ	address
+informal	bhai	ભાઈ	address-repeat
+informal	dikra	દીકરા	child
+informal	dikri	દીકરી	child
+informal	chhokra	છોકરા	boy
+informal	chhokri	છોકરી	girl
+informal	chokra	છોકરા	boy
+informal	chokri	છોકરી	girl
+informal	manas	માણસ	person
+informal	maanav	માનવ	person
+informal	lok	લોક	people
+informal	loko	લોકો	people
+informal	parivar	પરિવાર	family
+informal	kutumb	કુટુંબ	family
+informal	lagan	લગ્ન	wedding
+informal	lagna	લગ્ન	wedding
+informal	vivah	વિવાહ	wedding
+informal	utsav	ઉત્સવ	festival
+informal	diwali	દિવાળી	festival
+informal	divali	દિવાળી	festival
+informal	holi	હોળી	festival
+informal	navratri	નવરાત્રી	festival
+informal	navratri	નવરાત્રી	festival-repeat
+informal	garba	ગરબા	dance
+informal	garbo	ગરબો	dance
+informal	dandiya	દાંડિયા	dance
+informal	raas	રાસ	dance
+informal	bhajan	ભજન	faith
+informal	aarti	આરતી	faith
+informal	puja	પૂજા	faith
+informal	pooja	પૂજા	faith
+informal	mandir	મંદિર	faith
+informal	mandir	મંદિર	faith-repeat
+informal	masjid	મસ્જિદ	faith
+informal	derasar	દેરાસર	faith
+informal	prarthna	પ્રાર્થના	faith
+informal	prarthana	પ્રાર્થના	faith
+informal	ishwar	ઈશ્વર	faith
+informal	bhagwan	ભગવાન	faith
+informal	ram	રામ	faith
+informal	krishna	કૃષ્ણ	faith
+informal	krushna	કૃષ્ણ	faith
+informal	shiv	શિવ	faith
+informal	shankar	શંકર	faith
+informal	hanuman	હનુમાન	faith
+informal	ganesh	ગણેશ	faith
+informal	ganpati	ગણપતિ	faith
+informal	ambaa	અંબા	faith
+informal	amba	અંબા	faith
+informal	durga	દુર્ગા	faith
+informal	lakshmi	લક્ષ્મી	faith
+informal	saraswati	સરસ્વતી	faith
+informal	guru	ગુરુ	faith
+informal	sant	સંત	faith
+informal	veda	વેદ	faith
+informal	gita	ગીતા	faith
+informal	geeta	ગીતા	faith
+informal	quran	કુરાન	faith
+informal	allah	અલ્લાહ	faith
+informal	isa	ઈસા	faith
+informal	prabhu	પ્રભુ	faith
+informal	dharm	ધર્મ	faith
+informal	dharma	ધર્મ	faith
+informal	karma	કર્મ	faith
+informal	moksh	મોક્ષ	faith
+informal	paap	પાપ	faith
+informal	punya	પુણ્ય	faith
+informal	seva	સેવા	faith
+informal	daan	દાન	faith
+informal	vrat	વ્રત	faith
+informal	upvas	ઉપવાસ	faith
+informal	prasadam	પ્રસાદ	faith
+informal	prasad	પ્રસાદ	faith
+informal	tilak	તિલક	faith
+informal	mala	માળા	faith
+informal	deep	દીપ	faith
+informal	divo	દીવો	faith
+informal	agarbatti	અગરબત્તી	faith
+informal	phool	ફૂલ	faith
+informal	ful	ફૂલ	faith
+informal	chandan	ચંદન	faith
+informal	ganga	ગંગા	faith
+informal	narmada	નર્મદા	faith
+informal	sabarmati	સાબરમતી	river
+informal	tapi	તાપી	river
+informal	kutch	કચ્છ	region
+informal	kachchh	કચ્છ	region
+informal	saurashtra	સૌરાષ્ટ્ર	region
+informal	sorath	સોરઠ	region
+informal	gir	ગીર	region
+informal	rann	રણ	region
+informal	bandar	બંદર	port
+informal	sheher	શહેર	city
+informal	shaher	શહેર	city
+informal	nagar	નગર	city
+informal	gaon	ગામ	village
+informal	gaam	ગામ	village-repeat
+informal	taluka	તાલુકો	admin
+informal	jilla	જિલ્લો	admin
+informal	rajya	રાજ્ય	admin
+informal	sarkar	સરકાર	admin
+informal	mantri	મંત્રી	admin
+informal	pradhan	પ્રધાન	admin
+informal	adalat	અદાલત	admin
+informal	kanoon	કાયદો	admin
+informal	kaydo	કાયદો	admin
+informal	police	પોલીસ	admin
+informal	hospital	હોસ્પિટલ	admin
+informal	school	શાળા	admin
+informal	shaala	શાળા	admin
+informal	college	કોલેજ	admin
+informal	vidyalay	વિદ્યાલય	admin
+informal	pustak	પુસ્તક	book
+informal	kitab	કિતાબ	book
+informal	akhbar	અખબાર	news
+informal	samachar	સમાચાર	news
+informal	khabar	ખબર	news
+informal	patra	પત્ર	letter
+informal	chithi	ચિઠ્ઠી	letter
+informal	phone	ફોન	loan
+informal	mobile	મોબાઇલ	loan
+informal	computer	કમ્પ્યુટર	loan
+informal	internet	ઇન્ટરનેટ	loan
+informal	paise	પૈસા	money
+informal	rupiya	રૂપિયા	money
+informal	paisa	પૈસા	money
+informal	dukan	દુકાન	shop
+informal	bazaar	બજાર	market
+informal	bajar	બજાર	market
+informal	kirana	કરિયાણું	shop
+informal	sabzi	શાકભાજી	food
+informal	bhaji	ભાજી	food
+informal	rotli	રોટલી	food
+informal	rotlo	રોટલો	food
+informal	khichdi	ખીચડી	food
+informal	khichadi	ખીચડી	food
+informal	kadhi	કઢી	food
+informal	shaakbhaji	શાકભાજી	food
+informal	fafda	ફાફડા	food
+informal	jalebi	જલેબી	food
+informal	dhokla	ઢોકળા	food
+informal	khandvi	ખાંડવી	food
+informal	thepla	થેપલા	food
+informal	undhiyu	ઊંધિયું	food
+informal	handvo	હાંડવો	food
+informal	muthiya	મુઠિયા	food
+informal	ganthia	ગાંઠિયા	food
+informal	sev	સેવ	food
+informal	chevdо	ચેવડો	food
+informal	lassi	લસ્સી	food
+informal	chaas	છાશ	food
+informal	chhash	છાશ	food
+informal	dahi	દહીં	food
+informal	ghee	ઘી	food
+informal	tel	તેલ	food
+informal	mirch	મરચું	food
+informal	marchu	મરચું	food
+informal	haldar	હળદર	food
+informal	haldi	હળદર	food
+informal	jeeru	જીરું	food
+informal	jeera	જીરું	food
+informal	methi	મેથી	food
+informal	dhana	ધાણા	food
+informal	lebu	લીંબુ	food
+informal	limbu	લીંબુ	food
+informal	keri	કેરી	food
+informal	aam	કેરી	fruit
+informal	kela	કેળા	food
+informal	draksh	દ્રાક્ષ	food
+informal	chikoo	ચીકુ	food
+informal	santra	સંતરા	food
+informal	jamfal	જામફળ	food
+informal	papaya	પપૈયું	food
+informal	tarbuch	તરબૂચ	food
+informal	makai	મકાઈ	food
+informal	gehu	ઘઉં	crop
+informal	bajra	બાજરી	crop
+informal	jowar	જુવાર	crop
+informal	chokha	ચોખા	crop
+informal	chokhaa	ચોખા	crop
+informal	kapas	કપાસ	crop
+informal	khetar	ખેતર	farm
+informal	khedut	ખેડૂત	farm
+informal	bail	બળદ	animal
+informal	gay	ગાય	animal
+informal	bhens	ભેંસ	animal
+informal	bakri	બકરી	animal
+informal	kutta	કૂતરો	animal
+informal	billi	બિલાડી	animal
+informal	ghoda	ઘોડો	animal
+informal	hathi	હાથી	animal
+informal	sher	સિંહ	animal
+informal	vagh	વાઘ	animal
+informal	mor	મોર	animal
+informal	popat	પોપટ	animal
+informal	kabutar	કબૂતર	animal
+informal	machhli	માછલી	animal
+informal	saap	સાપ	animal
+informal	undr	ઉંદર	animal
+informal	makdi	માકડી	animal
+informal	madh	મધ	food
+informal	makhi	માખી	animal
+informal	pankhi	પંખી	animal
+informal	ped	વૃક્ષ	tree
+informal	jhad	ઝાડ	tree
+informal	phool	ફૂલ	flower
+informal	patti	પાંદડું	leaf
+informal	paan	પાન	leaf
+informal	beej	બીજ	seed
+informal	paani	પાણી	water-repeat
+informal	varsad	વરસાદ	weather
+informal	varsaad	વરસાદ	weather
+informal	hava	હવા	weather
+informal	vajr	વાદળ	weather
+informal	vadla	વાદળા	weather
+informal	bijli	વીજળી	weather
+informal	taap	તાપ	weather
+informal	thand	ઠંડી	weather
+informal	thandi	ઠંડી	weather
+informal	dhoop	ધૂપ	weather
+informal	dhup	ધૂપ	weather
+informal	chand	ચાંદ	sky
+informal	chandra	ચંદ્ર	sky
+informal	suraj	સૂરજ	sky
+informal	surya	સૂર્ય	sky
+informal	tara	તારા	sky
+informal	aakash	આકાશ	sky
+informal	jameen	જમીન	earth
+informal	jamin	જમીન	earth
+informal	pruthvi	પૃથ્વી	earth
+informal	prithvi	પૃથ્વી	earth
+informal	desh	દેશ	nation
+informal	des	દેશ	nation
+informal	bharat	ભારત	nation
+informal	hindustan	હિન્દુસ્તાન	nation
+informal	duniya	દુનિયા	world
+informal	jagat	જગત	world
+informal	samay	સમય	time
+informal	waqt	વખત	time
+informal	vakt	વખત	time
+informal	ghadi	ઘડી	time
+informal	kalak	કલાક	time
+informal	minute	મિનિટ	time
+informal	divas	દિવસ	time
+informal	vaar	વાર	weekday
+informal	ravivar	રવિવાર	weekday
+informal	somvar	સોમવાર	weekday
+informal	mangalvar	મંગળવાર	weekday
+informal	budhvar	બુધવાર	weekday
+informal	guruvar	ગુરુવાર	weekday
+informal	shukravar	શુક્રવાર	weekday
+informal	shanivar	શનિવાર	weekday
+informal	mahino	મહિનો	month
+informal	varsh	વર્ષ	year
+informal	saal	સાલ	year
+informal	umr	ઉંમર	age
+informal	umar	ઉંમર	age
+informal	janm	જન્મ	birth
+informal	janam	જન્મ	birth
+informal	mrutyu	મૃત્યુ	death
+informal	mrityu	મૃત્યુ	death
+informal	jindagi	જિંદગી	life
+informal	jivan	જીવન	life
+informal	zindagi	જિંદગી	life
+informal	khushi	ખુશી	feeling
+informal	dukh	દુઃખ	feeling
+informal	dard	દર્દ	feeling
+informal	pyaar	પ્રેમ	feeling
+informal	prem	પ્રેમ	feeling
+informal	gussa	ગુસ્સો	feeling
+informal	gusso	ગુસ્સો	feeling
+informal	dar	ડર	feeling
+informal	bhay	ભય	feeling
+informal	aasha	આશા	feeling
+informal	nirasha	નિરાશા	feeling
+informal	hausla	હૌસલો	feeling
+informal	himmat	હિંમત	feeling
+informal	sharam	શરમ	feeling
+informal	maan	માન	respect
+informal	izzat	ઇઝ્ઝત	respect
+informal	adab	આદબ	respect
+informal	salaam	સલામ	greeting
+informal	namaskar	નમસ્કાર	greeting
+informal	suprabhat	સુપ્રભાત	greeting
+informal	shubh	શુભ	greeting
+informal	raatri	રાત્રી	night
+informal	shubh ratri	શુભ રાત્રી	greeting
+ambiguous	ram	રામ	name
+ambiguous	bal	બાળ	child
+ambiguous	mar	માર	beat
+ambiguous	kar	કર	do
+ambiguous	din	દિન	day
+ambiguous	man	મન	mind
+ambiguous	tan	તન	body
+ambiguous	jan	જન	person
+ambiguous	ran	રણ	desert
+ambiguous	van	વન	forest
+ambiguous	dan	દાન	gift
+ambiguous	pan	પણ	also
+ambiguous	ban	બન	become
+ambiguous	chal	ચાલ	walk
+ambiguous	bol	બોલ	speak
+ambiguous	de	દે	give
+ambiguous	le	લે	take
+ambiguous	ja	જા	go
+ambiguous	aa	આ	this
+ambiguous	ae	એ	that
+ambiguous	te	તે	that
+ambiguous	me	મેં	I-ergative
+ambiguous	se	સે	from
+ambiguous	re	રે	vocative
+ambiguous	ne	ને	object
+ambiguous	to	તો	then
+ambiguous	ho	હો	be
+ambiguous	ha	હા	yes
+ambiguous	na	ના	no
+ambiguous	su	સુ	prefix
+ambiguous	mu	મુ	syllable
+ambiguous	gu	ગુ	syllable
+ambiguous	ku	કુ	syllable
+ambiguous	nu	નું	of
+ambiguous	tu	તું	you
+ambiguous	hu	હું	I
+ambiguous	shu	શું	what
+ambiguous	kai	કઈ	which
+ambiguous	kai	કાય	body-alt
+ambiguous	bai	બાઈ	woman
+ambiguous	bhai	ભાઈ	brother
+ambiguous	rai	રાય	name
+ambiguous	sai	સાઈ	name
+ambiguous	mai	માઈ	mother
+ambiguous	pai	પાઈ	coin
+ambiguous	dai	દાઈ	nurse
+ambiguous	gai	ગાય	cow
+ambiguous	nai	નહીં	not
+ambiguous	lai	લાઈ	line
+ambiguous	saiyam	સંયમ	control
+ambiguous	kal	કાલ	time
+ambiguous	phal	ફળ	fruit
+ambiguous	mal	માળ	floor
+ambiguous	tal	તાલ	rhythm
+ambiguous	dal	દાળ	lentil
+ambiguous	hal	હાલ	condition
+ambiguous	sal	સાલ	year
+ambiguous	pal	પળ	moment
+ambiguous	val	વળ	turn
+ambiguous	gal	ગાળ	abuse
+ambiguous	nal	નળ	tap
+ambiguous	lal	લાલ	red
+ambiguous	nil	નીલ	blue
+ambiguous	pil	પીળો	yellow
+ambiguous	saf	સાફ	clean
+ambiguous	safed	સફેદ	white
+ambiguous	kala	કાળો	black
+ambiguous	kesar	કેસર	saffron
+ambiguous	rang	રંગ	color
+ambiguous	roop	રૂપ	form
+ambiguous	naam	નામ	name
+ambiguous	kaam	કામ	work
+ambiguous	dhaam	ધામ	feast
+ambiguous	gaam	ગામ	village
+ambiguous	thaam	ઠામ	place
+ambiguous	paap	પાપ	sin
+ambiguous	taap	તાપ	heat
+ambiguous	shaap	શાપ	curse
+ambiguous	raag	રાગ	melody
+ambiguous	bhaag	ભાગ	part
+ambiguous	tyaag	ત્યાગ	renounce
+ambiguous	raaj	રાજ	rule
+ambiguous	saaj	સાજ	equip
+ambiguous	kaaj	કાજ	work
+ambiguous	laabh	લાભ	gain
+ambiguous	haani	હાનિ	loss
+proper	raaju	રાજુ	name
+proper	raju	રાજુ	name
+proper	Raju	રાજુ	name
+proper	meena	મીના	name
+proper	geeta	ગીતા	name
+proper	suresh	સુરેશ	name
+proper	mahesh	મહેશ	name
+proper	ramesh	રમેશ	name
+proper	dinesh	દિનેશ	name
+proper	nilesh	નિલેશ	name
+proper	paresh	પરેશ	name
+proper	haresh	હરેશ	name
+proper	naresh	નરેશ	name
+proper	mukesh	મુકેશ	name
+proper	jignesh	જિજ્ઞેશ	name
+proper	hitesh	હિતેશ	name
+proper	bharat	ભરત	name
+proper	ashok	અશોક	name
+proper	vijay	વિજય	name
+proper	sanjay	સંજય	name
+proper	ajay	અજય	name
+proper	amit	અમિત	name
+proper	sumit	સુમિત	name
+proper	lalit	લલિત	name
+proper	nayan	નયન	name
+proper	kiran	કિરણ	name
+proper	komal	કોમલ	name
+proper	sheetal	શીતલ	name
+proper	hetal	હેતલ	name
+proper	kinjal	કિંજલ	name
+proper	urvi	ઊર્વી	name
+proper	aisha	આયશા	name
+proper	fatima	ફાતિમા	name
+proper	mariam	મરિયમ	name
+proper	joseph	જોસેફ	name
+proper	david	ડેવિડ	name
+proper	patel	પટેલ	surname
+proper	shah	શાહ	surname
+proper	mehta	મહેતા	surname
+proper	desai	દેસાઈ	surname
+proper	joshi	જોશી	surname
+proper	trivedi	ત્રિવેદી	surname
+proper	gandhi	ગાંધી	surname
+proper	modi	મોદી	surname
+proper	sharma	શર્મા	surname
+proper	pandya	પંડ્યા	surname
+proper	dave	દવે	surname
+proper	bhatt	ભટ્ટ	surname
+proper	vyas	વ્યાસ	surname
+proper	pathak	પાઠક	surname
+proper	parikh	પરીખ	surname
+proper	parekh	પરેખ	surname
+proper	soni	સોની	surname
+proper	rana	રાણા	surname
+proper	solanki	સોલંકી	surname
+proper	chavda	ચાવડા	surname
+proper	jadeja	જાડેજા	surname
+proper	gohil	ગોહિલ	surname
+proper	parmar	પરમાર	surname
+proper	rathod	રાઠોડ	surname
+proper	thakor	ઠાકોર	surname
+proper	chaudhari	ચૌધરી	surname
+proper	patil	પાટીલ	surname
+proper	naik	નાયક	surname
+proper	ahmedabad	અમદાવાદ	city
+proper	amdavad	અમદાવાદ	city
+proper	surat	સુરત	city
+proper	suurat	સુરત	city
+proper	vadodara	વડોદરા	city
+proper	baroda	વડોદરા	city
+proper	rajkot	રાજકોટ	city
+proper	raajkot	રાજકોટ	city
+proper	bhavnagar	ભાવનગર	city
+proper	jamnagar	જામનગર	city
+proper	junagadh	જૂનાગઢ	city
+proper	gandhinagar	ગાંધીનગર	city
+proper	bhuj	ભુજ	city
+proper	anand	આણંદ	city
+proper	nadiad	નડિયાદ	city
+proper	bharuch	ભરૂચ	city
+proper	mehsana	મહેસાણા	city
+proper	morbi	મોરબી	city
+proper	dwarka	દ્વારકા	city
+proper	somnath	સોમનાથ	city
+proper	porbandar	પોરબંદર	city
+proper	palanpur	પાલનપુર	city
+proper	godhra	ગોધરા	city
+proper	dahod	દાહોદ	city
+proper	valsad	વલસાડ	city
+proper	navsari	નવસારી	city
+proper	surendranagar	સુરેન્દ્રનગર	city
+proper	amreli	અમરેલી	city
+proper	botad	બોટાદ	city
+proper	gir	ગીર	region
+proper	kutch	કચ્છ	region
+proper	saurashtra	સૌરાષ્ટ્ર	region
+proper	lothal	લોથલ	place
+proper	saputara	સાપુતારા	place
+proper	diu	દીવ	place
+proper	daman	દમણ	place
+proper	silvassa	સેલ્વાસ	place
+phrase	hu gujarati bolu chu	હું ગુજરાતી બોલું છું	demo
+phrase	aaje bahu saru che	આજે બહુ સારું છે	demo
+phrase	mare ghar javu che	મારે ઘર જવું છે	demo
+phrase	tame kem cho	તમે કેમ છો	demo
+phrase	aapnu gujarat	આપણું ગુજરાત	demo
+phrase	hu ghar javu chu	હું ઘર જવું છું	daily
+phrase	aaje kem cho	આજે કેમ છો	daily
+phrase	shu karo cho	શું કરો છો	daily
+phrase	hu aavyo	હું આવ્યો	daily
+phrase	mane pani aap	મને પાણી આપ	daily
+phrase	tame kya cho	તમે ક્યાં છો	daily
+phrase	hu barabar chu	હું બરાબર છું	daily
+phrase	aaje varsad che	આજે વરસાદ છે	weather
+phrase	bahu garam che	બહુ ગરમ છે	weather
+phrase	thandi hava che	ઠંડી હવા છે	weather
+phrase	hu cha pi chu	હું ચા પી છું	food
+phrase	rotli saru che	રોટલી સારું છે	food
+phrase	mane bhukh lagi	મને ભૂખ લાગી	food
+phrase	tame jamo	તમે જમો	food
+phrase	paani aapo	પાણી આપો	food
+phrase	hu school jau chu	હું સ્કૂલ જાઉં છું	daily
+phrase	aaje ravivar che	આજે રવિવાર છે	time
+phrase	kale aavjo	કાલે આવજો	daily
+phrase	have javu che	હવે જવું છે	daily
+phrase	hu tamne gamtu nathi	હું તમને ગમતો નથી	daily
+phrase	mari ma gher che	મારી મા ઘેર છે	family
+phrase	mara bhai aavya	મારા ભાઈ આવ્યા	family
+phrase	aapnu gaam sundar che	આપણું ગામ સુંદર છે	place
+phrase	gujarat ma garba thaya	ગુજરાત માં ગરબા થયા	culture
+phrase	aaje navratri che	આજે નવરાત્રી છે	faith
+phrase	mandir ma puja che	મંદિર માં પૂજા છે	faith
+phrase	ram ram saheb	રામ રામ સાહેબ	greeting
+phrase	namaste kem cho	નમસ્તે કેમ છો	greeting
+phrase	shubh prabhat	શુભ પ્રભાત	greeting
+phrase	shubh ratri	શુભ રાત્રી	greeting
+phrase	aabhar tamne	આભાર તમને	thanks
+phrase	maaf karjo	માફ કરજો	sorry
+phrase	hu bhuli gayo	હું ભૂલી ગયો	sorry
+phrase	tame sachu bolo	તમે સાચું બોલો	daily
+phrase	aa ketlu che	આ કેટલું છે	shop
+phrase	mane bill aapo	મને બિલ આપો	shop
+phrase	dukan bandh che	દુકાન બંધ છે	shop
+phrase	bajar ma bhid che	બજાર માં ભીડ છે	shop
+phrase	hu office jau chu	હું ઓફિસ જાઉં છું	work
+phrase	kaam bandh karyu	કામ બંધ કર્યું	work
+phrase	report tayar che	રિપોર્ટ તૈયાર છે	work
+phrase	meeting kale che	મીટિંગ કાલે છે	work
+phrase	hu doctor ne malva jau chu	હું ડૉક્ટર ને મળવા જાઉં છું	health
+phrase	mane tav che	મને તાવ છે	health
+phrase	dawai lidhi	દવા લીધી	health
+phrase	hospital door che	હોસ્પિટલ દૂર છે	health
+phrase	balak school ma che	બાળક સ્કૂલ માં છે	school
+phrase	shikshak aavya	શિક્ષક આવ્યા	school
+phrase	pustak khullo	પુસ્તક ખોલો	school
+phrase	homework kari lidhu	હોમવર્ક કરી લીધું	school
+phrase	pariksha kale che	પરીક્ષા કાલે છે	school
+phrase	hu cricket ramu chu	હું ક્રિકેટ રમું છું	play
+phrase	aamne jeet mali	અમને જીત મળી	play
+phrase	film saru hati	ફિલ્મ સારી હતી	play
+phrase	git gao	ગીત ગાઓ	play
+phrase	radio par bhajan che	રેડિયો પર ભજન છે	faith
+phrase	aaje somvar che	આજે સોમવાર છે	time
+phrase	mangalvar ne upvas	મંગળવાર ને ઉપવાસ	faith
+phrase	diwali ni shubh kamna	દિવાળી ની શુભકામના	festival
+phrase	navu varsh mubarak	નવું વર્ષ મુબારક	festival
+phrase	janmadin mubarak	જન્મદિન મુબારક	festival
+phrase	lagna ni badhai	લગ્ન ની બધાઈ	family
+phrase	dikri ne vidai	દીકરી ને વિદાય	family
+phrase	hu train ma chu	હું ટ્રેન માં છું	travel
+phrase	station ketlu door che	સ્ટેશન કેટલું દૂર છે	travel
+phrase	ticket katyo	ટિકિટ કાપ્યો	travel
+phrase	rickshaw aapo	રિક્ષા આપો	travel
+phrase	rasto bandh che	રસ્તો બંધ છે	travel
+phrase	varsaad thi rasto bhiyu	વરસાદ થી રસ્તો ભીનો	weather
+phrase	bijli gayi	વીજળી ગઈ	home
+phrase	pankho chalavo	પંખો ચલાવો	home
+phrase	bari bandh karo	બારી બંધ કરો	home
+phrase	divo petavyo	દીવો પેટાવ્યો	home
+phrase	hu thakyo chu	હું થાક્યો છું	daily
+phrase	bas besi jau	બસ બેસી જાઉ	daily
+phrase	ek cup cha aapo	એક કપ ચા આપો	food
+phrase	mithu ochhu nakho	મીઠું ઓછું નાખો	food
+phrase	aa shaak saaru che	આ શાક સારું છે	food
+phrase	mane jeeru nathi gamtu	મને જીરું નથી ગમતું	food
+phrase	bhaji kapi aapo	ભાજી કાપી આપો	food
+phrase	dudh ubalya	દૂધ ઊકાળ્યા	food
+phrase	chokha ghar ma nathi	ચોખા ઘર માં નથી	food
+phrase	hu bajar thi aavyo	હું બજાર થી આવ્યો	shop
+phrase	bhaav vadhi gaya	ભાવ વધી ગયા	shop
+phrase	sasto maal aapo	સસ્તો માલ આપો	shop
+phrase	hisaab chukavyo	હિસાબ ચૂકવ્યો	shop
+phrase	bank ma paisa mukya	બેંક માં પૈસા મૂક્યા	money
+phrase	khata number aapo	ખાતા નંબર આપો	admin
+phrase	aadhar card lai aavo	આધાર કાર્ડ લઈ આવો	admin
+phrase	form bharvo padshe	ફોર્મ ભરવો પડશે	admin
+phrase	office bandh che	ઓફિસ બંધ છે	work
+phrase	rajkot ni bus kyare che	રાજકોટ ની બસ ક્યારે છે	travel
+phrase	surat door che	સુરત દૂર છે	place
+phrase	ahmedabad ma hu rahu chu	અમદાવાદ માં હું રહું છું	place
+phrase	aapnu gaam kutch ma che	આપણું ગામ કચ્છ માં છે	place
+phrase	gir ma sinh rahe che	ગીર માં સિંહ રહે છે	place
+phrase	narmada maiya	નર્મદા મૈયા	faith
+phrase	jai shree krishna	જય શ્રી કૃષ્ણ	faith
+phrase	jay ambe	જય અંબે	faith
+phrase	ganpati bappa	ગણપતિ બાપ્પા	faith
+phrase	om namah shivay	ઓમ નમઃ શિવાય	faith
+phrase	aarti utaro	આરતી ઉતારો	faith
+phrase	prasad lejo	પ્રસાદ લેજો	faith
+phrase	mandir ni ghanta	મંદિર ની ઘંટા	faith
+phrase	raat ne bhajan che	રાત ને ભજન છે	faith
+phrase	hu gay tribhovan	હું ગાય ત્રિભુવન	song
+phrase	mor bani thanghat kare	મોર બની થનગાટ કરે	song
+phrase	saheli re	સહેલી રે	song
+phrase	kem cho?	કેમ છો?	punct
+phrase	aaje, bahu saru che.	આજે, બહુ સારું છે.	punct
+phrase	hu  gujarati bolu chu	હું  ગુજરાતી બોલું છું	spaces
+phrase	tame kem cho!	તમે કેમ છો!	punct
+phrase	ghar, javu che	ઘર, જવું છે	punct
+phrase	aapnu gujarat.	આપણું ગુજરાત.	punct
+phrase	12 vage aavjo	12 વાગે આવજો	number
+phrase	2 cup cha	2 કપ ચા	number
+phrase	hu english pan bolu chu	હું અંગ્રેજી પણ બોલું છું	mixed
+phrase	please madad karo	પ્લીઝ મદદ કરો	mixed
+phrase	ok hu aavu chu	ઓકે હું આવું છું	mixed
+phrase	sorry hu late chu	સોરી હું લેટ છું	mixed
+phrase	good night	ગુડ નાઇટ	mixed
+phrase	thank you	થેન્ક યુ	mixed
+phrase	hello kem cho	હેલો કેમ છો	mixed
+phrase	bye aavjo	બાય આવજો	mixed
+phrase	hu message moklu chu	હું મેસેજ મોકલું છું	mixed
+phrase	call karjo	કોલ કરજો	mixed
+phrase	photo moklo	ફોટો મોકલો	mixed
+phrase	wifi nathi chaltu	વાઇફાઇ નથી ચાલતું	mixed
+phrase	battery gayi	બેટરી ગઈ	mixed
+phrase	charger aapo	ચાર્જર આપો	mixed
+phrase	password bhuli gayo	પાસવર્ડ ભૂલી ગયો	mixed
+phrase	login nathi thatu	લોગિન નથી થતું	mixed
+phrase	file mokli	ફાઇલ મોકલી	mixed
+phrase	meeting link moklo	મીટિંગ લિંક મોકલો	mixed
+phrase	hu online chu	હું ઓનલાઇન છું	mixed
+phrase	tame offline cho	તમે ઓફલાઇન છો	mixed
+phrase	screen share karo	સ્ક્રીન શેર કરો	mixed
+phrase	camera bandh karo	કેમેરા બંધ કરો	mixed
+phrase	mic on karo	માઇક ઓન કરો	mixed
+phrase	record karvu che	રેકોર્ડ કરવું છે	mixed
+phrase	download thai gayu	ડાઉનલોડ થઈ ગયું	mixed
+phrase	update aavi gayu	અપડેટ આવી ગયું	mixed
+phrase	server down che	સર્વર ડાઉન છે	mixed
+phrase	bug male che	બગ મળે છે	mixed
+phrase	code commit karyo	કોડ કમિટ કર્યો	mixed
+phrase	test pass thai	ટેસ્ટ પાસ થયા	mixed
+phrase	build fail thai	બિલ્ડ ફેલ થયું	mixed
+phrase	deploy kari didhu	ડિપ્લોય કરી દીધું	mixed
+phrase	branch merge karo	બ્રાન્ચ મર્જ કરો	mixed
+phrase	review aapo	રિવ્યૂ આપો	mixed
+phrase	issue kholo	ઇશ્યૂ ખોલો	mixed
+phrase	deadline kale che	ડેડલાઇન કાલે છે	mixed
+phrase	standup 10 vage	સ્ટેન્ડઅપ 10 વાગે	mixed
+phrase	lunch pachi aavish	લંચ પછી આવીશ	mixed
+phrase	hu leave par chu	હું લીવ પર છું	mixed
+phrase	holiday che	હોલિડે છે	mixed
+phrase	salary aavi	સેલરી આવી	mixed
+phrase	tax bharvo che	ટેક્સ ભરવો છે	mixed
+phrase	bill print karo	બિલ પ્રિન્ટ કરો	mixed
+phrase	invoice moklo	ઇન્વોઇસ મોકલો	mixed
+phrase	payment pending che	પેમેન્ટ પેન્ડિંગ છે	mixed
+phrase	refund aapo	રિફંડ આપો	mixed
+phrase	order cancel karyo	ઓર્ડર કેન્સલ કર્યો	mixed
+phrase	delivery late che	ડિલિવરી લેટ છે	mixed
+phrase	address moklo	એડ્રેસ મોકલો	mixed
+phrase	pin code shu che	પિન કોડ શું છે	mixed
+phrase	mobile number aapo	મોબાઇલ નંબર આપો	mixed
+phrase	email id shu che	ઇમેઇલ આઇડી શું છે	mixed
+phrase	otp aavyo	ઓટીપી આવ્યો	mixed
+phrase	password badlo	પાસવર્ડ બદલો	mixed
+phrase	account bandh thai gayu	એકાઉન્ટ બંધ થઈ ગયું	mixed
+phrase	hu verify kari didhu	હું વેરિફાય કરી દીધું	mixed
+phrase	notification bandh karo	નોટિફિકેશન બંધ કરો	mixed
+phrase	volume ochhu karo	વોલ્યુમ ઓછું કરો	mixed
+phrase	brightness vadharo	બ્રાઇટનેસ વધારો	mixed
+phrase	screenshot lo	સ્ક્રીનશોટ લો	mixed
+phrase	copy paste karo	કોપી પેસ્ટ કરો	mixed
+phrase	undo karo	અનડુ કરો	mixed
+phrase	save kari lo	સેવ કરી લો	mixed
+phrase	print nathi thatu	પ્રિન્ટ નથી થતું	mixed
+phrase	paper khatam	પેપર ખતમ	mixed
+phrase	pen aapo	પેન આપો	mixed
+phrase	notebook kholo	નોટબુક ખોલો	mixed
+phrase	class start thai	ક્લાસ સ્ટાર્ટ થઈ	mixed
+phrase	homework aaje aap	હોમવર્ક આજે આપ	school
+phrase	exam ma pass thai	એક્ઝામ માં પાસ થયા	school
+phrase	result aavi gayu	રિઝલ્ટ આવી ગયું	school
+phrase	admission form bharo	એડમિશન ફોર્મ ભરો	school
+phrase	fees bharvi che	ફીઝ ભરવી છે	school
+phrase	library ma javu che	લાઇબ્રેરી માં જવું છે	school
+phrase	bus late che	બસ લેટ છે	travel
+phrase	auto bhavjo	ઑટો બોલાવો	travel
+phrase	petrol bharpavu che	પેટ્રોલ ભરાવવું છે	travel
+phrase	puncture thai gayu	પંકચર થઈ ગયું	travel
+phrase	helmet pehro	હેલ્મેટ પહેરો	travel
+phrase	signal red che	સિગ્નલ રેડ છે	travel
+phrase	left lo	લેફ્ટ લો	travel
+phrase	right modho	રાઇટ મોડો	travel
+phrase	seedha jao	સીધા જાઓ	travel
+phrase	ruko	રુકો	travel
+phrase	aavjo phari	આવજો ફરી	greeting
+phrase	saru, aavjo	સારું, આવજો	greeting
+phrase	theek che	ઠીક છે	daily
+phrase	barobar che	બરોબર છે	daily
+phrase	kharekh?	ખરેખર?	daily
+phrase	ha, barobar	હા, બરોબર	daily
+phrase	na, nathi	ના, નથી	daily
+phrase	pachi vat karish	પછી વાત કરીશ	daily
+phrase	hu busy chu	હું બિઝી છું	mixed
+phrase	thoda samay pachi	થોડા સમય પછી	daily
+phrase	ek minute	એક મિનિટ	time
+phrase	have j nathi	હવે જ નથી	daily
+phrase	pachi kalje	પછી કાલજે	daily
+phrase	sambhaline	સંભાળીને	daily
+phrase	dhime chalo	ધીમે ચાલો	daily
+phrase	jaldi aavjo	જલ્દી આવજો	daily
+phrase	biju shu	બીજું શું	daily
+phrase	bas etlu	બસ એટલું	daily
+phrase	bija lok aavya	બીજા લોક આવ્યા	daily
+phrase	badha saaru che	બધા સારું છે	daily
+phrase	tamne shu joiye	તમને શું જોઈએ	shop
+phrase	mane aa joiye	મને આ જોઈએ	shop
+phrase	biji variety batavo	બીજી વેરાયટી બતાવો	shop
+phrase	size moto aapo	સાઇઝ મોટો આપો	shop
+phrase	rang blue che	રંગ બ્લૂ છે	shop
+phrase	bill cash ma	બિલ કેશ માં	shop
+phrase	change aapo	ચેન્જ આપો	shop
+phrase	bag aapo	બેગ આપો	shop
+phrase	plastic nathi joitu	પ્લાસ્ટિક નથી જોઈતું	shop
+phrase	ghar sudhi pohchado	ઘર સુધી પહોંચાડો	travel
+phrase	kiraya ketla	ભાડું કેટલા	travel
+phrase	meter chalu karo	મીટર ચાલુ કરો	travel
+phrase	ac chalu karo	એસી ચાલુ કરો	home
+phrase	pankho bandh karo	પંખો બંધ કરો	home
+phrase	light chalu karo	લાઇટ ચાલુ કરો	home
+phrase	paani bandh che	પાણી બંધ છે	home
+phrase	nal kholo	નળ ખોલો	home
+phrase	kapda dho	કપડાં ધો	home
+phrase	rasoi ma jao	રસોડું માં જાઓ	home
+phrase	bartan saaf karo	વાસણ સાફ કરો	home
+phrase	jhadu nakh	ઝાડું નાખ	home
+phrase	kachro bahar muk	કચરો બહાર મૂક	home
+phrase	darvajo bandh kar	દરવાજો બંધ કર	home
+phrase	chaavi aap	ચાવી આપ	home
+phrase	talla lagavo	તાળું લગાવો	home
+phrase	mehman aavya	મહેમાન આવ્યા	family
+phrase	baithak ma beso	બેઠક માં બેસો	home
+phrase	paani pivo	પાણી પીઓ	food
+phrase	nasto lejo	નાસ્તો લેજો	food
+phrase	mithai khao	મીઠાઈ ખાઓ	food
+phrase	ful aapya	ફૂલ આપ્યા	gift
+phrase	tohfo moklyo	તોહફો મોકલ્યો	gift
+phrase	badhai ho	બધાઈ હો	greeting
+phrase	khush raho	ખુશ રહો	greeting
+phrase	lambu aayu ho	લાંબુ આયુ હો	greeting
+phrase	sukh shanti rahe	સુખ શાંતિ રહે	greeting
+phrase	bhagwan tamari madad kare	ભગવાન તમારી મદદ કરે	faith
+phrase	dua ma yaad rakhjo	દુઆ માં યાદ રાખજો	faith
+phrase	om shanti	ઓમ શાંતિ	faith
+phrase	hari om	હરિ ઓમ	faith
+phrase	jai jinendra	જય જિનેન્દ્ર	faith
+phrase	salam alaikum	સલામ અલાઇકુમ	faith
+phrase	walaikum salam	વાલાઇકુમ સલામ	faith
+phrase	khuda hafiz	ખુદા હાફિઝ	faith
+phrase	merry christmas	મેરી ક્રિસમસ	faith
+phrase	eid mubarak	ઈદ મુબારક	faith
+phrase	pateti mubarak	પાતેતી મુબારક	faith
+phrase	bestu varas	બેસતું વરસ	festival
+phrase	uttarayan ni shubh	ઉત્તરાયણ ની શુભ	festival
+phrase	kai po che	કાઈપો છે	festival
+phrase	holi hai	હોળી હૈ	festival
+phrase	rang barse	રંગ બરસે	festival
+phrase	dhuleti mubarak	ધૂળેટી મુબારક	festival
+phrase	janmashtami ni hardik	જન્માષ્ટમી ની હાર્દિક	faith
+phrase	shivratri ni shubh	શિવરાત્રી ની શુભ	faith
+phrase	ramzan mubarak	રમઝાન મુબારક	faith
+phrase	paryushan parva	પર્યુષણ પર્વ	faith
+phrase	guru purnima	ગુરુ પૂર્ણિમા	faith
+phrase	raksha bandhan	રક્ષા બંધન	faith
+phrase	bhai beej	ભાઈ બીજ	festival
+phrase	labh pancham	લાભ પાંચમ	festival
+phrase	gudi padwa	ગુડી પાડવા	festival
+phrase	cheti chand	ચૈતી ચાંદ	festival
+phrase	navroz mubarak	નવરોઝ મુબારક	festival
+phrase	independence day	ઇન્ડિપેન્ડન્સ ડે	mixed
+phrase	republic day	રિપબ્લિક ડે	mixed
+phrase	gandhi jayanti	ગાંધી જયંતી	proper
+phrase	sardar patel	સરદાર પટેલ	proper
+phrase	mahadev desai	મહાદેવ દેસાઈ	proper
+phrase	narsinh mehta	નરસિંહ મહેતા	proper
+phrase	nandlal bose	નંદલાલ બોઝ	proper
+phrase	kalapi no kavy	કલાપી નો કાવ્ય	culture
+phrase	zaverchand meghani	ઝવેરચંદ મેઘાણી	proper
+phrase	umashankar joshi	ઉમાશંકર જોશી	proper
+phrase	sundaram	સુંદરમ્	proper
+phrase	kavi nhanalal	કવિ ન્હાનાલાલ	proper
+phrase	dalpatram	દલપતરામ	proper
+phrase	narmad	નર્મદ	proper
+phrase	govardhanram	ગોવર્ધનરામ	proper
+phrase	saraswatichandra	સરસ્વતીચંદ્ર	culture
+phrase	kanaiyalal munshi	કનૈયાલાલ મુનશી	proper
+phrase	patan ni prabhuta	પાટણ ની પ્રભુતા	culture
+phrase	lothal nu bandar	લોથલ નું બંદર	place
+phrase	dwarka no raja	દ્વારકા નો રાજા	place
+phrase	somnath nu mandir	સોમનાથ નું મંદિર	faith
+phrase	girnar ni padi	ગિરનાર ની પાદી	place
+phrase	saputara ni thandi	સાપુતારા ની ઠંડી	place
+phrase	kutch no rann	કચ્છ નો રણ	place
+phrase	sabarmati aashram	સાબરમતી આશ્રમ	place
+phrase	sabarmati riverfront	સાબરમતી રિવરફ્રન્ટ	place
+phrase	lal darwaja	લાલ દરવાજા	place
+phrase	manek chowk	માણેક ચોક	place
+phrase	law garden	લો ગાર્ડન	place
+phrase	kankaria talav	કાંકરિયા તળાવ	place
+phrase	science city	સાયન્સ સિટી	place
+phrase	akshardham mandir	અક્ષરધામ મંદિર	faith
+phrase	hatkeshwar mandir	હાટકેશ્વર મંદિર	faith
+phrase	jama masjid	જામા મસ્જિદ	faith
+phrase	siddi saiyad	સિદ્દી સૈયદ	place
+phrase	rani ni vav	રાણી ની વાવ	place
+phrase	adalaj ni vav	અડાલજ ની વાવ	place
+phrase	modhera nu mandir	મોઢેરા નું મંદિર	faith
+phrase	polo forest	પોલો ફોરેસ્ટ	place
+phrase	statue of unity	સ્ટેચ્યુ ઓફ યુનિટી	mixed
+phrase	sardar sarovar	સરદાર સરોવર	place
+phrase	narmada dam	નર્મદા ડેમ	place
+phrase	kandla port	કંડલા પોર્ટ	place
+phrase	mundra port	મુંદ્રા પોર્ટ	place
+phrase	alango ship	અલંગ શિપ	place
+phrase	diamond bourse	ડાયમંડ બોર્સ	mixed
+phrase	gift city	ગિફ્ટ સિટી	mixed
+phrase	iim ahmedabad	આઇઆઇએમ અમદાવાદ	mixed
+phrase	nid ahmedabad	એનઆઇડી અમદાવાદ	mixed
+phrase	gujarat university	ગુજરાત યુનિવર્સિટી	place
+phrase	ms university	એમએસ યુનિવર્સિટી	mixed
+phrase	ddit nadiad	ડીડીઆઇટી નડિયાદ	mixed
+phrase	gmers hospital	જીએમઇઆરએસ હોસ્પિટલ	mixed
+phrase	civil hospital	સિવિલ હોસ્પિટલ	mixed
+phrase	vs hospital	વીએસ હોસ્પિટલ	mixed
+phrase	rbi office	આરબીઆઇ ઓફિસ	mixed
+phrase	sbi branch	એસબીઆઇ બ્રાન્ચ	mixed
+phrase	post office	પોસ્ટ ઓફિસ	mixed
+phrase	railway station	રેલ્વે સ્ટેશન	mixed
+phrase	bus stand	બસ સ્ટેન્ડ	mixed
+phrase	airport terminal	એરપોર્ટ ટર્મિનલ	mixed
+phrase	metro station	મેટ્રો સ્ટેશન	mixed
+phrase	brts stop	બીઆરટીએસ સ્ટોપ	mixed
+phrase	amts bus	એએમટીએસ બસ	mixed
+phrase	gsrtc bus	જીએસઆરટીસી બસ	mixed
+phrase	irctc ticket	આઇઆરસીટીસી ટિકિટ	mixed
+phrase	aadhar kendra	આધાર કેન્દ્ર	admin
+phrase	pan card	પાન કાર્ડ	admin
+phrase	ration card	રેશન કાર્ડ	admin
+phrase	voter id	વોટર આઇડી	admin
+phrase	driving licence	ડ્રાઇવિંગ લાઇસન્સ	admin
+phrase	birth certificate	બર્થ સર્ટિફિકેટ	admin
+phrase	income certificate	ઇન્કમ સર્ટિફિકેટ	admin
+phrase	caste certificate	કાસ્ટ સર્ટિફિકેટ	admin
+phrase	gram panchayat	ગ્રામ પંચાયત	admin
+phrase	taluka panchayat	તાલુકા પંચાયત	admin
+phrase	jilla panchayat	જિલ્લા પંચાયત	admin
+phrase	mamlatdar office	મામલતદાર ઓફિસ	admin
+phrase	collector office	કલેક્ટર ઓફિસ	admin
+phrase	police station	પોલીસ સ્ટેશન	admin
+phrase	fire station	ફાયર સ્ટેશન	admin
+phrase	court building	કોર્ટ બિલ્ડિંગ	admin
+phrase	high court	હાઇ કોર્ટ	admin
+phrase	vidhan sabha	વિધાન સભા	admin
+phrase	lok sabha	લોક સભા	admin
+phrase	rajya sabha	રાજ્ય સભા	admin
+phrase	mukhyamantri	મુખ્યમંત્રી	admin
+phrase	pradhan mantri	પ્રધાનમંત્રી	admin
+phrase	rashtrapati	રાષ્ટ્રપતિ	admin
+phrase	governor	ગવર્નર	admin
+phrase	mayor	મેયર	admin
+phrase	corporator	કોર્પોરેટર	admin
+phrase	sarpanch	સરપંચ	admin
+phrase	talati	તલાટી	admin
+phrase	gram sevak	ગ્રામ સેવક	admin
+phrase	anganwadi	આંગણવાડી	admin
+phrase	asha worker	આશા વર્કર	admin
+phrase	ration dukaan	રેશન દુકાન	admin
+phrase	fair price shop	ફેર પ્રાઇસ શોપ	mixed
+phrase	mid day meal	મિડ ડે મીલ	mixed
+phrase	school uniform	સ્કૂલ યુનિફોર્મ	mixed
+phrase	exam hall	એક્ઝામ હોલ	mixed
+phrase	answer sheet	આન્સર શીટ	mixed
+phrase	question paper	ક્વેશ્ચન પેપર	mixed
+phrase	practical exam	પ્રેક્ટિકલ એક્ઝામ	mixed
+phrase	oral exam	ઓરલ એક્ઝામ	mixed
+phrase	result date	રિઝલ્ટ ડેટ	mixed
+phrase	admission round	એડમિશન રાઉન્ડ	mixed
+phrase	merit list	મેરિટ લિસ્ટ	mixed
+phrase	waiting list	વેઇટિંગ લિસ્ટ	mixed
+phrase	hostel room	હોસ્ટેલ રૂમ	mixed
+phrase	mess bill	મેસ બિલ	mixed
+phrase	library card	લાઇબ્રેરી કાર્ડ	mixed
+phrase	lab report	લેબ રિપોર્ટ	mixed
+phrase	blood test	બ્લડ ટેસ્ટ	mixed
+phrase	xray report	એક્સરે રિપોર્ટ	mixed
+phrase	doctor saheb	ડૉક્ટર સાહેબ	health
+phrase	nurse ben	નર્સ બેન	health
+phrase	dawai ki bill	દવા કી બિલ	health
+phrase	injection lagavyu	ઇન્જેક્શન લગાવ્યું	health
+phrase	operation pachi	ઓપરેશન પછી	health
+phrase	rest karo	રેસ્ટ કરો	health
+phrase	pani vadhare piyo	પાણી વધારે પીઓ	health
+phrase	khato bandh	ખાટો બંધ	health
+phrase	mithu kam karo	મીઠું કમ કરો	health
+phrase	walking karo	વૉકિંગ કરો	health
+phrase	yoga karo	યોગા કરો	health
+phrase	exercise jaruri che	એક્સરસાઇઝ જરૂરી છે	health
+phrase	neend puri nathi	નીંદ પૂરી નથી	health
+phrase	mathu dukhe che	માથું દુખે છે	health
+phrase	pet dukhe che	પેટ દુખે છે	health
+phrase	tavu aavyo	તાવ આવ્યો	health
+phrase	khansi che	ઉધરસ છે	health
+phrase	sardi lagi	શરદી લાગી	health
+phrase	dast thai che	ઝાડા થાય છે	health
+phrase	ulti thai che	ઊલટી થાય છે	health
+phrase	chakkar aave che	ચક્કર આવે છે	health
+phrase	aankh dukhe che	આંખ દુખે છે	health
+phrase	kan dukhe che	કાન દુખે છે	health
+phrase	dant dukhe che	દાંત દુખે છે	health
+phrase	pathariyu che	પથરી છે	health
+phrase	sugar vadhi gayu	સુગર વધી ગયું	health
+phrase	bp vadhu che	બીપી વધુ છે	health
+phrase	diabetes che	ડાયાબિટીસ છે	health
+phrase	thyroid che	થાઇરોઇડ છે	health
+phrase	allergy che	એલર્જી છે	health
+phrase	dawai ki time	દવા કી ટાઇમ	health
+phrase	subah ek goli	સવારે એક ગોળી	health
+phrase	ratre sova pehla	રાત્રે સૂવા પહેલાં	health
+phrase	khali pet	ખાલી પેટ	health
+phrase	jeman pachi	જમ્યા પછી	health
+phrase	doctor ne batav	ડૉક્ટર ને બતાવ	health
+phrase	report lai ja	રિપોર્ટ લઈ જા	health
+phrase	appointment le	એપોઇન્ટમેન્ટ લે	health
+phrase	emergency che	ઇમરજન્સી છે	health
+phrase	ambulance bolav	એમ્બ્યુલન્સ બોલાવ	health
+phrase	blood group shu	બ્લડ ગ્રુપ શું	health
+phrase	operation theatre	ઓપરેશન થિયેટર	health
+phrase	icu ma che	આઇસીયુ માં છે	health
+phrase	ventilator par	વેન્ટિલેટર પર	health
+phrase	oxygen aapo	ઓક્સિજન આપો	health
+phrase	saline chalu	સેલાઇન ચાલુ	health
+phrase	discharge aapyo	ડિસ્ચાર્જ આપ્યો	health
+phrase	follow up kale	ફોલો અપ કાલે	health
+phrase	dressing karavi	ડ્રેસિંગ કરાવી	health
+phrase	stitches kadhya	ટાંકા કાઢ્યા	health
+phrase	plaster mukyu	પ્લાસ્ટર મૂક્યું	health
+phrase	fracture che	ફ્રેક્ચર છે	health
+phrase	xray karav	એક્સરે કરાવ	health
+phrase	sonography karavi	સોનોગ્રાફી કરાવી	health
+phrase	mri report	એમઆરઆઇ રિપોર્ટ	health
+phrase	ct scan	સીટી સ્કેન	health
+phrase	ecg normal che	ઇસીજી નોર્મલ છે	health
+phrase	bp machine	બીપી મશીન	health
+phrase	thermometer aapo	થર્મોમીટર આપો	health
+phrase	mask pehro	માસ્ક પહેરો	health
+phrase	sanitizer lagav	સેનિટાઇઝર લગાવ	health
+phrase	haath dho	હાથ ધો	health
+phrase	social distance	સોશિયલ ડિસ્ટન્સ	mixed
+phrase	vaccine lidhi	વેક્સિન લીધી	health
+phrase	booster dose	બૂસ્ટર ડોઝ	health
+phrase	certificate aapo	સર્ટિફિકેટ આપો	admin
+phrase	stamp lagavo	સ્ટેમ્પ લગાવો	admin
+phrase	sign karo	સાઇન કરો	admin
+phrase	photo chipkavo	ફોટો ચોંટાડો	admin
+phrase	form submit karyu	ફોર્મ સબમિટ કર્યું	admin
+phrase	receipt aapo	રસીદ આપો	admin
+phrase	token number	ટોકન નંબર	admin
+phrase	counter teen	કાઉન્ટર ત્રણ	admin
+phrase	line ma ubha	લાઇન માં ઊભા	admin
+phrase	time over	ટાઇમ ઓવર	mixed
+phrase	aaje bandh	આજે બંધ	daily
+phrase	kale khula	કાલે ખુલ્લું	daily
+phrase	subah 10 thi	સવારે 10 થી	time
+phrase	sandhya 6 sudhi	સાંજે 6 સુધી	time
+phrase	lunch break	લંચ બ્રેક	mixed
+phrase	half day	હાફ ડે	mixed
+phrase	full day	ફુલ ડે	mixed
+phrase	night shift	નાઇટ શિફ્ટ	mixed
+phrase	overtime che	ઓવરટાઇમ છે	mixed
+phrase	salary slip	સેલરી સ્લિપ	mixed
+phrase	pf katay	પીએફ કપાય	mixed
+phrase	tds katay	ટીડીએસ કપાય	mixed
+phrase	bonus aavyo	બોનસ આવ્યો	mixed
+phrase	increment malyu	ઇન્ક્રિમેન્ટ મળ્યો	mixed
+phrase	promotion thai	પ્રમોશન થયું	mixed
+phrase	transfer order	ટ્રાન્સફર ઓર્ડર	mixed
+phrase	resignation aapi	રાજીનામું આપ્યું	mixed
+phrase	notice period	નોટિસ પિરિયડ	mixed
+phrase	experience letter	એક્સપિરિયન્સ લેટર	mixed
+phrase	joining date	જોઇનિંગ ડેટ	mixed
+phrase	offer letter	ઓફર લેટર	mixed
+phrase	interview kale	ઇન્ટરવ્યૂ કાલે	mixed
+phrase	resume moklo	રિઝ્યુમે મોકલો	mixed
+phrase	skill set shu	સ્કિલ સેટ શું	mixed
+phrase	english aavde che	અંગ્રેજી આવડે છે	mixed
+phrase	gujarati aavde che	ગુજરાતી આવડે છે	language
+phrase	hindi pan aavde	હિન્દી પણ આવડે	language
+phrase	typing aavde che	ટાઇપિંગ આવડે છે	mixed
+phrase	computer aavde che	કમ્પ્યુટર આવડે છે	mixed
+phrase	driving aavde che	ડ્રાઇવિંગ આવડે છે	mixed
+phrase	cooking aavde che	રસોઈ આવડે છે	home
+phrase	singing aavde che	ગાવાનું આવડે છે	culture
+phrase	garba aavde che	ગરબા આવડે છે	culture
+phrase	cricket aavde che	ક્રિકેટ આવડે છે	play
+phrase	chess ramie	ચેસ રમીએ	play
+phrase	carrom ramie	કેરમ રમીએ	play
+phrase	antakshari ramie	અંતાક્ષરી રમીએ	play
+phrase	joke sunavo	જોક સંભળાવો	play
+phrase	kavita vacho	કવિતા વાંચો	culture
+phrase	kahani kaho	વાર્તા કહો	culture
+phrase	film joie	ફિલ્મ જોઈએ	play
+phrase	natak joie	નાટક જોઈએ	culture
+phrase	sangeet sunie	સંગીત સાંભળીએ	culture
+phrase	radio lagavo	રેડિયો લગાવો	home
+phrase	tv bandh karo	ટીવી બંધ કરો	home
+phrase	news jo	સમાચાર જુઓ	news
+phrase	cricket score shu	ક્રિકેટ સ્કોર શું	play
+phrase	match jeetya	મેચ જીત્યા	play
+phrase	team haar gayi	ટીમ હાર ગઈ	play
+phrase	goal thayo	ગોલ થયો	play
+phrase	wicket padi	વિકેટ પડી	play
+phrase	sixer maryo	સિક્સર માર્યો	play
+phrase	umpire no nirnay	અમ્પાયર નો નિર્ણય	play
+phrase	stadium bharayo	સ્ટેડિયમ ભરાયો	play
+phrase	ticket nathi malyu	ટિકિટ નથી મળ્યું	play
+phrase	live match jo	લાઇવ મેચ જુઓ	play
+phrase	highlights moklo	હાઇલાઇટ્સ મોકલો	play
+phrase	photo share kar	ફોટો શેર કર	mixed
+phrase	video call kar	વિડિયો કોલ કર	mixed
+phrase	voice note moklo	વોઇસ નોટ મોકલો	mixed
+phrase	status muk	સ્ટેટસ મૂક	mixed
+phrase	story joi	સ્ટોરી જોઈ	mixed
+phrase	like karyu	લાઇક કર્યું	mixed
+phrase	comment lakho	કોમેન્ટ લખો	mixed
+phrase	share karo	શેર કરો	mixed
+phrase	follow karo	ફોલો કરો	mixed
+phrase	unfollow karyu	અનફોલો કર્યું	mixed
+phrase	block karyo	બ્લોક કર્યો	mixed
+phrase	report karyu	રિપોર્ટ કર્યું	mixed
+phrase	spam che	સ્પામ છે	mixed
+phrase	fake id che	ફેક આઇડી છે	mixed
+phrase	profile update kar	પ્રોફાઇલ અપડેટ કર	mixed
+phrase	bio lakhi	બાયો લખી	mixed
+phrase	dp badli	ડીપી બદલી	mixed
+phrase	cover photo	કવર ફોટો	mixed
+phrase	group banavyo	ગ્રુપ બનાવ્યો	mixed
+phrase	admin banavyo	એડમિન બનાવ્યો	mixed
+phrase	member kadhyo	મેમ્બર કાઢ્યો	mixed
+phrase	mute karyu	મ્યુટ કર્યું	mixed
+phrase	pin message	પિન મેસેજ	mixed
+phrase	forward karo	ફોરવર્ડ કરો	mixed
+phrase	reply aapo	રિપ્લાય આપો	mixed
+phrase	seen thai gayu	સીન થઈ ગયું	mixed
+phrase	typing che	ટાઇપિંગ છે	mixed
+phrase	online aavyo	ઓનલાઇન આવ્યો	mixed
+phrase	last seen kal	લાસ્ટ સીન કાલ	mixed
+phrase	hu busy hatо	હું બિઝી હતો	mixed
+phrase	pachi call karu	પછી કોલ કરું	mixed
+phrase	network nathi	નેટવર્ક નથી	mixed
+phrase	signal weak che	સિગ્નલ વીક છે	mixed
+phrase	recharge karav	રિચાર્જ કરાવ	mixed
+phrase	balance khatam	બેલેન્સ ખતમ	mixed
+phrase	data pack	ડેટા પેક	mixed
+phrase	wifi password	વાઇફાઇ પાસવર્ડ	mixed
+phrase	hotspot on kar	હોટસ્પોટ ઓન કર	mixed
+phrase	bluetooth on	બ્લૂટૂથ ઓન	mixed
+phrase	location on kar	લોકેશન ઓન કર	mixed
+phrase	map kholo	મેપ ખોલો	mixed
+phrase	rasta batavo	રસ્તો બતાવો	travel
+phrase	traffic che	ટ્રાફિક છે	travel
+phrase	shortcut le	શોર્ટકટ લે	travel
+phrase	ghar pohchi gayo	ઘર પહોંચી ગયો	travel
+phrase	safe journey	સેફ જર્ની	mixed
+phrase	khush rahiye	ખુશ રહીએ	greeting
+phrase	milie pachi	મળીએ પછી	greeting
+phrase	ram ram	રામ રામ	greeting
+phrase	jai shri ram	જય શ્રી રામ	faith
+phrase	har har mahadev	હર હર મહાદેવ	faith
+phrase	jay mataji	જય માતાજી	faith
+phrase	aavjo bhai	આવજો ભાઈ	greeting
+phrase	aavjo ben	આવજો બેન	greeting
+phrase	saru chhe	સારું છે	daily
+phrase	biju kai nathi	બીજું કાંઈ નથી	daily
+phrase	etle shu	એટલે શું	daily
+phrase	samjyu?	સમજ્યું?	daily
+phrase	ha samjyu	હા સમજ્યું	daily
+phrase	fari kaho	ફરી કહો	daily
+phrase	dhime bolo	ધીમે બોલો	daily
+phrase	motu bolo	મોટેથી બોલો	daily
+phrase	lakhine aapo	લખીને આપો	daily
+phrase	vachi ne kaho	વાંચીને કહો	daily
+phrase	yaad che?	યાદ છે?	daily
+phrase	bhuli gayo	ભૂલી ગયો	daily
+phrase	yaad aavi gayu	યાદ આવી ગયું	daily
+phrase	sambhali lo	સાંભળી લો	daily
+phrase	joi lo	જોઈ લો	daily
+phrase	karine aapo	કરીને આપો	daily
+phrase	lai lo	લઈ લો	daily
+phrase	mukine jao	મૂકીને જાઓ	daily
+phrase	beso ne	બેસો ને	daily
+phrase	jao ne	જાઓ ને	daily
+phrase	aavo ne	આવો ને	daily
+phrase	khao ne	ખાઓ ને	daily
+phrase	piyo ne	પીઓ ને	daily
+phrase	haso ne	હસો ને	daily
+phrase	rudo nathi	રડો નથી	daily
+phrase	ghabrao nathi	ગભરાઓ નથી	daily
+phrase	sambhalo	સાંભળો	daily
+phrase	vicharo	વિચારો	daily
+phrase	nirnay karo	નિર્ણય કરો	daily
+phrase	raji cho?	રાજી છો?	daily
+phrase	ha raji chu	હા રાજી છું	daily
+phrase	na raji nathi	ના રાજી નથી	daily
+phrase	pachi joiye	પછી જોઈએ	daily
+phrase	have joiye	હવે જોઈએ	daily
+phrase	aaje j nathi	આજે જ નથી	daily
+phrase	kale j	કાલે જ	daily
+phrase	have j	હવે જ	daily
+phrase	pachhu aav	પાછા આવ	daily
+phrase	andar aav	અંદર આવ	daily
+phrase	bahar ja	બહાર જા	daily
+phrase	upar ja	ઉપર જા	daily
+phrase	niche aav	નીચે આવ	daily
+phrase	saame juo	સામે જુઓ	daily
+phrase	pachhal juo	પાછળ જુઓ	daily
+phrase	left juo	ડાબે જુઓ	daily
+phrase	right juo	જમણે જુઓ	daily
+phrase	seedha juo	સીધું જુઓ	daily
+phrase	dhime dhime	ધીમે ધીમે	daily
+phrase	ekdam	એકદમ	daily
+phrase	bilkul	બિલકુલ	daily
+phrase	jarur	જરૂર	daily
+phrase	shayad	કદાચ	daily
+phrase	pakku	પાક્કું	daily
+phrase	kharekhar	ખરેખર	daily
+phrase	sachu	સાચું	daily
+phrase	khotu	ખોટું	daily
+phrase	saras	સરસ	daily
+phrase	mast	મસ્ત	daily
+phrase	bapre	બાપરે	daily
+phrase	are wah	અરે વાહ	daily
+phrase	shabash	શાબાશ	daily
+phrase	vah bete	વાહ બેટા	family
+phrase	saru dikra	સારું દીકરા	family
+phrase	aavjo dikri	આવજો દીકરી	family
+phrase	mari jaan	મારી જાન	family
+phrase	mara raja	મારા રાજા	family
+phrase	mara bhai	મારા ભાઈ	family
+phrase	mari ben	મારી બહેન	family
+phrase	amara ba	અમારા બા	family
+phrase	amara bapu	અમારા બાપુ	family
+phrase	dada dadi	દાદા દાદી	family
+phrase	nana nani	નાના નાની	family
+phrase	kaka kaki	કાકા કાકી	family
+phrase	mama mami	મામા મામી	family
+phrase	masa masi	માસા માસી	family
+phrase	fua foi	ફુઆ ફોઈ	family
+phrase	jeth jethani	જેઠ જેઠાણી	family
+phrase	devar derani	દેવર દેરાણી	family
+phrase	nanand bhabhi	નણંદ ભાભી	family
+phrase	sasu sasra	સાસુ સસરા	family
+phrase	vahuki	વહુ	family
+phrase	jamai	જમાઈ	family
+phrase	putra vadhu	પુત્રવધૂ	family
+phrase	parivar sathe	પરિવાર સાથે	family
+phrase	kutumb sathe	કુટુંબ સાથે	family
+phrase	mehman navaz	મહેમાન નવાજ	family
+phrase	roti pani	રોટી પાણી	food
+phrase	dal bhat	દાળ ભાત	food
+phrase	shaak roti	શાક રોટી	food
+phrase	khichdi kadhi	ખીચડી કઢી	food
+phrase	dudh roti	દૂધ રોટી	food
+phrase	cha nasto	ચા નાસ્તો	food
+phrase	mitho bhaat	મીઠો ભાત	food
+phrase	tikhu shaak	તીખું શાક	food
+phrase	ghar nu khavanu	ઘરનું ખાવાનું	food
+phrase	maa na hath nu	મા ના હાથ નું	food
+phrase	bhukh lagi che	ભૂખ લાગી છે	food
+phrase	taras lagi che	તરસ લાગી છે	food
+phrase	pet bhari gayu	પેટ ભરાઈ ગયું	food
+phrase	biju nathi joitu	બીજું નથી જોઈતું	food
+phrase	bas etlu purtu	બસ એટલું પૂરતું	food
+phrase	swad saras che	સ્વાદ સરસ છે	food
+phrase	lodhu che	લોઢું છે	food
+phrase	mithas ochhi che	મીઠાશ ઓછી છે	food
+phrase	namak vadhare che	નમક વધારે છે	food
+phrase	tel ochhu nakho	તેલ ઓછું નાખો	food
+phrase	masalo ochhu	મસાલો ઓછો	food
+informal	chevdо	ચેવડો	food-fix
+exact	kahaani2	વાર્તા	placeholder-remove
+   
