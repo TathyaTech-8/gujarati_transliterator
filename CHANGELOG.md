@@ -1,7 +1,10 @@
+## 1.5.1
+
+- Spell joined names as whole words. `Rajubhai` is રજુભાઈ, `Virsangbhai` is વીરસંગભાઈ, `Ghanshyam` is ઘનશ્યામ, `Dilipsinh` is દિલીપસિંહ, and `Harubha` is હરુભા. No change to `transliterate`, `suggest`, the stores, or the three modes.
+
 ## 1.5.0
 
 - Keep both family spellings: `ben` is બેન and also offers બહેન, `bahen` is બહેન, and `bhai ben` is ભાઈ બહેન. Add ભાભી. કાકા, કાકી, માસી, and મામા stay as stored.
-- Spell the name suffix `bhai` as ભાઈ. `Rajubhai` is રજુભાઈ, `Virsangbhai` is વીરસંગભાઈ, and `Ghanshyam` is ઘનશ્યામ. `Dilipsinh` is દિલીપસિંહ, and `Harubha` is હરુભા.
 - Read અહેવાલ, પાળવાનું, વ્યવસ્થા, જવાબદારી, કાર્યક્રમ, and માહિતી from the typed roman. સૂચના and અરજી were already stored. માહિતી is not a lexicon key, so the held-out absence check still holds.
 - Leave a stored name or place on its lexicon spelling. A title-case word is not given a verb ending unless it is a closed function or kinship word.
 - Map `sbi` to એસબીઆઇ. Other abbreviations are local `addCustomMapping` entries, or rows in `assets/dictionaries/acronyms.json` loaded with `DictionaryLoader.addJson`.

@@ -10,7 +10,7 @@ The core is pure Dart. It does not depend on Flutter, a font, or a network conne
 
 ```yaml
 dependencies:
-  gujarati_transliterator: ^1.5.0
+  gujarati_transliterator: ^1.5.1
 ```
 
 ```dart
